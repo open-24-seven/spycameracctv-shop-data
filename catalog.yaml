@@ -1,0 +1,28 @@
+catalog:
+  categories:
+  - url: pinhole-cameras
+    name: Pinhole Cameras
+    categories:
+    - url: tiny-pinhole
+      name: Tiny Pinhole Cameras
+    - url: wireless
+      name: Wireless
+  - url: hidden-cameras
+    name: Disguised Cameras
+    categories:
+    - url: wifi
+      name: WiFi
+    - url: wired
+      name: Wired
+    - url: camera-recorder
+      name: Camera Recorders
+      categories:
+      - url: battery-powered
+        name: Battery Powered
+      - url: mains
+        name: Mains
+  - url: systems
+    name: Systems
+    cateogries:
+    - url: 1-2-cameras
+      name: 1-2 Cameras
