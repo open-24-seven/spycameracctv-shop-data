@@ -1,28 +1,92 @@
 catalog:
-  categories:
-  - url: pinhole-cameras
-    name: Pinhole Cameras
+  categories: 
+  - url: spy-cameras # SPY CAMERAS
+    name: Spy Cameras
     categories:
-    - url: tiny-pinhole
-      name: Tiny Pinhole Cameras
-    - url: wireless
-      name: Wireless
-  - url: hidden-cameras
-    name: Disguised Cameras
-    categories:
-    - url: wifi
-      name: WiFi
-    - url: wired
-      name: Wired
+    - url: hidden-cameras
+      name: Disguised Cameras
     - url: camera-recorder
       name: Camera Recorders
-      categories:
-      - url: battery-powered
-        name: Battery Powered
-      - url: mains
-        name: Mains
-  - url: systems
-    name: Systems
-    cateogries:
-    - url: 1-2-cameras
-      name: 1-2 Cameras
+    - url: systems
+      name: Systems
+  - url: wireless-cctv # WIRELESS CCTV
+    name: Wireless CCTV
+    categories:
+    - url: portable-lcd-monitor
+      name: CCTV with Monitor
+    - url: systems
+      name: Systems
+    - url: cameras
+      name: Cameras
+    - url: long-range-equipment
+      name: Long Range Equipment
+  - url: cctv-systems # CCTV SYSTEMS
+    name: Complete CCTV systems
+    categories: 
+    - url: coax-hd
+      name: Coax HD
+    - url: network-ip
+      name: Network IP
+    - url: 4k-cctv
+      name: 4K CCTV
+    - url: vehicle-security
+      name: Vehicle Security
+  - url: cctv-cameras # CCTV CAMERAS
+    name: CCTV Cameras
+    categories:
+    - url: coax-hd
+      name: Coax HD
+    - url: network-ip
+      name: Network IP
+    - url: 4k-cctv
+      name: 4K CCTV
+    - url: thermal
+      name: Thermal
+  - url: cctv-recorders # CCTV RECORDERS
+    name: CCTV Recorders
+    categories: 
+    - url: dvrs
+      name: Pro HD DVRs
+    - url: nvrs
+      name: NVRs
+    - url: 4k-nvrs
+      name: 4K NVRs
+  - url: wildlife-cameras # WILDLIFE CAMERAS
+    name: Wildlife Cameras
+    categories:
+    - url: bird-box-cameras
+      name: Bird Box Cameras
+    - url: outdoor-nature-cameras
+      name: Outdoor Nature Cameras
+    - url: farm-kits
+      name: "Farm & Breeding Kits"
+  - url: accessories # ACCESSORIES
+    name: Accessories
+    categories:
+    - url: cables
+      name: Cables
+    - url: networking
+      name: Networking
+    - url: power-supplies
+      name: Power Supplies
+    - url: connectors
+      name: "Connectors & Adaptors"
+    - url: lenses
+      name: lenses
+    - url: data-storage
+      name: Data Storage
+    - url: cctv-accessories
+      name: CCTV Accessories
+  - url: clearance # CLEARANCE
+    name: Clearance
+    categories:
+    - url: spy-cameras
+      name: Spy Cameras
+    - url: cctv-cameras
+      name: CCTV Cameras
+    - url: cctv-recorders
+      name: Recorders
+    - url: wildlife-cameras
+      name: Wildlife Cameras
+    - url: accessories 
+      name: Accessories
