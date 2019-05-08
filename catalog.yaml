@@ -1,92 +1,94 @@
 catalog:
+  segment: spy
+  name: Spy
   categories: 
-  - url: spy-cameras # SPY CAMERAS
+  - segment: spy-cameras # SPY CAMERAS
     name: Spy Cameras
     categories:
-    - url: hidden-cameras
+    - segment: hidden-cameras
       name: Disguised Cameras
-    - url: camera-recorder
+    - segment: camera-recorder
       name: Camera Recorders
-    - url: systems
+    - segment: systems
       name: Systems
-  - url: wireless-cctv # WIRELESS CCTV
+  - segment: wireless-cctv # WIRELESS CCTV
     name: Wireless CCTV
     categories:
-    - url: portable-lcd-monitor
+    - segment: portable-lcd-monitor
       name: CCTV with Monitor
-    - url: systems
+    - segment: systems
       name: Systems
-    - url: cameras
+    - segment: cameras
       name: Cameras
-    - url: long-range-equipment
+    - segment: long-range-equipment
       name: Long Range Equipment
-  - url: cctv-systems # CCTV SYSTEMS
+  - segment: cctv-systems # CCTV SYSTEMS
     name: Complete CCTV systems
     categories: 
-    - url: coax-hd
+    - segment: coax-hd
       name: Coax HD
-    - url: network-ip
+    - segment: network-ip
       name: Network IP
-    - url: 4k-cctv
+    - segment: 4k-cctv
       name: 4K CCTV
-    - url: vehicle-security
+    - segment: vehicle-security
       name: Vehicle Security
-  - url: cctv-cameras # CCTV CAMERAS
+  - segment: cctv-cameras # CCTV CAMERAS
     name: CCTV Cameras
     categories:
-    - url: coax-hd
+    - segment: coax-hd
       name: Coax HD
-    - url: network-ip
+    - segment: network-ip
       name: Network IP
-    - url: 4k-cctv
+    - segment: 4k-cctv
       name: 4K CCTV
-    - url: thermal
+    - segment: thermal
       name: Thermal
-  - url: cctv-recorders # CCTV RECORDERS
+  - segment: cctv-recorders # CCTV RECORDERS
     name: CCTV Recorders
     categories: 
-    - url: dvrs
+    - segment: dvrs
       name: Pro HD DVRs
-    - url: nvrs
+    - segment: nvrs
       name: NVRs
-    - url: 4k-nvrs
+    - segment: 4k-nvrs
       name: 4K NVRs
-  - url: wildlife-cameras # WILDLIFE CAMERAS
+  - segment: wildlife-cameras # WILDLIFE CAMERAS
     name: Wildlife Cameras
     categories:
-    - url: bird-box-cameras
+    - segment: bird-box-cameras
       name: Bird Box Cameras
-    - url: outdoor-nature-cameras
+    - segment: outdoor-nature-cameras
       name: Outdoor Nature Cameras
-    - url: farm-kits
+    - segment: farm-kits
       name: "Farm & Breeding Kits"
-  - url: accessories # ACCESSORIES
+  - segment: accessories # ACCESSORIES
     name: Accessories
     categories:
-    - url: cables
+    - segment: cables
       name: Cables
-    - url: networking
+    - segment: networking
       name: Networking
-    - url: power-supplies
+    - segment: power-supplies
       name: Power Supplies
-    - url: connectors
+    - segment: connectors
       name: "Connectors & Adaptors"
-    - url: lenses
+    - segment: lenses
       name: lenses
-    - url: data-storage
+    - segment: data-storage
       name: Data Storage
-    - url: cctv-accessories
+    - segment: cctv-accessories
       name: CCTV Accessories
-  - url: clearance # CLEARANCE
+  - segment: clearance # CLEARANCE
     name: Clearance
     categories:
-    - url: spy-cameras
+    - segment: spy-cameras
       name: Spy Cameras
-    - url: cctv-cameras
+    - segment: cctv-cameras
       name: CCTV Cameras
-    - url: cctv-recorders
+    - segment: cctv-recorders
       name: Recorders
-    - url: wildlife-cameras
+    - segment: wildlife-cameras
       name: Wildlife Cameras
-    - url: accessories 
+    - segment: accessories 
       name: Accessories
