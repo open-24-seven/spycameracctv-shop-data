@@ -1,10 +1,10 @@
 associations:
-  - url: pinhole-cameras/tiny-pinhole
+  - path: pinhole-cameras/tiny-pinhole
     products:
       - sku: PH701
       - sku: GTIP2PHWFGB
       - sku: GTTV505MBGB
-  - url: pinhole-cameras/wireless
+  - path: pinhole-cameras/wireless
     products:
       - sku: GTIP2PHWFGB
       - sku: PH701
