@@ -1,43 +1,46 @@
 catalog:
- - segment: shop-by-solution
-   name: Shop by Solution
-   categories:
-   - segment: security-systems # SECURITY SYSTEMS
-     name: Security Systems
-     categories: 
-     - segment: home-security
-       name: Home Security
-     - segment: business-security
-       name: Business Security
-     - segment: vehicle-security
-       name: Vehicle Security
-     - segment: farm-security
-       name: Farm Security
-   - segment: covert-recording # COVERT RECORDING
-     name: Covert Recording
-     categories:
-     - segment: home
-       name: Home
-     - segment: office
-       name: Office & Business
-     - segment: battery
-       name: Battery Powered
-     - segment: vehicle
-       name: In-Car Recording
-   - segment: wildlife # WILDLIFE CAMERAS
-     name: Wildlife Cameras
-     categories:
-     - segment: bird-box-cameras
-       name: Bird Box Cameras
-     - segment: farming
-       name: Farming
-     - segment: trail-cameras
-       name: Trail Cameras
-     - segment: garden-wildlife
-       name: Garden Wildlife
- - segment: our-full-range
-   name: Our Full Range
-   categories: 
+  segment: spy
+  name: Spy Shop
+  categories:
+  - segment: shop-by-solution
+    name: Shop by Solution
+    categories:
+    - segment: security-systems # SECURITY SYSTEMS
+      name: Security Systems
+      categories:
+      - segment: home-security
+        name: Home Security
+      - segment: business-security
+        name: Business Security
+      - segment: vehicle-security
+        name: Vehicle Security
+      - segment: farm-security
+        name: Farm Security
+    - segment: covert-recording # COVERT RECORDING
+      name: Covert Recording
+      categories:
+      - segment: home
+        name: Home
+      - segment: office
+        name: Office & Business
+      - segment: battery
+        name: Battery Powered
+      - segment: vehicle
+        name: In-Car Recording
+    - segment: wildlife # WILDLIFE CAMERAS
+      name: Wildlife Cameras
+      categories:
+      - segment: bird-box-cameras
+        name: Bird Box Cameras
+      - segment: farming
+        name: Farming
+      - segment: trail-cameras
+        name: Trail Cameras
+      - segment: garden-wildlife
+        name: Garden Wildlife
+  - segment: our-full-range
+    name: Our Full Range
+    categories:
     - segment: spy-cameras # SPY CAMERAS
       name: Spy Cameras
       categories:
@@ -49,20 +52,20 @@ catalog:
         name: Camera Recorders
       - segment: systems
         name: Systems
-    - segment: wireless-cctv # WIRELESS CCTV
-      name: Wireless CCTV
-      categories:
-      - segment: portable-lcd-monitor
-        name: CCTV with Monitor
-      - segment: systems
-        name: Systems
-      - segment: cameras
-        name: Cameras
-      - segment: long-range-equipment
-        name: Long Range Equipment
+      - segment: wireless-cctv # WIRELESS CCTV
+        name: Wireless CCTV
+        categories:
+        - segment: portable-lcd-monitor
+          name: CCTV with Monitor
+        - segment: systems
+          name: Systems
+        - segment: cameras
+          name: Cameras
+        - segment: long-range-equipment
+          name: Long Range Equipment
     - segment: cctv-systems # CCTV SYSTEMS
       name: Complete CCTV systems
-      categories: 
+      categories:
       - segment: coax-hd
         name: Coax HD
       - segment: network-ip
@@ -71,20 +74,20 @@ catalog:
         name: 4K CCTV
       - segment: vehicle-security
         name: Vehicle Security
-    - segment: cctv-cameras # CCTV CAMERAS
-      name: CCTV Cameras
-      categories:
-      - segment: coax-hd
-        name: Coax HD
-      - segment: network-ip
-        name: Network IP
-      - segment: 4k-cctv
-        name: 4K CCTV
-      - segment: thermal
-        name: Thermal
+      - segment: cctv-cameras # CCTV CAMERAS
+        name: CCTV Cameras
+        categories:
+        - segment: coax-hd
+          name: Coax HD
+        - segment: network-ip
+          name: Network IP
+        - segment: 4k-cctv
+          name: 4K CCTV
+        - segment: thermal
+          name: Thermal
     - segment: cctv-recorders # CCTV RECORDERS
       name: CCTV Recorders
-      categories: 
+      categories:
       - segment: dvrs
         name: Pro HD DVRs
       - segment: nvrs
@@ -128,5 +131,5 @@ catalog:
         name: Recorders
       - segment: wildlife-cameras
         name: Wildlife Cameras
-      - segment: accessories 
+      - segment: accessories
         name: Accessories
