@@ -52,17 +52,17 @@ catalog:
         name: Camera Recorders
       - segment: systems
         name: Systems
-      - segment: wireless-cctv # WIRELESS CCTV
-        name: Wireless CCTV
-        categories:
-        - segment: portable-lcd-monitor
-          name: CCTV with Monitor
-        - segment: systems
-          name: Systems
-        - segment: cameras
-          name: Cameras
-        - segment: long-range-equipment
-          name: Long Range Equipment
+    - segment: wireless-cctv # WIRELESS CCTV
+      name: Wireless CCTV
+      categories:
+      - segment: portable-lcd-monitor
+        name: CCTV with Monitor
+      - segment: systems
+        name: Systems
+      - segment: cameras
+        name: Cameras
+      - segment: long-range-equipment
+        name: Long Range Equipment
     - segment: cctv-systems # CCTV SYSTEMS
       name: Complete CCTV systems
       categories:
@@ -74,17 +74,17 @@ catalog:
         name: 4K CCTV
       - segment: vehicle-security
         name: Vehicle Security
-      - segment: cctv-cameras # CCTV CAMERAS
-        name: CCTV Cameras
-        categories:
-        - segment: coax-hd
-          name: Coax HD
-        - segment: network-ip
-          name: Network IP
-        - segment: 4k-cctv
-          name: 4K CCTV
-        - segment: thermal
-          name: Thermal
+    - segment: cctv-cameras # CCTV CAMERAS
+      name: CCTV Cameras
+      categories:
+      - segment: coax-hd
+        name: Coax HD
+      - segment: network-ip
+        name: Network IP
+      - segment: 4k-cctv
+        name: 4K CCTV
+      - segment: thermal
+        name: Thermal
     - segment: cctv-recorders # CCTV RECORDERS
       name: CCTV Recorders
       categories:
