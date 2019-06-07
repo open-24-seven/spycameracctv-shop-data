@@ -148,7 +148,6 @@ associations:
       - DW3E4B1TB1
       - PKDIG2EZ
       - PKIP4HKB
-      - PKIP4HKD
   spy/our-full-range/wireless-cctv/cameras:
     products:
       - 2DIG04IRC
@@ -259,7 +258,7 @@ associations:
       - HKIP850B-S
       - HKIP830D-VS
       - HKIP830B-S
-  spy/our-full-range/cctv-cameras/thermal-cameras:
+  spy/our-full-range/cctv-cameras/thermal:
     products:
       - HKIR7B-B
       - HKIR10B
@@ -315,7 +314,7 @@ associations:
       - WL3ADIG24
       - WLIP230B
       - WLPTZIP2B
-      - WLPTZHD
+      - WLPTZHKD
       - PKE244WL
       - TVI3T4WL
       - WLEZADIG24
@@ -347,20 +346,19 @@ associations:
       - 5PORTPOEHK
       - 9PORTPOEHK
       - NGWFREP
-      - UBNANON5G2
+      - UBNANO5G2
       - POEINJUB
       - ENSJBRA
       - PXT100M
       - VCPTX100MOD
-      - VCPORTMSW
+      - VC4PORTMSW
       - ISPVIRGIN
       - ISPSKY
-      - ISPYTLKTLK
+      - ISPTLKTLK
   spy/our-full-range/accessories/power-supplies:
     products:
       - 12V10GB21
       - 12V20GB21
-      - 12V5A4WAYGB
       - 12V10EU21
       - 12VCAR13
       - MAINSC13GB
@@ -394,8 +392,8 @@ associations:
       - BATTCLIP21
       - BAL201
       - RG594PKCR
-      - PG591PKTW
-      - PG591PKCR
+      - RG591PKTW
+      - RG591PKCR
       - POEINJSPL21
       - RJ45CON3U
       - RJ45CON3UX10
@@ -417,7 +415,7 @@ associations:
       - USB32GBSP
       - USB64GBSP
       - SD64GB
-      - MSD64GBSP
+      - MSD64GB
       - MSD128GB
       - 1TBSSV
       - 2TBSSV
@@ -460,7 +458,7 @@ associations:
       - SPYZ32IRR
   spy/our-full-range/clearance/cctv-cameras:
     products:
-      - HKIP420DBR
+      - HKIP420BR
       - DIGIRC1003R
       - HKIP430BR
       - HKIP2100PTZR
