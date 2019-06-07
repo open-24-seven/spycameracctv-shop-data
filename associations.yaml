@@ -1,4 +1,73 @@
 associations:
+  spy/shop-by-solution/security-systems/home-security:
+    products:
+      - TVEZ32
+      - TVIPH2G
+      - TVEZ34
+      - TVI7T4H
+  spy/shop-by-solution/security-systems/business-security:
+    products:
+      - PKIP74
+      - PKIPANPR2
+      - PKIP78
+  spy/shop-by-solution/security-systems/vehicle-security:
+    products:
+      - SPYZ15
+      - SPYZ16
+      - GNETGPS
+      - SPYDCAR
+      - VPIP82
+  spy/shop-by-solution/security-systems/farm-security:
+    products:
+      - WLIP230B
+      - WLPTZIP2B
+      - WLPTZHKD
+      - TVI3T4WL
+  spy/shop-by-solution/covert-recording/home:
+    products:
+      - PH701
+      - GTTV505MBGB
+      - GTTV505PHGB
+  spy/shop-by-solution/covert-recording/office:
+    products:
+      - GT4TV2SMKGB
+      - GTIP2SMKWF
+      - GTIP2PIRWF
+  spy/shop-by-solution/covert-recording/battery:
+    products:
+      - SPYZ15
+      - SPYZ16
+      - SPYZ18
+      - SPYZ32IR
+      - SPYZ62WF
+      - HCAME1B
+  spy/shop-by-solution/covert-recording/vehicle:
+    products:
+      - SPYZ15
+      - SPYZ16
+      - SPYDCAR
+  spy/shop-by-solution/wildlife/bird-box-cameras:
+    products:
+      - NC701G
+      - NCIP9WF
+      - CMOSNC720M
+      - NCIP220M
+      - NCIP9WFBB
+      - CMOSNC720MBB
+      - NC701GBB
+  spy/shop-by-solution/wildlife/farming:
+    products:
+      - WLIP230B
+      - WLPTZIP2B
+      - WLPTZHKD
+      - TVI3T4WL
+  spy/shop-by-solution/wildlife/trail-cameras:
+    products:
+      - HCAME1B
+  spy/shop-by-solution/wildlife/garden-wildlife:
+    products:
+      - HCAME1B
+      - EZ4SD20B20M
   spy/our-full-range/spy-cameras/pinhole-cameras:
     products:
       - PH701
@@ -6,7 +75,6 @@ associations:
       - NN4TV205PHGB
       - GTIP2PHWFGB
       - GTTV505MBGB
-      # - GTIP205PH
       - NNTV205MBGB
       - NNTV205PHGB
       - GTTV505PHGB
@@ -48,61 +116,61 @@ associations:
       - 2PHEZ
       - DVRNNPH
       - DVRNNMB
-  # spy/our-full-range/wireless-cctv/portable-lcd-monitor:
-  #   products:
-  #     - 1DIGLAN1003
-  #     - 1DIGLAN1005
-  #     - 2DIGLAN1003
-  #     - 4DIGLAN1003
-  #     - 2DIGLAN1005
-  #     - 4DIGLAN1005
-  #     - DIGIRC1003
-  #     - 1DIGLAN05SL
-  # spy/our-full-range/wireless-cctv/systems:
-  #   products:
-  #     - WL3ADIG24
-  #     - 1DIGLAN1003
-  #     - WLNVR1
-  #     - WLIP230B
-  #     - 1DIGLAN1005
-  #     - 2DIGLAN1003
-  #     - WLNVR4
-  #     - PKE244WL
-  #     - 4DIGLAN1003
-  #     - TVI3T4WL
-  #     - DW34QUALR
-  #     - PKDIG204
-  #     - 2DIGLAN1005
-  #     - 4DIGLAN1005
-  #     - PKWL74
-  #     - PKDIG404
-  #     - 2PHEZ
-  #     - DW3E4B1TB1
-  #     - PKDIG2EZ
-  #     - PKIP4HKB
-  #     - PKIP4HKD
-  # spy/our-full-range/wireless-cctv/cameras:
-  #   products:
-  #     - 2DIG04IRC
-  #     - DIGIRC1003
-  #     - DIGIRC1005
-  #     - DIGIR720HD
-  #     - HKIP205DC-WA
-  #     - DIGIRC1005SL
-  #     - RSWLCAM
-  #     - 1DIG04IRC
-  # spy/our-full-range/wireless-cctv/long-range-equipment:
-  #   products:
-  #     - 10DB24GHZANT
-  #     - DIG24IR
-  #     - COM5G2
-  #     - DIGPK04
-  #     - DIG24PK
-  #     - 7DB24GHZ
-  #     - 7DB24GHZX4
-  #     - 7DB24GHZX8
-  #     - 7DB24GHZX2
-  #     - DIG24PKWP
+  spy/our-full-range/wireless-cctv/portable-lcd-monitor:
+    products:
+      - 1DIGLAN1003
+      - 1DIGLAN1005
+      - 2DIGLAN1003
+      - 4DIGLAN1003
+      - 2DIGLAN1005
+      - 4DIGLAN1005
+      - DIGIRC1003
+      - 1DIGLAN05SL
+  spy/our-full-range/wireless-cctv/systems:
+    products:
+      - WL3ADIG24
+      - 1DIGLAN1003
+      - WLNVR1
+      - WLIP230B
+      - 1DIGLAN1005
+      - 2DIGLAN1003
+      - WLNVR4
+      - PKE244WL
+      - 4DIGLAN1003
+      - TVI3T4WL
+      - DW34QUALR
+      - PKDIG204
+      - 2DIGLAN1005
+      - 4DIGLAN1005
+      - PKWL74
+      - PKDIG404
+      - 2PHEZ
+      - DW3E4B1TB1
+      - PKDIG2EZ
+      - PKIP4HKB
+      - PKIP4HKD
+  spy/our-full-range/wireless-cctv/cameras:
+    products:
+      - 2DIG04IRC
+      - DIGIRC1003
+      - DIGIRC1005
+      - DIGIR720HD
+      - HKIP205DC-WA
+      - DIGIRC1005SL
+      - RSWLCAM
+      - 1DIG04IRC
+  spy/our-full-range/wireless-cctv/long-range-equipment:
+    products:
+      - 10DB24GHZANT
+      - DIG24IR
+      - COM5G2
+      - DIGPK04
+      - DIG24PK
+      - 7DB24GHZ
+      - 7DB24GHZX4
+      - 7DB24GHZX8
+      - 7DB24GHZX2
+      - DIG24PKWP
   spy/our-full-range/cctv-systems/coax-hd:
     products:
       - TVEZ32
@@ -140,61 +208,61 @@ associations:
       - GNETGPS
       - SPYDCAR
       - VPIP82
-  # spy/our-full-range/cctv-cameras/coax-hd:
-  #   products:
-  #     - EZTV220BGB
-  #     - HKTV220TC-L
-  #     - HKTV240DGB
-  #     - HKTV240BC-L
-  #     - HKTV240BC-LZ
-  #     - HKTV540TC-Z
-  #     - HKTV540BC
-  #     - HKTV540BC-Z
-  #     - HKTV21015PTZ
-  #     - HKTV520DC-V
-  #     - HKTV220DC-LV
-  #     - HKTV540DC-VZ
-  #     - HKTV540TC
-  # spy/our-full-range/cctv-cameras/network-ip:
-  #   products:
-  #     - EZIP230B
-  #     - EZIP230D
-  #     - EZIP430D
-  #     - EZIP430TMZ
-  #     - HKIP830T-S
-  #     - HKIP850B-S
-  #     - HKIP830D-VS
-  #     - HKIP430D-WFS
-  #     - HKIP430D-VF
-  #     - GTIP250PTZ
-  #     - HKIP480B
-  #     - HKIP210MD-AS
-  #     - HKIP230LPR
-  #     - HKIP230T-LS
-  #     - HKIP230B-LS
-  #     - HKIP430T-S
-  #     - HKIP430B-S
-  #     - HKIP450B-S
-  #     - HKIP430D-VS
-  #     - HKIP1215F-AS
-  #     - HKIP21025PTZ
-  #     - HKIP230D-LVS
-  #     - HKIP21015PTZ
-  #     - HKIP2120B-ZA
-  #     - GTIP210PTZGB
-  #     - HKIP20525PTZ
-  #     - HKIP830B-S
-  #     - EZIP420B
-  # spy/our-full-range/cctv-cameras/4k-cctv:
-  #   products:
-  #     - HKIP830T-S
-  #     - HKIP850B-S
-  #     - HKIP830D-VS
-  #     - HKIP830B-S
-  # spy/our-full-range/cctv-cameras/thermal-cameras:
-  #   products:
-  #     - HKIR7B-B
-  #     - HKIR10B
+  spy/our-full-range/cctv-cameras/coax-hd:
+    products:
+      - EZTV220BGB
+      - HKTV220TC-L
+      - HKTV240DGB
+      - HKTV240BC-L
+      - HKTV240BC-LZ
+      - HKTV540TC-Z
+      - HKTV540BC
+      - HKTV540BC-Z
+      - HKTV21015PTZ
+      - HKTV520DC-V
+      - HKTV220DC-LV
+      - HKTV540DC-VZ
+      - HKTV540TC
+  spy/our-full-range/cctv-cameras/network-ip:
+    products:
+      - EZIP230B
+      - EZIP230D
+      - EZIP430D
+      - EZIP430TMZ
+      - HKIP830T-S
+      - HKIP850B-S
+      - HKIP830D-VS
+      - HKIP430D-WFS
+      - HKIP430D-VF
+      - GTIP250PTZ
+      - HKIP480B
+      - HKIP210MD-AS
+      - HKIP230LPR
+      - HKIP230T-LS
+      - HKIP230B-LS
+      - HKIP430T-S
+      - HKIP430B-S
+      - HKIP450B-S
+      - HKIP430D-VS
+      - HKIP1215F-AS
+      - HKIP21025PTZ
+      - HKIP230D-LVS
+      - HKIP21015PTZ
+      - HKIP2120B-ZA
+      - GTIP210PTZGB
+      - HKIP20525PTZ
+      - HKIP830B-S
+      - EZIP420B
+  spy/our-full-range/cctv-cameras/4k-cctv:
+    products:
+      - HKIP830T-S
+      - HKIP850B-S
+      - HKIP830D-VS
+      - HKIP830B-S
+  spy/our-full-range/cctv-cameras/thermal-cameras:
+    products:
+      - HKIR7B-B
+      - HKIR10B
   spy/our-full-range/cctv-recorders/dvrs:
     products:
       - 4DVREZB
@@ -218,32 +286,203 @@ associations:
       - 8NVR4KHK6TB
       - 16NVRHK34TB
   spy/our-full-range/wildlife-cameras/bird-box-cameras:
-    products: []
+    products:
+      - NC701G
+      - NCIP9WF
+      - NCIP220M
+      - CMOSNC720M
+      - NCF15EA20M
+      - NCIP9WFBB
+      - NC701GBB
+      - CMOSNC720MBB
+      - 2NCIP2
+      - NCIP2
+      - BB300
+      - BBLED3
+      - BB450
+      - BBPLATE25
+      - BBPLATE28
+      - BBPLATE32
   spy/our-full-range/wildlife-cameras/outdoor-nature-cameras:
-    products: []
+    products:
+      - HCAME1B
+      - WL3ADIG24
+      - WLIP230B
+      - HCAME1BOX
+      - EZ4SD20B20M
   spy/our-full-range/wildlife-cameras/farm-kits:
-    products: []
+    products:
+      - WL3ADIG24
+      - WLIP230B
+      - WLPTZIP2B
+      - WLPTZHD
+      - PKE244WL
+      - TVI3T4WL
+      - WLEZADIG24
+      - DW34QUALR
+      - DW3E4B1TB1
   spy/our-full-range/accessories/cables:
-    products: []
+    products:
+      - 5MRCA
+      - 10MRCA
+      - 20MRCA
+      - 40MRCA
+      - 50MRCA
+      - 10M21POWER
+      - 20M21POWER
+      - 10M13POWER
+      - 20M13POWER
+      - VGACABLE
+      - 10MBNCPRO
+      - 20MBNCPRO
+      - 30MBNCPRO
+      - 40MBNCPRO
+      - 50MBNCPRO
+      - 60MBNCPRO
+      - 10MCAT5ODW
   spy/our-full-range/accessories/networking:
-    products: []
+    products:
+      - PLINE21000
+      - COM5G2
+      - 5PORTPOEHK
+      - 9PORTPOEHK
+      - NGWFREP
+      - UBNANON5G2
+      - POEINJUB
+      - ENSJBRA
+      - PXT100M
+      - VCPTX100MOD
+      - VCPORTMSW
+      - ISPVIRGIN
+      - ISPSKY
+      - ISPYTLKTLK
   spy/our-full-range/accessories/power-supplies:
-    products: []
+    products:
+      - 12V10GB21
+      - 12V20GB21
+      - 12V5A4WAYGB
+      - 12V10EU21
+      - 12VCAR13
+      - MAINSC13GB
+      - BATT12V68GB
+      - BATT8V68GB
+      - 6V30GB17
+      - BATTAA10
+      - POEINJ
+      - 8V05GB133M
+      - POEINJUB
+      - POEINJHK
+      - 12V05GB21
   spy/our-full-range/accessories/connectors:
-    products: []
+    products:
+      - BNCTORCA
+      - BNCTORCAX10
+      - 21MMTO13MM
+      - RCATOBNC
+      - F2FPHONO
+      - F2FPHONOX10
+      - BNCTWIST
+      - POWERJACKF
+      - PWRJCKFX10
+      - POWERJACKM
+      - PWRJCKMX10
+      - RCASCART
+      - BNCTWISTX10
+      - RG594PKTW
+      - USB1PC
+      - F2FBNC
+      - BATTCLIP21
+      - BAL201
+      - RG594PKCR
+      - PG591PKTW
+      - PG591PKCR
+      - POEINJSPL21
+      - RJ45CON3U
+      - RJ45CON3UX10
+      - RJ45CON3UX20
+      - IP66ENC
+      - BATTCLIP13
+      - RCATOHDMI
+      - TVITOHDMI
+      - BNCTPIECE-M
   spy/our-full-range/accessories/lenses:
-    products: []
+    products:
+      - LENS36MM
+      - LENS6MM
   spy/our-full-range/accessories/data-storage:
-    products: []
+    products:
+      - SD8GB
+      - MSD32GB
+      - USB8GBSP
+      - USB32GBSP
+      - USB64GBSP
+      - SD64GB
+      - MSD64GBSP
+      - MSD128GB
+      - 1TBSSV
+      - 2TBSSV
+      - 4TBSSV
+      - 6TBSSV
+      - 8TBSSV
+      - 10TBSSV
   spy/our-full-range/accessories/cctv-accessories:
-    products: []
+    products:
+      - QUAD01
+      - CCTVSIGNA4
+      - IDAUDIO
+      - OSDUTCCON
+      - LEDB50MGB
+      - LEDB100M
+      - PTZJOYIP05
+      - IPAUDIO
+      - IDAUDIOPRO
+      - REC01
+      - PTZJOYMINI
+      - HK-BRA6
+      - HKD-BRA1
+      - HKD-BRA2
+      - HK-BRA3
+      - HKD-BRA4
+      - HKD-BRA5
+      - BRONZESETUP
+      - SILVERSETUP
+      - GOLDSETUP
+      - PLATSETUP
+      - FIREHOUSE
+      - HKPTZBRA
+      - GTB-BRA
+      - GTD-BRA
+      - 1DECHK
+      - LEDMON28VV
+      - LCDMON5GB
   spy/our-full-range/clearance/spy-cameras:
-    products: []
+    products:
+      - SPYZ32IRR
   spy/our-full-range/clearance/cctv-cameras:
-    products: []
+    products:
+      - HKIP420DBR
+      - DIGIRC1003R
+      - HKIP430BR
+      - HKIP2100PTZR
+      - ODDMVF516WR
+      - ODPTZ62IRBR
+      - HKIP830T-SR
+      - HKIP430DWFR
   spy/our-full-range/clearance/cctv-recorders:
-    products: []
+    products:
+      - 4DVRRS2
   spy/our-full-range/clearance/wildlife-cameras:
-    products: []
+    products:
+      - HCAME1R
+      - NC701GR
+      - HCAME1BR
   spy/our-full-range/clearance/accessories:
-    products: []
+    products:
+      - 250RG59DCPRO
+      - OSDUTCCON
+      - BATT12V68GBR
+      - 10M13POWERR
+      - 10MRCAR
+      - 20M13POWERR
+      - 20MRCAR
+      - DIG24PKWPR
