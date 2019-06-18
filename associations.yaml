@@ -50,7 +50,6 @@ associations:
       - SPYZ15
       - SPYZ16
       - SPYDV90
-      - SPYDFOBW
       - SPYDALC
       - DVRNNPH
       - DVRNNMB
@@ -61,8 +60,6 @@ associations:
       - GTIP2PIRWF
       - NNTV205MBGB
       - NNTV205PHGB
-      - GTIP2SMKWF
-      - GTIP2PIRWF
       - SPYDCUPW
       - SPYZ32IR
       - SPYZ62WF
