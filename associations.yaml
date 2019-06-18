@@ -5,11 +5,20 @@ associations:
       - TVIPH2G
       - TVEZ34
       - TVI7T4H
+      - DVRNNPH
+      - DVRNNMB
   spy/shop-by-solution/security-systems/business-security:
     products:
       - PKIP74
       - PKIPANPR2
       - PKIP78
+      - PKIP34
+      - PKIP38
+      - PK4K32
+      - PK4K74
+      - PK4K34
+      - DVRNNPH
+      - DVRNNMB
   spy/shop-by-solution/security-systems/vehicle-security:
     products:
       - SPYZ15
@@ -23,16 +32,46 @@ associations:
       - WLPTZIP2B
       - WLPTZHKD
       - TVI3T4WL
+      - WL3ADIG24
+      - PKE244WL
+      - WLEZADIG24
+      - DW34QUALR
+      - DW3E4B1TB1
   spy/shop-by-solution/covert-recording/home:
     products:
       - PH701
       - GTTV505MBGB
       - GTTV505PHGB
+      - PHPEEPGB
+      - SPYDFOBW
+      - SPYDUSBW
+      - SPYDHPW
+      - HCAME1B
+      - SPYZ15
+      - SPYZ16
+      - SPYDV90
+      - SPYDFOBW
+      - SPYDALC
+      - DVRNNPH
+      - DVRNNMB
   spy/shop-by-solution/covert-recording/office:
     products:
       - GT4TV2SMKGB
       - GTIP2SMKWF
       - GTIP2PIRWF
+      - NNTV205MBGB
+      - NNTV205PHGB
+      - GTIP2SMKWF
+      - GTIP2PIRWF
+      - SPYDCUPW
+      - SPYZ32IR
+      - SPYZ62WF
+      - HKIP205PH-LS
+      - FSIP207PTZ
+      - SPYDPKDVR1
+      - SPYDCAMBW
+      - DVRNNPH
+      - DVRNNMB
   spy/shop-by-solution/covert-recording/battery:
     products:
       - SPYZ15
@@ -41,6 +80,13 @@ associations:
       - SPYZ32IR
       - SPYZ62WF
       - HCAME1B
+      - SPYDCAR
+      - SPYDV90
+      - SPYDCUPW
+      - SPYDFOBW
+      - SPYDPKDVR1
+      - SPYDALC
+      - SPYDCAMBW
   spy/shop-by-solution/covert-recording/vehicle:
     products:
       - SPYZ15
@@ -55,15 +101,24 @@ associations:
       - NCIP9WFBB
       - CMOSNC720MBB
       - NC701GBB
+      - NCF15EA20M
+      - 2NCIP2
+      - NCIP2
   spy/shop-by-solution/wildlife/farming:
     products:
       - WLIP230B
       - WLPTZIP2B
       - WLPTZHKD
       - TVI3T4WL
+      - WL3ADIG24
+      - PKE244WL
+      - WLEZADIG24
+      - DW34QUALR
+      - DW3E4B1TB1
   spy/shop-by-solution/wildlife/trail-cameras:
     products:
       - HCAME1B
+      - HCAME1BOX
   spy/shop-by-solution/wildlife/garden-wildlife:
     products:
       - HCAME1B
@@ -163,7 +218,6 @@ associations:
       - 10DB24GHZANT
       - DIG24IR
       - COM5G2
-      - DIGPK04
       - DIG24PK
       - 7DB24GHZ
       - 7DB24GHZX4
@@ -281,8 +335,6 @@ associations:
       - 8NVREZ1
   spy/our-full-range/cctv-recorders/4k-nvrs:
     products:
-      - 4NVR4KHK4TB
-      - 8NVR4KHK6TB
       - 16NVRHK34TB
   spy/our-full-range/wildlife-cameras/bird-box-cameras:
     products:
@@ -327,18 +379,49 @@ associations:
       - 20MRCA
       - 40MRCA
       - 50MRCA
+      - 5M21POWER
       - 10M21POWER
       - 20M21POWER
+      - 5M13POWER
       - 10M13POWER
       - 20M13POWER
       - VGACABLE
+      - MAINSC13GB
+      - 250RG59DCPRO
       - 10MBNCPRO
       - 20MBNCPRO
       - 30MBNCPRO
       - 40MBNCPRO
       - 50MBNCPRO
       - 60MBNCPRO
+      - 100MRG59DC
+      - 5M17POWER
+      - 5MBNCPRO
+      - 3MCAT5EG
       - 10MCAT5ODW
+      - 20MCAT5ODW
+      - 30MCAT5ODW
+      - 100MCAT5EODB
+      - 305MCAT5EODW
+      - 40MCAT5ODW
+      - 50MCAT5ODW
+      - 5MCAT5ODW
+      - 4BNC10MPRO
+      - 4BNC20MPRO
+      - 4BNC30MPRO
+      - 8X100RG59TW
+      - 8X250RG59TW
+      - 5MBNCRCAPRO
+      - 10MBNCRCAPRO
+      - 20MBNCRCAPRO
+      - 30MBNCRCAPRO
+      - 40MBNCRCAPRO
+      - 50MBNCRCAPRO
+      - 60MBNCRCAPRO
+      - AVCABLE
+      - 2BNC10MPRO
+      - 2BNC20MPRO
+      - 2BNC30MPRO
   spy/our-full-range/accessories/networking:
     products:
       - PLINE21000
@@ -355,6 +438,7 @@ associations:
       - ISPVIRGIN
       - ISPSKY
       - ISPTLKTLK
+      - ISPVDFONE
   spy/our-full-range/accessories/power-supplies:
     products:
       - 12V10GB21
@@ -455,7 +539,13 @@ associations:
       - LCDMON5GB
   spy/our-full-range/clearance/spy-cameras:
     products:
+      - PH701R
+      - SPYZ15R
+      - SPYZ16R
       - SPYZ32IRR
+      - SPYZ62WFR
+      - SPYDV90R
+      - PHC701R
   spy/our-full-range/clearance/cctv-cameras:
     products:
       - HKIP420BR
