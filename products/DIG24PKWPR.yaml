@@ -1,0 +1,34 @@
+product:
+  path: b-grade-digital-wireless-waterproof-cctv-transmitter-kit
+  sku: DIG24PKWPR
+  name: B Grade 30% Off - Digital Wireless Waterproof CCTV Transmitter Kit
+  images:
+  - path: 5618.jpg
+    title: B Grade 30% Off - Digital Wireless Waterproof CCTV Transmitter Kit
+  - path: 5619.jpg
+    title: Digital Wireless Waterproof Transmitter Kit Connections
+  prices:
+    default:
+    - break: 1
+      unit_price: 1325000
+  content:
+    ean: "2713"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "Operating Frequency Band: 2.4GHz-2.4835GHz\r\nModulation: 16QAM/QPSK/BPSK\r\nReceiver
+      Sensitivity: -85dBm min\r\nVideo Input Level: 1V p-p @ 75 Ohm\r\nVideo Output
+      Level: 1V+/-0.2V p-p @ 75 Ohm\r\nAntenna: 3dBi Omnidirectional\r\nPA Output
+      Power: 100mw\r\nPower Consumption: 1.9W\r\nPower Supply: 12V/1A\r\nDimensions:
+      76x73x24mm (each)\r\nWeight: 82g (each)"
+    in_the_box: "<ul>\r\n<li>1x Waterproof AV transmitter</li>\r\n<li>1x Waterproof
+      AV receiver</li>\r\n<li>2x UK Mains power supplies</li>\r\n<li>2x Removable
+      antennae</li>\r\n<li>English setup instructions</li>\r\n<li><strong>3 Year guarantee
+      with SpyCameraCCTV</strong></li>\r\n</ul>"

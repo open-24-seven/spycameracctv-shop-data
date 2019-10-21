@@ -1,0 +1,49 @@
+product:
+  path: hikvision-hiwatch-tvi-2mp-cctv-camera-4-in-1-40m-night-vision
+  sku: EZTV240BGB
+  name: Hikvision HiWatch TVI 2MP CCTV Camera - 40m Night Vision
+  images:
+  - path: 5468.jpg
+    title: " \tHikvision Easy TVI 2MP CCTV Camera - 4-in-1, 40m Night Vision"
+  - path: 5469.jpg
+    title: Hikvision hiwatch easy tvi 1080p camera front view
+  - path: 5470.jpg
+    title: Hikvision hiwatch easy tvi connector cables
+  prices:
+    default:
+    - break: 1
+      unit_price: 377000
+  content:
+    ean: "5060423075103"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "With their latest range of HiWatch cameras and recorders, Hikvision
+      have taken the exceptional image quality that has made their professional CCTV
+      equipment the industry standard, and brought it to the home user. The cameras
+      record in crisp and clear 1080p HD (or 2 megapixel) resolution, with more than
+      enough subject detail to keep your property safe.\r\n\r\nDon't let the price
+      fool you though - the camera is still packed with professional grade features.
+      Night vision is provided by powerful EXIR LEDs with 40m range, designed to provide
+      even illumination across the image, even in the corners. Hikvision's Smart IR
+      feature also helps improve night vision recording, by dimming the light for
+      subjects closer to the camera. The IP66 rated housing is completely weatherproof,
+      ensuring it can be installed indoors or outdoors.\r\n\r\nThe camera's 4-in-1
+      technology means it works with pretty much every video format that uses a BNC
+      coaxial cable, so you don't worry about compatibility if you're adding it to
+      an existing system. What's more,  you don't have to worry about configuring
+      it after installation, just plug it in to your recorder or monitor and you're
+      away."
+    specification: "Imaging Sesnor: 2MP CMOS\r\nEffective Resolution: 1920x1080\r\nMinimum
+      Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter Speed: 1/25 - 1/50,000s\r\nLens:
+      3.6mm\r\nHorizontal Field of View: 70.9&Deg;\r\nLens Mount: M12\r\nDay & Night:
+      IR Cut Filter\r\nSynchronisation: Internal\r\nVideo Frame Rate: 1080p@25fps\r\nHD
+      Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational
+      Humidity: <90%\r\nPower Supply: 12V DC\r\nPower Consumption: 4W (Max)\r\nProtection
+      Level: IP66\r\nMaterial: Metal\r\nIR Range: 40m\r\nDimensions: 75.4x230.8x152.8mm\r\nWeight:
+      560g\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision HiWatch TVI bullet camera</li>\r\n<li>1x
+      Mains power supply</li>\r\n</ul>"

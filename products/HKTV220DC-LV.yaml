@@ -1,0 +1,46 @@
+product:
+  path: hikvision-2mp-turbo-hd-low-light-dome-camera-20m-ir-poc
+  sku: HKTV220DC-LV
+  name: Hikvision 2MP Turbo HD Low Light Dome Camera with 20m IR, PoC
+  images:
+  - path: 5762.jpg
+    title: Hikvision 2MP Turbo HD Low Light Dome Camera with 20m IR, PoC
+  prices:
+    default:
+    - break: 1
+      unit_price: 495000
+  content:
+    ean: "5060423076124"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Providing outstanding resolution from a discreet, vandalproof housing,
+      this Hikvision Turbo HD dome camera is a fantastic option for everything from
+      shops to clubs and bars. And what's more it's great value for money, costing
+      significantly less than an equivalent IP camera, without sacrificing picture
+      quality.\r\n\r\nThe camera records in 1920x1080 Full HD - or 2 megapixels -
+      capturing full colour images packed with usable subject detail. The camera also
+      uses technology from Hikvision's specialist low light Darkfighter range, allowing
+      it to record right down to 0.005 lux without needing night vision. This means
+      you can record in colour for longer throughout the day. When night vision is
+      needed, two EXIR illuminators provide 20m range.\r\n\r\nAs part of the Turbo-HD
+      range, the camera uses HD-TVI technology to send high resolution video down
+      a standard BNC cable. This means it's plug-and-play, with no complex configuration
+      required to get it running on your recorder. It even uses power-over-coax (POC),
+      letting it draw power from a compatible DVR over the RG59 cable, and removing
+      the need for an additional power supply (requires compatible DVR)."
+    specification: "Imaging Sensor: 2MP CMOS\r\nResolution: 1920x1080\r\nMinimum Illumination:
+      0.005Lux (IR Off), 0Lux(IR On)\r\nShutter Speed: 1/25 to 1/50,000s\r\nLens:
+      2.8mm\r\nHorizontal Field of View: 103.5 degrees\r\nLens Mount: M12\r\nDay &
+      Night: IR Cut\r\nSynchronisation: Internal Sync\r\nFrame Rate: 1920x1080@25fps\r\nAGC:
+      Supported\r\nD/N Mode: Auto/Colour/B&W\r\nWhite Balance: ATW/MWB\r\nBLC: Support\r\nDWDR:
+      Support\r\nLanguage: English, Chinese\r\nFunctions: Brightness, Sharpness, DNR,
+      Mirror, Smart IR\r\nVideo Output: 1x BNC\r\nOperational Temperature: -40 to
+      +60Â°c\r\nOperational Humidity: 90% or less\r\nPower Supply: 12V DC, PoC\r\nPower
+      Consumption: Max 3.2W\r\nProtection Level: IP67, IK10\r\nMaterial: Metal\r\nIR
+      Range: 20m\r\nCommunication: Up the Coax (Hikvision-C)\r\nDimensions: 111x82.4mm\r\nWeight:
+      Approx 350g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision vandalproof dome camera</li>\r\n</ul>"

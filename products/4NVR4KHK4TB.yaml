@@ -1,0 +1,35 @@
+product:
+  path: hikvision-4k-uhd-nvr-4-channel-poe-4tb-hdd
+  sku: 4NVR4KHK4TB
+  name: 4 Channel Hikvision 4K Ultra HD PoE NVR with 4TB HDD
+  images:
+  - path: 5130.jpg
+    title: Hikvision 4K Ultra HD NVR with 4TB HDD and 4 Channel PoE
+  prices:
+    default:
+    - break: 1
+      unit_price: 5416700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: "Alarm In: 4-ch \r\nAlarm Out: 1-ch\r\nAnalogue Channels: N/A\r\nAudio
+      Channels: 1-ch, RCA (Linear, 1 KÎ©)\r\nAudio Output: 1-ch, RCA (Linear, 1 KÎ©)
+      \r\nDimensions: 380 Ã— 290 Ã— 45 mm \r\nHDMI/VGA Output: Yes\r\nIncoming Bandwidth:
+      80 Mbps\r\nIP Video Input: 8-ch (Up to 12 MP resolution & 4-ch @ 4K, or 8-ch
+      @ 1080p)\r\nLAN Ports: 9 \r\nMonitor Outputs: HDMI & VGA\r\nNetwork Interface:
+      1x RJ-45 10/100/1000 Mbps self-adaptive Ethernet interface\r\nOperating Conditions:
+      -10 to +55ÂºC (14 to 131ÂºF)\r\nPoE Switch (Built In): 8x Port PoE\r\nPower
+      Consumption: â‰¤180 W â‰¤15 W (without enabling PoE & without HDD) â‰¤120W (For
+      -P range only)\r\nPower Supply: 100 to 240 VAC, 50 to 60 Hz\r\nRecording Resolution:
+      12MP/8MP/6MP/5MP/4MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nResolution:
+      HDMI: 4K (3840 Ã— 2160)/60Hz, 4K (3840 Ã— 2160)/30Hz, 2K (2560 Ã— 1440)/60Hz,
+      1920 Ã— 1080p/60Hz, 1600 Ã— 1200/60Hz, 1280 Ã— 1024/60Hz, 1280 Ã— 720/60Hz,
+      1024 Ã— 768/60HzVGA: 1920 Ã— 1080p/60Hz, 1280 Ã— 1024/60Hz, 1280 Ã— 720/60Hz,
+      1024 Ã— 768/60Hz\r\nMaximum HDD capacity: 12TB 2x SATA interface for 2x HDDs\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 8-channel NVR with 4TB HDD</li>\r\n</ul>"

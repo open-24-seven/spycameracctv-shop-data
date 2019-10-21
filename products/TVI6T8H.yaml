@@ -1,0 +1,89 @@
+product:
+  path: 8-camera-hikvision-tvi-1080p-hd-cctv-system-50m-ir-2tb-dvr
+  sku: TVI6T8H
+  name: 8 Camera Hikvision TVI 1080p HD CCTV System with 40m IR and PoC DVR
+  images:
+  - path: 4884.jpg
+    title: 8 Camera Hikvision TVI 1080p HD CCTV System with 50m IR and 2TB DVR
+  - path: 4885.jpg
+    title: Hikvision TurboHD TVI camera with varifocal lens
+  - path: 4886.jpg
+    title: TurboHD TVI CCTV camera with 50m night vision front view
+  - path: 4887.jpg
+    title: hikvision tvi 8 channel CCTV DVR
+  - path: 4888.jpg
+    title: hikvision tvi 8 channel recorder rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 6491700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    manuals: []
+    software: []
+    description: "This heavy duty 8 camera security system from Hikvision has been
+      put together especially for the most demanding, accept-no-compromises CCTV applications.
+      The kit uses <strong>TurboHD TVI</strong> technology to records amazingly detailed
+      1080p images, but with an intuitive plug-and-play installation. No messing about
+      with your network like with IP camera kits!\r\n\r\nTVI cameras use the latest
+      encoding technology to send high resolution video footage down a standard RG59
+      coax cable- the same type found in most traditional professional CCTV systems.
+      This allows the system to record incredible levels of detail, essential if you
+      need to capture evidence of licence plates or faces. As the system uses RG59
+      cables with standard BNC connectors, you might even be able to use your current
+      cables if you have an existing system. The system uses Power-over-Coax (PoC),
+      letting the cameras draw power from the record over the RG59 cable, and removing
+      the need for additional power supplies.\r\n\r\n<i>Using the drop down menu at
+      the top of the page you can select the correct length of cable for your installation.
+      If you already have cables installed then just leave this blank, and you can
+      order the cameras and recorder by themselves.</i>\r\n\r\nAs is to be expected
+      of such a system, the included cameras are some of the most versatile and heavy
+      duty in our range. They are housed in IP66 rated casings, making them completely
+      weather proof, and boast a huge 40m night vision range. They are also fitted
+      with varifocal lenses, allowing you to manually adjust them from a wide view
+      to a closer focus, meaning you can fine tune your system's coverage."
+    specification: "<strong>Cameras</strong>\r\n\r\nImage Sensor: 1/3\" Progressive
+      Scan CMOS\r\nSignal System: PAL / NTSC\r\nEffective Pixels: 1920 x 1080\r\nMin.
+      Illumination: 0.005 Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter speed: 1/25(1/30)s
+      to 1/50,000s\r\nLens: 3.6mm\r\nAngle of view: 103.5Â°\r\nLens Mount: M12\r\nDay
+      & Night: IRC\r\nWide dynamic range: 120 dB\r\nSynchronization: Internal synchronization\r\nVideo
+      Frame Rate: 1080p @ 25fps / 1080p @ 30fps\r\nHD Video Output: 1 Analogue HD
+      output\r\nAGC: Support\r\nD/N Mode: Color / BW\r\nWhite Balance: ATW, Manual\r\nPrivacy
+      Mask: On/Off, maximum 4 zones\r\nMotion Detection: On/Off, maximum 4 zones\r\nBLC:
+      WDR, BLC, HLC, Off\r\nAnti-flicker: On/off\r\nFunction: Brightness, Sharpness,
+      Mirror, IR\r\nWorking Temperature: -40Â°C - 60Â°C (-22Â°F - 140Â°F)\r\nHumidity:
+      Humidity 90% or less (non-condensing)\r\nPower Supply: 12 VDC\r\nPower Consumption:
+      Max. 3.6W\r\nWeather Proof Ratings: IP66\r\nIR Range: Up to 40m\r\nCommunication:
+      Up the coax (need UTC controller)\r\nProtocol: Pelco-C (Coaxitron)\r\nDimensions:
+      86.7 x 81.6 x 226mm\r\nWeight: 680g (1.54lbs) \r\n\r\n<strong>DVR</strong>\r\n\r\nVideo
+      compression: H.264 \r\nAnalog and HD-TVI video input: 8-ch \r\nBNC interface:
+      (1.0Vp-p, 75Î©)\r\nSupported camera types: 720p @ 25fps, 720p @ 30fps, 720p
+      @ 50fps, 720p @ 60fps, 1080p@ 15fps, CVBS \r\nIP video input: 2-ch, up to 1080p
+      resolution \r\nAudio compression: G.711u, G.726, G.711a, G.722 \r\nAudio input:
+      1-ch, RCA (2.0 Vp-p, 1KÎ©) \r\nTwo-way audio in: 1-ch, RCA (2.0 Vp-p, 1KÎ© using
+      the 1st channel of audio input)\r\nHDMI / VGA output: 1920 Ã— 1080 / 60 Hz,1280
+      Ã— 1024 / 60 Hz, 1280 Ã— 720 / 60 Hz, 1024 Ã— 768 / 60 Hz \r\nEncoding resolution
+      - Main stream: 1080p / 720p / VGA / WD1 / 4CIF / CIF \r\nEncoding resolution
+      - Sub-stream: WD1 (non-real-time) / 4CIF (non-real-time) / CIF / QCIF / QVGA
+      \r\nFrame rate - Main stream: 1/16 fps ~ Real time frame rate \r\nFrame rate
+      - Sub-stream: 1/16 fps ~ Real time frame rate \r\nVideo bitrate: 32 Kbps - 10
+      Mbps \r\nAudio output: 1-ch, RCA (Linear, 1KÎ©) \r\nAudio bitrate: 64 Kbps \r\nDual-stream:
+      Support \r\nStream type: Video, Video & Audio \r\nSynchronous playback: 8-ch
+      \r\nPlayback resolution: 1080p / 720p / VGA / WD1 / 4CIF / CIF / QVGA / QCIF\r\nRemote
+      connections: 128 \r\nNetwork protocols: TCP/IP, PPPoE, DHCP, EZVIZ Cloud P2P,
+      DNS, DDNS, NTP, SADP, SMTP, SNMP, NFS, iSCSI, UPnPâ„¢, HTTPS\r\nSATA: 2 SATA
+      interface \r\nCapacity: Up to 6TB capacity for each disk\r\nNetwork interface:
+      1; 10M / 100M / 1000M self-adaptive Ethernet interface \r\nSerial interface:
+      1; standard RS-485 serial interface, half-duplex \r\nAlarm in/out: 8/4 \r\nUSB
+      port: 2 x USB2.0\r\nPower supply: 12V DC \r\nConsumption (without hard disks):
+      â‰¤30W \r\nWorking temperature: -10Â°C - 55Â°C (14Â°F - 131Â°F) \r\nWorking
+      humidity: 10% - 90% \r\nChassis: 380mm 1U chassis \r\nDimensions: 380mm x 290mm
+      x 48mm (15.0\" x 11.4\" x 1.9\")\r\nWeight (without hard disks): â‰¤2kg (4.4lb)"
+    in_the_box: "<ul>\r\n<li>1x 8 Channel Turbo HD TVI DVR</li>\r\n<li>1x Mains Power
+      Supply for DVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x Remote Control</li>\r\n<li>1x
+      Manual and Software CD</li>\r\n<li>8x Turbo HD TVI Bullet Cameras</li>\r\n</ul>"

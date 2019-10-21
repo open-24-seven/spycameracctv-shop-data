@@ -1,0 +1,29 @@
+product:
+  path: female-jack-plug-connector-2mm-inner-diameter-and-screw-terminal-x10
+  sku: PWRJCKFX10
+  name: Female Jack Plug Connector 2.1mm Inner Diameter and Screw Terminal x10
+  images:
+  - path: 1681.jpg
+    title: 10 Pack of Female Jack Plug Connectors 2.1mm Inner Diameter with Screw
+      Terminals
+  - path: 1684.jpg
+    title: Female 2.1mm Inner Diameter Jack Connector with Screw Terminals
+  prices:
+    default:
+    - break: 1
+      unit_price: 124000
+  content:
+    ean: "5060181652967"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "You can use these 2.1mm DC Connectors with cut low voltage, stranded
+      wires. We also sell RG59 Coax Combo Cable which combined with with 2 stranded
+      wires to create your own CCTV Camera Cable lengths using these  Power Connectors.\r\n\r\n<a
+      href=\"https://www.spycameracctv.com/spycamera/100-metre-reel-rg59-co-axial-combo-cctv-camera-cable-with-power-line\"
+      target=\"_blank\">Click this link for Reels of <strong>RG59 Combo Coax Cable</strong>.</a>"
+    specification: "Outer Diameter: 5.5mm\r\nInner Diameter: 2.1mm"
+    in_the_box: "<ul>\r\n<li>10 x 5.5mm / 2.1mm Female DC Plugs with Screw Terminals</li>\r\n</ul>"

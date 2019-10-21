@@ -1,0 +1,45 @@
+product:
+  path: hikvision-5mp-turret-camera-40m-night-vision-poc
+  sku: HKTV540TC
+  name: Hikvision 5MP Turret Camera with 40m Night Vision, PoC
+  images:
+  - path: 5896.jpg
+    title: HKTV540TC
+  - path: 5897.jpg
+    title: Hikvision Turbo HD 5MP resolution chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 480000
+  content:
+    ean: "5060423076209"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision's Turbo HD line of HD-TVI CCTV cameras is one of the most
+      popular on the market, providing exceptional picture quality using standard
+      coaxial cable.  The result is a high resolution picture with none of the in
+      depth configuration or set up needed with IP cameras. This turret camera is
+      no exception, capturing 2560x1944 5 megapixel video, using plug-and-play BNC
+      connectors.\r\n\r\nAs well as the impressive recording resolution, the camera
+      boasts IP67 rated weather protection for installation out in the open. High
+      power EXIR illuminators provide 40m night vision, allowing use in large outdoor
+      spaces whilst not losing detail for subjects close to the camera. \r\n\r\nThe
+      camera uses a standard twist-fit BNC output, so can plug straight in to any
+      HD-TVI compatible recorder. It even supports Power-over-Coax (PoC), letting
+      it draw power from a compatible DVR over the RG59 cable, and removing the need
+      for an additional power supply. "
+    specification: "Imaging Sensor: 5MP CMOS\r\nResolution: 2560x1944\r\nMinimum Illumination:
+      0.01 Lux (IR Off), 0 Lux (IR On)\r\nShutter Speed: 1/25s to 1/50,000s\r\nLens:
+      2.8mm\r\nHorizontal FoV: 85.5 degrees\r\nLens Mount: M12\r\nDay & Night: IR
+      cut filter\r\nSynchronisation: Internal\r\nFrame Rate: 5MP@20fps, 4MP,1080p@25fps\r\nAGC:
+      Supported\r\nD/N Mode: Auto, colour, BW\r\nWhite Balance: ATW, MWB\r\nBLC: Supported\r\nDWDR:
+      Supported\r\nLanguage: English\r\nFunctions: Brightness, sharpness, DNR, Mirror,
+      Smart IR\r\nVideo Output: 1x BNC\r\nOperational Temperature: -40&Deg;c to +60&deg;c\r\nOperational
+      Humidity: 90% or less\r\nPower Supply: 12V DC, PoC\r\nPower Consumption: 5.4W
+      (Max)\r\nProtection Level: IP67\r\nIR Range: 40m\r\nCommunication: Up the coax
+      (Hikvision-C)\r\nDimensions: 110mm (d)x93.2mm\r\nWeight: 340g\r\n"
+    in_the_box: "<ul>\r\n<li>1x 5MP Hikvision turret camera</li>\r\n</ul>"

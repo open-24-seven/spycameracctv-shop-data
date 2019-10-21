@@ -1,0 +1,58 @@
+product:
+  path: gamut-16-channel-hybrid-cctv-dvr
+  sku: 16DVRRS2
+  name: Gamut 16 Channel Hybrid HD DVR
+  images:
+  - path: 5300.jpg
+    title: Gamut 16 Channel Hybrid DVR with 4TB Hard Drive
+  - path: 5301.jpg
+    title: 16 channel hybrid DVR front view
+  - path: 5302.jpg
+    title: 16 channel hybrid DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 4666600
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "AHD, HD-TVI, 960h, 4-in-1; the last few years have seen a huge number
+      of new CCTV formats, and as a result making everything is compatible is a complete
+      nightmare. Luckily, our new 16 channel hybrid CCTV DVR is designed to work with
+      almost every format on the market- if it's got a BNC connector on it, then it
+      should work.You can even connect cameras with different formats into different
+      channels, and have them recording at the same time! This makes it a perfect
+      option if you want to upgrade an existing security system, but don't want to
+      replace all of the cameras.\r\n\r\nCompatible camera include Sony's Effio range
+      and Hikvision's Turbo HD-TVI. Footage is recorded in pin sharp 1080p HD, with
+      even higher resolutions possible if the frame rate is reduced. The recorder
+      also boasts multiple channels of audio recording, as well as a full suite of
+      motion detection and scheduled recording options. Footage is recorded to your
+      choice of built-in hard drive.\r\n\r\nThe DVR's HDMI output provides an easy
+      way to monitor your cameras on a TV or monitor. You can also connect the DVR
+      directly to your router, enabling remote access. Once configured, this lets
+      you view live or recorded footage from anywhere in the world, via a PC or mobile
+      device. The recorder includes all the instructions needed to complete this,
+      however if you're not familiar with networking don't fret- we also offer a remote
+      setup service that can get it all up and running for you. Just add this from
+      the drop down at the top of the page.\r\n\r\n"
+    specification: "Video System: PAL\r\nOperating System: Linux\r\nVideo Compression:
+      H.264\r\nVideo Input: 16x Composite BNC\r\nVideo Output: HDMI, VGA\r\nIP Video
+      Input: Up to 8 cameras\r\nAudio Input: 8x RCA\r\nAudio Output: 1x RCA\r\nRecording
+      Resolution: 3MP@12fps, 1080p@15fps, 720p@25fps, 960h@25fps\r\nIP Recording Bandwidth:
+      32Mbps-96Mbps\r\nMaximum Output BAndwidth: 64Mbps\r\nMaximum Decode Performance:
+      8ch 1080p realtime\r\nRecording Modes: Continuous, Manual, Motion Detect\r\nSynchronous
+      Playback: 16 channels\r\nNetwork Type: Lan, DHCP, DDNS\r\nHDD Interface: 2x
+      SATA, Max 6TB each\r\nMultiplex Operation: Live display, Record, Playback, Backup,
+      Network\r\nUSB Ports: 2x\r\nSensor & Alarm I/O: 16x In, 1x Out\r\nPTZ Control:
+      Yes, RS485\r\nMobile Access: Android, iOS\r\nVGA/HDMI Ouput: 1024x768, 1280x1024,
+      1440x900, 1280x720, 1920x1080, 1680x1050, 1600x1200, 1920x1200, 2560x1440, 3840x2160\r\nPower
+      Supply: DC 12V 5A\r\nDimensions: 378x340x50mm\r\nWorking Temperature: -10Â°c
+      to +55Â°c\r\nWorking Humidity: 10-90%\r\n"
+    in_the_box: "<ul>\r\n<li>1x Gamut 16 channel hybrid DVR</li>\r\n<li>1x UK power
+      supply</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x Software and manual CD</li>\r\n</ul>"

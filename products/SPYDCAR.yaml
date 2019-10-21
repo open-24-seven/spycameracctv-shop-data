@@ -1,0 +1,48 @@
+product:
+  path: hd-spy-camera-in-car-phone-holder-1080p-microsd-dvr-night-vision
+  sku: SPYDCAR
+  name: HD Spy Camera In Car Phone Holder - 1080p MicroSD DVR, Night Vision
+  images:
+  - path: 5901.jpg
+    title: HD Spy Camera In Car Phone Holder - 1080p MicroSD DVR, Night Vision
+  - path: 5925.jpg
+    title: HD spy camera in car phone holder front view
+  - path: 5926.jpg
+    title: spy mobile phone holder bracket
+  prices:
+    default:
+    - break: 1
+      unit_price: 2082900
+  content:
+    ean: "5060611442397"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "One of the most common things we're asked for here at SpyCameraCCTV
+      is for a covert way for drivers to monitor the inside of their car. This covert
+      device is a perfect solution, with a high resolution camera concealed entirely
+      inside a standard phone holder, which can easily be mounted on the windscreen
+      or dashboard, looking back over the interior with a 66 degree field of view.
+      It's perfect for taxi drivers, undercover law enforcement, or even just as a
+      way to keep an eye on your car.\r\n\r\nThe camera records to the built-in MicroSD
+      card slot with a single button press, which can be done discreetly when taking
+      your phone out of the holder. Features include audio recording, and infrared
+      LEDs to provide night vision for the interior of the vehicle. By switching these
+      off, you can also record subjects outside the window with good lighting. The
+      built-in battery provides up to 3 hours of continuous recording with the IR
+      off, and there's also a handy motion detection mode to help your memory card
+      last longer.  "
+    specification: "Imaging Sensor: 1/3\" CMOS\r\nSensor Resolution: 2304x1536\r\nSensitivity:
+      3.3 lux @ f/2\r\nLens: 4mm f/3.2\r\nAngle of View: 66 Degrees\r\nCompression:
+      H.264\r\nFile Format: .mov\r\nVideo Recording Mode: Manual, motion detect\r\nRecording
+      Resolution: 1920x1080\r\nFrame Rate: Up to 30fps\r\nStorage: MicroSD (16GB included,
+      works with up to 32GB)\r\nData Interface: Mini USB 2.0\r\nDate/Time Table: YYYY/MM/DD,
+      HH:MM:SS\r\nPower Input: DC 5V\r\nPower Consumption: 350-380mA (IR on +330mA)\r\nCharging
+      Time: 120min\r\nBattery Input: DC 3.7V (1350mAh LiPo)\r\nBattery Life: 180min
+      (IR off), 90min (IR on)\r\nRecording Time: 10min/GB @ 1080p "
+    in_the_box: "<ul>\r\n<li>1x Covert spy camera with recorder</li>\r\n<li>1x Phone
+      holder (no DVR)</li>\r\n<li>1x Suction mount</li>\r\n<li>1x USB cable</li>\r\n<li>1x
+      16GB MicroSD card</li>\r\n</ul>\r\n"

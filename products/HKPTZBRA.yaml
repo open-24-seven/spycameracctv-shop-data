@@ -1,0 +1,33 @@
+product:
+  path: outdoor-metal-arm-bracket-hikvision-ptz-domes
+  sku: HKPTZBRA
+  name: Outdoor Metal Arm Bracket for Hikvision PTZ Domes
+  images:
+  - path: 5555.jpg
+    title: Outdoor Metal Arm Bracket for Hikvision PTZ Domes
+  - path: 5556.jpg
+    title: Bracket for hikvision ptz dome cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 195000
+  content:
+    ean: "5060423075189"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This heavy duty arm bracket is perfect for mounting a <a href=\"https://www.spycameracctv.com/spycamera/hikvision-low-light-ptz-camera-2mp-15x-zoom-100m-night-vision\"
+      target=\"_blank\">Hikvision dome PTZ camera</a> on any interior or exterior
+      wall. The bracket is hollow, protecting the cables that connect the camera to
+      your system. It's made from coated Aluminium alloy, providing complete protection
+      from the elements. \r\n\r\nThe bracket is designed to hold the camera clear
+      of the wall, allowing a complete 360 degrees of rotation for complete freedom
+      of movement. "
+    specification: "Bracket Type: Wall mount\r\nColour: White\r\nCompatible Camera
+      Models: HKIP2100PTZ, HKIP2100PTZL\r\nMaterial: Spray coated Aluminium alloy\r\nDimensions:
+      97x182x305mm\r\nWeight: 1050g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision PTZ arm bracket</li>\r\n<li><strong>3 Year
+      guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

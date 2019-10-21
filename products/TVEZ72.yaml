@@ -1,0 +1,65 @@
+product:
+  path: hiwatch-hd-cctv-system-2-turret-cameras-20m-ir-4-channel-dvr
+  sku: TVEZ72
+  name: HiWatch HD CCTV System - 2 Turret Cameras, 20m IR, 4 Channel DVR
+  images:
+  - path: 5824.jpg
+    title: HiWatch HD CCTV System - 2 Turret Cameras, 20m IR, 4 Channel DVR
+  - path: 5825.jpg
+    title: HiWatch 1080p turret camera with 20m ir
+  - path: 5826.jpg
+    title: HiWatch 4 channel hybrid DVR
+  - path: 5827.jpg
+    title: HiWatch 4 channel DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1200000
+  content:
+    ean: "5060611441567"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "The <strong>HiWatch</strong> range of cameras and recorders has
+      been put together by Hikvision to bring the reliable build and clear image quality
+      of their commercial cameras to home and DIY users. This 2 camera CCTV kit is
+      a great example, combining compact turret cameras with a 4 channel recorder.
+      They both use standard twist-fit BNC cables, so it's a great option if you want
+      to upgrade an existing older CCTV kit to HD.\r\n\r\nThe turret cameras are discreet
+      but rugged, making them a popular choice for small shops & newsagents as well
+      as homes. They're protected by an IP66 rated housing, providing full weather
+      resistance and allowing use indoors or out. Infrared LEDs combine with a 1080p
+      imaging sensor, allowing the camera to capture clear round-the-clock images
+      of subjects.\r\n\r\nThe included HiWatch DVR boasts a range of recording features
+      to automate your home's security, including motion detection and 7 day scheduling.
+      Footage is recorded to the internal hard drive - just select which size you
+      need from the drop down at the top of the page. The DVR has 4 channels, allowing
+      you to easily expand your system with 2 additional cameras at any time. Connect
+      the DVR to your internet router in order to view cameras and adjust settings
+      remotely from a PC or mobile device."
+    specification: "<p>Cameras</p>\r\nImaging Sensor: CMOS\r\nEffective Pixels: 1920x1080\r\nMinimum
+      Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter Speed: 1/25 to 1/50,000s\r\nLens
+      Mount: M12\r\nDay & Night: ICR\r\nSynchronization: Internal\r\nVideo Frame Rate:
+      1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational Temperature:
+      -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower
+      Consumption: Max 4W\r\nProtection Level: IP66\r\nIR Range: 20m\r\nDimensions:
+      82.6mm (diameter) x 70mm\r\nWeight: 230g \r\n\r\n<p>Recorder</p>\r\nVideo Input:
+      4x BNC\r\nVideo Compression: H.264+\r\nHD-TVI/AHD/CVI Input: 1080p@25/30fps,
+      720p@25/30fps\r\nCVBS Input: Supported\r\nAudio Compression: G.711u\r\nAudio
+      Input: 1x RCA\r\nHDMI/VGA Output: 1920x1080, 1280x1024, 1280x720, 1024x768\r\nEncoding
+      Resolution: 1080pLite, 720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame Rate:
+      1080pLite, 720p @ 12fps\r\nSub Stream Frame Rate: CIF, QVGA, QCIF @ 25fps\r\nVideo
+      Bitrate: 32kbps to 4Mbps\r\nAudio Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual
+      Stream: Support\r\nSynchronous Playback: 4 Channels\r\nRemote Connections: 32\r\nNetwork
+      Protocols: TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS,iSCSI,
+      UPnP, HTTPS\r\nSATA: 1x Interface\r\nCapacity: Up to 6TB\r\nNetwork Interface:
+      1x 10/100M RJ45 Ethernet\r\nUSB Interface: 2x USB 2.0 (rear panel)\r\nPower
+      Supply: 12V DC\r\nConsumption (without HDD): <8W\r\nOperational Temperature:
+      -10Â°c to +55Â°c\r\nOperational Humidity: 10-90%\r\nDimensions: 200x200x45mm\r\nWeight
+      (without HDD): 800g"
+    in_the_box: "<ul>\r\n<li>2x HiWatch 20m turret cameras</li>\r\n<li>2x Mains power
+      supplies for cameras</li>\r\n<li>1x HiWatch 4 channel DVR</li>\r\n<li>1x Mains
+      power supply for DVR</li>\r\n<li>1x USB mouse</li>\r\n</ul>"

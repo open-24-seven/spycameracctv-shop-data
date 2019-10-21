@@ -1,0 +1,38 @@
+product:
+  path: 30m-professional-copper-rg59-bnc-video-dc-power-extension-cctv-cable
+  sku: 30MBNCPRO
+  name: 30m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  images:
+  - path: 3648.jpg
+    title: 30m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  - path: 3649.jpg
+    title: High Grade RG59 video cable BNC and 2.1mm DC connectors
+  - path: 3650.jpg
+    title: RG59 Coaxial video and DC power cable cutaway diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 187500
+  content:
+    ean: "5060181650710"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This high grade 30m coaxial CCTV cable is perfect for use with our
+      state of the art TVI Professional HD Cameras cameras! When you've invested in
+      such high resolution equipment, then it's vital to connect your system together
+      using cables that won't compromise it's quality. This cable is just the thing
+      for the job!\r\n\r\nThis video cable runs alongside a 12V DC power cable, fitted
+      with a universal 2.1mm jack connector. This means you will only have to run
+      one cable out to your CCTV location- no need for separate video and power cables!\r\n\r\nIs
+      this not quite the length you need? We stock these cables in 10, 20, 30, 40,
+      50 and 60 metre lengths, and can even supply massive uncut reels! If you need
+      any help with your installation, you can always call our specialist team of
+      advisers. Just see our contact page for the easiest way to get in touch!"
+    specification: "Length: 30m\r\nInner conductor: 0.81mm Bare Copper\r\n1st Shielding:
+      Single Aluminium Foil\r\nJacket: 6x3.5mm Black PVC\r\nImpedance: 75+/-3 Ohm\r\nCapacitance:
+      53pF/m\r\n"
+    in_the_box: ""

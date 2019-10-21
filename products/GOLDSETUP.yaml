@@ -1,0 +1,51 @@
+product:
+  path: gold-support-remote-setup-online-viewing-mobile-access
+  sku: GOLDSETUP
+  name: Gold Remote Setup for Online Viewing & Mobile Access
+  images:
+  - path: 4656.jpg
+    title: " \tGold Support - Remote Setup for Online Viewing & Mobile Access"
+  prices:
+    default:
+    - break: 1
+      unit_price: 666700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/m2KeSa4dSuU
+    manuals: []
+    software: []
+    description: "<strong>Who is this service right for?</strong>\r\nâ€¢ CCTV users
+      with a network enabled recorder and more than 4 cameras</li>\r\nâ€¢ Professional
+      grade multi IP camera security systems (cost includes up to 8 IP cameras)\r\nâ€¢
+      Commercial users with business-critical CCTV coverage</li>\r\nâ€¢ Users with
+      systems that include a Wifi bridge or 4G router</li>\r\n\r\n<strong>Who is this
+      service not right for?</strong>\r\n\r\nâ€¢ Users with more than 8 cameras and
+      a recorder</li>\r\n\r\n<i>For these situations we recommend our platinum support
+      package</i>\r\n\r\nIP security camera systems are at the cutting edge of CCTV
+      technology, letting you record HD footage from many cameras connected directly
+      to your network. Of course, for some the configuration needed to get such a
+      system up and running can be daunting, especially those with less knowledge
+      of networking or routers. That's why we have put together this all-inclusive,
+      comprehensive support package. This remote service not only takes the stress
+      out of getting your IP system up and running, but provides professional grade
+      support suitable for the most demanding commercial security requirements.\r\n\r\nAfter
+      the initial setup call, a simple annual Direct Debit subscription can then be
+      set up. This provides ongoing support should there be an issue with your connection,
+      as well as free on-site exchanges of equipment via our courier for the duration
+      of the product warranty. This means you won't have to wait to for items to be
+      exchanged, and is ideal for those running security on a commercial property.\r\n\r\nLogging
+      remotely in to your network, our expert team of technicians will completely
+      configure your cameras, NVR, software and router, allowing online viewing over
+      a PC and on mobile devices. The service can include configuring recorder settings,
+      as well as camera-based smart features such as line crossing. We will also set
+      up a web address through which you can securely log in to view your cameras.
+      The service will take around an hour, depending on how many cameras need configuring.
+      During this time you can either get our support agent to walk you through the
+      process on the phone, or just relax with a tea! We do however ask that you are
+      available by the computer in case we need to check anything."
+    specification: Â 
+    in_the_box: ""

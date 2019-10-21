@@ -1,0 +1,27 @@
+product:
+  path: silicon-power-64gb-microsd-class-10-memory-card-sd-adaptor
+  sku: MSD64GB
+  name: '64GB MicroSD Class 10 Memory Card with SD Adaptor '
+  images:
+  - path: 4962.jpg
+    title: 'Silicon Power 64GB MicroSD Class 10 Memory Card with SD Adaptor '
+  prices:
+    default:
+    - break: 1
+      unit_price: 274200
+  content:
+    ean: "5060423072492"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 64GB MicroSD Card is perfectly capable for HD video and image
+      applications thanks to its high data rate specification. Included is an MicroSD
+      to SD card adaptor so that files can be accessed from an standard size SD card
+      slot. \r\n\r\n<i>To ensure we can offer the best price and availability to our
+      customers, we use a variety of MicroSD card manufacturers. This means the card
+      you receive may not match the model pictured</i>"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 64GB MicroSd Card</li>\r\n<li>1x Full Size SD Adaptor</li>\r\n</ul>"

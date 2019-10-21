@@ -1,0 +1,45 @@
+product:
+  path: hd-spy-headphones-1080p-camera-wifi-microsd-storage
+  sku: SPYDHPW
+  name: HD Spy Headphones - 1080p Camera with Wifi, MicroSD Storage
+  images:
+  - path: 5936.jpg
+    title: HD Spy Headphones - 1080p Camera with Wifi, MicroSD Storage
+  - path: 5937.jpg
+    title: HD spy camera headphones folded
+  prices:
+    default:
+    - break: 1
+      unit_price: 2499600
+  content:
+    ean: "5060611442434"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This pair of sleek black wireless headphones conceals a tiny spy
+      camera, recording a forward view from the right ears. They can be worn on the
+      street in plain sight without attracting attention, making them an ideal body-worn
+      security tool for investigators and journalists. Footage is recorded to the
+      MicroSD card slot in 1920x1080 Full HD, packed with usable subject detail.\r\n\r\nThe
+      phones feature a built-in Wifi transmitter, letting you log in to view and control
+      the camera from a nearby Android or iOS mobile device. The kit includes a 16GB
+      MicroSD card as standard, but the camera can work with cards up to 32GB in size.
+      A long life rechargeable battery allows over 2 hours of continuous usage, more
+      than enough for most assignments. You can even get the headphones to play music,
+      by loading MP3s up to a MicroSD card."
+    specification: "Imaging Sensor: 1/3\" CMOS\r\nSensor Resolution: 2304x1536\r\nSensitivity:
+      3.3 Lux @ f/2.0\r\nLens: 4mm f/3.2\r\nAngle Of View: 96 Degrees\r\nVideo Compression:
+      H.264, MJPEG\r\nFile Format: mov, jpg\r\nVideo Recording Mode: Manual\r\nRecording
+      Resolution: 1920x1080\r\nFrame Rate: Up to 30fps\r\nStills Resolution: 5MP\r\nWifi:
+      Built in IEEE802.1b/y/g/n\r\nWifi Protocol: RTSP\r\nMemory Type: MicroSD (supports
+      up to 32GB, 16Gb included)\r\nPower Consumption: 340-400mA (Wifi off, Wifi on
+      +80mA)\r\nCharging Time: 150 min\r\nBattery Input: DC 3.7V, 2200mAh Lithium
+      polymer\r\nBattery Lifetime: 120min (Wifi off, 100min Wifi on)\r\nRecording
+      Time: 10mins/GB (at 1080p)\r\nVibration Alert: Power on/off, recording, low
+      battery\r\nDimensions: 165x178x74mm\r\nWeight: 160g\r\n"
+    in_the_box: "<ul>\r\n<li>1x Spy camera headphones</li>\r\n<li>1x Mini USB 2.0
+      cable</li>\r\n<li>1x 16GB MicroSD card</li>\r\n<li>1x Headphone stand</li>\r\n<li>Quick
+      start guide</li>\r\n</ul>"

@@ -1,0 +1,67 @@
+product:
+  path: hikvision-4mp-ip-outdoor-bullet-camera-20m
+  sku: HKIP420BR
+  name: B Grade 25% Off - Hikvision 4MP IP Bullet Camera with 20m Night Vision
+  images:
+  - path: 5209.jpg
+    title: "\tHikvision 4MP IP Outdoor Bullet Camera with 20m Night Vision"
+  prices:
+    default:
+    - break: 1
+      unit_price: 1215000
+  content:
+    ean: "5060423072294"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - ' '
+    software: []
+    description: "<strong>B-grade 25% off</strong>\r\nThis product is a customer return
+      or ex-display model. The packaging will have been opened but the contents have
+      been fully tested. It might have minor cosmetic defects.\r\n\r\nWith the advent
+      of affordable HD-TVI security cameras, you no longer have to break the bank
+      to afford a professional quality HD CCTV system. Despite this, there are some
+      situations where even the best 1080p camera still doesn't provide enough detail.
+      For example higher resolutions make it much easier to keep track of multiple
+      subjects in a crowd, or to make out details in subjects further away from the
+      camera. Because of this, Hikvision have developed their range of <strong>4 Megapixel</strong>
+      IP cameras, recording huge 2688x1520 video files. They do this whilst still
+      being an affordable option for small businesses and home users.\r\n\r\nThis
+      compact bullet camera crams a high resolution imaging chip into a tiny camera
+      body, suited to low profile installations. The camera boasts 20m night vision
+      to allow 24/7 recording even in unlit rooms. An IP66 rated weather proof housing
+      also means the camera can be used indoors or outdoors. In addition to incredible
+      resolution, the camera also allows Wide Dynamic Range (WDR) recording, meaning
+      it can still record usable detail even in high contrast scenes, with dark shadows
+      or bright highlights.\r\n\r\nThe camera uses Power over Ethernet (PoE), allowing
+      it to draw power down the network cable from a compatible recorder or switch.
+      This means there is no need for external power supplies, allowing a much simpler
+      installation."
+    specification: "<strong>Camera</strong>\r\n\r\nImage Sensor: 1/3\" Progressive
+      Scan CMOS\r\nMin. Illumination: 0.01Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter
+      Speed: 1/3 s to 10,000s\r\nLens: 4mm @ f2.0\r\nAngle of view: 83Â°\r\nLens Mount:
+      M12\r\nDay & Night: IR cut filter with auto switch\r\nDNR: 3D DNR\r\nWide Dynamic
+      Range: 120dB\r\n\r\n<strong>Compression Standard</strong>\r\n\r\nVideo Compression:
+      H.264/MJPEG/H.264+\r\nH.264 Type: Main Profile\r\nVideo Bit Rate: 32 Kbps ~
+      16 Mbps\r\nDual streams: Supported\r\n\r\n<strong>Image</strong>\r\n\r\nMax.
+      Resolution: 2688Ã—1520\r\nFrame Rate: 50Hz: 20fps (2688Ã—1520), 25fps (1920Ã—1080),
+      25fps (1280Ã—720)\r\nImage Setting: Rotate Mode, Saturation, Brightness, Contrast,
+      Sharpness adjustable by client software or web browser\r\nBLC: Supported, zone
+      configurable\r\nROI Codec: Supported\r\n\r\n<strong>Network</strong>\r\n\r\nNetwork
+      Storage: NAS (Support NFS, SMB/CIFS), ANR\r\nDetection: Intrusion detection,
+      line crossing detection, motion detection, dynamic analysis\r\nAlarm Trigger:
+      Tampering alarm, network disconnect, IP address conflict, storage exception\r\nProtocols:
+      TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE,
+      NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour\r\nGeneral: One-key
+      reset, anti-flicker, heartbeat, mirror, password protection, privacy mask, watermark,
+      IP address filtering, anonymous access\r\nStandard: ONVIF (PROFILE S, PROFILE
+      G), PSIA, CGI, ISAPI\r\n\r\n<strong>Interface</strong>\r\n\r\nCommunication
+      Interface: 1x RJ45 10M/100M Ethernet port\r\n\r\n<strong>General</strong>\r\n\r\nOperating
+      Conditions: -30 Â°Câ€“60 Â°C, Humidity 95% or less (non-condensing)\r\nPower
+      Supply: DC12V Â± 10%, PoE (802.3af)\r\nPower Consumption: Max. 5W\r\nNight vision
+      range: Approx. 30 meters\r\nIngress Protection: IP67\r\nDimensions: 70 Ã— 154
+      Ã— 60 mm\r\nWeight: 500g"
+    in_the_box: "<ul><li>1x Hikvision 4MP IP Outdoor Bullet Camera</li>\r\n<li><strong>2
+      year guarantee from SpyCameraCCTV</strong></li>\r\n</ul>\r\n"

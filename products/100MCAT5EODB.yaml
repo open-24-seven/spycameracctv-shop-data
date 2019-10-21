@@ -1,0 +1,30 @@
+product:
+  path: 100m-outdoor-cat5e-ethernet-network-cable-drum-ptz-ip-cameras
+  sku: 100MCAT5EODB
+  name: 100m Outdoor Cat5e Ethernet Network Cable Reel for PTZ and IP Cameras
+  images:
+  - path: 4391.jpg
+    title: 100m Outdoor Cat5e Ethernet Network Cable Drum for PTZ and IP Cameras
+  - path: 4392.jpg
+    title: Cat5e twisted pairs
+  prices:
+    default:
+    - break: 1
+      unit_price: 464400
+  content:
+    ean: "5060181659539"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 100m reel of uncut Cat5e ethernet cable is perfect for large
+      scale installations of IP cameras or PTZ cameras, letting you cut exactly the
+      length you need for your setup. The cable is wrapped in a durable outer jacket,
+      letting it be used for outdoor installations exposed to the elements. Connect
+      the cable with standard RJ45 adapters, or use without to connect PTZ devices
+      directly to the internal twisted pairs.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 100m uncut Cat5e ethernet cable</li>\r\n<li><strong>2
+      Year warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

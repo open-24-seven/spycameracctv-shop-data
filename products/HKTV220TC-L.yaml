@@ -1,0 +1,67 @@
+product:
+  path: hikvision-turbohd-tvi-1080p-hd-20m-ir-outdoor-dome-cctv-camera
+  sku: HKTV220TC-L
+  name: Hikvision Turbo HD TVI 1080p 20m IR Outdoor Dome CCTV Camera with PoC
+  images:
+  - path: 4783.jpg
+    title: Hikvision TurboHD TVI 1080p HD 20m IR Outdoor Dome CCTV Camera
+  - path: 4831.jpg
+    title: ODTVI20M camera with packaging
+  - path: 4830.jpg
+    title: Front detail of ODTVI20M camera
+  - path: 4832.jpg
+    title: Cables and connectors of ODTVI20M camera
+  - path: 4775.jpg
+    title: Turbo HD TVI Sample Image
+  prices:
+    default:
+    - break: 1
+      unit_price: 480000
+  content:
+    ean: "5060423076100"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/HKTVI20D.pdf
+    software: []
+    description: "Combining the no-compromise, crystal clear image quality of an HD
+      IP camera with the simple plug and play installation of traditional analogue
+      CCTV, this Hikvision Turbo HD TVI dome camera is a fantastic tool for home or
+      business security. \r\n\r\nAs one of the largest and most trusted names in video
+      surveillance, Hikvision have developed their Turbo HD TVI range for customers
+      who simply need the best image quality without the hassle of setting up IP cameras
+      over a network. The camera can record in sharp 1080p HD (2 megapixels), connecting
+      to a recorder using standard plug-and-play BNC connectors. It even supports
+      Power-over-Coax (PoC), letting it draw power from a compatible DVR over the
+      RG59 cable, and removing the need for an additional power supply.\r\n\r\nThe
+      camera itself is housed in a compact but tough metal dome housing, rated IP66
+      weather proof to protect it from the elements in even the most open locations.
+      A ring of powerful infra-red LEDs provide night vision illumination for subjects
+      up to 20m away, ensuring your property can stay secure around the clock. When
+      used with a compatible DVR, you can also adjust a wide variety of image quality
+      settings, including noise reduction and backlight correction- especially helpful
+      when installed in areas with high contrast lighting such as doorways.\r\n\r\nThese
+      features combine to make this range one of our best options for business or
+      commercial security. Of course, you don't need to take our word for it- check
+      out the videos section for real world samples of just how impressive the camera's
+      footage can be."
+    specification: "Camera\r\n\r\nImage Sensor: 2 MP CMOS Image Sensor\r\nSignal System:
+      PAL / NTSC\r\nEffective Pixels: 1920 x 1080 \r\nMin. Illumination: 0.005 Lux
+      @(F1.2,AGC ON), 0 Lux with IR\r\nShutter Time: 1/25(1/30)s to 1/50,000s\r\nLens:
+      2.8mm\r\nAngle of View: 103Â°(2.8mm)\r\nLens Mount: M12\r\nAngle Adjustment:
+      Pan: 0-360Â°, Tilt: 0-90Â°, Rotation: 0-360Â°\r\nDay & Night: ICR\r\nSynchronization:
+      Internal synchronization\r\nVideo Frame Rate: 1080p@25fps / 1080p@30fps\r\nHD
+      Video Output: 1 Analog HD output\r\n\r\nMenu\r\n\r\nScene: Indoor, Outdoor,
+      Indoor1, LOW-LIGHT\r\nCamera ID: On/off (15 characters, position programmable)\r\nAGC:
+      Support\r\nD/N Mode: Color / BW / EXT\r\nWhite Balance: ATW, AWC-SET, Indoor,
+      Outdoor, Manual\r\nPrivacy Mask: On/Off, maximum 4 zones\r\nMotion Detection:
+      On/Off, maximum 4 zones\r\nBLC: Support \r\n\r\n\r\nGeneral\r\n\r\nWorking Temperature:
+      -40Â°C - 60Â°C (-22Â°F - 140Â°F)\r\nHumidity: 90% or less (non-condensing) \r\nPower
+      Supply: 12 VDC\r\nPower Consumption: Max. 3.6W\r\nWeather Proof Ratings: IP66
+      \r\nIR Range: Up to 20m \r\nCommunication: Up the coax(need UTC controller)
+      \r\nProtocol: Pelco-C (Coaxitron) \r\nDimensions: 89.6 x 59.1mm (3.53\" x 2.33\")\r\nWeight:
+      400g (0.88lb)"
+    in_the_box: "<ul>\r\n<li>1x Turbo HD TVI Outdoor Dome Camera</li>\r\n</ul>"

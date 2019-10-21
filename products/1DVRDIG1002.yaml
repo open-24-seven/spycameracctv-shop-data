@@ -1,0 +1,37 @@
+product:
+  path: digital-wireless-outdoor-cctv-camera-10m-ir-pir-lcd-monitor
+  sku: 1DVRDIG1002
+  name: Digital Wireless Outdoor CCTV Camera with 10m IR, PIR & LCD Monitor
+  images:
+  - path: 4421.jpg
+    title: Digital Wireless Outdoor CCTV Camera with 10m IR, PIR & LCD Monitor
+  - path: 4422.jpg
+    title: 10m night digital wireless CCTV camera with PIR sensor
+  - path: 4423.jpg
+    title: Digital wireless LCD receiver with SD card recorder
+  prices:
+    default:
+    - break: 1
+      unit_price: 1116700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: "Imaging Sensor: 1/5\" Colour CMOS\r\nLens Viewing Angle: 50 Degrees\r\nVideo
+      System: NTSC/PAL\r\nVideo Resolution: 656x488 Pixels\r\nNight Vision Range:
+      10m\r\nIR LED Light: 850nm\r\nIR LED Startup/Shutdown: 2 Lux LED On, 15 Lux
+      LED Off\r\nVideo Frame Rate: 30fps (Max, lower with multiple cameras)\r\nVideo
+      Resolution: VGA\r\nVideo encoding: MPEG-4\r\nVideo Format: .avi\r\nSD Card:
+      Supports up to 32GB (Class 10 Required)\r\nHard disk support: Up to 1TB external
+      disk\r\nLCD Screen Type: 7\" TFT LCD\r\nLCD Screen resolution: 800x480\r\nLuminance
+      Resolution: 250cd/m2\r\nPower Supply: DC 5V 1A\r\nCurrent Consumption: 700mA
+      (Max)\r\nWeight: 615g "
+    in_the_box: "<ul>\r\n<li>1x 15m night vision digital wireless CCTV camera</li>\r\n<li>1x
+      Combination receiver, recorder and monitor</li>\r\n<li>2x 1.5m Mains power supplies</li>\r\n<li>1x
+      AV cable</li>\r\n<li>English manual</li>\r\n<li><strong>2 Year warranty with
+      SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,30 @@
+product:
+  path: 32gb-silicon-power-i-series-usb-2-memory-stick-storage
+  sku: USB32GBSP
+  name: 32GB Silicon Power i-Series USB 2.0 Memory Stick Storage
+  images:
+  - path: 4439.jpg
+    title: 32GB Silicon Power i-Series USB 2.0 Memory Stick Storage
+  prices:
+    default:
+    - break: 1
+      unit_price: 152200
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This i-Series 32GB USB 2.0 memory stick is a compact way of storing
+      any kind of digital file. We sell this as an ideal way to transfer video files
+      across from your CCTV DVR, letting you easily pass them on to the authorities
+      or for archiving. As with all USB sticks, it is also a simple drag-and-drop
+      storage device for all of your photos, music and documents.\r\n\r\nThe stick
+      itself is housed in a durable and sleek metal case, with a protective dust cap
+      for the contacts. As it uses the USB 2.0 standard, it has universal compatibility,
+      working as a plug and play device with almost all computers."
+    specification: "Capacity: 32GB\r\nWeight: 10g\r\nDimensions: 60x18x8mm\r\nOperating
+      Temperature: 0 to +70c\r\nInterface: USB 2.0"
+    in_the_box: "<ul>\r\n<li>1x 32GB USB 2.0 memory stick</li>\r\n</ul>"

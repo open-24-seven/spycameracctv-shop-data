@@ -1,0 +1,47 @@
+product:
+  path: body-worn-camera-1080p-wifi-microsd-storage
+  sku: SPYDCAMBW
+  name: Body Worn Camera - 1080p HD with Wifi, MicroSD Storage
+  images:
+  - path: 5938.jpg
+    title: Body Worn Camera - 1080p HD with Wifi, MicroSD Storage
+  - path: 5939.jpg
+    title: Body worn camera side view
+  prices:
+    default:
+    - break: 1
+      unit_price: 2332900
+  content:
+    ean: "5060611442441"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "As has been made all too clear by a host of recent news stories,
+      body worn cameras are the single most effective way for security employees to
+      objectively document incidents. Good quality video and audio from the perspective
+      of a doorman or security guard can make all the difference in proving that any
+      action taken was justified, or gaining a conviction.\r\n\r\nThis compact and
+      unobtrusive body worn camera easily clips onto outer clothing, recording detail
+      packed video in 1080p Full HD resolution. All footage is also time & date stamped,
+      ensuring it can be used as effective evidence. The imaging sensor is also sensitive
+      right down to 0.03 lux, ensuring you can still keep recording in challenging
+      lighting conditions.\r\n\r\nVideo can also be streamed in real time to an Android
+      or iOS mobile device using the built-in Wifi connection. The free app also lets
+      you view and trigger recording, providing a simple way to check footage without
+      a PC. Video is recorded to the built-in MicroSD slot, with a 16GB card included
+      as standard. A long life Lithium battery allows over 3 hours of continuous use
+      in between charges. "
+    specification: "Imaging Sensor: 1/2.9\" CMOS\r\nVideo Resolution: 1080p, 720p,
+      WVGA @30fps\r\nPhoto Resolution: 5MP\r\nSensitivity: 0.03 lux @ f/2.0\r\nLens:
+      4.6mm\r\nAngle of View: 78 Degrees\r\nWifi: Built-in module (802.11b/g/n)\r\nMemory:
+      MicroSD (16GB included, supports up to 32GB)\r\nVideo File Format: mov, jpg\r\nCompression:
+      H.264, MJPEG\r\nInterface: Mini USB 2.0\r\nTime Stamp: YYYY.MM.DD HH:MM:SS\r\nPower
+      Consumption: 260-300mA (wifi off, wifi on +80mA)\r\nCharging time: 180 mins
+      (700mA)\r\nBattery Type: DC 3.7V 1400mAh Li-Po\r\nBattery Life: 200min continuous
+      recording (wifi on, wifi off +40 min)\r\nRecording Time: 10 min/GB\r\nDimensions:
+      80x45x20mm\r\nWeight: 91g"
+    in_the_box: "<ul>\r\n<li>1x Body worn camera & recorder</li>\r\n<li>1x Mini USB
+      2.0 cable</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x 16GB MicroSD card\r\n</ul>"

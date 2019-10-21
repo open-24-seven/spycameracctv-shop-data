@@ -1,0 +1,47 @@
+product:
+  path: 720p-hd-wireless-pan-tilt-indoor-cctv-camera
+  sku: DIGIRC1003PT
+  name: 720p HD Digital Wireless Pan Tilt CCTV Camera for Portable LCD Kit
+  images:
+  - path: 5202.jpg
+    title: 720p HD Digital Wireless Pan Tilt Camera CCTV Camera
+  - path: 5203.jpg
+    title: Front of 720p HD Digital Wireless Pan Tilt CCTV Camera
+  - path: 5204.jpg
+    title: Side of 720p HD Digital Wireless Pan Tilt CCTV Camera
+  - path: 5205.jpg
+    title: Front of 720p HD Digital Wireless Pan Tilt CCTV Camera
+  prices:
+    default:
+    - break: 1
+      unit_price: 658300
+  content:
+    ean: "5060423072157"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This indoor digital wireless pan tilt CCTV camera is an ideal addition
+      for our portable LCD recorder security systems, allowing you to expand your
+      system up to a maximum of 4 cameras all independently working with the same
+      recorder. The system can support up to 2 cameras recording at 720p HD quality
+      or 4 cameras recording at VGA quality.\r\n\r\nThe key feature of this camera
+      is being able to pan and tilt the camera straight from your screen or your smartphone
+      app. Using its motorised base it can look around the room effortlessly. This
+      flexibility makes it ideal for indoor home security whether it is keeping an
+      eye your pet whilst you are out and about or even as a baby monitor. \r\n\r\nCapturing
+      footage in 720p HD and with night vision you will be able to monitor your room
+      around the clock. The camera can be simply placed on a table or desk or you
+      can use the included clip-in bracket to mount it securely to your ceiling. It
+      also features two-way audio letting you talk back through the camera by speaking
+      into a microphone on the screen.\r\n\r\nTo view and record footage this camera
+      needs to be paired with one of our 9\" LCD monitor recorders.\r\n\r\n"
+    specification: "Imaging Sensor: 1/4\" Colour CMOS\r\nSensor Size: 1280x720p\r\nPower:
+      5V 1A DC\r\nResolution: 720p @ 15fps, VGA @ 25fps (up to 2 cameras connected),
+      VGA @ 15fps (up to 4 cameras connected)\r\nLens: 3.9mm f/1.8\r\nViewing Angle:
+      70Â° (diagonal)\r\nNight Vision Range: 8m\r\nPIR Angle: 60Â°\r\nOperational
+      Temperature: -20Â°c to +40Â°c\r\nHousing Material: ABS\r\n"
+    in_the_box: "<ul>\r\n<li>1x Wireless Pan Tilt Camera</li>\r\n<li>1x Wall Bracket</li>\r\n<li>1x
+      Mains Power Supply</li>\r\n<ul>"

@@ -1,0 +1,77 @@
+product:
+  path: wireless-birdbox-day-night-hidden-camera-receiver
+  sku: NC701G
+  name: Green Feathers Wireless Bird Box Camera with Night Vision
+  images:
+  - path: 5207.jpg
+    title: Green Feathers Wireless Bird Box Camera w Night Vision & 700TVL
+  - path: 3625.jpg
+    title: ' Green Feathers Wireless Birdbox Camera Kit with 2.4Ghz Wireless Receiver'
+  - path: 3626.jpg
+    title: Close up of wireless bird box camera
+  - path: 5190.jpg
+    title: bird box camera packaging
+  - path: 2037.jpg
+    title: Bird Box Camera Power Supply
+  - path: 5890.jpg
+    title: 700tvl bird box camera sample footage
+  prices:
+    default:
+    - break: 1
+      unit_price: 374900
+  content:
+    ean: "5060181658624"
+    meta:
+      title: ""
+      description: The original wireless bird box camera with beautiful packaging
+        is an ideal gift for anyone wanting to enjoy their bird box in true Springwatch
+        style. Buy online today for FREE UK delivery!
+    videos:
+    - https://www.youtube.com/embed/1MVdx4BJyQ0
+    manuals:
+    - http://downloads.spycameracctv.com/NC701G/manuals/NC701G.pdf
+    software: []
+    description: "Measuring just 42 x 35 x 35mm, this small wireless bird box camera
+      screws neatly inside a nest box without disturbing the birds nesting inside.
+      The camera can connect wirelessly to the receiver which can be connected to
+      a TV or a recorder up to 50m away (significantly reduced when going through
+      obstructions such as walls or thick bushes) making it convenient for you to
+      enjoy the nesting birds from the comfort of your home. \r\n\r\nThe camera may
+      be small, but it boasts some impressive features including 700TVL high image
+      quality so you can see every feather, much more detail than most nest box cameras
+      available on the market. This bird box camera offers focus from just a few inches
+      away up to 10 meters, enabling you to get the best pictures no matter how far
+      the bird is away from the lens. The lens is a wide angle 2.8mm lens to give
+      you full coverage of inside the nest box so you can see the entrance hole and
+      the bottom of the bird box. This way you won't miss any of the eggciting action
+      as your garden birds go about their business. \r\n\r\nThe 6 LEDs are just right
+      for seeing in a small space in dark conditions and they are not too powerful
+      to burn themselves out of disturb the birds. This way you get 24/7 footage of
+      your nesting birds, and if you use a recorder you can play your footage back
+      at a later time. \r\n\r\nThis wireless bird box camera is available in 1 of
+      4 channels so you can add more cameras to your system at a later date as you
+      add more nest boxes to your garden. Chances are you'll swiftly be adding more
+      cameras once you get hooked on having your very own Springwatch at home. \r\n\r\nPlease
+      note:\r\n- Does not come with a microphone/audio option\r\n- This camera boasts
+      wireless connection and offers the option of a rechargeable battery (up to 20
+      hours recording time), but generally does use a cable to connect to the mains
+      for power supply.  "
+    specification: "<strong>Camera</strong>\r\nImaging Sensor: 1/3 inch OMNIVISION
+      colour CMOS\r\nHorizontal Resolution: 700 TV lines\r\nCMOS Total Pixels: 628
+      x 582 (PAL) / 510 x 492 (NTSC)\r\nScanning Frequency(H): 15.625kHz 15.734kHz\r\nScanning
+      Frequency(V): 50Hz 60Hz\r\nAngular Field of View: 110 degree (f=2.8mm)\r\nMinimum
+      Illumination: 3.0Lux (F1.2)/ 0Lux (IR LED on)\r\nInfrared LED: 6EA Invisible
+      IR LED 940nm\r\nConsumption Current: 150 mA\r\nWireless Frequency: ISM 2.414
+      - 2.468GHz\r\nWireless Range: 10-20m/50m (obstructed/unobstructed)\r\nTransmission
+      Power: 10mW\r\nGain Control: Automatic\r\nModulation Mode: FM\r\nBandwidth:
+      18m\r\nPower: DC 8V, 500mA\r\nOperating Temperature: -10Â°C ~ +40Â°C\r\nOperating
+      Humidity: 85%RH\r\nDimension (WxLxH): 42x35x35mm\r\nWeight: 65g\r\n\r\n<strong>Receiver</strong>\r\nFrequency:
+      ISM 2414 - 2468MHz 4 Channel\r\nAntenna: Omni-directional antenna\r\nChannel:
+      1-4 (Flip-type switch)\r\nIntermediate Frequency: 480MHz\r\nFrequency Stabilization:
+      +/- 100kHz\r\nDemodulation Mode: FM\r\nReceiving Sensitivity: 85dBm\r\nVideo
+      Output: 1Vp-p@75 ohm, S/N>38dB\r\nPower:DC 12V, 500mA\r\nOperating Temperature:
+      -10Â°C to +40 Â°C\r\nOperating Humidity: 85%RH\r\nDimension (WxLxH): 80x68x16mm\r\nWeight:
+      120g"
+    in_the_box: "<ul>\r\n<li>1x Wireless Bird Box Camera</li>\r\n<li>2x UK mains power
+      supplies</li>\r\n<li>1x Receiver with antenna</li>\r\n<li>1x 1m RCA video cable</li>\r\n<li>Setup
+      instructions</li>\r\n</ul>"

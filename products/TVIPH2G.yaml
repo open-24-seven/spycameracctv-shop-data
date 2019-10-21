@@ -1,0 +1,88 @@
+product:
+  path: gamut-tvi-1080p-hd-covert-security-system-2-pinhole-cameras-dvr
+  sku: TVIPH2G
+  name: Gamut TVI 1080p HD Covert Security System - 2 Pinhole Cameras, DVR
+  images:
+  - path: 5064.jpg
+    title: Gamut TVI 1080p HD Covert Security System - 2 Pinhole Cameras, 1TB DVR
+  - path: 5065.jpg
+    title: Gamut 1080p pinhole CCTV camera
+  - path: 5066.jpg
+    title: Gamut TVI HD pinhole camera side view
+  - path: 5067.jpg
+    title: 4 channel DVR with 1TB HDD
+  - path: 5068.jpg
+    title: 4 channel HD DVR rear view
+  - path: 5955.jpg
+    title: Tiny pinhole camera with OSD & cables
+  prices:
+    default:
+    - break: 1
+      unit_price: 1991699
+  content:
+    ean: "5060423072010"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "A good quality CCTV system is one of the most important assets a
+      small business can have, helping protect both people and property. There are
+      some situations however, where traditional dome or bullet cameras would not
+      be suitable, such as trying to monitor a stock room for staff theft. With these
+      delicate situations in mind, we have put together this complete 2 camera covert
+      security system. Crucially, the included Gamut TVI pinhole cameras mean you
+      don't have to choose between discreet cameras and a quality picture.\r\n\r\nThe
+      included cameras are tiny â€“ measuring only 35 milimetres across â€“ allowing
+      it to be concealed from view. The conical pinhole lens is designed to see through
+      gaps as small as 2mm wide, so you can easily hide them out of view on a shelf
+      or in a suspended ceiling. The cameras record in colour until it gets dark,
+      when they switch to black and white in order to boost sensitivity down to 0.01
+      Lux. \r\n\r\nOur TVI cameras record in 1080p Full HD, making them amongst the
+      highest resolution pinhole cameras on the market. They connect to the recorder
+      using standard plug-and-play AV cables and BNC connectors, so if you have an
+      existing CCTV system you may even be able to use your existing wiring!\r\n\r\nThe
+      kit also includes a 4 channel Hybrid CCTV DVR, capable of recording and playing
+      back the video in Full HD over HDMI. It features a fell suite of settings such
+      as motion detection and scheduling, as well as remote access via PC or mobile.
+      Footage is recorded to a pre-installed hard drive - just select the size required
+      from the drop down menu at the top of the page. The recorder actually uses a
+      hybrid HD system, which lets it capture footage from almost every HD CCTV format
+      on the market, as well as traditional analogue cameras. This means it is incredibly
+      easy to add up to 2 extra cameras to the recorder if you want to expand the
+      system at a later date."
+    specification: "<strong>Cameras</strong>\r\n\r\nImaging Sensor: 1/2.9\" Sony EXMOR
+      CMOS\r\nActive Pixels: 1936x1097\r\nResolution: 1080p (TVI, CVI, AHD), 950TVL(CVBS)\r\nS/N
+      Ratio:>52dB\r\nVideo Output: TVI 2.0, AHD 2.0, CVI 2.0, CVBS\r\nMinimum illumination:
+      0.08lux (colour), 0.008lux (B&W), 0.0008ux (B&W w sens-up)\r\nLens: 3.7mm Pinhole\r\nWhite
+      Balance: ATW, AWC-SET, INDOOR, OUTDOOR, MANUAL, AWB\r\nExposure: DC, MANUAL\r\nBacklight
+      Compensation: OFF, BLC, HSBLC\r\nPrivacy Masking: 4 zones\r\nDay & Night: AUTO,
+      COLOUR, BW, EXT\r\nMotion Detection: On, Off\r\n3DNR: OFF, LOW, MIDDLE, HIGH
+      (exc CVBS)\r\nDigital Effect: OFF, MIRROR, V-FLIP, ROTATE & FREEZE\r\nSharpness:
+      Adjustable\r\nImage Enhancement: D-WDR\r\nDefog: On, Off\r\nCommunication: Coax\r\nOSD:
+      OSD Controller\r\nLanguage: ENG, GER, FRA, ITA, SPA, POL, RUS, POR, NED, TUR,
+      KOR, JPN, HEB, ARB\r\nPower: DC 12V\r\nPower Consumption: 1.2W\r\nOperational
+      Temperature: -10 to +50c\r\nDimensions: 25x25x16mm\r\n\r\n<strong>DVR</strong>\r\n\r\nVideo
+      Compression - H.264\r\nVideo System : NTSC/PAL\r\nOperation System : Linux(embedded)\r\nVideo-input
+      /output : 4CH inputs / VGA and HDMI output\r\nAudio input /output : 4CH inputs
+      /1CH output(RCA)\r\nDisplay resolution PAL : 1920*1080P or 1280*720P or 960*576\r\nDisplay
+      resolution NTSC: 1920*1080P or 1280*720P or 960*480\r\nDisplay feature: single/
+      Quad/S.E.Q.\r\nRecord resolution: PAL : 1920*1080P or 1280*720P or 960*576\r\nRecord
+      resolution: NTSC: 1920*1080P or 1280*720P or 960*480\r\nRecord speed 1080P :15fps(each
+      ch)\r\nRecord speed 720P : 30fps(each ch)\r\nRecord speed 960H : 30fps(each
+      ch)\r\nRecording Mode : Continuous/Manual/Motion detect\r\nPlayback Channel
+      : 1/4CH, or Via CMS, Mobile for 1ch playback, laptop for 1/4Ch playback\r\nPlayback
+      Channel : Local DVR: 1~4ch\r\nPlayback Channel : PC/MAC: 1~4ch\r\nPlayback Channel
+      : Smart Phones: 1ch (using app)\r\nPlayback speed : 1080P :15fps(each ch)\r\nPlayback
+      speed : 720P : 30fps(each ch)\r\nPlayback speed : 960H : 30fps(each ch)\r\nSensor
+      & Alarm I/O : 4 inputs /1 output\r\nNetwork Type : Lan, DHCP, and DDNS\r\nE-mail
+      Notifications : Yes, Support\r\nHDD interface : 1SATA HDDs, up to 6TB\r\nMultiplex
+      Operation : live display, record, playback, backup and network\r\nUSB : 2x USB(for
+      mouse and backup/upgrade)\r\nPTZ Control : yes\r\nMobile Surveillance : Support
+      Mobile Phones based on iPhone and Android operation system\r\nVGA : 800*600,1024*768,1280*1024,1440*900,1920*1080\r\nHDMI
+      : 1080P\r\nIR Extender Port : yes\r\nCLOUD : Optional\r\nP2P : Optional\r\nPower
+      Supply : DC 12V, 2A\r\nDimension(WxDxH) : 300 x 227 x 53mm "
+    in_the_box: "<ul>\r\n<li>2x Gamut HD tiny pinhole cameras</li>\r\n<li>2x Mains
+      power supplies for cameras</li>\r\n<li>2x 10m BNC video cables</li>\r\n<li>1x
+      4 channel HD CCTV DVR</li>\r\n<li>1x USB Mouse</li>\r\n</ul>"

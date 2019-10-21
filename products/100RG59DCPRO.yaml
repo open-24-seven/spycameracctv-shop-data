@@ -1,0 +1,47 @@
+product:
+  path: 100-metre-reel-rg59-co-axial-combo-cctv-camera-cable-with-power-line
+  sku: 100RG59DCPRO
+  name: 100m Reel Pro Copper RG59 Coax shotgun CCTV Cable w BNC Video DC Power
+  images:
+  - path: 1666.jpg
+    title: 100 Metre Reel of Co-Axial RG59 Combo Cable with 2 extra DC Wires
+  - path: 4076.jpg
+    title: RG59 coaxial shotgun cable connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 537500
+  content:
+    ean: "5060181652875"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/vBe_C69xKEM
+    manuals: []
+    software: []
+    description: "When you've invested in the highest standard of CCTV equipment-
+      such as our Sony EFFIO range cameras- it's vital that you don't compromise the
+      quality of your image by using sub standard wire or connectors. This 100m reel
+      of <strong>professional RG59 cable</strong> uses braided copper shielding in
+      order to greatly reduce impedance, and therefore signal degradation over longer
+      distances. The uncut reel means you have much more flexibility when planning
+      the camera's layout, as you can simply cut the cable to a custom length.\r\n\r\nIn
+      order to use the Co Axial RG59 Cable with our CCTV Cameras you will need a pair
+      of Twist-Fit BNC Connectors (one for each end of the cut cable).\r\n\r\n<a href=\"https://www.spycameracctv.com/spycamera/rg59-co-axial-coax-male-bnc-twist-on-connector-adapter-for-cctv-camera\"
+      target=\"_blank\">Click this link for <strong>Co-Axial Twist On Connectors</strong>.</a>\r\n\r\nNote
+      we also sell these connectors in packs of 10, which can be found here:\r\n\r\n<a
+      href=\"https://www.spycameracctv.com/spycamera/10-x-bnc-male-twist-on-connector-rg59-co-axial-coax-adapter-for-cctv\"
+      target=\"_blank\">Click this link for <strong>10 Pack of Co-Axial Twist On Connectors</strong>.</a>\r\n\r\nThe
+      2 Stranded Wires that are combined with the Co Axial RG59 Cable can be used
+      for carrying a low voltage. This means that you can also power your CCTV Camera
+      from your DVR's end and not have to worry about having a power source near to
+      the CCTV Camera's location.\r\n\r\nIn order to use the 2 Stranded Wires to power
+      one of our CCTV Cameras you will need a pair of DC Jack Connectors (one for
+      each end of the cut cable).\r\n\r\n<a href=\"https://www.spycameracctv.com/spycamera/male-jack-connector-adapter-5mm-outer-2mm-inner-screw-terminal\"
+      target=\"_blank\">Click this link for <strong>Male DC Jack Connectors</strong>.</a>\r\n\r\n<a
+      href=\"https://www.spycameracctv.com/spycamera/power-jack-connector-adapter-5mm-outer-2mm-inner-screw-terminal\"
+      target=\"_blank\">Click this link for <strong>Female DC Jack Connectors</strong>.</a>"
+    specification: "Cable Length: 100 Metres\r\nCable Type: 1 x Co-Axial RG59, 2 x
+      Stranded Low-Voltage\r\nResistance: 75 Ohm"
+    in_the_box: "<ul>\r\n<li>100 Metre Reel of Co-Axial RG59 Combo Cable</li>\r\n</ul>"

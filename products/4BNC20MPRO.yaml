@@ -1,0 +1,28 @@
+product:
+  path: 4-20m-bnc-pro-cables
+  sku: 4BNC20MPRO
+  name: 4 x 20m BNC Professional Grade Cables with Power and Video
+  images:
+  - path: 4890.jpg
+    title: 4 x 20m BNC Professional Grade Cables with Power and Video
+  prices:
+    default:
+    - break: 1
+      unit_price: 566800
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is a set of 4 20m RG59 CCTV extension cables, suitable for
+      connecting any analogue or HD TVI camera kits to a DVR.\r\n\r\nThe cables are
+      made from professional grade shielded RG59 cable and are suitable for outdoor
+      installation. They feature twist fit BNC connectors for video and 2.1mm jack
+      for DC power.\r\n\r\nOur 4 cable packs are an ideal addition to a 4 channel
+      DVR kit, and we stock them in a range of sizes."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>4x 20m BNC extension cables</li>\r\n<li><strong>2 Year
+      guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

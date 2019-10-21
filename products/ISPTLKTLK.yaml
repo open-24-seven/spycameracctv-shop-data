@@ -1,0 +1,22 @@
+product:
+  path: talk-talk-isp-setup
+  sku: ISPTLKTLK
+  name: Talk Talk ISP Setp
+  images:
+  - path: 5943.jpg
+    title: ""
+  prices:
+    default:
+    - break: 1
+      unit_price: 0
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

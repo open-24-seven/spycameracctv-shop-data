@@ -1,0 +1,34 @@
+product:
+  path: 20-metre-dc-power-cable-for-cctv-and-spy-camera
+  sku: 20M13POWER
+  name: 20 Metre DC Power Extension Cable with 1.3mm/3.5mm Jack
+  images:
+  - path: 1952.jpg
+    title: 20 Metre DC Power Extension Cable with 1.3mm/3.5mm Jack
+  - path: 5155.jpg
+    title: Close up of 1.3mm/3.5mm jack
+  - path: 5800.jpg
+    title: 1.3mm dc power dimensions
+  - path: 5801.jpg
+    title: 1.3mm dc power comparison
+  prices:
+    default:
+    - break: 1
+      unit_price: 101700
+  content:
+    ean: "5060181653322"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is a power extension lead compatible with 8V cameras with 1.3mm
+      (inner pin) power jack. With a male and a female connector it will simply extend
+      your power supply between your camera and the adapter. \r\n\r\nThis cable is
+      compatible with our bird box cameras allowing you to extend the length of the
+      power supply between the camera and the power source.\r\n\r\nPlease note- we
+      do not recommend this for use with 5V cameras and devices"
+    specification: "Length: 20 Metres\r\nJack Size (inner): 1.3mm\r\nJack Size (outer):
+      3.5mm\r\nRating: 8V DC"
+    in_the_box: ""

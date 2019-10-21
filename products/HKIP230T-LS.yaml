@@ -1,0 +1,61 @@
+product:
+  path: hikvision-darkfighter-1080p-low-light-turret-ip-camera-30m-ir-microsd-slot
+  sku: HKIP230T-LS
+  name: Hikvision Darkfighter 2MP Low Light Turret IP Camera - 30m IR, MicroSD
+  images:
+  - path: 5390.jpg
+    title: Hikvision 2MP Ultra Low Light Turret IP Camera - 30m IR, MicroSD Slot
+  prices:
+    default:
+    - break: 1
+      unit_price: 1140000
+  content:
+    ean: "5060423073857"
+    meta:
+      title: 'Hikvision 2MP Ultra Low Light Turret IP Camera: SpyCameraCCTV'
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/0kcEfrI7Pr8
+    - https://www.youtube.com/embed/3vNvoNXwaBo
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/HKIP230T-LS.pdf
+    software: []
+    description: "This Hikvision turret IP camera is part of their specialist Darkfighter
+      range, Featuring an advanced imaging chip sensitive to ultra low light conditions.
+      This makes it one of our best options for monitoring unlit indoor areas, or
+      open outdoor properties at night. The sensor can record in light levels as low
+      as 0.005 lux - equivalent to a moonless night - without needing to turn on its
+      night vision LEDs. This means it can record in colour for longer, and there
+      will be significantly less noise or grain in the images. \r\n\r\nAs part of
+      the latest range of HIkvision IP cameras, it also boasts their advanced behavioural
+      analytics, a host of triggering and control options that can be set using a
+      Hikvision NVR or PC software. Options include triggering the camera whenever
+      a subject crosses a predetermined line on the screen, or automatic recording
+      of faces as the move past the camera. They provide previously unheard of flexibility
+      for automation, and help make monitoring your property easier than ever before.\r\n\r\nOther
+      professional grade features include an IP67 rated weatherproof housing to protect
+      the camera, and 30m of night vision illumination for situations that are too
+      dark even for the advanced sensor. The camera uses Power over Ethernet to draw
+      power from the network cable, so you don't need to use an additional power supply.
+      It also includes an on-board MicroSD card slot, letting you store footage without
+      using an external recorder."
+    specification: "Imaging Sensor: 1/2.8\" CMOS\r\nMinimum Illumination: 0.005 Lux
+      (colour, IR off), 0 Lux (IR on)\r\nShutter Speed: 1/3s to 1/100,000s\r\nSlow
+      Shutter: Support\r\nLens: 2.8mm\r\nField of View: 108Â°\r\nLens Mount: M12\r\nDay
+      & Night: IR Cut\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo Compression:
+      H.265, H.264\r\nVideo Bit Rate: 32kbps to 16Mbps\r\nMax Resolution: 1920x1080\r\nMain
+      Stream: 1920x1080, 1280x960, 1280x720 @25fps\r\nSub Stream: 640x360, 352x288
+      @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage Settings: Rotate, brightness,
+      contrast, saturation, sharpness\r\nDay/Night Switch: Auto/Scheduled\r\nAlarm
+      Trigger: Motion detection, tampering, network disconnected, IP address conflict,
+      illegal login, HDD full, HDD error\r\nProtocols: TVP/IP, UDP, ICMP, HTTP, HTTPS,
+      FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X,
+      QoS, IPv6\r\nStandard: ONVIF (S,G), PSIA, CGI, ISAPI\r\nNetwork Functions: One
+      key reset, dual-VCA, anti-flicker, heartbeat, mirror, password protection, privacy
+      mask, watermark, IP address filter\r\nCommunication Interface: 1x RJ45 10M/100M
+      Self adaptive\r\nOn Board Storage: MicroSD, up to 128GB (not included)\r\nBehaviour
+      Analysis: Line crossing detection, intrusion detection, unattended baggage detection,
+      object removal detection\r\nOperational Temperature: -30Â°c to +60Â°c\r\nOperational
+      Humidity: <95%\r\nPower Supply: 12V DC (6W), PoE (7W)\r\nIR Range: 30m\r\nProtection:
+      IP67\r\nDimensions: 127.3(d)x95.9mm\r\nWeight: 620g \r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision Darkfighter turret camera</li>\r\n</ul>"

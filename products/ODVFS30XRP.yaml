@@ -1,0 +1,36 @@
+product:
+  path: b-grade-700tvl-sony-effio-varifocal-vandal-proof-dome-wdr
+  sku: ODVFS30XRP
+  name: B-Grade 60% Off Gamut 700TVL Vandal Proof CCTV Dome Camera
+  images:
+  - path: 4456.jpg
+    title: B Grade - Sony Effio P Vandal Proof Dome camera 700 TV Line 30m Night vision
+      WDR
+  - path: 4457.jpg
+    title: B Grade - Sony Effio P Vandal Proof Dome camera front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 616700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-Grade product</strong>\r\nThis product may be opened for
+      testing, ex-display or a customer return.\r\nB-Grade products may show some
+      slight signs of cosmetic damage but are fully tested by our experts."
+    specification: "Image Sensor: 1/3 inch SONY Effio CCD\r\nPixel: 976 (H) x 494(V)\r\nHorizontal
+      Resolution: 700TV Lines\r\nSignal System: PAL / NTSC\r\nScanning System: 2:1
+      interlaced scan\r\nMini. Illumination: 0LUX (IR ON)\r\nsync system: internal\r\ns/n
+      ratio: 52 dB\r\nelectronic shutter: 1/50-1/100,000sec:\r\nGamma correction:
+      0.45\r\nVideo Output: 1 Vpp,75 Ohms\r\nAGC: Auto\r\nLens: 2.8-12mm Manual Varifocal
+      lens\r\nIR LED: 36EA Infrared LED\r\nIR Distance: 30M Infrared LED ON\r\nPower:
+      12VDC (+/-10%)\r\nCurrent: 750mA\r\nOuter Packing: 150x150x140mm\r\nDimension:
+      131x131x93mm\r\nWeight: 0.9Kg\r\nWorking Temperature: -10-45 Degrees C"
+    in_the_box: "<ul>\r\n<li>High quality colour Vandal proof dome SONY Effio P CCD
+      700 TV line camera.</li>\r\n<li>Fixings including screws.</li>\r\n<li>1 x Power
+      conversion pack for camera.</li>\r\n<li>CCD camera instruction sheet.</li>\r\n</ul>"

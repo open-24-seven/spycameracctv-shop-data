@@ -1,0 +1,66 @@
+product:
+  path: hikvision-4mp-vandalproof-dome-ip-camera-30m-ir-microsd-slot
+  sku: HKIP430D-VS
+  name: Hikvision 4MP Vandalproof Dome IP Camera - 30m IR, MicroSD Slot
+  images:
+  - path: 5418.jpg
+    title: Hikvision 4mP Outdoor Dome IP Camera - 30m IR, MicroSD Slot
+  - path: 5419.jpg
+    title: Hikvision 5mp sensor size chart
+  - path: 5815.jpg
+    title: Hikvision 4MP vandalproof dome camera front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1180000
+  content:
+    ean: "5060423076872"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/0kcEfrI7Pr8
+    - https://www.youtube.com/embed/W3KuDc0mifs
+    - https://www.youtube.com/embed/AWlmPpJqmUg
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/HKIP530D-S.pdf
+    software: []
+    description: "Recording twice the subject detail of 1080p Full HD cameras, this
+      Hikvision 2MP dome camera is a great choice for demanding security applications
+      such as bars, pubs and venues. It can record video at up to 2560x1920 resolution,
+      for files packed with usable detail that can be enlarged and still be sharp.
+      This dependable image quality has helped make Hikvision's cameras the trusted
+      workhorses for CCTV installers across the globe.\r\n\r\nAs part of their latest
+      range, this camera also boasts a range of smart detection features. These can
+      be controlled either from a recorder or from Hikvision's free remote access
+      software, and provide an unprecedented level of control for your system's recording.
+      Examples include intrusion detection over custom selected areas and line crossing
+      detection.\r\n\r\nThe camera itself is housed inside of an IP67 rated weatherproof
+      and vandalproof dome, making it suitable for outdoor use. At the same time,
+      it's compact size and shape make it a popular choice for discreet recording
+      indoors. Infra red LEDs provide 30m night vision range, and a wide angle lens
+      helps capture everything within a 103 degree field of view in front of the camera.
+      It also features a MicroSD card slot, which can be used to record footage without
+      an external NVR, or even as an <a href=\"https://blog.spycameracctv.com/using-hikvision-anr-to-backup-cctv-footage\"
+      target=\"_blank\">automatic backup in case your recorder cuts out</a>."
+    specification: "Imaging Sensor: 1/3\" CMOS\r\nMinimum Illumination: 0.01 Lux (colour,
+      IR off), 0 Lux (IR on)\r\nShutter Speed: 1/3s to 1/100,000s\r\nSlow Shutter:
+      Support\r\nLens: 2.8mm\r\nField of View: 103Â°\r\nLens Mount: M12\r\nDay & Night:
+      IR Cut\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo Compression: H.265+,
+      H.265, H.264\r\nVideo Bit Rate: 256kbps to 16Mbps\r\nMax Resolution: 22688x1520\r\nMain
+      Stream: 2688x1520 @25fps, 2560x1440, 2048x1536, 1920x1080, 1280x960, 1280x720
+      @25fps\r\nSub Stream: 640x480, 640x360, 320x240 @25fps\r\nImage Enhancement:
+      BLC, 3D DNR\r\nImage Settings: Rotate, brightness, contrast, saturation, sharpness\r\nDay/Night
+      Switch: Auto/Scheduled\r\nAlarm Trigger: Motion detection, tampering, network
+      disconnected, IP address conflict, illegal login, HDD full, HDD error\r\nProtocols:
+      TVP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE,
+      NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandard: ONVIF (S,G), PSIA,
+      CGI, ISAPI\r\nNetwork Functions: One key reset, dual-VCA, anti-flicker, heartbeat,
+      mirror, password protection, privacy mask, watermark, IP address filter\r\nCommunication
+      Interface: 1x RJ45 10M/100M Self adaptive\r\nOn Board Storage: MicroSD, up to
+      128GB (not included)\r\nBehaviour Analysis: Line crossing detection, intrusion
+      detection, unattended baggage detection, object removal detection\r\nOperational
+      Temperature: -30Â°c to +60Â°c\r\nOperational Humidity: <95%\r\nPower Supply:
+      12V DC (6W), PoE (7.5W)\r\nIR Range: 30m\r\nProtection: IP67, IK10\r\nDimensions:
+      111(d)x82.4mm\r\nWeight: 610g "
+    in_the_box: "<ul>\r\n<li>1x Hikvision outdoor dome camera</li>\r\n</ul>"

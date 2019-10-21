@@ -1,0 +1,22 @@
+product:
+  path: 2tb-to-6tb-upgrade
+  sku: 2TBTO6TB
+  name: 2TB to 6TB Hard Drive Upgrade
+  images:
+  - path: 3976.jpg
+    title: 2TB to 6TB Hard Drive Upgrade
+  prices:
+    default:
+    - break: 1
+      unit_price: 1666699
+  content:
+    ean: ""
+    meta:
+      title: 2TB to 6TB Hard Drive Upgrade
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

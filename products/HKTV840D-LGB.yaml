@@ -1,0 +1,52 @@
+product:
+  path: hikvision-turbo-hd-dome-camera-40m-ir-low-light
+  sku: HKTV840D-LGB
+  name: Hikvision Turbo HD 8MP Dome Camera with 40m IR, Low Light
+  images:
+  - path: 5788.jpg
+    title: " \tHikvision Turbo HD 8MP Dome Camera with 40m IR, Low Light"
+  prices:
+    default:
+    - break: 1
+      unit_price: 1580000
+  content:
+    ean: "5060423077435"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "With their best selling <strong>Turbo HD</strong> range, Hikvision
+      have developed plug-and-play coaxial cameras that feature amazing image quality
+      and features previously only possible with IP systems. This compact dome camera
+      is no exception, boasting 8MP (3840x2160) video recording. This makes it possible
+      to pull faces or clothing detail from crowds, and is ideally suited to retail
+      or venue security systems.\r\n\r\nThe advanced imaging sensor also allows the
+      camera to keep recording in full colour in conditions as dark as 0.003 lux,
+      letting you record for longer without needing to switch the infra red. 120dB
+      Wide Dynamic Range also helps keep subject detail in tricky high contrast situations,
+      such as in front of a window or door. When paired with <a href=\"https://www.spycameracctv.com/spycamera/hikvision-turbo-hd-4-channel-dvr-8mp-recording\"
+      target=\"_blank\">Hikvision's Turbo HD DVR</a>, you can even set up line crossing
+      and intrusion detection, for highly adjustable recording triggers.\r\n\r\nAfter
+      dark, EXIR LEDs provide 40m night vision, whilst automatically adjusting for
+      close-in subjects. The 2.8mm lens allows a 102 degree wide field of view, ideally
+      suited to interior spaces. All of this is protected inside of an IP67 rated
+      weather proof dome, suitable for outdoor use. It's also IK10 vandal proof, allowing
+      installation in exposed areas without risk of damage.\r\n\r\n"
+    specification: "Imaging Sensor: 8.29MP progressive scan CMOS\r\nSignal System:
+      PAL/NTSC\r\nFrame Rate (PAL): 8MP @12.5fps, 5MP @20fps, 4MP/1080p @2fps\r\nResolution:
+      3840x2160\r\nMinimum Illumination: 0.003 Lux (colour, IR off), 0 Lux (IR on)\r\nShutter
+      Time (PAL): 1/12.5-10,000s\r\nLens: 2.8mm\r\nHorizontal Field of View: 102.2
+      Degrees\r\nLens Mount: M12\r\nDay & Night: IR Cut\r\nSynchronization: Internal
+      Synch\r\nWide Dynamic Range: 120dB\r\nAGC: Supported\r\nDay/Night: Auto, colour,
+      B&W\r\nWhite Balance: Auto, manual, natural\r\nPrivacy Mask: Supports 4 programmable
+      masks\r\nBack Light Compensation: Supported\r\n3D DNR: Supported, 10 levels\r\nLanguage:
+      English\r\nImage Functions: Contrast, sharpness, saturation, mirror, defog,
+      HLC\r\nHD Output: 1x BNC\r\nCVBS Output: 1x BNC\r\nOperational Temperature:
+      -40 to +60c\r\nOperational Humidity: <90%\r\nPower Supply: 12V DC\r\nPower Consumption:
+      Max 4.8W\r\nProtection Level: IP67\r\nVandal Proofing: IK10\r\nHousing Material:
+      Metal\r\nIR Range: 40m\r\nCommunication: Up the coax (HIKVISION-C)\r\nDimensions:
+      111(d)x82.4mm\r\nWeight: 450g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 8MP dome camera</li>\r\n<li>1x Mains power
+      supply</li>\r\n</ul>"

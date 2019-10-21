@@ -1,0 +1,22 @@
+product:
+  path: 7db-high-gain-antenna-4-pack
+  sku: 7DB24GHZX4
+  name: '7dB High gain antenna for wireless transmitter/receivers- 4 pack '
+  images:
+  - path: 5114.jpg
+    title: '7dB High gain antenna for wireless transmitter/receivers- 4 pack '
+  prices:
+    default:
+    - break: 1
+      unit_price: 500000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

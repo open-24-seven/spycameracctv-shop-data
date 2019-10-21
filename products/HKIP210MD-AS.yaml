@@ -1,0 +1,75 @@
+product:
+  path: hikvision-2mp-ip-mini-dome-camera-10m-audio
+  sku: HKIP210MD-AS
+  name: Hikvision 2MP IP Mini Dome Camera with 10m Night Vision, Audio
+  images:
+  - path: 5223.jpg
+    title: Hikvision 4MP IP Mini Dome Camera with 10m Night Vision
+  - path: 5750.jpg
+    title: Hikvision 3MP mini dome top view
+  - path: 5751.jpg
+    title: Hikvision 3MP mini dome IP camera front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1420000
+  content:
+    ean: "5060423079866"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/HKIP410MD.pdf
+    software: []
+    description: "Planning a security system for a shop or bar can be frustrating,
+      as you need to ensure you can record with enough detail to keep your staff and
+      customers secure. At the same time, many of the commercial grade cameras on
+      the market are bulky and obtrusive. This mini dome IP camera from Hikvision
+      is the perfect solution, packing a 3MP high resolution sensor into a tiny, discreet
+      dome housing. The small size and inconspicuous design make it ideal for retail
+      spaces and venues.\r\n\r\nFootage is recorded in 1920x1080p Full HD (or 2 Megapixel),
+      capturing substantially more subject detail than Full HD. The imaging sensor
+      can work in conditions as dark as 0.009 lux in full colour, or can use the built-in
+      IR LEDs for 10m night vision in totally unlit conditions. Despite its size,
+      the dome is also rated IK08 vandalproof, so it can be mounted on a low ceiling
+      or above a doorway without risk of being damaged. It's even rated IP66 waterproof,
+      allowing outdoor use. The camera even has a tiny built in microphone, to capture
+      audio from nearby subjects.\r\n\r\nThe IP camera connects to your network, supporting
+      Power-over-ethernet. Once configured, you can view live or recorded footage
+      from anywhere, using a PC or mobile device. The camera's processor allows the
+      use of a range of smart detection features, including line crossing, intrusion,
+      and object removal detection, helping you automate your system's coverage. There
+      is also a built-in MicroSD card slot that can be used to record footage, or
+      even act as a back up in case the connection to your recorder is lost (card
+      not included). "
+    specification: "<strong>Camera</strong>\r\n\r\nImage Sensor: 1/2.8\" Progressive
+      Scan CMOS\r\nMin. Illumination: 0.009Lux @ (F1.6, AGC ON), 0 Lux with IR\r\nShutter
+      Speed: 1/3 s to 10,000s\r\nLens: 2.8mm @ f1.6\r\nAngle of view: 108Â°\r\nLens
+      Mount: M12\r\nDay & Night: IR cut filter with auto switch\r\nDNR: 3D DNR\r\nWide
+      Dynamic Range: 120dB\r\nAngle of adjustment: Pan: -30Â°â€“30Â°, Tilt: 0Â°â€“75Â°,
+      Rotation: 0Â°â€“360Â°\r\n\r\n<strong>Compression Standard</strong>\r\n\r\nVideo
+      Compression: H.265/H.264(Main), H.265/H.264/MJPEG(Sub), H.265/H.264(Third)\r\nH.264
+      Type: Main Profile\r\nH.265 Type: Main profile\r\nVideo Bit Rate: 32 Kbps ~
+      16 Mbps\r\nDual streams: Supported\r\n\r\n<strong>Image</strong>\r\n\r\nMax.
+      Resolution: 1920x1080\r\nFrame Rate: 50Hz: 1920x1080, 1280x720 @25fps(Main),
+      640x480, 640x360, 320x240 @25fps(sub),  1280x720, 640x360, 352x288 @25fps(third)\r\nImage
+      Setting: Rotate Mode, Saturation, Brightness, Contrast, Sharpness adjustable
+      by client software or web browser\r\nBLC: Supported, zone configurable\r\n\r\n\r\n<strong>Network</strong>\r\n\r\nNetwork
+      Storage: MicroSD (up to 128GB), NAS (Support NFS, SMB/CIFS), ANR\r\nSmart Detection:
+      Intrusion detection, line crossing detection, unattended baggage, object removal,
+      face detection\r\nAlarm Trigger: motion detection, Tampering alarm, network
+      disconnect, IP address conflict, storage exception\r\nProtocols: TCP/IP, UDP,
+      ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP,
+      SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nGeneral: One-key reset, anti-flicker,
+      heartbeat, mirror, password protection, privacy mask, watermark, IP address
+      filtering\r\nStandard: ONVIF (PROFILE S, PROFILE G), ISAPI\r\nSimultaneous Live
+      View: Up to 6 Channels\r\nUser/host: Up to 32 users, 3 levels (admin, operator,
+      user)\r\nClient: iVMS-4200, Hik Connect, iVMS-5200\r\n\r\n<strong>Interface</strong>\r\n\r\nCommunication
+      Interface: 1x RJ45 10M/100M Ethernet port\r\nOn-board storage: Built-in MicroSD/SDHC/SDXC
+      slot, up to 128GB\r\n\r\n<strong>General</strong>\r\n\r\nOperating Conditions:
+      -30 Â°C to +60 Â°C, Humidity 95% or less (non-condensing)\r\nPower Supply: DC12V
+      Â± 25%, PoE (802.3af)\r\nPower Consumption: Max. 7.5W\r\nNight vision range:
+      Approx. 10 meters\r\nIngress Protection: IP67\r\nDimensions: 110x56.4 mm\r\nWeight:
+      400g"
+    in_the_box: <ul><li>1x Hikvision 2MP IP Mini Dome Camera</li></ul>

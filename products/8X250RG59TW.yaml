@@ -1,0 +1,22 @@
+product:
+  path: 8-camera-250m-reel-pack
+  sku: 8X250RG59TW
+  name: 250m RG59 Pro-Grade cable with connector pack for 8 cameras
+  images:
+  - path: 4893.jpg
+    title: 250m RG59 Pro-Grade cable with connector pack for 8 cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 1285900
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

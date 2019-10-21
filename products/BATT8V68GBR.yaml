@@ -1,0 +1,35 @@
+product:
+  path: b-grade-8v-dc-li-on-high-capacity-6800mh-battery-for-pinhole-bird-box-cameras
+  sku: BATT8V68GBR
+  name: 'B Grade-25% Off! 8V DC Rechargeable Li-On Lithium 6800mAh Battery '
+  images:
+  - path: 4469.jpg
+    title: B grade 8V DC Rechargeable Li-On Lithium 6800mAh Battery for Birdbox Cameras
+  - path: 4470.jpg
+    title: BATT8V68 connectors
+  - path: 4471.jpg
+    title: BATT8V68 charger
+  prices:
+    default:
+    - break: 1
+      unit_price: 243500
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong> B-Grade product - 25% off normal price!</strong>\r\n\r\nThis
+      product may be opened for testing, ex-display or a customer return.\r\nB-Grade
+      products may show some slight signs of cosmetic damage but are fully tested
+      by our experts.\r\n\r\nAll B-Grade items are fully covered by the same 2 year
+      warranty as our new products!\r\n\r\nPLEASE NOTE THAT THERE ARE VERY LIMITED
+      NUMBERS OF THIS CLEARANCE STOCK"
+    specification: "Capacity of Battery: 68000mAh\r\nDuration of Power Supply: Up
+      to 36 hours\r\nInput Voltage: 8.4V \r\nOutput Voltage: 8.4 - 7.2v\r\nSize: 118
+      x 72 x 32mm"
+    in_the_box: "<ul>\r\n<li>1x High Capacity 8V DC Lithium Battery</li>\r\n<li>1x
+      1.3mm male to 2.5mm male connection cable</li>\r\n<li>1x 110/240V Mains Power
+      Charger</li>\r\n<li>Instruction manual</li>\r\n<li>1 year guarantee from SpyCameraCCTV</li>\r\n</ul>"

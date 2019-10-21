@@ -1,0 +1,56 @@
+product:
+  path: hikvision-hiwatch-ip-2mp-1080p-dome-camera-30m-night-vision
+  sku: EZIP230D
+  name: Hikvision HiWatch IP 2MP 1080p Dome Camera with 30m Night Vision
+  images:
+  - path: 5465.jpg
+    title: " \tHikvision 2MP Easy IP Dome Camera - 1080p with 30m Night Vision"
+  - path: 5466.jpg
+    title: Hikvision 1080p Easy IP dome camera side view
+  - path: 5467.jpg
+    title: Hikvision Easy IP camera connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 754000
+  content:
+    ean: "5060423075066"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Whilst not a household name, Hikvision is the largest CCTV manufacturer
+      on the planet, and is rightly an industry heavyweight. They have made their
+      name supplying high end, high resolution camera systems for commercial applications
+      such as football stadiums and train stations. Now, with the release of their
+      new <i>HiWatch</i> range, home users can take advantage of their amazing image
+      quality as well! This compact dome IP camera is no exception, and boasts simple
+      setup and 2 Megapixel images, all at a great price.\r\n\r\nThe camera records
+      in 1080p Full HD, capturing highly detailed images that can be used for clear
+      identification. It also packs infrared LEDs, providing 30m of night vision illumination.
+      This is essential for use in unlit areas after-hours. The lens is a 2.8mm wide
+      angle, so it can record everything within a large 95Â° field of view. All of
+      this is crammed into a compact IP67 rated weatherproof housing, suitable for
+      exposed outdoor use.\r\n\r\nThe Power-over-Ethernet (PoE) camera draws power
+      from the network cable, so as long as you have a compatible recorder or network
+      switch, it doens't need a mains power supply. Once connected to your network,
+      it's a simple process to configure remote access, letting you watch it from
+      a PC or mobile device. Alternatively, connect it to an NVR to record footage
+      for extended periods.\r\n\r\n"
+    specification: "Imaging Sensor: 1/2.8\" Progressive Scan CMOS\r\nMinimum Illumination:
+      0.01 Lux (IR On), 0 Lux (IR Off)\r\nShutter Speed: 1/3 to 1/100,000s, supports
+      slow shutter\r\nLens: 2.8mm\r\nField of View: 95Â°\r\nLens Mount: M12\r\nDay
+      & Night Switching: IR Cut with auto switching\r\nDNR: 3D DNR\r\nWDR: Digital
+      WDR\r\nVideo Compression: H.264+/H.264 (Main stream), H.264/MJPeg (Sub stream)\r\nH.264
+      Type: Mainline, Baseline\r\nVideo Bitrate: 32Kbps to 8Mbps\r\nMax Resolution:
+      1920x1080\r\nMain Stream Max Framerate: 1920x1080, 1280x960, 1280x720 @25fps\r\nSub
+      Stream Max Framerate: 704x576, 640x480, 352x288, 320x240 @25fps\r\nImage Settings:
+      Brightness, Saturation, Contrast, Sharpness\r\nOther Recording Features: Scheduled
+      day/night switching, Mirror, Back light correction, Region of interest\r\nCommunication
+      Interface: 1x RJ45 10/100M Self adaptive Ethernet\r\nOperational Temperature:
+      -30Â°c to +60Â°c \r\nOperational Humidity: 95% or less\r\nPower Supply: 12VDC,
+      PoE (802.3af)\r\nPower Consumption: Max 4W/6W (PoE)\r\nIngress Protection: IP67\r\nIR
+      Range: 30m\r\nDimensions: 85.5x172.7mm\r\nWeight: 350g\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision HiWatch IP dome camera</li>\r\n</ul>"

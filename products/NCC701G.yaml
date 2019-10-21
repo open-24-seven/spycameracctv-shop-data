@@ -1,0 +1,46 @@
+product:
+  path: wireless-colour-bird-box-wildlife-camera-ir-night-vision-380tvl
+  sku: NCC701G
+  name: Wireless Bird Box Camera with Night Vision (Spare camera only)
+  images:
+  - path: 5213.jpg
+    title: Green Feathers additional bird box camera for wireless kit
+  - path: 5212.jpg
+    title: "Green Feathers  \tWireless Bird Box Camera 700TVL"
+  - path: 1578.jpg
+    title: Mains Power Adapters and Battery Clips included in this Pack
+  prices:
+    default:
+    - break: 1
+      unit_price: 233299
+  content:
+    ean: "5060423072676"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/1MVdx4BJyQ0
+    manuals:
+    - http://downloads.spycameracctv.com/NC701G/manuals/NC701G.pdf
+    software: []
+    description: "This Green Feathers wireless bird box camera can be used as a replacement
+      to virtually any 4 channel 2.4Ghz camera system. 2.4Ghz cameras can be set to
+      1 of 4 wireless channels. Whilst most bird box cameras on the market are pre-set
+      to one of these, our bird box cameras have switches on the back, allowing you
+      to change between them yourself, ideal if one channel is being affected by wireless
+      interference.\r\n\r\nThe camera itself comes with a power adapter and providing
+      you have a compatible receiver, LCD screen, Mini DVR or other equipment should
+      simply plug in and play with your system. \r\n\r\nPLEASE NOTE: This is a camera
+      only. You will need to add this to an existing system with a receiver for it
+      to work."
+    specification: "Imaging Sensor: 1/3 inch OMNIVISION Colour CMOS\r\nHorizontal
+      Resolution: 700 TV Lines\r\nCMOS Total Pixels: 628x582 (PAL)\r\nScanning Frequency(H):
+      15.625KHz 15.734KHz\r\nScanning Frequency(V): 50Hz 60Hz\r\nAngular Field of
+      View: 110 degree (f=2.8mm)\r\nMinimum Illumination: 3.0lux (F1.2)/ 0lux (IR
+      LED On)\r\nConsumption Current: 80mA\r\nWireless Frequency: ISM 2.414 - 2.468ghz\r\nOperating
+      Range: 30m/100m (Obstructed / Unobstructed)\r\nTransmission Power: 10mW\r\nGain
+      Control: Automatic\r\nModulation Mode: FM\r\nBandwidth: 18M\r\nPower: DC 8V,
+      500mA\r\nOperating Temperature: -10oC ~ +40oC\r\nOperating Humidity: 85%RH\r\nDimension
+      (WxLxH): 42x35x35mm\r\nWeight: 65 g"
+    in_the_box: "<ul>\r\n<li>1x Wireless Bird Box Camera</li>\r\n<li>1x 3m UK mains
+      power supply</li>\r\n</ul>\r\n"

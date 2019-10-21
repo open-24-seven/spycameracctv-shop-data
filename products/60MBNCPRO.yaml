@@ -1,0 +1,39 @@
+product:
+  path: 60m-professional-copper-rg59-bnc-video-dc-power-extension-cctv-cable
+  sku: 60MBNCPRO
+  name: 60m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  images:
+  - path: 3660.jpg
+    title: 60m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  - path: 3661.jpg
+    title: BNC video and 2.1mm Power Jack connectors
+  - path: 3662.jpg
+    title: Professional RG59 CCTV cable cutaway diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 337500
+  content:
+    ean: "5060181655760"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Just invested in one of our TVI Professional HD Cameras? The last
+      thing you want is for your camera's exceptional performance to be compromised
+      by sub-standard cabling. The solution is our range of professional quality CCTV
+      video and power cables, all composed of high grade Copper RG59 wire. This provides
+      much lower signal drop-off than with a standard cable, ensuring no loss of image
+      quality.\r\n\r\nThis 2 way CCTV cable also features a DC power line fitted with
+      a standard 2.1mm power jack. This means you only have to run one cable out to
+      your cameras, rather than two. \r\n\r\nLooking for a shorter cable? We stock
+      these in 10, 20, 30, 40, 50 and 60 metre lengths, and can even supply 100m and
+      250m uncut reels! If you have any questions, or need help setting up your system,
+      just give our technical advisers a call- just see our contact page for the easiest
+      way to get in touch!"
+    specification: "Length: 60m\r\nInner conductor: 0.81mm Bare Copper\r\n1st Shielding:
+      Single Aluminium Foil\r\nJacket: 6x3.5mm Black PVC\r\nImpedance: 75+/-3 Ohm\r\nCapacitance:
+      53pF/m"
+    in_the_box: ""

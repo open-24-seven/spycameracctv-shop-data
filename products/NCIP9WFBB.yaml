@@ -1,0 +1,72 @@
+product:
+  path: green-feathers-de-luxe-bird-box-wifi-camera-kit
+  sku: NCIP9WFBB
+  name: Green Feathers De Luxe Bird Box WiFi Camera Kit
+  images:
+  - path: 5724.jpg
+    title: " \tGreen Feathers De Luxe Bird Box with Wifi Camera Kit"
+  - path: 5725.jpg
+    title: Green Feathers Wifi Bird Box Camera
+  - path: 5726.jpg
+    title: Wifi camera inside bird box
+  - path: 5727.jpg
+    title: Green Feathers Wifi Camera Cable Connectors
+  - path: 5728.jpg
+    title: Wifi camera reset switch
+  - path: 5729.jpg
+    title: De Luxe Wooden Bird Box
+  - path: 5915.jpg
+    title: Green Feathers de luxe bird box dimensions
+  prices:
+    default:
+    - break: 1
+      unit_price: 1160000
+  content:
+    ean: "5060611440065"
+    meta:
+      title: ""
+      description: Everything you need in one kit to watch nesting birds in HD letting
+        you see every feather. This bundle includes our deluxe bird box handmade in
+        the UK.
+    videos:
+    - https://www.youtube.com/embed/3jX37JUAWMk
+    - https://www.youtube.com/embed/XYIXOfXGwO0
+    manuals: []
+    software: []
+    description: "Our <a href=\"https://www.green-feathers.co.uk\" title=\"Green Feathers\"
+      target=\"_blank\">Green Feathers</a> team has almost of decade of experience
+      providing specialist cameras for watching birds and other wildlife. Now we can
+      proudly say that we have partnered with Riverside Woodcraft - foremost manufacturers
+      of hand crafted bird houses - to provide our own bird houses, specially designed
+      for use with cameras. This kit pairs the larger, de luxe bird box with our market
+      leading Wifi bird box camera. It includes everything you need to get the box
+      installed, and the camera up and running on your phone or tablet.\r\n\r\nThe
+      box is hand made from sturdy 21mm thick wood, significantly thicker than most
+      other boxes on the market. Purpose designed for use with our cameras, it features
+      a central mounting point, as well as air vents through which you can run the
+      power cable. The front of the box is removable, both allowing easy installation
+      of the camera, and use by species such Robins that prefer an open-fronted nest.
+      Importantly, it's made from FSC Mix certified timber from sustainable sources.\r\n\r\nThe
+      camera is our flagship model, connecting to your home's Wifi network to let
+      you view from anywhere using an Android or iOS device. The digital sensor records
+      pin sharp video in 960p resolution, with true-to-life colour in daylight. When
+      light levels are low, it uses invisible IR LEDs to keep recording without any
+      glow that could distract the chicks. The camera has a MicroSD card slot, letting
+      you easily record footage - and even set up motion detection - without needing
+      to connect it to an external recorder. The only connection the camera needs
+      is to mains power, using the included 20m cable. Our Daylight LED lamp simply
+      connects into the camera's power supply and passes the rest of the power through
+      to the camera, so you don't have to run a separate power cable."
+    specification: "Imaging Chip: 1/3\" CMOS\r\nPixels: 1280x960 (1.3MP)\r\nSensitivity:
+      0.5 Lux (IR Off), 0 Lux (IR On)\r\nMain Stream Frame Rates: 1280x960, 1280x720
+      @25fps\r\nSub Stream Frame Rate: 4CIF @25fps\r\nVideo Compression: H.264\r\nDWDR:
+      On/Off\r\n3D DNR: Yes\r\nLens: 2.8mm F/1.4\r\nField of View: 103Â°\r\nDay &
+      Night: Auto ICR\r\nAudio Input: Built-in Mic\r\nAudio Compression: G.711\r\nNight
+      Vision Range: <1m\r\nLEDs: 4x high efficiency 940nm\r\nSoftware Configuration:
+      Web browser or PC Software\r\nProtocols: HTTP, TCP/IP, ARP, RTSP, RTP, UDP,
+      SMTP, FTP, DHCP, DNS, DDNS, PPPOE, UPNP, NTP, 802.1x\r\nWireless: IEEE 802.11b/g/n\r\nPower
+      Input: 12V DC\r\nPower Consumption: 6W (Max)\r\nDimensions: 44x44x33mm\r\nOperational
+      Temperature: -20Â°c to +55Â°c\r\nOperational Humidity: 10-80%"
+    in_the_box: "<ul>\r\n<li>1x De Luxe wooden bird box</li>\r\n<li>1x Green Feathers
+      WiFi bird box camera</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x 20m power
+      extension cable</li>\r\n<li>1x Daylight LED Lamp for bird box</li>\r\n</ul>"

@@ -1,0 +1,72 @@
+product:
+  path: hikvision-mini-ptz-camera-2mp-ip-25x-zoom-50m-night-vision
+  sku: HKIP20525PTZ
+  name: Hikvision Mini PTZ Camera - 2MP with 25x Zoom, 50m IR, Smart Tracking
+  images:
+  - path: 5665.jpg
+    title: " \tHikvision Mini PTZ Camera - 2MP IP with 25x Zoom, 50m Night Vision"
+  prices:
+    default:
+    - break: 1
+      unit_price: 4320000
+  content:
+    ean: "5060423076032"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/DU_QgDd37UM
+    manuals: []
+    software: []
+    description: "Hikvision's range of IP PTZ cameras are a fantastic way to monitor
+      large spaces with moving subjects, such as car parks, fields or lobbies. One
+      common problem, however, is that the cameras themselves can be very bulky, often
+      making them both impractical to mount and also indiscreet. This mini PTZ camera
+      is an ideal solution, miniaturising their advanced imaging and analytics technology
+      into a compact package. Don't let the size fool, though - it packs a host of
+      smart features, including line crossing, intrusion, region exiting, face & object
+      removal detection, as well as a host of others.\r\n\r\nThe camera is built around
+      a 2 megapixel imaging chip, recording video footage at 1080p full HD. When combined
+      with the powerful 25x optical zoom lens, this lets you see subjects impressively
+      far away, or lets you move in for unbeatable detail on closer subjects - we
+      have had farmers use these to read the tag numbers on their cow's ears. The
+      camera is sensitive right down to 0.005 lux, letting it record in colour even
+      in low light levels. Below this it uses a powerful IR illuminator to view subjects
+      up to 50m away (at full zoom).\r\n\r\nThe camera can be controlled directly
+      using a mobile phone or tablet app, or by using a Hikvision NVR and a PTZ joystick
+      controller. As well as manual control, you can program up to 8 patrol movements,
+      or 300 individual camera positions. The camera even has a MicroSD slot which
+      can be used as an automated backup should the connection to your recorder be
+      lost."
+    specification: "Imaging Sensor: 1/2.8\" CMOS\r\nResolution: 1920x1080\r\nMinimum
+      Illumination: 0.005 Lux (IR Off), 0 Lux (IR On)\r\nShutter Speed: 1 to 1/30,000s\r\nFocal
+      Length: 4.8-120mm\r\nOptical Zoom: 20x\r\nDigital Zoom: 16x\r\nZoom Speed: Approx
+      3.2s (wide-tele)\r\nAngle of View: 57.6-2.5 Degrees\r\nMinimum Working Distance:
+      10-1500mm\r\nAperture Range: f/1.6 to f/3.5\r\nFocus Mode: Auto, Semi-auto,
+      Manual\r\nWDR: 120dB\r\nAGC: Auto, Manual\r\nWhite Balance: Auto, Manual, ATW,
+      Indoor, Outdoor, Daylight, Sodium\r\nDay & Night: IR Cut\r\nPrivacy Mask: Up
+      to 8, programmable\r\nImage Enhancement: 3D DNR, Defog, HLC/BLC, EIS\r\nPan
+      & Tilt Range: Pan 360Â° (endless), Tilt 15-90Â°\r\nSpeed: 0.1-300Â°/s\r\nPreset
+      Positions: 300\r\nPatrols: 8, Up to 32 positions per patrol\r\nPark Action:
+      Preset, patrol, pattern, pan scan, tilt scan, random scan, frame scan, panorama
+      scan\r\nScheduled Task: Auto scan, frame scan, random scan, patrol, pattern,
+      preset, panorama scan, tilt scan, dome reboot, dome adjust, aux output\r\nBasic
+      Event Detection: Motion, Video tampering, Alarm input, Alarm output, Exception\r\nSmart
+      Detection: Audio exception, Face, Intrusion, Line crossing, Region entrance,
+      Region exiting, Unattended baggage, Object removal\r\nROI Encoding: Supports
+      4 areas with adjustable levels\r\nIR Range: 50m\r\nIR Intensity: Automatically
+      adjusted depending on zoom ration\r\nEthernet: 10Base-T, 100Base-TX, RJ45\r\nStreams:
+      Up to 3\r\nMain Stream Resolution: 1920x1080/1280x960/1280x720 @25fps, 1280x960/1280x720@50fps\r\nSub
+      Stream Resolution: 704x576/640x480/352x288 @25fps\r\n3rd Stream Resolution:
+      1920x1080/1280x960/1280x720/704x576/640x480/352x240 @25fps\r\nImage Compression:
+      H.264, H.264+, H.265, H.265+, MJPEG\r\nAudio Input: 1x\r\nAudio Output: 1x\r\nProtocol:
+      IPv4/IPv6, HTTP, HTTPS, 802.1x, QoS, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP,
+      RTSP, RTP, TCP, UDP, IGMP, DHCP, PPPoE\r\nSimultaneous Live View: Up to 20 users\r\nLocal
+      Storage: MicroSD, Up to 256GB (not included)\r\nUsers: Up to 32 users, 3 levels
+      (admin, operator, user)\r\nSecurity Measures: User authentication (ID and PW),
+      Host authentication (MAC address), IP address filter\r\nApplication Programming:
+      API, Supports ONVIF, PSIA and CG\r\nPower: 12V DC & POE+ (802.3at, class4)\r\nWorking
+      Temperature: -30&Deg;c to +65Â°c\r\nHumidity: <90%\r\nProtection Level: IP66,
+      4,000V Lightning protection\r\nDimensions: 169mm (diameter)x 161mm\r\nWeight:
+      2.45kg"
+    in_the_box: "<ul>\r\n<li>1x Hikvision mini PTZ dome camera</li>\r\n</ul>"

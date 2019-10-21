@@ -1,0 +1,59 @@
+product:
+  path: 2-camera-720p-hd-wireless-cctv-kit-mobile-access-portable-lcd
+  sku: 2DIGLAN1003
+  name: 2 Camera 720p HD Wireless CCTV Kit with Mobile Access, Portable LCD
+  images:
+  - path: 4718.jpg
+    title: 2 Camera 720p HD Wireless CCTV Kit with Mobile Access, Portable LCD
+  - path: 4717.jpg
+    title: Wireless night vision PIR sensor CCTV camera
+  - path: 4719.jpg
+    title: Wireless camera showing LED IR and PIR sensor
+  - path: 4715.jpg
+    title: 9 inch wireless LCD receiver monitor
+  prices:
+    default:
+    - break: 1
+      unit_price: 2491700
+  content:
+    ean: "5060423070818"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Zls9f5NxAlg
+    - https://www.youtube.com/embed/MDdsHBW6I7s
+    manuals:
+    - http://downloads.spycameracctv.com/1DIGLAN1003/manuals/DIGLAN1003-Manual.pdf
+    software: []
+    description: "This fantastic wireless kit boasts a wealth of security features
+      and can be easily set up with minimal wiring and a DIY setup. The results are
+      top notch with 720p HD images which can be viewed remotely from your smartphone
+      or tablet wherever you are in the world! This easy set up wireless system is
+      perfect for home security or for a small business. You add an extra 2 cameras
+      at a later date if you need to cover more area when you move house or grow your
+      business.\r\n\r\nThe cameras in these new kits record at 720p HD quality which
+      is unheard of for wireless technology, this means your footage will be more
+      detailed and useful to you if the worst should happen. The cameras also feature
+      built in PIR sensors allowing recording to be triggered using a subject's body
+      heat which is far more reliable than standard motion detection. Rounding off
+      the features a powerful set of LEDs allows up to 10 metre night vision for your
+      footage also. \r\n\r\nThe footage is transmitted to the recorder/monitor unit
+      using an advanced digital signal which helps reduce interference and ensures
+      the signal cannot be picked up by anyone.\r\n\r\nThe monitor device combines
+      a wireless receiver and a 9\" LCD colour monitor and build in MicroSD DVR. This
+      means all your controlling, viewing and recording can be done from this single
+      device, which can also be run from battery power allowing it to be portable
+      anywhere in your home. \r\n\r\nFor mobile access simply connect the receiver
+      device to your internet router and quickly set up using a QR code, you will
+      then be able to view your footage live from a camera, smartphone, tablet or
+      other mobile device.\r\n"
+    specification: "Camera Resolution: 1280x720p\r\nScanning System: Interlaced\r\nSynchronization:
+      Internal\r\nField of View: 80Â°\r\nGain Control: Auto\r\nWhite Balance: Auto\r\nIR
+      LED Frequency: 850nm\r\nNight Vision Range: Up to 10m\r\nAudio: Yes\r\nTalkback:
+      Yes\r\nRecording Resolution: 720p (up to 2 cameras), VGA (up to 4 cameras)\r\nStorage:
+      MicroSD (supports up to 128GB, not included)\r\nLCD Screen: 9\" TFT LCD\r\nCamera
+      Power Supply: 9V 1000mA\r\nScreen Power Supply: 5V 2000mA"
+    in_the_box: "<ul><li>2x HD Digital Wireless CCTV Cameras with 1.5m cable</li>\r\n<li>1x
+      Combination Receiver, DVR & screen</li>\r\n<li>3x Mains Power Supplies with
+      1.5m cable</li>\r\n<li>1x Network Cable</li>\r\n<li>English Instructions</li></ul>"

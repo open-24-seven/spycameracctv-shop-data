@@ -1,0 +1,28 @@
+product:
+  path: 3m-cat5e-ethernet-network-patch-cable-dvrs-nvrs-ip-cameras
+  sku: 3MCAT5EG
+  name: 3m Cat5e Ethernet Network Patch Cable for DVRs, NVRS and IP Cameras
+  images:
+  - path: 4353.jpg
+    title: 3m Cat5e Ethernet Network Patch Cable for DVRs, NVRS and IP Cameras
+  - path: 4653.jpg
+    title: CAt5e cable RJ45 connector
+  prices:
+    default:
+    - break: 1
+      unit_price: 33300
+  content:
+    ean: "5060423073673"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This short 3m Cat5E ethernet cable is ideal for connecting devices
+      such as NVRs and network enabled DVRs to your router or network switch. The
+      cable has standard RJ45 connectors for wide compatibility, and is sealed in
+      a waterproof jacket.\r\n\r\n"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 3m Cat5e Ethernet cable</li>\r\n<li><strong>2 Year
+      warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

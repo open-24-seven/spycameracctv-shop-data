@@ -1,0 +1,62 @@
+product:
+  path: 720p-hd-digital-wireless-cctv-system-security-light-ir-screen
+  sku: 1DIGLAN03SL
+  name: 720p HD Digital Wireless CCTV System with Security Light, IR & Screen
+  images:
+  - path: 4970.jpg
+    title: 720p HD Digital Wireless CCTV System with Security Light, IR & Screen
+  - path: 4973.jpg
+    title: Digital Wireless CCTV camera with security light
+  - path: 4974.jpg
+    title: Digital wireless receiver with 9 inch LCD screen
+  prices:
+    default:
+    - break: 1
+      unit_price: 1825000
+  content:
+    ean: "5060423071693"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Zls9f5NxAlg
+    - https://www.youtube.com/embed/MDdsHBW6I7s
+    manuals: []
+    software: []
+    description: "This complete digital wireless cctv system is a fantastic update
+      to one of our most popular home security kits, adding a powerful security light
+      to the front of the camera. When triggered, this will illuminate brightly, creating
+      a strong deterrent to anyone trying to enter your property.\r\n\r\nThe camera
+      still has all of the key features that the existing model boasts, including
+      720p HD video recording. The bright spotlight is built into the front of the
+      camera, and is triggered by the PIR sensor in the base, which can detect whenever
+      a subject moves within a few meters of the camera. The light even has different
+      brightness levels that can be set using the recorder. Whilst the light is an
+      effective way to put off intruders, the camera is also kitted out with IR LEDs,
+      providing 12m of night vision even when the spotlight is off.\r\n\r\nThe camera
+      is controlled from a feature packed combination recorder/receiver. The LCD screen
+      lets you monitor live or recorded footage without needing a separate TV, and
+      it can even work from a rechargeable battery if you need to quickly move it
+      around. Thanks to digital wireless transmission, the receiver can pick up the
+      camera's signal up to 100m away in direct line of sight, with greatly reduced
+      interference. The receiver even has 4 channels, letting you add up to 3 additional
+      cameras to the kit (at VGA resolution).\r\n\r\nFootage is recorded to the MicroSD
+      card slot (card not included), letting you easily transfer and view footage.
+      You can even install the free app onto your smartphone to allow you to easily
+      view your camera whilst on the move!"
+    specification: "Camera\r\n\r\nFrequency Range: 2.4GHz-2.483GHz\r\nData Range:
+      4Mbps\r\nTransmission Power: 16dBm\r\nModulation: GFSK with FHSS\r\nTransmission
+      Range: 100m (direct line of sight)\r\nImage Sensor: 1/4\" Colour CMOS\r\nPixels:
+      1280x720\r\nLight Sensitivity: 3.5 Lux (IR Off)\r\nImage Processing: MPEG-4\r\nResolution/Frame
+      Rate: 720p@15fps (1 camera), VGA@30fps (2 cameras), VGA@10fps (4 cameras)\r\nLens:
+      3.6mm\r\nAngle of View: 92Â°\r\nNight Vision Range: 12m\r\nCamera Power: 9V
+      DC\r\nPower Consumption: 1680mA (max with spotlight on)\r\nOperational Temperature:
+      -10Â°c to +40Â°c\r\nProtection Class: IP54\r\nOperational Humidity: 0-85%\r\nPower
+      Supply: 9V 2000mA\r\n\r\nRecorder\r\n\r\nReceiving Sensitivity: -82dBm\r\nLCD
+      Panel Size: 9\"\r\nRecording Format: ASF\r\nMicroSD Card: Max 128GB (not included)\r\nLCD
+      Resolution: 800x480\r\nBattery: Lithium, 3.7V 2000mAh\r\nPower: 5V DC 2A\r\nConsumption:
+      750mA, max 1050mA\r\nOperational Temperature: -10Â°c to +40Â°c\r\nOperational
+      Humidity: 0-85%\r\nScreen Power Supply: 5V 2000mA"
+    in_the_box: "<ul>\r\n<li>1x Spotlight CCTV Camera</li>\r\n<li>1x LCD receiver/recorder</li>\r\n<li>2x
+      Mains Power Supplies</li>\r\n<li>1x Antenna</li>\r\n<li>1x Ethernet Cable</li>\r\n<li>1x
+      Rechargeable battery for screen</li>\r\n<li>Set of screws and fixings</li>\r\n</ul>"

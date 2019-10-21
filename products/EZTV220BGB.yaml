@@ -1,0 +1,45 @@
+product:
+  path: hikvision-hiwatch-hd-tvi-1080p-cctv-camera-20m-ir-4-in-1
+  sku: EZTV220BGB
+  name: Hikvision HiWatch HD-TVI 1080p CCTV Camera - 20m IR, 4-in-1
+  images:
+  - path: 5445.jpg
+    title: " \tHikvision HiWatch HD-TVI 1080p CCTV Camera - 20m IR, 4-in-1"
+  - path: 5446.jpg
+    title: Hikvision hiwatch 1080p cctv camera wiht 20m night vision
+  - path: 5554.jpg
+    title: Hikvision hiwatch HD-TVI 20m bullet camera side view
+  - path: 5456.jpg
+    title: Hikvision Hiwatch 4-in-1 camera connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 329799
+  content:
+    ean: "5060423075097"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision's popular HiWatch range provides the pin-sharp and reliable
+      image quality of their professional security cameras, but with a price tag that
+      makes them ideal for home users. This compact bullet camera is a great option
+      for watching over a small garden or alleyway.\r\n\r\nThe camera can capture
+      footage in 1080p Full HD, recording the fine details needed for video to be
+      usable as evidence. The cameras are pre-set to record in the HD-TVI format,
+      so they can easily work with our CCTV DVRs. They use 4-in-1 technology however,
+      ensuring they are cross compatible with almost every CCTV system that uses coaxial
+      cables - a huge bonus if you're upgrading an existing system.\r\n\r\nFor after
+      dark, the camera uses a ring of infra-red LEDs to provide 20m of night vision
+      illumination. The camera housing is rated IP66 weatherproof, so you can use
+      it both indoors and outdoors without concern."
+    specification: "Imaging Sensor: CMOS\r\nEffective Pixels: 1920x1080\r\nMinimum
+      Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter Speed: 1/25 to 1/50,000s\r\nLens
+      Mount: M12\r\nDay & Night: ICR\r\nSynchronization: Internal\r\nVideo Frame Rate:
+      1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational Temperature:
+      -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower
+      Consumption: MAx 4W\r\nProtection Level: IP66\r\nIR Range: 20m\r\nDimensions:
+      70mm (diameter) x 154.5mm\r\nWeight: 400g"
+    in_the_box: "<ul>\r\n<li>1x HiWatch bullet camera</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

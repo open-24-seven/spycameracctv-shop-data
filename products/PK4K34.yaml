@@ -1,0 +1,88 @@
+product:
+  path: hikvision-4k-cctv-system-4-50m-bullet-cameras-nvr
+  sku: PK4K34
+  name: Hikvision 4K CCTV System with 4 50m Bullet Cameras, NVR
+  images:
+  - path: 5334.jpg
+    title: Hikvision 4K CCTV System with 4 50m Bullet Cameras, 4TB NVR
+  - path: 5335.jpg
+    title: Hikvision 4k cctv camera with 50m night vision
+  - path: 5336.jpg
+    title: hikvision 4k nvr with 4tb hdd
+  - path: 5582.jpg
+    title: " \tHikvision 4K CCTV System with 4 50m Bullet Cameras"
+  prices:
+    default:
+    - break: 1
+      unit_price: 9158300
+  content:
+    ean: "5060423074076"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/jGgqiarHKWo
+    manuals: []
+    software: []
+    description: "1080p CCTV equipment is now cheaper than ever before, but even these
+      great cameras still do not record enough detail for some applications. Because
+      of this, our range of Hikvision 4K CCTV systems is designed to provide you with
+      some of the highest resolution recording available on the market, whilst still
+      being affordable for small business or home users. The cameras record 3840x2160
+      (8 megapixel)video - that's <i>4 times</i> the subject detail of 1080p. They're
+      ideal for tasks such as identifying faces, tracking people in a crowd, or monitoring
+      small subjects across a large area.\r\n\r\nThe 4 included cameras all feature
+      50m infrared night vision, letting them clearly record 24/7 in large outdoor
+      spaces. They're protected by IP67 rated weatherproof houses, making them robust
+      enough for outdoor installation. As part of Hikvision's latest range of IP cameras,
+      they also boast a selection of advanced smart features. These include face detection,
+      intrusion detection and line cross detection. They even have an unattended baggage
+      detection setting! \r\n\r\nThe system also features a Power over Ethernet (PoE)
+      recorder, which can send power down the cable to each camera. This helps keep
+      installation simple by removing the need for additional power supplies. The
+      recorder can then be connected to your router to allow remote access via PC,
+      Mac or mobile device. Once configured, this allows you to log in and securely
+      watch your cameras from anywhere in the world. The recorder comes pre-fitted
+      with your choice of hard drive storage\r\n\r\n"
+    specification: "Camera Specifications\r\n\r\nImaging Sensor: 1/2.5\" CMOS\r\nMinimum
+      Illumination: 0.01Lux (Colour), 0Lux (IR on)\r\nShutter Speed: 1/3 - 1/100,000s\r\nSlow
+      Shutter: Support\r\nLens: 4mm\r\nField Of View: 79Â° (horizontal)\r\nLens Mount:
+      M12\r\nIris: f/2\r\nDay & Night: IR cut filter\r\nDNR: 3D DNR\r\nWide Dynamic
+      Range: 120dB\r\nVideo Compression: H.265/H.264 (main stream), H.265/H.264/MJPEG
+      (sub stream), H.265/H.264 (third stream)\r\nH.264 Type: Main Profile/High Profile\r\nH.264+:
+      Support\r\nH.265 Type: Main Profile\r\nH.265+: Support\r\nVideo Bitrate: 32Kbps
+      to 16MBps\r\nMax Resolution: 3840x2160\r\nMain stream: 3840x2160 @20fps, 2560x1920/2560x1440/1920x1080/1280x720
+      @25fps\r\nSub stream: 640x360/352x288 @25fps\r\nThird stream: 1280x720/640x360,352x288
+      @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage Settings: Rotate, Brightness/Contrast/Saturation/Sharpness
+      adjustable via software\r\nDay/Night Switch: Auto/Scheduled\r\nStorage: MicroSD
+      (up to 128GB, not included)\r\nAlarm Trigger: Motion Detect, Tampering Alarm,
+      Network Disconnect, IP Address Conflict, Illegal Login, HDD Full, HDD Error\r\nProtocol:
+      TVP/IP, UDP, ICMP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP,
+      UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandard: ONVIF (Profile S/G),
+      PSIA, CGI, ISAPI\r\nNetwork Function: One key reset, Anti-flicker, Heartbeat,
+      Mirror, Password protection, Privacy mask, Watermark, IP Address filter\r\nCommunication
+      Interface: 1x RJ45 10M/100M Self-adaptive Ethernet\r\nSmart Features: Line crossing
+      detection, Intrusion detection, Object removal detection, Unattended baggage
+      detection, Face detection\r\nOperational Temperature: -30Â°c to +60Â°c\r\nOperational
+      Humidity: <95%\r\nPower Supply: 12V DC, PoE(802.3af 42.5 - 57V, class 3)\r\nPower
+      Consumption: 12V DC +/- 25%, 7.5W, PoE 9.5W\r\nIR Range: 50m\r\nProtection Level:
+      IP67\r\nDimensions: 104.8 (diameter) x 299.7mm\r\nWeight: 1200g\r\n\r\n\r\nRecorder
+      Specifications\r\n\r\nInputs\r\n\r\nIP video input: 8 channels\r\nIncoming bandwidth:
+      80 Mbps\r\nOutgoing bandwidth: 160 Mbps\r\n\r\nOutputs\r\n\r\nHDMI output resolution:
+      4K, 2K, 1920x1080, 1600x1200, 1280x1024, 1280x720, 1024x768\r\nVGA output resolution:
+      1920x1080, 1280x1024, 1280x720, 1024x768\r\nAudio output: 1-ch, RCA (Linear,
+      1kâ„¦)\r\n\r\nDecoding\r\n\r\nDecoding format: H.265/H.264/H.264+/MPEG4\r\nRecording
+      Resolution: 8MP/6MP/5MP/4MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nSynchronous
+      playback: 8-ch\r\nCapability: 2-ch @ 4K or 8-ch @ 1080p\r\n\r\nNetwork\r\n\r\nNetwork
+      protocols: TCIP/IP, DHCP, Hik Cloud P2P, DNS, DDNS, NTP, SADP, SMTP, NFS, Iscsi,
+      UPnP, HTTPS\r\n\r\nHard disk\r\n\r\nSATA: 2x SATA interfaces\r\nCapacity: Up
+      to 6TB capacity per disk\r\n\r\nExternal Interface\r\n\r\nTwo-way audio: 1-ch,
+      RCA (2.0 Vp-p, 1kâ„¦)\r\nNetwork interface: 1x RJ-45 10/100/1000 Mbps self-adaptive
+      Ethernet interface\r\nUSB interface: Front: 1x USB 2.0; Rear: 1x USB 3.0\r\nAlarm
+      in/out: 4/1\r\nPower supply: 12V DC\r\nPower: â‰¤40 W\r\nConsumption (without
+      HDD): â‰¤15 W\r\nOperating temperature: -10ÂºC to +55ÂºC\r\nOperating humidity:
+      10 to 90%\r\nChassis: 385mm chassis\r\nDimensions: 385x315x52 mm\r\nWeight (without
+      HDD): â‰¤1 kg "
+    in_the_box: "<ul>\r\n<li>4x Hikvision 4K bullet cameras</li>\r\n<li>4x 10m ethernet
+      cables</li>\r\n<li>1x Hikvision NVR with 4TB HDD</li>\r\n<li>1x USB mouse</li>\r\n<li>1x
+      Power supply for recorder</li>\r\n<li>1x Software & manual CD</li>\r\n</ul>"

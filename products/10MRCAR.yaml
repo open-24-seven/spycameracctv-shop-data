@@ -1,0 +1,27 @@
+product:
+  path: b-grade-10m-rca-audio-video-extension-cable
+  sku: 10MRCAR
+  name: B Grade 25% Off - 10m RCA Audio Video Extension Cable
+  images:
+  - path: 5595.jpg
+    title: B Grade 25% Off - 10m RCA Audio Video Extension Cable
+  - path: 5594.jpg
+    title: RCA connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 66700
+  content:
+    ean: "3502"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: ""
+    in_the_box: ""

@@ -1,0 +1,70 @@
+product:
+  path: hikvision-turbohd-tvi-1080p-hd-40m-ir-vandal-proof-dome-cctv-camera
+  sku: HKTV240DGB
+  name: Hikvision TurboHD TVI 1080p HD 40m IR Vandal Proof Dome CCTV Camera
+  images:
+  - path: 4781.jpg
+    title: Hikvision TurboHD TVI 1080p HD 40m IR Vandal Proof Dome CCTV Camera
+  - path: 5313.jpg
+    title: Hikvision TVI camera connectors
+  - path: 4780.jpg
+    title: Turbo HD TVI Sample Image
+  prices:
+    default:
+    - break: 1
+      unit_price: 1440000
+  content:
+    ean: "5060423070733"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    - https://www.youtube.com/embed/AWlmPpJqmUg
+    manuals: []
+    software: []
+    description: "Looking for a robust CCTV camera for a demanding security job, that
+      provides the highest levels of image quality, but spares the hassle associated
+      with setting up an HD IP camera over a network? This Hikvision Turbo HD TVI
+      outdoor dome camera is the perfect solution, making it suitable for a huge range
+      of tasks.\r\n\r\nTurbo HD TVI technology sends uncompressed, high resolution
+      1080p video down a simple coax cable with standard BNC connectors. This a allows
+      a plug-and-play setup, and means you can even use existing cabling if you are
+      upgrading an existing system! The image quality recorded is simply stunning,
+      easily capturing fine details at 1920x1080p. <i>Please note, TVI cameras will
+      only be compatible with TVI recorders</i>.\r\n\r\nThe camera's dome casing is
+      both vandal proof and weather proof, able to help protect it in even the most
+      demanding outdoor locations. Housed inside this is a powerful ring of IR LEDs,
+      providing an impressive 40m of night vision illumination. The camera also features
+      a 2.8-12mm varifocal lens, allowing you to precisely adjust the angle of view
+      from 92Â° to 32Â°. The camera also features a range of adjustable image settings,
+      including dynamic noise reduction, and high dynamic range. The latter allows
+      you to retain plenty of shadow and highlight detail in high contrast situations
+      such as doorways and in front of windows.\r\n\r\nNo matter if it's outside a
+      building or monitoring the interior, this feature packed camera is sure to impress.
+      Don't just take our word for it though- check out the videos section for real
+      world sample footage demonstrating the quality possible."
+    specification: "Camera\r\n\r\nImage Sensor: 1/3\" Progressive Scan CMOS\r\nSignal
+      System: PAL/NTSC\r\nEffective Pixels: 1920 x 1080\r\nMin. Illumination: 0.01
+      Lux @ (F1.2, AGC ON), 0 Lux with IR \r\nShutter speed: 1/25 (1/30)s to 1/50,000s\r\nLens:
+      2.8-12mm @ F1.4\r\nAngle of view: 92Â°-32Â°\r\nLens Mount: Ï†14\r\nAngle Adjustment:
+      Pan: 0-355Â°, Tilt: 0-80Â°, Rotation: Â±90Â°\r\nDay & Night: ICR \r\nWide dynamic
+      range: 120 dB \r\nSynchronization: Internal synchronization \r\nVideo Frame
+      Rate: 1080p @ 25fps / 1080p @ 30fps \r\nHD Video Output: 1 Analog HD output
+      \r\nS/N Ratio: More than 52dB\r\n\r\nMenu\r\n\r\nScene: Indoor, Outdoor, Indoor1,
+      LOW-LIGHT\r\nCamera ID: On/off (15 characters, position programmable) \r\nAGC:
+      Support \r\nD/N Mode: Color / BW / EXT \r\nWhite Balance: ATW, AWC-SET, Indoor,
+      Outdoor, Manual \r\nPrivacy Mask: On/Off, maximum 8 zones \r\nMotion Detection:
+      On/Off, maximum 4 zones \r\nBLC: Support \r\nAnti-flicker: On/off \r\nLanguage:
+      English, Japanese, CHN1, CHN2, Korean, German, French, Italian, Spanish, Polish,
+      Russian, Portuguese, Dutch, Turkish, Hebrew and Arabic \r\nFunction: Eclipse,
+      Digital noise reduction, Digital zoom(62x), Slow shutter, Mirror, Defog, Defect
+      pixel correction, SMART D-ZOOM\r\n\r\nGeneral\r\n\r\nWorking Temperature: -20Â°C
+      - 60Â°C (-4Â°F - 140Â°F) \r\nHumidity: 90% or less (non-condensing)\r\nPower
+      Supply: 12 VDC; -A: 12 VDC, 24 VAC \r\nPower Consumption: 12 VDC: Max. 4.5W;
+      24 VAC: Max. 6.5W \r\nWeather Proof Ratings: IP66 \r\nIR Range: Up to 40m \r\nImpact
+      Protection: IEC60068-2-75 test, Eh, 20J; EN50102, up to IK10\r\nCommunication:
+      Up the coax (need UTC controller)\r\nProtocol: Pelco-C (Coaxitron)\r\nDimensions:
+      Ï†145.3 x 124.2mm (f5.72\" x 4.89\") \r\nWeight: 880g (1.95lb)"
+    in_the_box: "<ul>\r\n<li>1x Turbo HD TVI Dome Camera</li>\r\n<li>1x Mains Power
+      Supply</li>\r\n</ul>"

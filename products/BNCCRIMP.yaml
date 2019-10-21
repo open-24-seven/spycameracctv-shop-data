@@ -1,0 +1,32 @@
+product:
+  path: bnc-crimp-fit-connector-for-rg59-coaxial-cctv-cable
+  sku: BNCCRIMP
+  name: BNC Crimp Fit Connector for RG59 Coaxial CCTV Cable
+  images:
+  - path: 3760.jpg
+    title: BNC Crimp Fit Connector for RG59 Coaxial CCTV Cable
+  prices:
+    default:
+    - break: 1
+      unit_price: 12400
+  content:
+    ean: "5060181654824"
+    meta:
+      title: ""
+      description: This BNC Crimp connector is a secure and durable way to connect
+        your professional CCTV camera to an RG59 video Cable. Ideal for use in exposed
+        outdoor locations
+    videos:
+    - https://www.youtube.com/embed/vBe_C69xKEM
+    manuals: []
+    software: []
+    description: "This <strong>BNC Crimp Connector</strong> kit is a safe and secure
+      way of connecting your CCTV camera to RG59 cable. As the metal jacket is crimped
+      together, it gives a slightly more durable connection than our standard BNC
+      twist connectors and so is more suited to exposed exterior locations, or areas
+      vulnerable to vandalism.\r\n\r\nThe set is compatible with any of our <a href=\"https://www.spycameracctv.com/spycamera/100-metre-reel-rg59-co-axial-combo-cctv-camera-cable-with-power-line\"
+      title=\"RG59 Cable Reels\">RG59 cable reels</a>, and is Nickel Plated to help
+      reduce corrosion."
+    specification: "Input A: Male BNC plug\r\nInput B: 3 Piece Crimp on Connector\r\nFinish:
+      Nickel Plated\r\n"
+    in_the_box: "<ul>\r\n<li>1x 3 Piece Crimp on BNC Connector</li>\r\n</ul>"

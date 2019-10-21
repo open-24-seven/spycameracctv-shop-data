@@ -1,0 +1,78 @@
+product:
+  path: 4-camera-digital-wireless-security-system-cctv-dvr
+  sku: PKDIG404
+  name: 4 Camera Digital Wireless Security System with CCTV DVR
+  images:
+  - path: 5100.jpg
+    title: 4 Camera Digital Wireless Security System with 1TB CCTV DVR
+  - path: 5101.jpg
+    title: Digital Wireless Bullet Security Camera
+  - path: 5102.jpg
+    title: Digital Wireless Video Receiver
+  - path: 5103.jpg
+    title: hybrid 4 channel cctv dvr
+  - path: 5104.jpg
+    title: ' hybrid 4 channel cctv dvr rear view'
+  prices:
+    default:
+    - break: 1
+      unit_price: 3600000
+  content:
+    ean: "5060423072133"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Wireless CCTV cameras are a great option if you are looking for
+      a simple DIY installation, as all you need to do is plug them in to a power
+      supply. Often however, you have to compromise on a recorder to go with them.
+      Not so with this system! For this digital wireless security system we have combined
+      long range wireless CCTV cameras with a professional grade DVR. This provides
+      both a quick installation and in depth recording options, perfect for home security.\r\n\r\nThe
+      kit's 4 bullet cameras are housed in IP66 rated waterproof casings, making them
+      suitable for indoor or outdoor use. When used in unlit areas, they can still
+      record clearly thanks to night vision LEDs that provide 15m illumination. Thanks
+      to digital wireless transmission technology, they can send VGA resolution video
+      to the receiver from up to 100m away in direct line of sight. Digital wireless
+      also helps keep interference and picture breakdown to a minimum. \r\n\r\nThe
+      4 cameras are picked up by 2 dual receivers, which then plug straight in to
+      the professional DVR. The recorder is loaded with a complete suite of in depth
+      recording settings, including motion detection and a 7 day schedule. Other features
+      include HDMI output and PTZ and alarm inputs. The recorder also features a network
+      connection, letting you plug it in to your router. Once configured, this allows
+      you to log in to view live and recorded footage remotely, using a PC or mobile
+      device. As an added bonus, the recorder is a hybrid HD model, so if you upgrade
+      to 1080p cameras at a later date it will still work!"
+    specification: "Camera\r\n\r\nImage Sensor: 1/4\" Colour CMOS\r\nPixels: 640x480\r\nImage
+      Compression: MPEG4\r\nImage Resolution: VGA\r\nLens: 3.6mm\r\nDiagonal Field
+      of View: 55Â°\r\nAGC: On\r\nPower: 9V DC\r\nPower Consumption: 430mA IR on,
+      220mA IR off\r\nWeather Resistance: IP66\r\nIR LED: 24x\r\nNight Vision Range:
+      15m\r\nDimensions: 79x203x117mm\r\nWeight: 300g\r\n\r\nReceiver\r\n\r\nSensitivity:
+      -81dbm\r\nSupported Resolution: VGA\r\nTermination: 2x Composite BNC\r\nPower
+      Requirement: 9V DC\r\nPower Consumption: 270mA Max\r\nDimensions: 53x137x86mm\r\nWeight:
+      100g\r\nFrequency Range: 2.4-2.48GHz\r\nPower: 16dBm\r\nRange: 100m (direct
+      line of sight)\r\nData Rate: 4MB/s\r\nModulation: GFSK\r\nSpread Spectrum: FHSS\r\nOperational
+      Temperature Range: -10Â°c to +40Â°c \r\n\r\nDVR\r\n\r\nVideo Compression: H.264\r\nVideo
+      System: NTSC/PAL\r\nOperation System: Linux (embedded)\r\nVideo input/output:
+      4CH inputs/VGA and HDMI output\r\nAudio input/output: 4CH inputs/1CH output
+      (RCA)\r\nDisplay resolution: 1920x1080 or 1280x720 or 960x576\r\nDisplay feature:
+      single/ Quad/S.E.Q.\r\nRecord speed 1080p: 15fps (each ch)\r\nRecord speed 720p:
+      30fps (each ch)\r\nRecord speed 960H: 30fps (each ch)\r\nRecording Mode: Continuous/Manual/Motion
+      detect\r\nPlayback Channel: 1/4CH, or Via CMS, Mobile for 1ch playback, laptop
+      for 1/4Ch playback\r\nPlayback Channel: Local DVR: 1~4ch\r\nPlayback Channel:
+      PC/MAC: 1~4ch\r\nPlayback Channel: Smart Phones: 1ch (using app)\r\nPlayback
+      speed: 1080p 15fps(each ch); 720p: 30fps(each ch); 960H: 30fps(each ch)\r\nSensor
+      & Alarm I/O: 4 inputs /1 output\r\nNetwork Type: Lan, DHCP, and DDNS\r\nE-mail
+      Notifications: Yes, Support\r\nHDD interface: 1x SATA HDDs (up to 6TB)\r\nMultiplex
+      Operation: live display, record, playback, backup and network\r\nUSB: 2x USB
+      (for mouse and backup/upgrade)\r\nPTZ Control: Yes\r\nMobile Surveillance: Support
+      Mobile Phones based on iPhone and Android operation system\r\nVGA: 800x600,
+      1024x768, 1280x1024, 1440x900, 1920x1080\r\nHDMI: 1080p\r\nIR Extender Port:
+      Yes\r\nCLOUD: Optional\r\nP2P: Optional\r\nPower Supply: DC 12V, 2A\r\nDimensions
+      (WxDxH): 300 x 227 x 53mm "
+    in_the_box: "<ul>\r\n<li>4x Outdoor Bullet Cameras</li>\r\n<li>4x Mains Power
+      Supplies</li>\r\n<li>4x 10m Power Extension Cables</li>\r\n<li>2x Digital Wireless
+      Receivers</li>\r\n<li>1x 4 Channel CCTV DVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x
+      Remote Control</li>\r\n<li>1x Software and Manual CD</li>\r\n</ul>"

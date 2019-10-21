@@ -1,0 +1,29 @@
+product:
+  path: 12v-1000ma-cctv-adapter-power-plug-1a
+  sku: 12V10GB21
+  name: 12V DC 1000mA UK Power Supply for CCTV Cameras - 2.1mm Jack
+  images:
+  - path: 962.jpg
+    title: 12V DC 1000ma Power Adapter
+  prices:
+    default:
+    - break: 1
+      unit_price: 49900
+  content:
+    ean: "5060181651892"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This replacement 1000mA (1A) power adapter can be purchased to use
+      with any standard 12V CCTV camera kit. They are built to be light weight and
+      pass our stringent quality controls before sending out - perfectly regulated
+      for consistent power supply to your cameras.\r\n\r\nThe flex supplied is, on
+      average, 1.5 meters in length, and this can be extended with our 12V extension
+      cables - 5m, 10m and 20m."
+    specification: "Country: UK 3 Pin Plug\r\nCompatibility: CCTV Camera, Security
+      Devices\r\nColor: Black\r\nMaterial: Plastic and Metal\r\nInput Voltage: 100
+      - 240V AC\r\nOutput Voltage: DC 12V 1000mA\r\nFrequency: 50/60Hz"
+    in_the_box: "<ul>\r\n<li>1x 12V DC 1000mA UK Power Supply with 2.1mm Jack</li>\r\n</ul>"

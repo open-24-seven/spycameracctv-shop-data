@@ -1,0 +1,67 @@
+product:
+  path: hikvision-hiwatch-tvi-8-turret-camera-cctv-system-20m-ir-2tb-dvr
+  sku: TVI7T8E2TB
+  name: Hikvision HiWatch TVI 8 Turret Camera CCTV system - 20m IR, 2TB DVR
+  images:
+  - path: 5489.jpg
+    title: Hikvision Easy TVI 8 Turret Camera CCTV system - 20m IR, 2TB DVR
+  - path: 5490.jpg
+    title: Hikvision easy tvi 4-in-1 turret camera
+  - path: 5491.jpg
+    title: Easy TVI 8 channel CCTV DVR
+  - path: 5493.jpg
+    title: Hikvision easy tvi 8 channel recorder rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 5897600
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "CCTV heavyweights Hikvision have put designed this <strong>HiWatch
+      TVI</strong> 8 camera CCTV system specifically for home users, providing extensive,
+      high resolution coverage that won't break the bank. The kit is bundled with
+      every single cable and connector required to get it up and running, making it
+      a great choice for anyone planning a DIY installation on a large house or residential
+      property.\r\n\r\nThe system includes 8 high definition turret cameras. This
+      style of housing both protects the electronics and keeps the camera small and
+      discreet, making it popular for interior spaces like shops. The housing is also
+      IP66 weatherproof, so it's great for outdoor use as well. Infrared LEDs provide
+      each camera with 20m of night vision, letting them work 24-7 in completely unlit
+      spaces. The cameras work using HD-TVI technology, so all you have to do is plug
+      them into power and then the back of the recorder and you're set, no confusing
+      network configuration required.\r\n\r\nAs well as 10m cabling for each camera,
+      the system includes an 8 channel DVR, capable of recording HD footage from each
+      camera in 1080 lite resolution. IT ships pre-fitted with 2TB of storage - enough
+      for around 2 weeks of footage - however this can also be upgraded if more space
+      is required. By connecting the recorder to your network router, you can also
+      configure remote access. Once set up, this lets you securely watch live and
+      recorded camera footage from anywhere using a PC, phone or tablet."
+    specification: "<p>Camera Spec</p>\r\nImaging Sensor: CMOS\r\nEffective Pixels:
+      1920x1080\r\nMinimum Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter
+      Speed: 1/25 to 1/50,000s\r\nLens Mount: M12\r\nDay & Night: ICR\r\nSynchronization:
+      Internal\r\nVideo Frame Rate: 1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N
+      Ratio: >62dB\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational Humidity:
+      <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower Consumption: MAx 4W\r\nProtection
+      Level: IP66\r\nIR Range: 20m\r\nDimensions: 110mm (diameter) x 93.2mm\r\nWeight:
+      350g \r\n<p>Recorder Spec</p>\r\nVideo Input: 8x BNC\r\nVideo Compression: H.264+\r\nHD-TVI/AHD/CVI
+      Input: 1080p@25/30fps, 720p@25/30fps\r\nCVBS Input: Supported\r\nAudio Compression:
+      G.711u\r\nAudio Input: 1x RCA\r\nHDMI/VGA Output: 1920x1080, 1280x1024, 1280x720,
+      1024x768\r\nEncoding Resolution: 1080pLite, 720p, WD1, 4CIF, VGA, CIF\r\nMain
+      Stream Frame Rate: 1080pLite, 720p @ 12fps\r\nSub Stream Frame Rate: CIF, QVGA,
+      QCIF @ 25fps\r\nVideo Bitrate: 32kbps to 4Mbps\r\nAudio Output: 1x RCA\r\nAudio
+      Bitrate: 64Kbps\r\nDual Stream: Support\r\nSynchronous Playback: 8x Channels\r\nRemote
+      Connections: 128\r\nNetwork Protocols: TCP/IP, PPPoE, DHCP, Hik-Connect, DNS,
+      DDNS, NTP, SADP, SMTP, NFS,iSCSI, UPnP, HTTPS\r\nSATA: 1x Interface\r\nCapacity:
+      Up to 6TB\r\nNetwork Interface: 1x 10/100M RJ45 Ethernet\r\nUSB Interface: 2x
+      USB 2.0 (rear panel)\r\nPower Supply: 12V DC\r\nConsumption (without HDD): <12W\r\nOperational
+      Temperature: -10Â°c to +55Â°c\r\nOperational Humidity: 10-90%\r\nDimensions:
+      285x210x45mm\r\nWeight (without HDD): 1200g "
+    in_the_box: "<ul>\r\n<li>8x HiWatch TVI Turret Cameras</li>\r\n<li>8x Mains power
+      supplies</li>\r\n<li>8x 10m BNC cables</li>\r\n<li>1x 8 Channel recorder</li>\r\n<li>1x
+      Recorder power supply</li>\r\n<li>1x USB mouse</li>\r\n</ul>"

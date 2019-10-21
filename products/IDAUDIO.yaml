@@ -1,0 +1,40 @@
+product:
+  path: cctv-security-camera-inline-audio-microphone
+  sku: IDAUDIO
+  name: CCTV Security Camera Inline Audio Microphone with Loop Through Power
+  images:
+  - path: 2911.jpg
+    title: Tiny in-line audio mic with rain jacket for outdoor/indoor cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 62500
+  content:
+    ean: "5060181654879"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/4od2x__Re00
+    - https://www.youtube.com/embed/ZAZl2Pe6JNk
+    manuals: []
+    software: []
+    description: "This audio device answers the age old problem of how to get audio
+      with a CCTV camera. Whilst many DIY products have audio built in, many professional
+      products often don't. Often this is because for most professional CCTV situations
+      you shouldn't record audio OR to include audio means drilling a hole in an otherwise
+      waterproof camera housing.\r\n\r\nThe microphone is really designed for indoor
+      use, but if you're careful and keep it dry or under cover it should be OK outside
+      too. We've put a nice rain jacket on it but as you'll know if you've been out
+      in the pouring rain for too long, even the best raincoat lets water in after
+      a while.\r\n\r\nWhat's great is that you can add this microphone in-line, so
+      the microphone can take it's power from the same DC cable as your CCTV (via
+      the female input) and then feed the rest to the camera (via the male output).
+      This means you only need to use 1 power adapter and you don't have to run 2
+      power cables for the camera and audio separately."
+    specification: "Voltage: DC 12V\r\nCurrent Consumption: 10mA\r\nDC Power Input
+      Socket: 2.1mm female (RED)\r\nDC Power Output Plug: 2.1mm male (Black)\r\nAudio
+      Output Socket: RCA Phono female (White)\r\nFrequency Range: 200-10kHz\r\nOutput
+      Impedance: 600 Ohms"
+    in_the_box: "<ul><li>\r\n1x Inline CCTV High Gain Microphone</li>\r\n<li>1x Full
+      English Instructions</li>\r\n</ul>"

@@ -1,0 +1,42 @@
+product:
+  path: ubiquiti-nanobeam-ac-wifi-bridge-pair-5ghz
+  sku: UBNANO5G2
+  name: Ubiquiti NanoBeam ac Gen 2 Wifi Bridge Pair - 5GHz
+  images:
+  - path: 5654.jpg
+    title: Ubiquiti NanoBeam ac Wifi Bridge Pair - 5GHz
+  - path: 5655.jpg
+    title: Ubiquiti Nanobeam 5ghz wifi bridge rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1825000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/ZW6hS2Uqr08
+    manuals: []
+    software: []
+    description: "Ubiquiti is one of the largest names in Wireless networking, providing
+      a wide range of specialist devices to improve your network's coverage and speed.
+      This pair of Nanobeam ac WiFi bridges can across distances over 1km, with incredible
+      speeds. This makes them a perfect solution to transmit data from IP cameras
+      across large properties such as farms.\r\n\r\nThe two devices need to be set
+      up facing each with direct line of sight, using the included pole mount bracket.
+      The innovative ball and socket design makes lining them up a breeze. Just use
+      ethernet cables to connect one bridge to your IP camera, and the other to your
+      router. You can even connect multiple devices to the unit using a network switch."
+    specification: "Dimensions: 189x189x125mm\r\nWeight: 0.53kg\r\nPower Supply: 24V,
+      0.5A Gigapit PoE\r\nMax Consumption: 8.5W\r\nOperating Frequency: 5.15-5.875
+      GHz\r\nGain: 19dBI\r\nInterface: 10/100/1000 Ethernet\r\nProcessor: Atheros
+      MIPS 74Kc, 720MHz\r\nMemory: 128Mb DDR2, 8MB Flash\r\nLEDs: 1x Power, 1x LAN,
+      4x WLAN\r\nSignal Strenght LEDs: Software Adjustable\r\nMax VSWR: 1.5:1\r\nChannel
+      Sizes: 10/20/30/40/50/60/80MHz (PtP), 10/20/30/40MHz (PtMP)\r\nPolarisation:
+      Dual Linear\r\nEnclosure: Outdoor UV stabilised plastic\r\nWind Survivability:
+      125mph\r\nOperating Temperature: -40Â°c to +70Â°c\r\nOperating Humidity: 5-95%
+      Non condensing\r\n"
+    in_the_box: "<ul>\r\n<li>2x Ubiquiti Nanobeam Wifi bridges</li>\r\n<li>2x Mounting
+      brackets</li>\r\n<li>Quick start guide</li>\r\n</ul>"

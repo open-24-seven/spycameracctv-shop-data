@@ -1,0 +1,31 @@
+product:
+  path: poe-injector-splitter-set-12v-ip-cameras-dc-power-ethernet
+  sku: POEINJSPL21
+  name: POE Injector & Splitter Set for 12V IP cameras- DC Power and Ethernet
+  images:
+  - path: 4350.jpg
+    title: POE Injector & Splitter Set for 12V IP cameras- DC Power and Ethernet
+  - path: 4352.jpg
+    title: POE Injector & Splitter wiring diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 49900
+  content:
+    ean: "5060181658631"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This Power over Ethernet (PoE) injector & splitter set is ideal
+      for setting up IP security cameras, as it allows you to run both video data
+      and DC power down one length of ethernet cable, helping keep your system's wiring
+      as simple as possible. \r\n\r\nThe female adapter connects straight to your
+      power supply and network switch. You then connect this to the long ethernet
+      cable that will out to the camera's location. On the camera end of this cable,
+      you connect the male adapter, which in turn plugs into the camera's network
+      and power connectors."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x POE injector</li>\r\n<li>1x POE Splitter</li>\r\n</ul>"

@@ -1,0 +1,46 @@
+product:
+  path: platinum-support-subscription-remote-setup-online-access
+  sku: PLATSETUP
+  name: Platinum Remote Setup for Online Access
+  images:
+  - path: 5539.jpg
+    title: " \tPlatinum Support Subscription- Remote Setup for Online Access"
+  prices:
+    default:
+    - break: 1
+      unit_price: 833300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>Who is this service right for?</strong>\r\n\r\nâ€¢ Users
+      with large systems using more than 8 cameras</li>\r\nâ€¢ Commercial users with
+      multiple smart IP cameras</li>\r\nâ€¢ Users whose CCTV coverage is critical
+      for their business</li>\r\nâ€¢ Larger systems using Wifi bridges and 4G routers</li>\r\n\r\nIP
+      camera systems provide previously unheard of levels of automation and control,
+      but this goes hand in hand with a configuration process that can be much more
+      involved and complex. We also know that many business users who need larger
+      security systems - more than 8 cameras - can't afford to spend setting this
+      up themselves. Because of this, we have put together this remote support package,
+      providing an initial configuration and ongoing coverage, all in one complete
+      service.\r\n\r\nBy logging remotely into your network, our UK based helpdesk
+      team can completely configure your recorder and network for remote access, letting
+      you watch live or recorded footage from PC, phone or tablet. They can set up
+      the DVR or NVR, programming time & date, motion detection and scheduling settings,
+      and also setting up a unique web address through which you can securely access
+      the recorder. If you have Hikvision IP cameras, then they can also set up smart
+      features such as line crossing and intrusion detection. The process takes around
+      an hour, during which time you can either get our helpdesk team to walk you
+      through the process, or just relax with a cuppa. We do however recommend that
+      you stay available by a computer throughout the process.\r\n\r\nAfter the initial
+      setup, there is a Direct Debit subscription for ongoing support. This includes
+      resetting remote access should the connection go down and an annual check to
+      make sure it's all working properly. This professional level of support even
+      includes free on-site replacements should an item develop a fault, so you have
+      peace of mind that essential coverage is not lost.\r\n\r\n"
+    specification: Â 
+    in_the_box: ""

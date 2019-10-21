@@ -1,0 +1,28 @@
+product:
+  path: 1-camera-connector-kit-rg59-cable-bnc-crimp-dc-power
+  sku: RG591PKCR
+  name: 1 Camera Connector Kit for RG59 Cable- BNC Crimp and DC Power Fittings
+  images:
+  - path: 4349.jpg
+    title: 1 Camera Connector Kit for RG59 Cable- BNC Crimp and DC Power Fittings
+  prices:
+    default:
+    - break: 1
+      unit_price: 49600
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This little kit includes all of the fittings and connectors required
+      to fit one camera to a length of our professional uncut RG59 cable reels. Our
+      high copper cabling is vital for systems that use high grade CCTV cameras such
+      as Sony's EFFIO range. The bundle features 2 BNC crimp connectors and 1 male
+      & 1 female DC power plugs.\r\n\r\nBNC crimp connectors provide a durable and
+      long-lasting end to your cable, but you do need access to a crimping tool in
+      order to fit them."
+    specification: ""
+    in_the_box: ""

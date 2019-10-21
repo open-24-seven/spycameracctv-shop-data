@@ -1,0 +1,22 @@
+product:
+  path: 500gb-to-1tb-upgrade
+  sku: 500TO1TB
+  name: 500GB to 1TB Hard Drive Upgrade
+  images:
+  - path: 4025.jpg
+    title: 500GB to 1TB Hard Drive Upgrade
+  prices:
+    default:
+    - break: 1
+      unit_price: 333400
+  content:
+    ean: ""
+    meta:
+      title: 500GB to 1TB Hard Drive Upgrade
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

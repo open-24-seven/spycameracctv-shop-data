@@ -1,0 +1,70 @@
+product:
+  path: long-range-wireless-lambing-camera-kit-720p-hd-outdoor-ip-camera
+  sku: WLIP230B
+  name: Long Range Wireless HD Lambing Camera Kit with 1080p Outdoor IP Camera
+  images:
+  - path: 4985.jpg
+    title: Long Range Wireless HD Lambing Camera Kit with 1080p Outdoor IP Camera
+  - path: 4987.jpg
+    title: 720p HD Outdoor IP bullet camera
+  - path: 4988.jpg
+    title: Long range wifi bridge
+  - path: 5289.jpg
+    title: Schematic diagram of system
+  - path: 4989.jpg
+    title: 10m cat6 ethernet cable
+  - path: 5574.jpg
+    title: Long Range Wireless HD Lambing Camera Kit with Outdoor IP Camera
+  prices:
+    default:
+    - break: 1
+      unit_price: 2658300
+  content:
+    ean: "5060423071853"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/jKmD8kQmUbY
+    manuals: []
+    software: []
+    description: "Here at SpyCameraCCTV, we have been supplying farmers and breeders
+      with bespoke CCTV solutions since 2009. Our kits help take the stress out of
+      calving, lambing and foaling by allowing you to keep a close eye on all of your
+      animals from one place without having to constantly trudge out to barns and
+      sheds. This <strong>HD lambing camera kit</strong> is the very latest in this
+      range, combining a 1080p Full HD IP camera with a powerful wifi transmitter,
+      letting you view the camera over unprecedented distances.\r\n\r\nUnlike other
+      farm CCTV systems that use traditional analogue cameras, this pack uses a Hikvision
+      IP camera, recording digital footage and then sending it down a network cable.
+      This allows a massive step up in image quality, with the camera recording 1920x1080p
+      HD. Not only that, but because the camera connects straight to your router,
+      you can easily log in to your camera to view live footage using a PC, smartphone
+      or tablet. This makes it easier than ever to monitor your animals during this
+      stressful time of year.\r\n\r\nBecause the kit uses an IP camera, it also means
+      we can use more advanced wireless technology. This kit includes a set of WiFi
+      transmitters. When they have a direct line of sight, these powerful devices
+      can transmit and receiver signals from the camera at distances <strong>up to
+      5km</strong>. Because they need a completely clear sight line in order to work,
+      the kit includes pole mounts, so you can set them at an elevated height away
+      from obstructions."
+    specification: "<strong>Camera</strong>\r\n\r\nImaging Sensor: 1/2.8\" Progressive
+      Scan CMOS\r\nMinimum Illumination: 0.01 Lux (IR On), 0 Lux (IR Off)\r\nShutter
+      Speed: 1/3 to 1/100,000s, supports slow shutter\r\nLens: 2.8mm\r\nField of View:
+      106Â°\r\nLens Mount: M12\r\nDay & Night Switching: IR Cut with auto switching\r\nDNR:
+      3D DNR\r\nWDR: Digital WDR\r\nVideo Compression: H.264+/H.264 (Main stream),
+      H.264/MJPeg (Sub stream)\r\nH.264 Type: Mainline, Baseline\r\nVideo Bitrate:
+      32Kbps to 8Mbps\r\nMax Resolution: 1920x1080\r\nMain Stream Max Framerate: 1920x1080,
+      1280x960, 1280x720 @25fps\r\nSub Stream Max Framerate: 704x576, 640x480, 352x288,
+      320x240 @25fps\r\nImage Settings: Brightness, Saturation, Contrast, Sharpness\r\nOther
+      Recording Features: Scheduled day/night switching, Mirror, Back light correction,
+      Region of interest\r\nCommunication Interface: 1x RJ45 10/100M Self adaptive
+      Ethernet\r\nOperational Temperature: -30Â°c to +60Â°c\r\nOperational Humidity:
+      95% or less\r\nPower Supply: 12VDC, PoE (802.3af)\r\nPower Consumption: Max
+      5W/6.5W (PoE)\r\nIngress Protection: IP67\r\nIR Range: 30m\r\nDimensions: 69.1x66x172.7mm\r\nWeight:
+      500g\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 1080p HD IP Security Camera</li>\r\n<li>2x
+      20m Ethernet Cables</li>\r\n<li>2x 3M Ethernet patch cables</li>\r\n<li>2x Wifi
+      Bridges</li>\r\n<li>2x Mains Power Supplies for Bridges</li>\r\n<li>2x PoE Injectors</li>\r\n<li>2x
+      Sets of fixings for transmitters</li>\r\n<li>2x Sets of mounting screws</li>\r\n<li>Tech
+      Support Card</li>\r\n</ul>"

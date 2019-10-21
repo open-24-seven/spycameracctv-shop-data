@@ -1,0 +1,57 @@
+product:
+  path: 2-megapixel-1080p-full-hd-pinhole-ip-spy-camera-onvif-colour
+  sku: GTIP205PH-A
+  name: 1080p HD IP Pinhole Spy Camera - 2 Megapixel
+  images:
+  - path: 5951.jpg
+    title: 1080p HD IP Pinhole Spy Camera - 2 Megapixel
+  prices:
+    default:
+    - break: 1
+      unit_price: 1075000
+  content:
+    ean: "5060423079996"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software:
+    - PH3424IP10_DEC14.zip
+    description: "Designed for the most demanding covert security situations, this
+      pinhole spy camera is one of the very smallest IP Full HD pinhole spy cameras
+      available on the market today. This makes it the camera to go for if you need
+      the most compact camera possible for concealment, without compromising on capturing
+      the best possible video images. It can be used in situations as varied as office
+      security, watching over a till, or keeping an eye on the safe.\r\n\r\nAlmost
+      all professional grade IP security cameras are unwieldy beasts, perfect for
+      setting up on an exterior wall, but totally unusable for discreet security.
+      Despite using a fully fledged HD sensor, this camera is equipped with cooling
+      fins, allowing it to be housed in a much smaller casing. Whilst not quite as
+      small as the smallest analogue CCTV cameras, it allows you to finally use advanced
+      IP technology for covert security. The pinhole lens is designed to record through
+      tiny gaps, allowing the body of the camera to remain concealed in a drawer or
+      behind a wall.\r\n\r\nAs with all IP cameras, this small device records great
+      detail, capturing 1920x1080p full HD video- or approximately 2 megapixels. The
+      camera plugs directly into a router or switch to connect to your network, allowing
+      you to view live footage on a PC using the included software. The program even
+      allows you to set up basic recording options, including motion detection and
+      scheduling. There is also a standard BNC video output, letting you plug it into
+      a TV for quick monitoring. For longer term recording however, we always recommend
+      using one of our <a href=\"https://www.spycameracctv.com/spy/hd-ip-cameras/hd-nvrs/\"
+      target=\"new\">Network Video Recorders</a>. "
+    specification: "Main Processor: Hisilicon DSP \r\nImage Sensor: 1/2.9â€³ SONY
+      CMOS \r\nEffective Pixels: 1920(H)x1080(V) \r\nFrame rate: 1 to 30 FPS adjustable
+      \r\nResolution: Main stream:1920x1080, 1280x960, 1280x720 Sub stream: 1280x720,
+      640x480, 352x288, 320x240 \r\nD&N: ICR \r\nLens: 3.7 mm(Pinhole) \r\nShutter
+      time: 1/5s to 1/50000 s \r\nS/N Ratio: â‰¥50dBï¼ˆAGC OFFï¼‰ \r\nD-WDR: â‰¥80db
+      \r\nMin Illumination: Color0.1Lux@F1.2, B/W 0.01Lux@F1.2 \r\nVideo Compression:
+      H.264 ,MJPEG \r\nBit Rate: 32Kbpsï½ž16Mpbs,CBR/VBRs \r\nImage Settings: Saturation,
+      brightness, contrast \r\nNetwork Protocols: TCP/IPã€\x81UDPã€\x81SMTPã€\x81HTTPã€\x81FTPã€\x81PPPOEã€\x81DHCPã€\x81DNSã€\x81DDNSã€\x81NTPã€\x81UPNPã€\x81RTPã€\x81RTSP
+      \ \r\nData storage: Videoï¼ŒPicture \r\nRecording: Motion detect video , image
+      missing alarm, remote setting record \r\nMobile monitor: iPhoneï¼ŒWindows Mobileï¼ŒBlackBerryï¼ŒSymbianï¼ŒAndroid
+      \r\nAccess Protocol: ONVIF2.6\r\nFunctions: remote upgrading \r\nVideo output:
+      Ethernet (RJ45) CVBS ( BNC ) \r\nOperating Conditions: -20â„ƒï½ž+60â„ƒ; -40Â°~
+      +55Â°Heater Optional \r\nHumidity: 90%â‰¤RH \r\nPower Supply: 2Wï¼ˆMAXï¼‰,DC12V/1A
+      \r\nWeight: 170g \r\n \r\n"
+    in_the_box: "<ul>\r\n<li>1x HD IP Spy Camera</li>\r\n</ul>"

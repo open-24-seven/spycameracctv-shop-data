@@ -1,0 +1,56 @@
+product:
+  path: low-light-mini-bullet-spy-camera-2mp-4-in-1
+  sku: NNTV205MBGB
+  name: Low Light Mini Bullet Outdoor Spy Camera 2MP TVI 4-in-1
+  images:
+  - path: 5835.jpg
+    title: Low Light Mini Bullet Spy Camera 2MP TVI 4-in-1
+  - path: 5846.jpg
+    title: Low light mini bullet camera in hand
+  - path: 5836.jpg
+    title: Low Light Mini Bullet Spy Camera 2MP TVI 4-in-1
+  - path: 5837.jpg
+    title: Low Light Mini Bullet Spy Camera 2MP TVI 4-in-1
+  prices:
+    default:
+    - break: 1
+      unit_price: 716600
+  content:
+    ean: "5060611441246"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Our discreet mini bullet spy camera allows you to perform covert
+      surveillance without having to compromise on quality. We have installed a 2
+      megapixel Panasonic imaging chip to capture the best images even at extremely
+      low light levels. This removes the need for power-hungry infra-red LEDs that
+      consume power and make the camera more noticeable to passers-by. \r\n\r\nThis
+      high-resolution camera packs into a mini bullet camera form factor to ensure
+      it doesn't attract attention to itself. The casing is IP66 rated meaning it
+      is sealed from outside water ingress, making it suitable for outdoor usage.
+      Due to its shape and the adjustable bracket, you can fit the camera into tight
+      spaces and precisely point where you want the camera to look.\r\n\r\nWith 4-in-1
+      compatibility, you can simply connect the camera to any CCTV recorder featuring
+      a BNC connection to capture hours of footage. You can use one of our TVI recorders
+      to record in resolutions up to 2MP or set it to CVBS mode to use with analogue
+      recorders.\r\n\r\nWe have included an OSD controller so that you can fully control
+      the camera's settings down-the-wire by using the mini joystick. This is important
+      when it comes to setting it up with your recorder."
+    specification: "Image sensor: 1/3\" 2.12MP Panasonic CMOS\r\nTotal pixels: 1956
+      x 1266\r\nEffective pixels: 1944 x 1092\r\nScanning system: Progressive\r\nResolution:
+      TVI, AHD, CVI 1080p/CVBS 950TVL\r\nMin. illumination: 0.005 Lux (Colour)/0.0008
+      Lux (B&W)\r\nVideo output: TVI/AHD/CVI/CVBS\r\nS/N ratio: >52dB (AGC off)\r\nLens:
+      3.6mm fixed\r\nShutter speed: 1/25 ~ 1/50,000 sec\r\nSens-up: Auto (x6)/x2/x4/x6/x8/x10/x15/x20/x25/x30\r\nExposure:
+      DC/Manual\r\nBacklight compensation: Off/BLC/HSBLC\r\nImage enhancement: D-WDR\r\nDefog:
+      On/Off\r\nDay & Night: Auto/Colour/B&W/Ext\r\nWhite balance: ATW/AWC-Set/Indoor/Outdoor/Manual/AWB\r\n3D-DNR:
+      Off/Low/Mid/High\r\nDigital effect: Off/Mirror/V-Flip/Rotate & Freeze\r\nSharpness:
+      adjustable\r\nPrivacy mask: 4 masks\r\nMotion detection: Off/On\r\nIR Cut: Yes\r\nCommunication:
+      coaxial\r\nLanguage: Eng/Chn/Ger/Fra/Ita/Spa/Pol/Rus/Por/Ned/Tur/Jpn\r\nOSD:
+      Controller supplied\r\nPower input: DC 12V (100mA)\r\nPower consumption: 1.2W\r\nOperating
+      temperature: -10 to 50 degrees\r\nStorage temperature: -20 to 60 degrees\r\nDimensions:
+      19âŒ€ x 72.5mm"
+    in_the_box: "<ul><li>1x Low Light Mini Bullet Spy Camera</li>\r\n<li>1x Adjustable
+      bracket</li>\r\n<li>1x OSD Controller</li>\r\n<li>1x UK mains power supply</li></ul>"

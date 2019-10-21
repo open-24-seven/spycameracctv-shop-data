@@ -1,0 +1,27 @@
+product:
+  path: bare-wire-cctv-microphone-ip-security-cameras
+  sku: IPAUDIO
+  name: Bare Wire CCTV Microphone for IP Security Cameras
+  images:
+  - path: 5049.jpg
+    title: Bare Wire CCTV Microphone for IP Security Cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 74900
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: 'If you are looking for a microphone for your IP CCTV system then
+      look no further! This bare wire microphone can be discreetly added to a bullet
+      camera under the hood to capture nearby sound. Featuring 12-volt inline power
+      this device can insert smartly between the camera''s trailing power cable and
+      power supply. '
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x CCTV Bare Wire Microphone</li>\r\n<li><strong>2 year
+      guarantee from SpyCameraCCTV</strong></li>\r\n</ul>"

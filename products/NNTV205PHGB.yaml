@@ -1,0 +1,57 @@
+product:
+  path: 1080p-hd-tiny-pinhole-spy-camera-low-lux-4-in-1
+  sku: NNTV205PHGB
+  name: 1080p HD Tiny Pinhole Spy Camera - 0.0008 Low Lux, 4-in-1
+  images:
+  - path: 5847.jpg
+    title: Tiny pinhole spy camera in hand
+  - path: 5838.jpg
+    title: " \t1080p HD Tiny Pinhole Spy Camera - 0.0008 Low Lux, 4-in-1"
+  - path: 5839.jpg
+    title: tiny pinhole spy camera front view
+  - path: 5840.jpg
+    title: tony HD spy camera with remote
+  - path: 5841.jpg
+    title: HD spy camera connections
+  prices:
+    default:
+    - break: 1
+      unit_price: 583300
+  content:
+    ean: "5060611441239"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Covert security is one of the most difficult challenges to approach
+      with CCTV. For example, if you want to catch an office thief red-handed, you
+      need a camera that can remain completely concealed, without sacrificing any
+      image quality. This HD low light pinhole camera is the ideal solution, cramming
+      1080p recording and amazing low light sensitivity into the smallest camera body
+      that we've ever sold - only 25x25mm!\r\n\r\nThe camera boasts a Sony EXMOR imaging
+      chip, capable of recording in full colour down to 0.08Lux, and then switching
+      to black & white and dropping the shutter speed to continue working in conditions
+      as dark as 0.0008Lux. Images are captured in 1920x1080p Full HD, ensuring videos
+      are packed with usable subject detail. The pinhole lens also allows the camera
+      to record through gaps as narrow as 2mm, so the camera and cables can remain
+      safely hidden away behind a shelf or drawer.\r\n\r\n4-in-1 technology allows
+      compatibility with HD-TVI, HD-CVI, AHD and CVBS video equipment, so it can easily
+      be added to most existing CCTV systems with a twist-fit BNC connector. The camera
+      also includes a plug-in control to quickly adjust the on-screen menu, providing
+      in depth options for settings such as white balance and back-light compensation."
+    specification: "Imaging Sensor: 1/2.9\" Sony EXMOR CMOS\r\nActive Pixels: 1936x1097\r\nResolution:
+      1080p (TVI, CVI, AHD), 950TVL(CVBS)\r\nS/N Ratio:>52dB\r\nVideo Output: TVI
+      2.0, AHD 2.0, CVI 2.0, CVBS\r\nMinimum illumination: 0.08lux (colour), 0.008lux
+      (B&W), 0.0008ux (B&W w sens-up)\r\nLens: 3.7mm Pinhole\r\nWhite Balance: ATW,
+      AWC-SET, INDOOR, OUTDOOR, MANUAL, AWB\r\nExposure: DC, MANUAL\r\nBacklight Compensation:
+      OFF, BLC, HSBLC\r\nPrivacy Masking: 4 zones\r\nDay & Night: AUTO, COLOUR, BW,
+      EXT\r\nMotion Detection: On, Off\r\n3DNR: OFF, LOW, MIDDLE, HIGH (exc CVBS)\r\nDigital
+      Effect: OFF, MIRROR, V-FLIP, ROTATE & FREEZE\r\nSharpness: Adjustable\r\nImage
+      Enhancement: D-WDR\r\nDefog: On, Off\r\nCommunication: Coax\r\nOSD: OSD Controller\r\nLanguage:
+      ENG, GER, FRA, ITA, SPA, POL, RUS, POR, NED, TUR, KOR, JPN, HEB, ARB\r\nPower:
+      DC 12V\r\nPower Consumption: 1.2W\r\nOperational Temperature: -10 to +50c\r\nDimensions:
+      25x25x16mm"
+    in_the_box: "<ul>\r\n<li>1x Pinhole spy camera</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x
+      OSD Controller</li>\r\n</ul>"

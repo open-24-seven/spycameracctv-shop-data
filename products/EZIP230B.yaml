@@ -1,0 +1,42 @@
+product:
+  path: hikvision-2mp-hiwatch-ip-camera-1080p-30m-night-vision
+  sku: EZIP230B
+  name: Hikvision HiWatch 2MP IP Camera - 1080p with 30m Night Vision
+  images:
+  - path: 5462.jpg
+    title: Hikvision 2MP Easy IP Camera - 1080p with 30m Night Vision
+  - path: 5463.jpg
+    title: Hikvision easy ip 30m bullet camera front view
+  - path: 5464.jpg
+    title: Hikvision Easy IP camera connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 683199
+  content:
+    ean: "5060423075059"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision has put together their HiWatch range as a way to bring
+      the market-leading image quality and reliability of their professional grade
+      CCTV equipment to the home user. Each camera uses much of the same imaging technology
+      as the commercial models, but at a fraction of the price and a much simpler
+      installation.\r\n\r\nAs part of this range, this 2MP bullet camera boasts video
+      recording at 1920x1080p Full HD, capturing plenty of subject detail. Hidden
+      behind the front cover of the housing, infrared LEDs provide up to 30m of night
+      vision range, more than enough for most large interior spaces and gardens. The
+      camera is built into an IP67 rated weatherproof, allowing use in uncovered outdoor
+      spots.\r\n\r\nThe camera uses Power-over-Ethernet, drawing power down the cable
+      connecting it to your network and removing the need to wire a separate power
+      supply. Once connected to your network, you can configure it to be viewed remotely
+      from a PC, phone or tablet using free apps. The control software lets you record
+      footage and even set up motion detection recording to your PC, or alternatively
+      connect the camera to an <a href=\"https://www.spycameracctv.com/spy/cctv-recorders/hd-ip-nvrs/\"
+      target=\"_blank\">NVR</a> for extended recording. \r\n\r\n"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Hiwatch 2MP bullet camera</li>\r\n<li>1x Waterproof
+      cover for ethernet connector</li>\r\n</ul>"

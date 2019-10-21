@@ -1,0 +1,36 @@
+product:
+  path: 24ghz-wireless-receiver-fixed-antenna
+  sku: REC01
+  name: 2.4GHz Wireless Receiver with Fixed Antenna
+  images:
+  - path: 5159.jpg
+    title: 2.4GHz Wireless Receiver with Fixed Antenna
+  - path: 5206.jpg
+    title: Rear of 2.4GHz Wireless Receiver with Fixed Antenna
+  prices:
+    default:
+    - break: 1
+      unit_price: 249899
+  content:
+    ean: "5060181652868"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 2.4GHz wireless receiver is an ideal spare for use with one
+      of our wireless bird box camera or spy camera kits. It features a built-in antenna
+      to pick up the signal, as well as RCA output, allowing you to easily view the
+      connected cameras on a TV or monitor. The single channel receiver can pick up
+      a signal from any one of 4 wireless channels, letting you switch between multiple
+      cameras, or change a camera's channel if there are interference problems.\r\n\r\nPlease
+      note, this receiver is not compatible with our digital wireless cameras"
+    specification: "Frequency: ISM 2414 - 2468MHz 4 Channel\r\nAntenna: Omni-directional
+      antenna\r\nChannel: 1-4 (Flip-type switch)\r\nIntermediate Frequency: 480MHz\r\nFrequency
+      Stabilization: +/- 100kHz\r\nDemodulation Mode: FM\r\nReceiving Sensitivity:
+      85dBm\r\nVideo Output: 1Vp-p@75 ohm, S/N>38dB\r\nAudio Output: 10K ohm/200mVp-p\r\nPower:DC
+      12V, 500mA\r\nOperating Temperature: -10Â°C to +40 Â°C\r\nOperating Humidity:
+      85%RH\r\nDimension (WxLxH): 80x68x16mm\r\nWeight: 120g "
+    in_the_box: "<ul>\r\n<li>1x Wireless Receiver</li>\r\n<li>1x Mains Power Supply</li>\r\n<li>1x
+      1m AV Cable</li>\r\n<li><strong>2 Year product guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

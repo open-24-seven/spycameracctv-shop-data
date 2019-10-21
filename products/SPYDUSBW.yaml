@@ -1,0 +1,43 @@
+product:
+  path: spy-usb-charger-1080p-hd-wifi-microsd-storage-mains-power
+  sku: SPYDUSBW
+  name: Spy USB Charger - 1080p HD, Wifi, MicroSD Storage, Mains Power
+  images:
+  - path: 5905.jpg
+    title: " \tSpy USB Charger - 1080p HD, Wifi, MicroSD Storage, Mains Power"
+  - path: 5928.jpg
+    title: Spy USB charger with foreign travel plugs
+  prices:
+    default:
+    - break: 1
+      unit_price: 2082900
+  content:
+    ean: "5060611442458"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This anonymous looking USB wall charger hides a secret - a tiny
+      spy camera that records from a pinhole opening in the front of the unit. The
+      camera can be left plugged in to the wall, capturing everything happening in
+      a 78 degree arc in front of the socket. Because of this it's perfect for protecting
+      your things in a hotel room or hostel while travelling. What's more, it even
+      works as a functional USB charger for 5V devices, so you don't have to worry
+      about suspicious subjects checking it out!\r\n\r\nThe camera records in 1920x1080p
+      Full HD, ensuring images packed with detail. It can also capture clear video
+      in conditions as dim as 0.03 lux, allowing use in badly lit rooms. A 16GB MicroSD
+      card is included as standard to capture footage, however cards up to 32GB can
+      be used if more storage is needed. A Wifi connection lets you watch video and
+      control recording remotely from a mobile phone or tablet."
+    specification: "Imaging Sensor: 1/2.9\" CMOS\r\nSensor Resolution: 2000x1121\r\nSensitivity:
+      0.03 lux @f/2.0\r\nLens: 4.3mm f/2.0\r\nAngle of View: 78 Degrees\r\nCompression:
+      H.264, JPEG\r\nFile Format: .mov, .jpg\r\nRecording Modes: Auto, Manual, Motion
+      Detection\r\nRecording Resolution: 1920x1080, 1280x720, 848x480\r\nFrame Rate:
+      Up to 30fps\r\nPhoto Resolution: 2MP (1600x1200)\r\nWifi: IEEE 802.11b/g/n\r\nStorage:
+      MicroSD Card (up to 32GB, 16GB included)\r\nData Interface: USB 2.0\r\nDate/Time
+      Table: YYYY/MM/DD, HH:MM:SS\r\nPower Input: AC 100-240V\r\nDimensions: 63x52x40mm\r\nWeight:
+      97g"
+    in_the_box: "<ul>\r\n<li>1x Spy USB wall charger</li>\r\n<li>4x Plug adapters</li>\r\n<li>1x
+      USB cable</li>\r\n<li>1x 16GB MicroSD card</li>\r\n<li>1x Manual</li>\r\n</ul>"

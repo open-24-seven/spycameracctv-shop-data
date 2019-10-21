@@ -1,0 +1,44 @@
+product:
+  path: engenius-els500-5ghz-long-range-wifi-bridge-pair-ip-cameras
+  sku: COM5G2
+  name: Long Range Wireless WiFi Bridge for IP Cameras
+  images:
+  - path: 4980.jpg
+    title: EnGenius EL-ENS500- 5GHz Long Range Wifi Bridge Pair for IP Cameras
+  - path: 4981.jpg
+    title: EnGenius EL-ENS500 5GHz wifi access point with antenna
+  - path: 5194.jpg
+    title: wiring diagram for wifi bridge
+  - path: 4982.jpg
+    title: EL-ENS500 rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1650000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/ENS500/manuals/ENS500-Manual.pdf
+    software: []
+    description: "The Wifi bridge is a powerful but cost effective way to set up IP
+      cameras- and many other network devices- over an incredibly long range via wireless.
+      With a clear line of sight between the two devices you can get up to 5km range!
+      This makes it perfectly suited for use on farms and remote properties, where
+      running a cable is simply not an option.\r\n\r\nThe two devices work by creating
+      a \"peer to peer\" WiFi link with each other, in effect acting like an invisible
+      cable to carry the data. There is an ethernet port on each unit, so you can
+      easily plug an IP camera into one, and then connect the corresponding unit to
+      your router in another building. You could even connect multiple cameras to
+      the unit via a network switch.\r\n\r\n\r\n"
+    specification: "CPU: Qualcomm 560MHz\r\nAntenna: 2x 14dBi\r\nWireless Standard:
+      IEEE802.11 a/an\r\nOutput: 200mW (23dBm)\r\nReceiving Sensitivity: -96dBm\r\nFrequency:
+      802.11a/n 5.180-5.825 GHz\r\nTransmission Rate: 300Mbps\r\nPorts: 10/100 WAN
+      RJ45, 10/100 LAN RJ45, PoE slide switch, Reset button\r\nIndicator: 8x LEDs\r\nPower
+      Supply: 802.3af/802.3at\r\nPower Adapter: 48V PoE\r\nPower Consumption: <8W\r\nDimensions:
+      262x80x53mm\r\nWeight: 322g\r\nOperational Temperature: -40 to +55c"
+    in_the_box: "<ul>\r\n<li>2x WiFi bridges</li>\r\n<li>2x Mains Power Supplies</li>\r\n<li>2x
+      PoE Injectors</li>\r\n<li>2x Set of Screws</li>\r\n<li>Tech support card</li>\r\n</ul>"

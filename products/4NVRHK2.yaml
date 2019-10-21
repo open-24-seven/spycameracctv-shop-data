@@ -1,0 +1,50 @@
+product:
+  path: 4-camera-hikvision-nvr-4-port-poe-switch-8mp-recording
+  sku: 4NVRHK2
+  name: 4 Camera Hikvision NVR - 4 Port PoE Switch, 8MP Recording
+  images:
+  - path: 5326.jpg
+    title: 4 Camera Hikvision NVR - 4 Port PoE Switch, 8MP Recording, 1TB HDD
+  prices:
+    default:
+    - break: 1
+      unit_price: 1500000
+  content:
+    ean: "5060423073239"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/4NVRHK2.pdf
+    software: []
+    description: "This 4 camera Hikvision NVR boasts the latest recording technology,
+      allowing it to capture and playback footage at up to 4K (8 megapixel) resolution.
+      This means you can access security footage with <i>four times</i> the detail
+      of 1080p Full HD. As is befitting a high end CCTV recorder, it's also kitted
+      out with a complete range of adjustable recording settings. These include motion
+      detection, scheduling and alarm outputs.\r\n\r\nTo make installation as easy
+      as possible, the recorder features a 4 port PoE switch. This can power up to
+      4 IP cameras using the ethernet network cables, preventing the need for external
+      power supplies. To watch your cameras, you can either connect a TV or monitor
+      using the HDMI connection, or plug the recorder into your router to enable remote
+      access. This lets you view live or recorded footage from anywhere in the world
+      using a PC or mobile device.\r\n\r\nThe recorder kit includes your choice of
+      preinstalled hard drive storage. Just check the dropdown at the top of our page
+      for our range of HDD options."
+    specification: "IP Video Input: 4x\r\nIncoming Bandwidth: 40Mbps\r\nOutgoing Bandwidth:
+      80Mbps\r\nHDMI Output: 3840x2160/30Hz, 1920x1080/60Hz, 1600x1200/60Hz, 1280x1024/60Hz,
+      1280x720/60Hz, 1024x768/60Hz\r\nVGA Output: 1920x1080/60Hz, 1600x1200/60Hz,
+      1280x720/60Hz, 1024x768/60Hz\r\nAudio Output: 1x RCA\r\nDecoding Format: H.265,
+      H.264, H.264+\r\nRecording Resolution: 8MP/6MP, 5MP, 4MP, 1080p, UXGA, 720p,
+      VGA, 4CIF, DCIF, 2CIF, CIF, QCIF\r\nSynchronous Playback: 4 Channels\r\nCapability:
+      4 channels @ 1080p\r\nStorage: 1x SATA HDD Interface, up to 6TB\r\nNetwork Protocols:
+      TCP/IP, DHCP, HIK Cloud P2P, DNS, DDNS, NTP, SADP, SMTP, NFS, iSCI, UPnP, HTTPS\r\nAudio
+      Input: 1x RCA\r\nNetwork Interface: 1x RJ45 100Mbps full-duplex\r\nUSB: 1x USB
+      (front panel), 1x USB (rear panel)\r\nPOE Interface: 4x RJ45 100Mbps full-duplex\r\nPOE
+      Power: <40W\r\nStandard: IEEE 802.3 af/at\r\nPower Supply: 48VDC\r\nPower: <65W\r\nConsumption:
+      <10W (without HDD)\r\nOperational Temperature: -10Â°c to +55Â°c\r\nHumidity:
+      10-90%\r\nChassis: 1U Chassis\r\nDimensions: 315x240x48mm\r\nWeight: 1kg\r\n"
+    in_the_box: "<ul>\r\n<li>1x 4 Camera Hikvision NVR with POE Switch</li>\r\n<li>1x
+      Mains Power supply</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x Software & Manual
+      CD</li>\r\n</ul>"

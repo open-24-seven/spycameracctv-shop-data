@@ -1,0 +1,22 @@
+product:
+  path: 2tb-to-8tb-upgrade
+  sku: 2TBTO8TB
+  name: 2TB to 8TB Hard Drive Upgrade
+  images:
+  - path: 3977.jpg
+    title: 2TB to 8TB Hard Drive Upgrade
+  prices:
+    default:
+    - break: 1
+      unit_price: 2666700
+  content:
+    ean: ""
+    meta:
+      title: 2TB to 8TB Hard Drive Upgrade
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

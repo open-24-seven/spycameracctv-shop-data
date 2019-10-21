@@ -1,0 +1,36 @@
+product:
+  path: b-grade-700tvl-ultra-low-light-dome-security-camera
+  sku: IDVFLX402ER
+  name: B Grade 30% Off - 700tvl Ultra Low Light Dome Security Camera
+  images:
+  - path: 5699.jpg
+    title: " \tB Grade 30% Off - 700tvl Ultra Low Light Dome Security Camera"
+  prices:
+    default:
+    - break: 1
+      unit_price: 908300
+  content:
+    ean: "2201"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don\\'t
+      miss out on this great bargain price!"
+    specification: "Imaging Chip: High Sensitivity Sony 1/3\\\" CCD\r\nTotal Pixels:
+      PAL- 752x582, NTSC- 768x494\r\nScanning Mode: 2:1 Interlaced\r\nSynchronisation:
+      Internal Sync\r\nHorizontal/Vertical Frequency: PAL- 15.625kHZ/50HZ, NTSC- 15.734kHZ/59.94HZ\r\nResolution:
+      700TV Lines\r\nVideo Out: 1.0Vp-p/75Ohm CVBS\r\nS/N ratio: >45dB (AGC Off)\r\nMinimum
+      Illumination: 0.00001Lux F1.2 (Colour)\r\nGamma Correction: 0.45\r\nGain Control:
+      Auto\r\nElectronic Shutter: PAL 1/50-1/100,000s, NTSC 1/60-1/100,000s\r\nDay/Night
+      Mode: IR Cut Auto Switching\r\nLens: 2.8-12mm with Auto Iris\r\nPower Supply:
+      DC12V, 3.6w (Max during IR cut switching)\r\nOperational Temperature: -10C to
+      +50C\r\nOperational Humidity: 20-90 Percent RH\r\nDimensions: 142(Diameter)x
+      105mm (Length)"
+    in_the_box: "<ul>\r\n<li>1x Ultra Low Light Dome CCTV Camera</li>\r\n<li>1x UK
+      Mains power Supply</li>\r\n<li>English Instructions</li>\r\n<li><strong>2 Year
+      Warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

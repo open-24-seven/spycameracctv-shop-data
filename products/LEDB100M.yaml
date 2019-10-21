@@ -1,0 +1,40 @@
+product:
+  path: 90m-ir-illuminator-led-security-floodlight-night-vision-cctv
+  sku: LEDB100M
+  name: 100m IR Illuminator LED Security Floodlight for Night Vision CCTV
+  images:
+  - path: 5504.jpg
+    title: "\t100m IR Illuminator LED Security Floodlight for Night Vision CCTV"
+  - path: 5508.jpg
+    title: 100m IR illuminator front view
+  - path: 5509.jpg
+    title: 100m IR night vision illuminator side view
+  prices:
+    default:
+    - break: 1
+      unit_price: 583300
+  content:
+    ean: "5060181650567"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/0Np_NJ31T6A
+    manuals: []
+    software: []
+    description: "This powerful IR illuminator is an ideal addition to any outdoor
+      night vision CCTV system, helping extend your camera's night vision range, or
+      \"fill in\" areas of the image that would otherwise be in shadow. The lamp features
+      a light sensor, so the device can automatically switch on when light levels
+      start to drop at sunset. \r\n\r\nThe illuminator can reach subjects up to 100m
+      away, working in a much wider field than LEDs built into cameras. It will work
+      with any camera that is sensitive to IR light, including almost all wired CCTV
+      cameras that feature \"IR-Cut auto switching\"- including many that don't even
+      have night vision themselves! Consult your camera's specifications for more
+      information."
+    specification: "LEDs: 12x\r\nPower: 12V DC, 1300mA, 17W\r\nInfrared view distance:
+      100m\r\nIR angle: 30 degrees\r\nDimensions: 150mm x 120mm x 165mm (LxHxW)\r\nWeight:
+      1.1kg\r\nStorage temperature: -30 ~ +60 degrees celcius\r\nOperating temperature:
+      -10 ~ +50 degrees celcius"
+    in_the_box: "<ul>\r\n<li>1x IR illuminator with bracket</li>\r\n<li>1x Set of
+      screws and fixings</li>\r\n<li>12V DC UK Power Supply</li>\r\n</ul>"

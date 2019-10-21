@@ -1,0 +1,23 @@
+product:
+  path: 8mm-lens-standard-screw-lens-cctv-cameras-34-degrees
+  sku: LENS8MM
+  name: 8mm Lens for Standard Screw Lens CCTV Cameras - 34 Degrees
+  images:
+  - path: 4603.jpg
+    title: 8mm Lens for Standard Screw Lens CCTV Cameras - 34 Degrees
+  prices:
+    default:
+    - break: 1
+      unit_price: 83300
+  content:
+    ean: "5060181655326"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: 'This 8mm standard screw lens for spy cameras provides a zoom effect
+      so that you can get detailed images of subjects further away from the camera. '
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 8mm Spy Camera Lens</li>\r\n</ul>"

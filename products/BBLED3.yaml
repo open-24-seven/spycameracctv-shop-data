@@ -1,0 +1,42 @@
+product:
+  path: daylight-white-led-light-in-line-power-12v-bird-box-cameras
+  sku: BBLED3
+  name: Daylight White LED Light with In Line Power for 12V Bird Box Cameras
+  images:
+  - path: 5688.jpg
+    title: " \tDaylight White LED Light with In Line Power for 12V Bird Box Cameras"
+  - path: 5689.jpg
+    title: Daylight white LED for bird box cameras with in line power
+  prices:
+    default:
+    - break: 1
+      unit_price: 83300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Bird box cameras are an incredibly popular way to watch wildlife
+      in your garden, capturing amazing close up views of chicks as they hatch and
+      grow. One common issue, however, is that the inside of the unlit box is too
+      dark. Whilst bird box cameras get past this using night vision, this is always
+      monochrome, so you can't see the full glory of the bird's feathers.\r\n\r\nThis
+      small LED light is a great solution to this issue. You can install it inside
+      of the box, where it provides just enough illumination for the camera to record
+      without having to use night vision. Importantly, it has a built-in photometer,
+      which cuts off the LEDs when the ambient light levels drop. This means the light
+      is off at night time, so it won't disturb the sleep cycles of your feathered
+      friends!\r\n\r\nThe light works with in-line power from any of our 12V bird
+      box cameras. This means it simply connects in between the power supply and the
+      camera, and means you don't need to set up an additional mains plug for the
+      light. Please note, this feature is not compatible with our 8V bird box cameras."
+    specification: "Day/Night: Automatic Switching (Day on, Night off)\r\nPower Input:
+      12V DC\r\nPower Consumption: 40mA\r\nIllumination: 1300 Lumens\r\nRated Life:
+      50,000 Hours\r\nLight Source: 3x High brightness LEDs\r\nColour Temperature:
+      6000-6500k (Daylight)\r\nBeam Angle: 120 degrees\r\nMaterial: PC, Aluminium\r\nAttached
+      Cable Length: 50cm\r\nOperational Temperature: -20Â°c to +60Â°c\r\nApprox. Dimensions:
+      90mm x 18mm x 10mm (LxHxD)\r\nCable length: 52cm"
+    in_the_box: "<ul>\r\n<li>1x LED light for bird boxes</li>\r\n</ul>"

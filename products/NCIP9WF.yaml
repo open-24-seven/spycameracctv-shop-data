@@ -1,0 +1,72 @@
+product:
+  path: green-feathers-wifi-bird-box-camera-hd-night-vision
+  sku: NCIP9WF
+  name: Green Feathers WiFi Bird Box Camera - HD with IR, MicroSD Recording
+  images:
+  - path: 5525.jpg
+    title: " \tGreen Feathers WiFi Bird Box Camera - HD with IR, MicroSD Recording
+      and gift box"
+  - path: 5503.jpg
+    title: Wi-Fi Camera Smartphone App
+  - path: 5440.jpg
+    title: Green Feathers WiFi Bird Box Camera - HD with Night Vision
+  - path: 5441.jpg
+    title: wifi bird box camera front view
+  - path: 5442.jpg
+    title: Green feathers wifi bird box camera side view
+  - path: 5443.jpg
+    title: wifi bird box cable connectors
+  - path: 5643.jpg
+    title: Green feathers mains power supply
+  prices:
+    default:
+    - break: 1
+      unit_price: 825000
+  content:
+    ean: "5060423073604"
+    meta:
+      title: ""
+      description: 'Our HD Wi-Fi Bird Box camera allows you to watch inside your bird
+        nesting box on your smartphone, tablet and computer. See garden wildlife like
+        never before! This is an excellent gift for friends and family and anyone
+        who loves wildlife! '
+    videos:
+    - https://www.youtube.com/embed/6vDxCvrewHw
+    - https://www.youtube.com/embed/3jX37JUAWMk
+    - https://www.youtube.com/embed/JUoNhhjE6UQ
+    - https://www.youtube.com/embed/Dy0cEwAbmPw
+    manuals:
+    - http://downloads.spycameracctv.com/NCIP9WF/manuals/NCIP9WF.pdf
+    software: []
+    description: "For years now our <a href=\"https://www.green-feathers.co.uk\" title=\"Green
+      Feathers\" target=\"_blank\">Green Feathers bird box cameras</a> have been delighting
+      nature lovers by providing amazing close up images of eggs & chicks, direct
+      from your garden to your TV screen. Now, however, our new WiFi bird box camera
+      lets you easily log in to watch or record footage directly from your phone or
+      tablet. As the first camera of its type on the market to feature built-in WiFi,
+      you don't even need to run a network cable out to the bird box - all it needs
+      is power!\r\n\r\nJust make sure that there is WiFi signal where you want to
+      install the bird box in the garden, and then follow the simple configuration
+      instructions in our setup guide. You can then watch live or recorded footage
+      of the chicks from anywhere using an Android or iOS mobile device. If your WiFi
+      signal does not reach your garden, then don't worry! Our home plug WiFi extenders
+      are a great way to reliably increase your signal's range, and can be added from
+      the menu at the top of the page. \r\n\r\nThe camera itself features invisible
+      IR night vision LEDs, that provide clear illumination in the dark bird box without
+      disturbing the animals. A 2.8mm wide angle lens also means that you can get
+      the entire inside of the box in the frame. The tiny microphone means the camera
+      will record sound as well as video. A MicroSD slot allows you to easily record
+      footage - and even set up motion detection - directly from the app without having
+      to set up a bulky external recorder."
+    specification: "Imaging Chip: 1/3\" CMOS\r\nPixels: 1280x960 (1.3MP)\r\nSensitivity:
+      0.5 Lux (IR Off), 0 Lux (IR On)\r\nMain Stream Frame Rates: 1280x960, 1280x720
+      @25fps\r\nSub Stream Frame Rate: 4CIF @25fps\r\nVideo Compression: H.264\r\nDWDR:
+      On/Off\r\n3D DNR: Yes\r\nLens: 2.8mm F/1.4\r\nField of View: 103Â°\r\nDay &
+      Night: Auto ICR\r\nAudio Input: Built-in Mic\r\nAudio Compression: G.711\r\nNight
+      Vision Range: <1m\r\nLEDs: 4x high efficiency 940nm\r\nSoftware Configuration:
+      Web browser or PC Software\r\nProtocols: HTTP, TCP/IP, ARP, RTSP, RTP, UDP,
+      SMTP, FTP, DHCP, DNS, DDNS, PPPOE, UPNP, NTP, 802.1x\r\nWireless: IEEE 802.11b/g/n\r\nPower
+      Input: 12V DC\r\nPower Consumption: 6W (Max)\r\nDimensions: 44x44x33mm\r\nOperational
+      Temperature: -20Â°c to +55Â°c\r\nOperational Humidity: 10-80%\r\n"
+    in_the_box: "<ul><li>1x Green Feathers WiFi bird box camera</li>\r\n<li>1x Mains
+      power supply</li></ul>"

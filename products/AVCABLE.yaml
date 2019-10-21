@@ -1,0 +1,28 @@
+product:
+  path: 1-metre-rca-phono-cable-with-video-and-audio
+  sku: AVCABLE
+  name: 1 Metre RCA Phono Cable with Video and Audio
+  images:
+  - path: 3265.jpg
+    title: 1 Metre RCA Phono Cable with Video and Audio
+  prices:
+    default:
+    - break: 1
+      unit_price: 24900
+  content:
+    ean: "5060181654435"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "1 metre braided video and audio RCA phono cable, ideal for connecting
+      your DVR or wireless receiver outputs to a TV or monitor. These cables are perfect
+      to add in where you've added audio to your DVR set up and wish to listen live
+      through the monitor. You'll also need a BNC from the associated products to
+      the right. \r\n\r\nWe also have adapters available for connecting this to an
+      existing RCA phono cable to give you an extra metre, or to adapt this cable
+      to a BNC input/output."
+    specification: ""
+    in_the_box: 1x 1 metre RCA phono cable with video and audio

@@ -1,0 +1,27 @@
+product:
+  path: 12v-dc-500ma-uk-mains-power-supply
+  sku: 12V05GB21
+  name: 12V DC 500mA UK Mains Power Supply 2.1mm Jack
+  images:
+  - path: 3950.jpg
+    title: 12V DC 500mA UK Power Supply for CCTV Cameras - 2.1mm Jack
+  prices:
+    default:
+    - break: 1
+      unit_price: 45800
+  content:
+    ean: "5060181651885"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This replacement 500mA (1A) UK mains power supply can be purchased
+      to use with any standard 12V CCTV camera kit. They are built to be lightweight
+      and pass our stringent quality controls before sending out - perfectly regulated
+      for consistent power supply to your cameras.
+    specification: "Country: UK 3 Pin Plug\r\nColor: Black\r\nMaterial: Plastic and
+      Metal\r\nInput Voltage: 230/240V AC\r\nOutput Voltage: DC 12V \r\nOutput current
+      (max): 500mA\r\nFrequency: 50/60Hz"
+    in_the_box: "<ul>\r\n<li>1x 12V DC UK Power Supply with 2.1mm Jack</li>\r\n</ul>"

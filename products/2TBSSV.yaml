@@ -1,0 +1,26 @@
+product:
+  path: 2tb-seagate-surveillance-grade-hdd
+  sku: 2TBSSV
+  name: 2TB Seagate Surveillance Grade HDD
+  images:
+  - path: 5263.jpg
+    title: 2TB Seagate Surveillance Grade HDD
+  - path: 5585.jpg
+    title: 2tb seagate hdd
+  prices:
+    default:
+    - break: 1
+      unit_price: 1000000
+  content:
+    ean: "5060423071952"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 2Tb hard drive is perfect for use in our CCTV DVRs and NVRs.
+      The surveillance grade drive is designed for constant use, essential when recording
+      CCTV footage.
+    specification: ""
+    in_the_box: ""

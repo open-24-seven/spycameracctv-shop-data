@@ -1,0 +1,39 @@
+product:
+  path: hd-spy-key-fob-1080p-camera-wifi-16gb-microsd
+  sku: SPYDFOBW
+  name: HD Spy Key Fob - 1080p Camera with Wifi, 16GB MicroSD
+  images:
+  - path: 5900.jpg
+    title: HD Spy Key Fob - 1080p Camera with Wifi, 16GB MicroSD
+  prices:
+    default:
+    - break: 1
+      unit_price: 1666300
+  content:
+    ean: "5060611442380"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Imagine the peace of mind of knowing that you have a covert security
+      camera to hand, wherever you go. This key fob conceals a tiny spy camera, providing
+      a way of recording video and audio that can fit right in your pocket, on a keyring.
+      Despite it's size, it can capture 1080p HD video or 5 megapixel stills, all
+      to the included MicroSD card.\r\n\r\nA built-in Wifi transmitter means you can
+      log in to the camera using an Android or iOS mobile device, providing an easy
+      way to view live or recorded video, and even control recording. Even with Wifi
+      active, the battery holds enough charge to allow just over an hour of continuous
+      recording. To keep the camera secure, a special \"hide the SSID\" mode prevents
+      other devices from detecting it using Wifi.\r\n\r\n"
+    specification: "Imaging Sensor: 1/3\" CMOS\r\nSensor Resolution: 2592x1944\r\nSensitivity:
+      3.3 Lux @f/2\r\nLens: 4mm f/3.2\r\nAngle of View: 66 Degrees\r\nCompression:
+      H.264, JPEG\r\nFile Format: .mov, .jpg\r\nVideo Resolution: 1920x1080\r\nFrame
+      Rate: Up to 30fps\r\nDigital Zoom: 4x\r\nWifi: IEEE 802.11b/g/n\r\nWifi Protocol:
+      RTSP\r\nStorage: MicroSD (max 32GB)\r\nData Interface: Mini USB 2.0\r\nDate/Time
+      Table: YYYY/MM/DD, HH:MM:SS\r\nPower Input: DC 5V\r\nBattery Lifetime: 65 minutes
+      continuous recording (Wifi on)\r\nVibration Alert: Power on/off, recording,
+      low battery\r\nDimensions: 71x41x16mm\r\nWeight: 46g"
+    in_the_box: "<ul>\r\n<li>1x HD spy key fob</li>\r\n<li>1x Mini USB cable</li>\r\n<li>1x
+      16GB MicroSD card</li>\r\n<li>1x USer manual</li>\r\n</ul>"

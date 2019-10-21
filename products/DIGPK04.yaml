@@ -1,0 +1,50 @@
+product:
+  path: digital-wireless-audio-video-transmitter-receiver
+  sku: DIGPK04
+  name: Digital Wireless 2.4GHz CCTV Video and Audio Transmitter and Receiver
+  images:
+  - path: 5024.jpg
+    title: "\tDigital Wireless 2.4GHz CCTV Video and Audio Transmitter and Receiver"
+  - path: 5025.jpg
+    title: Digital Wireless 2.4GHz CCTV Video and Audio Transmitter and Receiver
+  - path: 5026.jpg
+    title: Digital Wireless 2.4GHz CCTV Video and Audio Transmitter and Receiver
+  - path: 5028.jpg
+    title: Digital Wireless 2.4GHz CCTV Video and Audio Transmitter and Receiver
+  - path: 5027.jpg
+    title: Digital Wireless 2.4GHz CCTV Video and Audio Transmitter and Receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 825000
+  content:
+    ean: "5060423071709"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This compact digital wireless video and audio transmitter/receiver
+      pair is ideal for sending your CCTV camera's feed over a long distance without
+      the requirement of vast lengths of cable. The kit is compatible with any CCTV
+      camera and DVR that uses a BNC connection for video and a RCA/phono connection
+      for audio. Digital wireless transmission allows the small sender to transmit
+      video and audio over a range of up to 100 metres in clear line-of-sight without
+      interference. In short, it can turn any standard CCTV camera into a wireless
+      camera.\r\n\r\nSimple and secure set up is provided by pairing. With just a
+      push of a button the transmitter and receiver are securely paired to prevent
+      any other device receiving the camera's feed.\r\n\r\nTo boost the range of the
+      digital wireless transmitter why not attach one of our 7dB antennas?"
+    specification: "Receiving Frequency Range: 2.400GHz~2.483GHz\r\nTransmitting Power/ERP:
+      16dBm Max\r\nData Rate: 4 Mbps\r\nReceiving Sensitivity: -81dBm\r\nType of Spread
+      Spectrum TX FHSS: 16 Channels\r\nDemodulation Type: GFSK\r\nTransmitting Distance:
+      150m (Line of Sight)\r\nVideo Input: 1.0 Vp-p @ 75Î© load\r\nAudio Input: 1.0
+      Vp-p @ 600Î© load\r\nPower Consumption: 240mA\r\nPower Requirement: 9V DC Â±5%\r\nOperating
+      Temperature: -10Â°C ~ 50Â°C\r\nOperating Humidity: 0% ~ 85%\r\nEnvironment Rating:
+      Indoor use only\r\nDimensions (LxWxH): 80mm x 55mm x 15.2mm\r\nRegulation Compliance:
+      FCC/CE\r\nRoHS Compliance: Yes\r\nCamera Housing Material: ABS\r\nMounting Stand
+      Material: ABS\r\nInputs: 1x BNC male video input and 1x RCA audio input\r\nDisplay
+      Resolution: VGA, 640x480 pixels"
+    in_the_box: "<ul>\r\n<li>1x Transmitter</li>\r\n<li>1x Receiver</li>\r\n<li>2x
+      UK 9V DC Power supplies</li>\r\n</ul>"

@@ -1,0 +1,72 @@
+product:
+  path: low-light-hd-outdoor-spy-camera-kit-recorder
+  sku: DVRNNMB
+  name: 'Low Light HD Outdoor Spy Camera Kit with Recorder '
+  images:
+  - path: 5861.jpg
+    title: 'Low Light HD Outdoor Spy Camera Kit with Recorder '
+  - path: 5862.jpg
+    title: 1080p low light spy camera in hand
+  - path: 5863.jpg
+    title: Low light HD spy camera connections
+  - path: 5864.jpg
+    title: 'HiWatch 4 channel DVR '
+  - path: 5865.jpg
+    title: HiWatch 4 channel DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1350000
+  content:
+    ean: "5060611442533"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Over the years, we've often been approached by customers who are
+      dealing with abuse, or even vandalism, by their neighbours. In these cases,
+      it can be tricky to get evidence on video, as installing a visible camera on
+      your property could potentially inflame conflicts. Luckily, this outdoor spy
+      camera kit is an ideal solution. It features our smallest weatherproof camera,
+      as well as an HD recorder that can be left running inside your home. \r\n\r\nThe
+      camera is tiny - about the same size as a lipstick - but still captures video
+      at 1080p Full HD resolution. Crucially, it doesn't use infra-red, so there is
+      no tell-tale glow to attract attention. Despite this, it can still work in light
+      levels as low as 0.0008 lux. The Sony imaging chip records in full colour in
+      daylight, before switching to black and white to boost sensitivity.\r\n\r\nThe
+      included DVR provides a wide range of recording settings, including fully adjustable
+      motion detection and scheduling. As well as your choice of hard drive, it features
+      4 video channels. This lets you easily add additional cameras if you want to
+      expand your kit at a later date. You can also set watch your camera and adjust
+      settings from a PC or mobile device by connecting the recorder to your router
+      (configuration required).\r\n"
+    specification: "<p>Camera</p>\r\nImage sensor: 1/3\" 2.12MP Panasonic CMOS\r\nTotal
+      pixels: 1956 x 1266\r\nEffective pixels: 1944 x 1092\r\nScanning system: Progressive\r\nResolution:
+      TVI, AHD, CVI 1080p/CVBS 950TVL\r\nMin. illumination: 0.005 Lux (Colour)/0.0008
+      Lux (B&W)\r\nVideo output: TVI/AHD/CVI/CVBS\r\nS/N ratio: >52dB (AGC off)\r\nLens:
+      3.6mm fixed\r\nShutter speed: 1/25 ~ 1/50,000 sec\r\nSens-up: Auto (x6)/x2/x4/x6/x8/x10/x15/x20/x25/x30\r\nExposure:
+      DC/Manual\r\nBacklight compensation: Off/BLC/HSBLC\r\nImage enhancement: D-WDR\r\nDefog:
+      On/Off\r\nDay & Night: Auto/Colour/B&W/Ext\r\nWhite balance: ATW/AWC-Set/Indoor/Outdoor/Manual/AWB\r\n3D-DNR:
+      Off/Low/Mid/High\r\nDigital effect: Off/Mirror/V-Flip/Rotate & Freeze\r\nSharpness:
+      adjustable\r\nPrivacy mask: 4 masks\r\nMotion detection: Off/On\r\nIR Cut: Yes\r\nCommunication:
+      coaxial\r\nLanguage: Eng/Chn/Ger/Fra/Ita/Spa/Pol/Rus/Por/Ned/Tur/Jpn\r\nOSD:
+      Controller supplied\r\nPower input: DC 12V (100mA)\r\nPower consumption: 1.2W\r\nOperating
+      temperature: -10 to 50 degrees\r\nStorage temperature: -20 to 60 degrees\r\nDimensions:
+      19âŒ€ x 72.5mm \r\n\r\n<p>Recorder</p>\r\nVideo Input: 4x BNC\r\nVideo Compression:
+      H.264+\r\nHD-TVI/AHD/CVI Input: 1080p@25/30fps, 720p@25/30fps\r\nCVBS Input:
+      Supported\r\nAudio Compression: G.711u\r\nAudio Input: 1x RCA\r\nHDMI/VGA Output:
+      1920x1080, 1280x1024, 1280x720, 1024x768\r\nEncoding Resolution: 1080pLite,
+      720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame Rate: 1080pLite, 720p @ 12fps\r\nSub
+      Stream Frame Rate: CIF, QVGA, QCIF @ 25fps\r\nVideo Bitrate: 32kbps to 4Mbps\r\nAudio
+      Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual Stream: Support\r\nSynchronous
+      Playback: 4 Channels\r\nRemote Connections: 32\r\nNetwork Protocols: TCP/IP,
+      PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS,iSCSI, UPnP, HTTPS\r\nSATA:
+      1x Interface\r\nCapacity: Up to 6TB\r\nNetwork Interface: 1x 10/100M RJ45 Ethernet\r\nUSB
+      Interface: 2x USB 2.0 (rear panel)\r\nPower Supply: 12V DC\r\nConsumption (without
+      HDD): <8W\r\nOperational Temperature: -10Â°c to +55Â°c\r\nOperational Humidity:
+      10-90%\r\nDimensions: 200x200x45mm\r\nWeight (without HDD): 800g "
+    in_the_box: "<ul>\r\n<li>1x Outdoor spy camera</li>\r\n<li>1x Mains power supply
+      for camera</li>\r\n<li>1x 10m AV and power cable</li>\r\n<li>1x 4 Channel DVR</li>\r\n<li>1x
+      Mains power supply for DVR</li>\r\n<li>1x USB mouse</li>\r\n</ul>"

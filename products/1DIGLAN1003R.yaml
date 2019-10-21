@@ -1,0 +1,60 @@
+product:
+  path: b-grade-digital-wireless-cctv-kit-mobile-access
+  sku: 1DIGLAN1003R
+  name: B-Grade 20% Off Digital Wireless 720p HD CCTV Kit with Mobile Access
+  images:
+  - path: 5399.jpg
+    title: B-Grade Digital Wireless 720p HD CCTV Kit
+  prices:
+    default:
+    - break: 1
+      unit_price: 1658300
+  content:
+    ean: "5060423070146"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Zls9f5NxAlg
+    - https://www.youtube.com/embed/MDdsHBW6I7s
+    manuals: []
+    software: []
+    description: "<strong>B-grade item 20% off RRP</strong>\r\nThis product may be
+      a customer return or ex-display. The packaging will have been opened but the
+      contents have been fully tested. It might have minor cosmetic defects.\r\n\r\nThis
+      kit boasts a host of unique security features, all controlled by one central
+      device, so there's no need to trail cables everywhere. This makes it ideal for
+      people looking for a first security kit who want to avoid a stressful setup.\r\n\r\nUniquely,
+      the cameras are capable of recording at an impressive 720p HD resolution, previously
+      unheard of for wireless CCTV kits! The extra detail this records means the resulting
+      security footage will be much more useful if you have to go back and review
+      it should the worst happen. If you want to expand the system at a later date,
+      up to 2 cameras are supported at full 720p resolution, or up to 4 at standard
+      definition. The camera also has a built in PIR sensor, allowing it to detect
+      a subject's body heat, and use it to trigger recording- a much more reliable
+      system than standard motion detection! The feature packed camera is finished
+      off with a ring of IR LEDs, providing clear night vision of subjects up to 10m
+      away.\r\n\r\nFootage from the camera is then transmitted to the recorder/monitor
+      using advanced Digital Wireless technology. This pairs the devices together
+      in order to send the video signal across a wide range of frequencies, both helping
+      reduce the risk of wireless interference and making sure that no other users
+      can pick up your camera's signal.\r\n\r\nThe recording device itself combines
+      a wireless receiver with a MicroSD DVR and a 9\" colour LCD. This means everything
+      you need to record and view the cameras is in one single device. To make it
+      even more versatile, the screen has an internal battery, allowing you to unplug
+      the device and move it around your house without any constrictions. Additional
+      features also include an automatic power save function and even a talkback mode,
+      using the small speaker built into the camera. Footage is stored to the built-in
+      MicroSD card slot (supports up to 64GB, card not included), capable of holding
+      many days' worth of footage. For mobile security, connecting the device to your
+      internet router and scanning the included QR code lets you watch live footage
+      from your camera on a smartphone or tablet."
+    specification: "Camera Resolution: 1280x720p\r\nScanning System: Interlaced\r\nSynchronization:
+      Internal\r\nField of View: 80Â°\r\nGain Control: Auto\r\nWhite Balance: Auto\r\nIR
+      LED Frequency: 850nm\r\nNight Vision Range: Up to 10m\r\nAudio: Yes\r\nTalkback:
+      Yes\r\nRecording Resolution: 720p (up to 2 cameras), VGA (up to 4 cameras)\r\nStorage:
+      MicroSD (supports up to 128GB, not included)\r\nLCD Screen: 9\" TFT LCD \r\nCamera
+      Power Supply: 9V 1000mA\r\nScreen Power Supply: 5V 2000mA"
+    in_the_box: "<ul>\r\n<li>1x HD Digital Wireless CCTV Camera with 1.5m cable</li>\r\n<li>1x
+      Combination Receiver, DVR & screen</li>\r\n<li>2x Mains Power Supplies with
+      1.5m cable</li>\r\n<li>1x Network Cable</li>\r\n<li>English Instructions</li>\r\n</ul>\r\n"

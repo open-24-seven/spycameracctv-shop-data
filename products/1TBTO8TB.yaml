@@ -1,0 +1,22 @@
+product:
+  path: 1tb-to-8tb-upgrade
+  sku: 1TBTO8TB
+  name: 1TB to 8TB Hard Drive Upgrade
+  images:
+  - path: 5420.jpg
+    title: 1TB to 8TB Hard Drive Upgrade
+  prices:
+    default:
+    - break: 1
+      unit_price: 3000000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

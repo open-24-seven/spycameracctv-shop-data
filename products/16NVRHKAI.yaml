@@ -1,0 +1,67 @@
+product:
+  path: 16-channel-hikvision-deepinmind-nvr-ai-assist-4x-sata-12mp
+  sku: 16NVRHKAI
+  name: 16 Channel Hikvision DeepinMind NVR - AI Assist, 4x SATA, Up to 12MP
+  images:
+  - path: 5780.jpg
+    title: " \t16 Channel Hikvision DeepinMind NVR - AI Assist, 4x SATA, Up to 12MP"
+  - path: 5781.jpg
+    title: 16 channel Hikvision DeepinMind NVR front view
+  - path: 5782.jpg
+    title: 16 Channel Hikvision DeepinMind AI NVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 12120000
+  content:
+    ean: "5060611440430"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision has pioneered the use of video analytics in CCTV systems,
+      providing intuitive ways to automate your property's security. Now, with their
+      new <strong>DeepinMind</strong> series of recorders, they have unleashed a step
+      change in how security systems manage and analyse video. The NVRs use deep learning
+      - the same type of AI used to power voice assistants - in order to recognise
+      and identify subject behaviour. In practical terms, this allows them to detect
+      humans and trigger alarms & recording with significantly higher accuracy than
+      other recorders on the market. When combined with Hikvision's high resolution
+      IP cameras, this makes this 16 channel NVR an incredibly powerful security tool,
+      suitable for perimeter defence and other demanding applications.\r\n\r\nThe
+      NVR captures HD video from up to 16 cameras at a time, with a total incoming
+      bandwidth of 256Mbps, and a huge 12MP maximum resolution. Perhaps unsurprisingly
+      then, it also features 4 SATA hard drive bays, allowing a massive total storage
+      of 40TB. It also supports Hikvision's advanced H.265+ video compression format,
+      letting you record for up to 4 times longer for the same hard drive space. An
+      HDMI output easily lets you monitor and playback footage in up to 4K resolution.\r\n\r\nThe
+      NVR connects to your network allowing remote access via PC, or mobile device,
+      and supports the full range of smart detection modes when used with Hikvision
+      cameras. An intuitive interface allows you to search for trigger events, and
+      even to search for events in specific area of an image. This makes it easier
+      than ever to manage large numbers of cameras, and ensure that you don't miss
+      any important events on your property.\r\n\r\n\r\n \r\n\r\n"
+    specification: "IP Video Input: 16 Channels\r\nTwo Way Audio: 1x RCA\r\nIncoming
+      Bandwidth: 256Mbps\r\nOutgoing Bandwidth: 200Mbps\r\nRemote Connections: 128x\r\nRecording
+      Resolution: 12MP,8MP,6MP,5MP,4MP,3MP,1080p,UXGA,720p,VGA,4CIF,DCIF,2CIF,CIF,QCIF\r\nCVBS
+      Output: 1x BNC, 704x576\r\nHDMI Output: 4K (3840x2160)@60/30, 2K (1920x1080)
+      @60/30, 1600x1200 @60Hz, 1280x1024 @60, 1280x720 @60, 1024x768 @60\r\nVGA Output:
+      1920x1080 @60, 1280x1024 @60, 1280x720 @60, 1024x768 @60\r\nAudio Output: 1x
+      RCA\r\nDecoding Format: H.265, H.265+, H.264, H.264+, MPEG4\r\nLive View: 12MP,8MP,6MP,5MP,4MP,3MP,1080p,UXGA,720p,VGA,4CIF,DCIF,2CIF,CIF,QCIF\r\nSynchronous
+      Playback: 16 Channels\r\nCapability: 2ch @12MP (20fps), 4ch @8MP(25fps), 8ch
+      @4MP(30fps), 12x @1080p(30fps)\r\nBehaviour Detection: False alarm filtering,
+      Picture re-recognition for up to 8x behaviours\r\nHuman Body Detection: False
+      alarm filtering, picture re-recognition\r\nNetwork Protocols: TCP/IP, DHCP,
+      Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS, iSCSI, UPnP, HTTPS\r\nSATA: 4x
+      Interfaces\r\nCapacity: Up to 10tb per SATA\r\neSATA: 1x \r\nNetwork Interface:
+      1x RJ45 10/100/1000Mbps Self adaptive ethernet\r\nSerial Interface: RS-485,
+      RS-232, Keyboard\r\nUSB: 2x USB 2.0 (front), 1x USB 3.0 (rear)\r\nAlarm In/Out:
+      16/8\r\nPoE Interface: 16x RJ45 10/100 Mbps Self adaptive ethernet\r\nPoE Power:
+      <200W\r\nPoE Standard: IEEE 802.3af/at\r\nPower Supply: 100 to 240V AC\r\nPower:
+      <300W\r\nConsumption: <30W (Without HDD)\r\nOperational Temperature: -10 to
+      +55c\r\nOperational Humidity: 10-90%\r\nChassis: 19\" Rack mounted 1.5U\r\nDimensions:
+      445x400x71mm\r\nWeight: <5Kg (no HDD)"
+    in_the_box: "<ul><li>1x Hivkision 16 channel DeepinMind NVR</li>\r\n<li>1x USB
+      mouse</li>\r\n<li>1x Mains power supply</li>\r\n<li>Software & manual CD</li></ul>\r\n"

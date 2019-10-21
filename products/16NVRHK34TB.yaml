@@ -1,0 +1,60 @@
+product:
+  path: hikvision-16-camera-nvr-4k-poe-switch-4tb-hdd-256mbps
+  sku: 16NVRHK34TB
+  name: Hikvision 16 Channel NVR with 4K, PoE Switch & 4TB HDD - 256Mbps
+  images:
+  - path: 5395.jpg
+    title: Hikvision 16 Channel NVR with 4K, PoE Switch & 4TB HDD - 256Mbps
+  - path: 5396.jpg
+    title: Hikvision 16 channel PoE NVR with 4TB HDD front view
+  - path: 5397.jpg
+    title: Hikvision 16 channel PoE NVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 7591700
+  content:
+    ean: "5060423073680"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/16NVRHK3.pdf
+    software: []
+    description: "When you've invested money in the best 4K CCTV cameras on the market,
+      it's important to use a recorder that can manage the demands of such high resolution
+      footage. This commercial quality 16 camera HIkvision NVR is an ideal choice.
+      It has 256Mbps of bandwidth, providing enough processing grunt to handle four
+      8 megapixel cameras at the same time - or 16 2MP cameras. This makes it a great
+      choice for properties that require extensive coverage, or systems with a mix
+      of different types, such as car parks.\r\n\r\nThe recorder uses a built-in 16
+      port Power-over-Ethernet (PoE) switch to send power to the cameras down the
+      network cable, helping prevent the need for extra power supplies and keep installation
+      simple. It ships with a 4TB hard drive built in as standard, but has four internal
+      hard drive bays, allowing it to be upgraded to up to 24TB if required. \r\n\r\nAs
+      you'd expect with one of HIkvision's professional NVRs, it's kitted out with
+      the best automation features on the market. These not only include motion detection
+      and scheduling, but compatibility with the most recent camera's behavioural
+      analytics settings such as line crossing, object removal, intrusion and face
+      detection. All of these can be set directly on the recorder using a monitor,
+      or remotely via HIkvision's PC app. Live & recorded footage can also be viewed
+      ont he go via iOS or Android devices."
+    specification: "IP Video Input: 16 Channels\r\nIP Input Resolution: Up to 12MP\r\nTwo
+      Way Audio: 1x RCA\r\nIncoming Bandwidth: 256Mbps\r\nOutgoing Bandwidth: 256Mbps\r\nRecording
+      Resolution: 12Mp, 8MP, 6MP, 5MP, 4MP, 3MP, 1080p, UXGA, 720p, VGA, 4CIF, DCIF,
+      2CIF, CIF, QCIF\r\nHDMI Output Resolution: 3840x2160 60HZ, 3840x2160 30Hz, 1920x1080
+      60Hz, 1600x1200 60Hz, 1280x1024 60Hz, 1280x720 60Hz, 1024x768 60Hz\r\nVGA Output
+      Resolution: 1920x1080 60Hz, 1280x1024 60Hz, 1280x720 60Hz, 1024x768 60Hz\r\nAudio
+      Output: 1x RCA\r\nDecoding Format: H.265, H.264+, H.264, MPEG4\r\nSynchronous
+      Playback: 16ch\r\nCapability: 4ch @ 4K, 16ch @ 1080p\r\nSATA: 4x SATA Interfaces\r\nCapacity:
+      Up to 6TB per drive\r\nNetwork Interface: 1x RJ45 10/100/1000 Mbps self adaptive\r\nSerial
+      Interface: 1x RS485, 1x RS232\r\nUSB Interface: 2x (front panel), 1x (rear panel)\r\nAlarm
+      In/Out: 16/4\r\nPoE Interface: 16x 10/100 Mbps self adaptive\r\nPoE Output:
+      200W\r\nPoE Standard: IEEE 802.3 af/at\r\nPower Supply: 100 to 240V AC\r\nPower:
+      300W\r\nConsumption: 20W (without HDD or PoE)\r\nOperational Temperature: -10Â°
+      to +55Â°c\r\nOperational Humidity: 10-90%\r\nChassis: 19\" Rack Mount 1.5U\r\nDimensions:
+      445x390x70mm\r\nWeight: 5Kg (without HDD)"
+    in_the_box: "<ul><li>1x 16 Channel Network Video Recorder with 4TB HDD</li>\r\n<li>1x
+      USB Mouse</li>\r\n<li>1x Mains Power Supply</li>\r\n<li>1x Software & manual
+      CD</li></ul>"

@@ -1,0 +1,23 @@
+product:
+  path: bnc-to-rca-male-adapter
+  sku: RCATOBNC
+  name: BNC Female to RCA Male Adapter x 1 Connector
+  images:
+  - path: 958.jpg
+    title: BNC to RCA Male connector
+  prices:
+    default:
+    - break: 1
+      unit_price: 16600
+  content:
+    ean: "5060181651861"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This adaptor converts a BNC video connection to a standard RCA/phono
+      connection.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x RCA Male to BNC Male Adapter</li>\r\n</ul>"

@@ -1,0 +1,32 @@
+product:
+  path: dc-power-extension-cable-10m-birdbox-pinhole
+  sku: 10M21POWER
+  name: 10 Metre DC Power Extension Cable with 2.1mm/5.5mm Jack
+  images:
+  - path: 1293.jpg
+    title: 12V DC CCTV Power Extension Cable 10 Meter
+  - path: 1294.jpg
+    title: CCTV Camera Power Cable with 5.5mm DC Jack
+  - path: 5791.jpg
+    title: 2.1mm power cable dimensions
+  - path: 5792.jpg
+    title: 2.1mm power cable comparison
+  prices:
+    default:
+    - break: 1
+      unit_price: 60700
+  content:
+    ean: "5060181652059"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is a power extension lead for 12V cameras with 2.1mm power
+      jack. With a male and a female connector it will simply extend your power supply
+      between your camera and the adapter. \r\n\r\nPlease note- not compatible with
+      our 8V bird box cameras. They use our 1.3mm cables, <a href=\\\"https://www.spycameracctv.com/spycamera/10-metre-power-cable-for-8v-cctv-camera-spycam\\\"
+      target=\\\"_blank\\\">which can be found here</a>."
+    specification: ""
+    in_the_box: ""

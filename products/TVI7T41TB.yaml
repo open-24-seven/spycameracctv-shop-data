@@ -1,0 +1,76 @@
+product:
+  path: 4-turret-camera-tvi-1080p-hd-cctv-system-20m-ir-1tb-dvr-4-in-1
+  sku: TVI7T41TB
+  name: 4 Turret Camera TVI 1080p HD CCTV System - 20m IR, 1TB DVR, 4-in-1
+  images:
+  - path: 5452.jpg
+    title: 4 Turret Camera TVI 1080p HD CCTV System - 20m IR, 1TB DVR, 4-in-1
+  - path: 5453.jpg
+    title: Hikvision HiWatch HD-TVI 1080p Turret CCTV Camera - 20m IR, 4-in-1
+  - path: 5454.jpg
+    title: Gamut 4 channel hd hybrid dvr
+  - path: 5455.jpg
+    title: Gmaut 4 channel DVR accessories
+  prices:
+    default:
+    - break: 1
+      unit_price: 3258300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision is the industry leader for CCTV technology, making professional
+      grade workhorses with incredible recording resolutions. For home users, however,
+      much of their equipment is prohibitively expensive, or complex to configure.
+      Because of this, they have designed the <strong>HiWatch</strong> range, providing
+      reliable, high resolution monitoring that's easy to install and is great value
+      for home users. This home security system uses  4 HiWatch HD turret cameras,
+      along with an HD hybrid recorder from Gamut.\r\n\r\nEach camera records 1920x1080
+      Full HD footage, with enough subject detail to provide reliably clear evidence.
+      Not only this, but each camera features 20m night vision, and IP66 weatherproof
+      housings, making them perfect for round-the-clock indoor or outdoor use. The
+      4-in-1 technology means they just connect to the recorder using plug and play
+      coaxial cables, with no network configuration required. \r\n\r\n<i>You can add
+      the required length of cables to your system using the drop down at the top
+      of the page, or choose to leave them out if you're upgrading a legacy system
+      with an existing cable run.</i>\r\n\r\nThe system also includes a professional
+      grade HD CCTV recorder from Gamut. As with all of our DVRs, this boasts a wide
+      range of motion detection and scheduling settings, all adjustable on a camera-by-camera
+      basis. The recorder also connects to your router, which once configured lets
+      you watch live or recorded footage remotely from anywhere using a phone, tablet
+      or PC."
+    specification: "<p>Cameras</p>\r\n\r\nImaging Sensor: CMOS\r\nEffective Pixels:
+      1920x1080\r\nMinimum Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter
+      Speed: 1/25 to 1/50,000s\r\nLens Mount: M12\r\nDay & Night: ICR\r\nSynchronization:
+      Internal\r\nVideo Frame Rate: 1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N
+      Ratio: >62dB\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational Humidity:
+      <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower Consumption: MAx 4W\r\nProtection
+      Level: IP66\r\nIR Range: 20m\r\nDimensions: 110mm (diameter) x 93.2mm\r\nWeight:
+      350g \r\n\r\n<p>Recorder</p>\r\n\r\nVideo Compression: H.264\r\nVideo System
+      : NTSC/PAL\r\nOperation System : Linux(embedded)\r\nVideo-input /output : 4CH
+      inputs / VGA and HDMI output\r\nAudio input /output : 4CH inputs /1CH output(RCA)\r\nDisplay
+      resolution PAL : 1920*1080P or 1280*720P or 960*576\r\nDisplay resolution NTSC:
+      1920*1080P or 1280*720P or 960*480\r\nDisplay feature: single/ Quad/S.E.Q.\r\nRecord
+      resolution: PAL : 1920*1080P or 1280*720P or 960*576\r\nRecord resolution: NTSC:
+      1920*1080P or 1280*720P or 960*480\r\nRecord speed 1080P :15fps(each ch)\r\nRecord
+      speed 720P : 30fps(each ch)\r\nRecord speed 960H : 30fps(each ch)\r\nRecording
+      Mode : Continuous/Manual/Motion detect\r\nPlayback Channel : 1/4CH, or Via CMS,
+      Mobile for 1ch playback, laptop for 1/4Ch playback\r\nPlayback Channel : Local
+      DVR: 1~4ch\r\nPlayback Channel : PC/MAC: 1~4ch\r\nPlayback Channel : Smart Phones:
+      1ch (using app)\r\nPlayback speed : 1080P :15fps(each ch)\r\nPlayback speed
+      : 720P : 30fps(each ch)\r\nPlayback speed : 960H : 30fps(each ch)\r\nSensor
+      & Alarm I/O : 4 inputs /1 output\r\nNetwork Type : Lan, DHCP, and DDNS\r\nE-mail
+      Notifications : Yes, Support\r\nHDD interface : 1SATA HDDs, up to 6TB\r\nMultiplex
+      Operation : live display, record, playback, backup and network\r\nUSB : 2x USB(for
+      mouse and backup/upgrade)\r\nPTZ Control : yes\r\nMobile Surveillance : Support
+      Mobile Phones based on iPhone and Android operation system\r\nVGA : 800*600,1024*768,1280*1024,1440*900,1920*1080\r\nHDMI
+      : 1080P\r\nIR Extender Port : yes\r\nCLOUD : Optional\r\nP2P : Optional\r\nPower
+      Supply : DC 12V, 2A\r\nDimension(WxDxH) : 300 x 227 x 53mm "
+    in_the_box: "<ul>\r\n<li>4x HiWatch 1080p HD turret cameras</li>\r\n<li>4x Mains
+      power supplies for cameras</li>\r\n<li>1x 4 Channel Gamut DVR</li>\r\n<li>1x
+      Mains power supply for DVR</li>\r\n<li>1x USB mouse</li>\r\n<li>1x Remote control</li>\r\n<li>1x
+      Manual and software CD</li>\r\n</ul>"

@@ -1,0 +1,81 @@
+product:
+  path: 8-camera-tvi-1080p-hd-cctv-system-20m-ir-2tb-dvr
+  sku: TVI3T82TB
+  name: 8 Camera TVI 1080p HD CCTV System with 20m IR and 2TB DVR
+  images:
+  - path: 5257.jpg
+    title: 8 Camera TVI 1080p HD CCTV System with 20m IR and 2TB DVR
+  - path: 5258.jpg
+    title: Hikvision 20m HD CCTV camera
+  - path: 5259.jpg
+    title: Hikvision 20m TVI bullet camera front view
+  - path: 5260.jpg
+    title: Gamut 4 channel hybrid hd dvr
+  - path: 5261.jpg
+    title: Gamut 4 channel hybrid hd dvr rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 5179600
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    manuals: []
+    software: []
+    description: "This <strong>HD TVI</strong> security system combines the pin-sharp
+      1080p image quality of an HD IP system, with the intuitive plug and play setup
+      of traditional CCTV. This makes it one of the best kits out there for commercial
+      security on business properties such as shops and offices.\r\n\r\nTVI technology
+      allows the cameras to send stunning quality uncompressed Full HD video down
+      a standard RG59 cable- the type used in almost every good quality traditional
+      CCTV system. This not only provides you with incredibly high resolution footage,
+      but also means that, if you already have CCTV on your property, you may even
+      be able to use your current cabling. This makes it a fantastic option for upgrading
+      an existing kit.\r\n\r\n<i>You can select the quantity of cabling required using
+      the drop down menu at the top of the page. If you already have RG59 cables on
+      your property then just leave it blank, and just go for the recorder and cameras!</i>\r\n\r\nThe
+      kit includes 8 Hikvision bullet cameras, giving you enough coverage to monitor
+      a large retail space or smaller office or industrial unit. The cameras feature
+      20m of clear night vision illumination, as well as IP66 rated housings to allow
+      outdoor installation. Despite this, they have an impressively small and discreet
+      design.\r\n\r\nThe recorder is also a fully fledged TurboHD model from Gamut,
+      capable of recording 1920x1080p footage from each camera independently. As with
+      all of our professional recorders, it also allows detailed customisation of
+      motion detection and scheduling on a camera-by-camera basis. Once connected
+      to your router and configured, the recorder also allows secure remote access
+      using either a PC or your smartphone."
+    specification: "<strong>Cameras</strong>\r\n\r\nImage Sensor: 2.0 Megapixel\r\nEffective
+      Pixels: 1920x1080\r\nVideo Frame Rate: 25fps/30fps (PAL/NTSC)\r\nElectronic
+      Shutter: Auto: PAL: 1/50â€“1/100,000 sec; NTSC: 1/60â€“1/100,000 sec\r\nSynchronization:
+      Internal\r\nMini. Illumination: 0.001 Lux @ F1.2 (AGC ON), 0 Lux IR on\r\nVideo
+      Output: 1x BNC TVI-HD\r\nNight vision range: 20â€“30m\r\nDay/Night: Auto(ICR)/Colour/B/W\r\nNoise
+      Reduction: 2D\r\nLens: 3.6mm lens\r\nPower Supply: DC 12V\r\nIngress Protection:
+      IP66\r\nPower Consumption: Max 4W\r\nWorking Environment: -30Â°C~+60Â°C / Less
+      than 95%RH\r\nDimensions (WÃ—DÃ—H): 160x93x93mm\r\nWeight: 0.42kg\r\n\r\n<strong>Recorder</strong>\r\n\r\nVideo
+      Compression: H.264\r\nVideo System : NTSC/PAL\r\nOperation System : Linux(embedded)\r\nVideo-input
+      /output : 4CH inputs / VGA and HDMI output\r\nAudio input /output : 4CH inputs
+      /1CH output(RCA)\r\nDisplay resolution PAL : 1920*1080P or 1280*720P or 960*576\r\nDisplay
+      resolution NTSC: 1920*1080P or 1280*720P or 960*480\r\nDisplay feature: single/
+      Quad/S.E.Q.\r\nRecord resolution: PAL : 1920*1080P or 1280*720P or 960*576\r\nRecord
+      resolution: NTSC: 1920*1080P or 1280*720P or 960*480\r\nRecord speed 1080P :15fps(each
+      ch)\r\nRecord speed 720P : 30fps(each ch)\r\nRecord speed 960H : 30fps(each
+      ch)\r\nRecording Mode : Continuous/Manual/Motion detect\r\nPlayback Channel
+      : 1/4CH, or Via CMS, Mobile for 1ch playback, laptop for 1/4Ch playback\r\nPlayback
+      Channel : Local DVR: 1~4ch\r\nPlayback Channel : PC/MAC: 1~4ch\r\nPlayback Channel
+      : Smart Phones: 1ch (using app)\r\nPlayback speed : 1080P :15fps(each ch)\r\nPlayback
+      speed : 720P : 30fps(each ch)\r\nPlayback speed : 960H : 30fps(each ch)\r\nSensor
+      & Alarm I/O : 4 inputs /1 output\r\nNetwork Type : Lan, DHCP, and DDNS\r\nE-mail
+      Notifications : Yes, Support\r\nHDD interface : 1SATA HDDs, up to 6TB\r\nMultiplex
+      Operation : live display, record, playback, backup and network\r\nUSB : 2x USB(for
+      mouse and backup/upgrade)\r\nPTZ Control : yes\r\nMobile Surveillance : Support
+      Mobile Phones based on iPhone and Android operation system\r\nVGA : 800*600,1024*768,1280*1024,1440*900,1920*1080\r\nHDMI
+      : 1080P\r\nIR Extender Port : yes\r\nCLOUD : Optional\r\nP2P : Optional\r\nPower
+      Supply : DC 12V, 2A\r\nDimension(WxDxH) : 300 x 227 x 53mm "
+    in_the_box: "<ul>\r\n<li>8x HD TVI CCTV Camera </li>\r\n<li>8x Mains Power Supplies
+      for Cameras </li>\r\n<li>1x 8 Channel HD TVI DVR with 2TB Hard Drive</li>\r\n<li>1x
+      Mains Power Supply for DVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x Remote Control</li>\r\n<li>1x
+      Manual and Software CD</li>\r\n</ul>"

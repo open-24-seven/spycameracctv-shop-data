@@ -1,0 +1,93 @@
+product:
+  path: 2-wireless-spy-camera-covert-home-cctv-system-motion-detection-lan-dvr
+  sku: 2PHEZ
+  name: 2 Wireless Spy Camera Covert Home Security System with Hybrid DVR
+  images:
+  - path: 3809.jpg
+    title: 2 Wireless Spy Camera Covert Home CCTV System w Motion Detect LAN DVR
+  - path: 3810.jpg
+    title: Wireless Pinhole Spy Camera size comparison
+  - path: 3812.jpg
+    title: Tiny Wireless Spy Camera with receiver
+  - path: 5069.jpg
+    title: 4 channel hybrid DVR
+  - path: 5070.jpg
+    title: Hikvision Easy TVI 4 channel hybrid DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1350000
+  content:
+    ean: "5060423071549"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Lz_rnvUDTlw
+    manuals: []
+    software: []
+    description: "This Wireless Covert Home Security System combines two of our tiny
+      Pinhole Cameras with an advanced hybrid CCTV DVR. This means there is now no
+      need to choose between the discretion of Spy Cameras and the in depth monitoring
+      options provided by a dedicated Recorder- this system combines the two! This
+      makes it ideal for Security in the home or office.\r\n\r\nThe included cameras
+      are tiny, measuring approximately 2x2x2cm- install them behind books on a shelf,
+      or hidden inside a desk drawer. The cameras use a miniature pinhole lens, allowing
+      them to record video through gaps as narrow as 2mm! This lets you place the
+      cameras neatly out of sight, with only the inconspicuous black lens on show.
+      As the devices are so light, we have even had customers mount them on a wall
+      with blue-tac!\r\n\r\nCrucially, these are Wireless CCTV Cameras, allowing them
+      to transmit both video and audio to the included receivers without the need
+      for any suspicious trailing AV cables. All the cameras need to start transmitting
+      is a connection to a power supply. The built in transmitters have an unobstructed
+      Wireless range of 50m, although (as with all similar devices) solid obstructions
+      such as walls will reduce this significantly. This makes the kit ideal for home
+      security, as the cameras can be installed downstairs in the hallway or near
+      an entrance, whilst the recorder remains out of the way upstairs.\r\n\r\nThe
+      included Hikvision Easy TVI Digital Video Recorder is capable of handling 4
+      channels of video. It allows you to expand the system with up to 2 additional
+      cameras at a later date. This device can be easily connected to almost any TV
+      or computer monitor, allowing live viewing from the cameras. Alternatively,
+      just set the DVR to record, and you can leave it tucked away as a standalone
+      device, storing up to 2 weeks worth of continuous footage on the integrated
+      Hard Drive. You can choose your choice of storage from the drop down menu at
+      the top of the page.\r\n\r\nAs with all of our professional CCTV DVRs, this
+      recorder features a <strong>Motion Detection</strong> mode, allowing it to trigger
+      whenever it senses movement in one of the video channels. This can be further
+      fine tuned with sensitivity adjustment and zone masking.\r\n\r\nFurthermore,
+      the recorder boasts an ethernet connection, allowing you- following a one time
+      set up process- to easily log in and view live footage from your cameras online!
+      This even works with mobile devices, so you can keep an eye on your property,
+      even when on the move! This system comes with everything you need to set this
+      up, and is fairly straightforward if you have knowledge of routers and port
+      forwarding. If not then never fear- we have an easy remote <a href=\"https://www.spycameracctv.com/spycamera/remote-accessed-DVR-internet-setup-service\"
+      title=\"DVR Set Up Service\">DVR set up service</a> that can get this up and
+      running for you and provide 3 months of ongoing support!"
+    specification: "Camera\r\n\r\nEffective picture element: PAL: 628x582 NTSC:510x492\r\nPicture
+      Area: PAL: 5.78x4.19mm\r\nHorizontal Definition: 700TV Lines\r\nScan Frequency:
+      PAL/CCIR: 50HZ\r\nMinimum Illumination: 3 LUX\r\nSensitivity: +18DB-AGC ON-OFF\r\n0utput
+      Power: Great than 10dBm (10mW )/100 dBm(100mW)\r\nOutput Frequency: 2.4GHz\r\nWireless
+      Distance: 10-20m/50m\r\nVoltage: 8V DC\r\nCurrent: 200mA\r\nPower Consumption:
+      150mA\r\n\r\nReceiver\r\n\r\nFrequency: ISM ISM 2414 - 2468MHz\r\nAntenna: Omni-directional
+      antenna\r\nChannel: 1-4 (Flip-type switch)\r\nIntermediate Frequency: 480MHz\r\nFrequency
+      Stabilization: +/- 100KHz\r\nDemodulation Mode: FM\r\nReceiving Sensitivity:
+      -85dBm\r\nVideo Output: 1Vp-p@75 ohm, S/N>38dB\r\nAudio Output: 1Vp-p@600 ohm\r\nPower:
+      9V DC\r\nOperating Temperature: -10oC ~ +40oC\r\nOperating Humidity: 85%RH\r\nDimension(WxLxH):
+      80x68x16mm\r\nWeight: 115g \r\n\r\nRecorder\r\n\r\nVideo Input: 4x BNC\r\nVideo
+      Compression: H.264+\r\nHD-TVI/AHD/CVI Input: 1080p@25/30fps, 720p@25/30fps\r\nCVBS
+      Input: Supported\r\nAudio Compression: G.711u\r\nAudio Input: 1x RCA\r\nHDMI/VGA
+      Output: 1920x1080, 1280x1024, 1280x720, 1024x768\r\nEncoding Resolution: 1080pLite,
+      720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame Rate: 1080pLite, 720p @ 12fps\r\nSub
+      Stream Frame Rate: CIF, QVGA, QCIF @ 25fps\r\nVideo Bitrate: 32kbps to 4Mbps\r\nAudio
+      Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual Stream: Support\r\nSynchronous
+      Playback: 4 Channels\r\nRemote Connections: 32\r\nNetwork Protocols: TCP/IP,
+      PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS,iSCSI, UPnP, HTTPS\r\nSATA:
+      1x Interface\r\nCapacity: Up to 6TB\r\nNetwork Interface: 1x 10/100M RJ45 Ethernet\r\nUSB
+      Interface: 2x USB 2.0 (rear panel)\r\nPower Supply: 12V DC\r\nConsumption (without
+      HDD): <8W\r\nOperational Temperature: -10Â°c to +55Â°c\r\nOperational Humidity:
+      10-90%\r\nDimensions: 200x200x45mm\r\nWeight (without HDD): 800g"
+    in_the_box: "<ul>\r\n<li>2x Mini Wireless Pinhole Spy Cameras</li>\r\n<li>2x 2.4GHz
+      Wireless Av Receivers</li>\r\n<li>4x UK Mains Power Supplies</li>\r\n<li>2x
+      1m RCA AV Cables</li>\r\n<li>1x 4 Channel hybrid DVR</li>\r\n<li>1x Power supply
+      for DVR</li>\r\n<li>1x Remote Control</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x
+      1m AV Cable</li>\r\n<li>3x BNC to RCA adapter</li>\r\n<li>Step by Step Instructions</li>\r\n</ul>"

@@ -1,0 +1,22 @@
+product:
+  path: 4-camera-250m-reel-pack
+  sku: 4X250RG59TW
+  name: 250m RG59 Pro-Grade cable with connector pack for 4 cameras
+  images:
+  - path: 4895.jpg
+    title: 250m RG59 Pro-Grade cable with connector pack for 4 cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 1186700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

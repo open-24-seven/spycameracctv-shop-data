@@ -1,0 +1,63 @@
+product:
+  path: 4-channel-hybrid-dvr
+  sku: 4DVRRS2
+  name: Gamut 4 Channel Hybrid HD DVR
+  images:
+  - path: 4937.jpg
+    title: 4 Channel Hybrid DVR with 1TB Harddrive
+  - path: 4896.jpg
+    title: 4DVRHD1TB
+  - path: 5303.jpg
+    title: gmaut 4 channel hybrid dvr kit
+  - path: 4938.jpg
+    title: 4 channel hybrid DVR back view
+  prices:
+    default:
+    - break: 1
+      unit_price: 991700
+  content:
+    ean: "5060423072508"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/4DVRRS2/manuals/User-Manual.pdf
+    software: []
+    description: "AHD? TVI Turbo? 700TVL? Looking for a high quality CCTV recorder,
+      but can't figure out which camera format is right for you? You don't have to!
+      This DVR is compatible with all three of the most popular camera formats that
+      use BNC connectors, making it a great option if you have a variety of camera
+      types in your system, or if you are thinking of upgrading at some point in the
+      future. This makes it a perfect crossover option for both smaller business properties,
+      and demanding home users.\r\n\r\nThe recorder uses hybrid software, allowing
+      it to capture Full HD from TVI cameras, such as Hikvision's Turbo HD models,
+      as well as competing formats such as AHD. Not only that, but using the same
+      BNC connectors you can also record footage from standard definition analogue
+      cameras such as Sony's EFFIO range, and other 700 TVL models. This is a great
+      benefit, as you won't have to commit to one format for the life of the recorder.\r\n\r\nThe
+      DVR can record pin-sharp 1080p resolution footage from each camera, ensuring
+      your security footage has more than enough detail to identify subjects. As with
+      all of our professional recorders, the unit is kitted out with a suite of highly
+      customisable recording settings, including motion detection and scheduling-
+      all adjustable on a camera-by-camera basis. Footage is then recorded on your
+      choice of preinstalled hard drive."
+    specification: "Video Compression: H.264\r\nVideo System: NTSC/PAL\r\nOperation
+      System: Linux (embedded)\r\nVideo input/output: 4CH inputs/VGA and HDMI output\r\nAudio
+      input/output: 4CH inputs/1CH output (RCA)\r\nDisplay resolution: 1920x1080 or
+      1280x720 or  960x576\r\nDisplay feature: single/ Quad/S.E.Q.\r\nRecord speed
+      1080p: 15fps (each ch) \r\nRecord speed 720p: 30fps (each ch) \r\nRecord speed
+      960H: 30fps (each ch) \r\nRecording Mode: Continuous/Manual/Motion detect\r\nPlayback
+      Channel: 1/4CH, or Via CMS, Mobile for 1ch playback, laptop for 1/4Ch playback\r\nPlayback
+      Channel: Local DVR: 1~4ch\r\nPlayback Channel: PC/MAC: 1~4ch \r\nPlayback Channel:
+      Smart Phones: 1ch (using app)\r\nPlayback speed: 1080p 15fps(each ch); 720p:
+      30fps(each ch); 960H: 30fps(each ch)\r\nSensor & Alarm I/O: 4 inputs /1 output\r\nNetwork
+      Type: Lan, DHCP, and DDNS\r\nE-mail Notifications: Yes, Support\r\nHDD interface:
+      1x SATA HDDs (up to 6TB)\r\nMultiplex Operation: live display, record, playback,
+      backup and network\r\nUSB: 2x USB (for mouse and backup/upgrade)\r\nPTZ Control:
+      Yes\r\nMobile Surveillance: Support Mobile Phones based on iPhone and Android
+      operation system\r\nVGA: 800x600, 1024x768, 1280x1024, 1440x900, 1920x1080\r\nHDMI:
+      1080p\r\nIR Extender Port: Yes\r\nCLOUD: Optional\r\nP2P: Optional\r\nPower
+      Supply: DC 12V, 2A\r\nDimensions (WxDxH): 300 x 227 x 53mm"
+    in_the_box: "<ul><li>1x HD 1080p Hybrid DVR CCTV Recorder</li>\r\n<li>1x UK Power
+      Supply</li>\r\n<li>1x English step-by-step set up instructions</li></ul>\r\n"

@@ -1,0 +1,91 @@
+product:
+  path: 4-camera-hikvision-tvi-1080p-hd-cctv-system-50m-ir-1tb-dvr
+  sku: TVI6T4H
+  name: 4 Camera Hikvision TVI 1080p HD CCTV System with 40m IR and PoC DVR
+  images:
+  - path: 4859.jpg
+    title: 4 Camera Hikvision TVI 1080p HD CCTV System with 50m IR and 1TB DVR
+  - path: 4860.jpg
+    title: Hikvision TurboHD TVI camera with varifocal lens
+  - path: 4861.jpg
+    title: hikvision turboHD 50m night vision camera front view
+  - path: 4862.jpg
+    title: 4 channel Hikvision TurboHD DVR
+  - path: 4863.jpg
+    title: Hikvision 4 channel turbo hd tvi recorder back view
+  prices:
+    default:
+    - break: 1
+      unit_price: 3575000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    manuals: []
+    software: []
+    description: "This professional grade <strong>TurboHD TVI</strong> security system
+      from Hikvision combines the stunning 1080p image quality of an IP camera, with
+      the intuitive plug-and-play installation of a traditional CCTV system. This,
+      combined with the cameras' massive night vision range and varifocal lenses make
+      it a great option for monitoring a large outdoor area.\r\n\r\nThe system uses
+      TVI technology in order to send uncompressed 1020x1080p full HD video down an
+      RG59 cable (the same kind used in many traditional CCTV kits). This not only
+      lets you record incredibly high resolution video files, but also means that
+      users upgrading an existing system might even be able to use their current wiring!
+      The system uses Power-over-Coax (PoC), letting the cameras draw power from the
+      record over the RG59 cable, and removing the need for additional power supplies.\r\n\r\n\r\n<i>The
+      drop down menu at the top of the page allows you to add which length of cable
+      you require. If you are upgrading a current system, then simply leave this blank
+      to just buy the cameras and recorder.</i>\r\n\r\nThe included cameras are some
+      of the most versatile and robust in Hikvision's range. As well as a massive
+      40m of night vision, they are also equipped with varifocal lenses. These allow
+      you to manually adjust the field of view from 92-32 degrees, so you can fine
+      tune each camera's coverage. Sturdy IP66 rated housings allow the cameras to
+      be installed outdoors, withstanding whatever the weather can throw at them.\r\n\r\nAs
+      with all of our professional recorders, the included Hikvision DVR allows you
+      to adjust settings such as motion detection and scheduling on a camera-by-camera
+      basis.  Once connected to your router and configured, the DVR also allows remote
+      access to securely view your cameras live online using a PC or smartphone."
+    specification: "<strong>Cameras</strong>\r\n\r\nImage Sensor: 1/3\" Progressive
+      Scan CMOS\r\nSignal System: PAL / NTSC\r\nEffective Pixels: 1920 x 1080\r\nMin.
+      Illumination: 0.005 Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter speed: 1/25(1/30)s
+      to 1/50,000s\r\nLens: 3.6mm\r\nAngle of view: 103.5Â°\r\nLens Mount: M12\r\nDay
+      & Night: IRC\r\nWide dynamic range: 120 dB\r\nSynchronization: Internal synchronization\r\nVideo
+      Frame Rate: 1080p @ 25fps / 1080p @ 30fps\r\nHD Video Output: 1 Analogue HD
+      output\r\nAGC: Support\r\nD/N Mode: Color / BW\r\nWhite Balance: ATW, Manual\r\nPrivacy
+      Mask: On/Off, maximum 4 zones\r\nMotion Detection: On/Off, maximum 4 zones\r\nBLC:
+      WDR, BLC, HLC, Off\r\nAnti-flicker: On/off\r\nFunction: Brightness, Sharpness,
+      Mirror, IR\r\nWorking Temperature: -40Â°C - 60Â°C (-22Â°F - 140Â°F)\r\nHumidity:
+      Humidity 90% or less (non-condensing)\r\nPower Supply: 12 VDC\r\nPower Consumption:
+      Max. 3.6W\r\nWeather Proof Ratings: IP66\r\nIR Range: Up to 40m\r\nCommunication:
+      Up the coax (need UTC controller)\r\nProtocol: Pelco-C (Coaxitron)\r\nDimensions:
+      86.7 x 81.6 x 226mm\r\nWeight: 680g (1.54lbs) \r\n\r\n<strong>DVR</strong>\r\n\r\nVideo
+      compression: H.264 \r\nAnalog and HD-TVI video input: 4-ch \r\nBNC interface:
+      (1.0Vp-p, 75Î©)\r\nSupported camera types: 720p @ 25fps, 720p @ 30fps, 720p
+      @ 50fps, 720p @ 60fps, 1080p@ 15fps, CVBS \r\nIP video input: 2-ch, up to 1080p
+      resolution \r\nAudio compression: G.711u, G.726, G.711a, G.722 \r\nAudio input:
+      1-ch, RCA (2.0 Vp-p, 1KÎ©) \r\nTwo-way audio in: 1-ch, RCA (2.0 Vp-p, 1KÎ© using
+      the 1st channel of audio input)\r\nHDMI / VGA output: 1920 Ã— 1080 / 60 Hz,1280
+      Ã— 1024 / 60 Hz, 1280 Ã— 720 / 60 Hz, 1024 Ã— 768 / 60 Hz \r\nEncoding resolution
+      - Main stream: 1080p / 720p / VGA / WD1 / 4CIF / CIF \r\nEncoding resolution
+      - Sub-stream: WD1 (non-real-time) / 4CIF (non-real-time) / CIF / QCIF / QVGA
+      \r\nFrame rate - Main stream: 1/16 fps ~ Real time frame rate \r\nFrame rate
+      - Sub-stream: 1/16 fps ~ Real time frame rate \r\nVideo bitrate: 32 Kbps - 10
+      Mbps \r\nAudio output: 1-ch, RCA (Linear, 1KÎ©) \r\nAudio bitrate: 64 Kbps \r\nDual-stream:
+      Support \r\nStream type: Video, Video & Audio \r\nSynchronous playback: 4-ch
+      \r\nPlayback resolution: 1080p / 720p / VGA / WD1 / 4CIF / CIF / QVGA / QCIF\r\nRemote
+      connections: 128 \r\nNetwork protocols: TCP/IP, PPPoE, DHCP, EZVIZ Cloud P2P,
+      DNS, DDNS, NTP, SADP, SMTP, SNMP, NFS, iSCSI, UPnPâ„¢, HTTPS\r\nSATA: 1 SATA
+      interface \r\nCapacity: Up to 6TB capacity for each disk\r\nNetwork interface:
+      1; 10M / 100M / 1000M self-adaptive Ethernet interface \r\nSerial interface:
+      1; standard RS-485 serial interface, half-duplex \r\nAlarm in/out: 4/1 \r\nUSB
+      port: 2x USB 2.0\r\nPower supply: 12V DC \r\nConsumption (without hard disks):
+      â‰¤15W \r\nWorking temperature: -10Â°C - 55Â°C (14Â°F - 131Â°F) \r\nWorking
+      humidity: 10% - 90% \r\nChassis: 1U chassis \r\nDimensions: 315mm x 242mm x
+      45mm (12.4\" x 9.5\" x 1.8\")\r\nWeight (without hard disks): â‰¤1.5kg (3.3lb"
+    in_the_box: "<ul>\r\n<li>1x 4 Channel Turbo HD TVI DVR</li>\r\n<li>1x Mains Power
+      Supply for DVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x Remote Control</li>\r\n<li>1x
+      Manual and Software CD</li>\r\n<li>4x Turbo HD TVI Bullet Cameras</li>\r\n</ul>"

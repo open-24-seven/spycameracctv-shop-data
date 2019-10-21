@@ -1,0 +1,24 @@
+product:
+  path: 6mm-lens-standard-screw-lens-cctv-cameras-44-degrees
+  sku: LENS6MM
+  name: 6mm Lens for Standard Screw Lens CCTV Cameras - 44 Degrees
+  images:
+  - path: 3221.jpg
+    title: 6mm Lens for Standard Screw Lens CCTV Cameras - 44 Degrees
+  prices:
+    default:
+    - break: 1
+      unit_price: 83300
+  content:
+    ean: "5060181655319"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 6mm standard screw lens for spy camera effectively provides
+      a slight zoom so that you can get a closer image of a smaller area for extra
+      detail.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 6mm Spy Camera Lens</li>\r\n</ul>"

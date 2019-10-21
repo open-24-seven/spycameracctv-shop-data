@@ -1,0 +1,71 @@
+product:
+  path: 16-camera-hd-cctv-system-hikvision-tvi-bullets-4tb-dvr
+  sku: TVI3T164TB
+  name: 16 Camera HD CCTV System - Hikvision TVI 40m Bullets, 4TB DVR
+  images:
+  - path: 5510.jpg
+    title: " \t16 Camera HD CCTV System - Hikvision TVI 30m Bullets, 4TB DVR"
+  - path: 5514.jpg
+    title: Hikvision easy TVI 1080p bullet camera front view
+  - path: 5512.jpg
+    title: 16 Channel Hybrid HD DVR front view
+  - path: 5513.jpg
+    title: 16 Channel Hybrid HD DVR rear view
+  - path: 5588.jpg
+    title: 16 Camera HD CCTV System - Hikvision TVI 30m Bullets
+  prices:
+    default:
+    - break: 1
+      unit_price: 12693300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Larger properties such as warehouses or car parks can be hard to
+      completely cover with CCTV, especially if you're a small business working with
+      a limited budget. Luckily, we have put together this 16 camera HD CCTV system
+      specifically with this situation in mind. The cameras are part of Hivkision's
+      <strong>Easy TVI</strong> range, providing high resolution images and a simple
+      setup, all at a price point that won't blow the bank.\r\n\r\nThe cameras each
+      record in 1920x1080p Full HD, ensuring they can record detailed video with clearly
+      defined subjects. The TVI video format means they connect to the recorder using
+      simple twist fit BNC plugs and coaxial cable, and the plug-and-play setup means
+      there's no confusing configuration needed to get it up and running. The cameras
+      also boast weatherproof housings for outdoor use, and 40m night vision to enable
+      round-the-clock security.\r\n\r\nAs a complete system, this kit includes everything
+      you need to get it up and running, including a 250m cable reel, all required
+      connectors, and a 16 channel CCTV DVR from Gamut. The hybrid recorder can capture
+      1080p footage from each camera, so there is no loss of quality. We have pre-installed
+      a huge 4TB hard drive for storage, however the DVR has 2 hard drive bays, allowing
+      up to 12TB if more space is needed for recordings. Connect the DVR to your router
+      to configure remote access, letting you watch live or recorded video from anywhere
+      using a PC, phone or tablet.\r\n\r\n"
+    specification: "<p>Camera Spec</p>\r\nImaging Sesnor: 2MP CMOS\r\nEffective Resolution:
+      1920x1080\r\nMinimum Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter
+      Speed: 1/25 - 1/50,000s\r\nLens: 3.6mm\r\nHorizontal Field of View: 70.9&Deg;\r\nLens
+      Mount: M12\r\nDay & Night: IR Cut Filter\r\nSynchronisation: Internal\r\nVideo
+      Frame Rate: 1080p@25fps\r\nHD Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational
+      Temperature: -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply:
+      12V DC\r\nPower Consumption: 4W (Max)\r\nProtection Level: IP66\r\nMaterial:
+      Metal\r\nIR Range: 40m\r\nDimensions: 75.4x230.8x152.8mm\r\nWeight: 560g\r\n\r\n<p>Recorder
+      Spec</p>\r\nVideo System: PAL\r\nOperating System: Linux\r\nVideo Compression:
+      H.264\r\nVideo Input: 16x Composite BNC\r\nVideo Output: HDMI, VGA\r\nIP Video
+      Input: Up to 8 cameras\r\nAudio Input: 8x RCA\r\nAudio Output: 1x RCA\r\nRecording
+      Resolution: 3MP@12fps, 1080p@15fps, 720p@25fps, 960h@25fps\r\nIP Recording Bandwidth:
+      32Mbps-96Mbps\r\nMaximum Output BAndwidth: 64Mbps\r\nMaximum Decode Performance:
+      8ch 1080p realtime\r\nRecording Modes: Continuous, Manual, Motion Detect\r\nSynchronous
+      Playback: 16 channels\r\nNetwork Type: Lan, DHCP, DDNS\r\nHDD Interface: 2x
+      SATA, Max 6TB each\r\nMultiplex Operation: Live display, Record, Playback, Backup,
+      Network\r\nUSB Ports: 2x\r\nSensor & Alarm I/O: 16x In, 1x Out\r\nPTZ Control:
+      Yes, RS485\r\nMobile Access: Android, iOS\r\nVGA/HDMI Ouput: 1024x768, 1280x1024,
+      1440x900, 1280x720, 1920x1080, 1680x1050, 1600x1200, 1920x1200, 2560x1440, 3840x2160\r\nPower
+      Supply: DC 12V 5A\r\nDimensions: 378x340x50mm\r\nWorking Temperature: -10Â°c
+      to +55Â°c\r\nWorking Humidity: 10-90%"
+    in_the_box: "<ul>\r\n<li>16x Hikvison Easy TVI bullet cameras</li>\r\n<li>16x
+      Mains power supplies</li>\r\n<li>1x 16 channel DVR</li>\r\n<li>1x 250m RG59
+      cable reel</li>\r\n<li>32x BNC twist connectors</li>\r\n<li>16x male power connectors</li>\r\n<li>16x
+      female power connectors</li>\r\n<li>1x USB mouse</li>\r\n<li>1x Remote control</li>\r\n</ul>"

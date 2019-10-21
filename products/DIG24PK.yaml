@@ -1,0 +1,56 @@
+product:
+  path: digital-2ghz-wireless-camera-transmitter-receiver-av-sender-new
+  sku: DIG24PK
+  name: Digital 2.4Ghz Wireless CCTV Video and Audio Transmitter and Receiver
+  images:
+  - path: 2335.jpg
+    title: Digital 2.4Ghz Wireless Transmitter/Reciever package
+  - path: 2325.jpg
+    title: Wireless Digital 2.4GHz 8 channel transmitter
+  - path: 2326.jpg
+    title: 2.4Ghz Digital Wireless reciever with Infrared sender
+  - path: 2336.jpg
+    title: IR Sender schematic
+  - path: 2324.jpg
+    title: Digital 2.4Ghz Wireless Transmitter/Reciever package with IR sender
+  - path: 4519.jpg
+    title: Digital 2.4Ghz Wireless CCTV Video and Audio Transmitter and Receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 1116700
+  content:
+    ean: "5060181658242"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "We get a lot of requests for wireless CCTV options, as there are
+      many circumstances where cables are simply not possible. But why should wireless
+      mean you have to compromise on your Wi-Fi, other wireless equipment in your
+      house or on the number of wireless cameras you can have working at once? It
+      shouldn't, and with our digital wireless transmitter/receiver pairs it doesn't
+      any more!\r\n\r\nThese digital 2.4GHz wireless packs are now almost completely
+      interference free from Wi-Fi and other 2.4GHz devices, and this in turn means
+      it's almost always possible to have 8 of these running simultaneously! Digital
+      also means a greater range - up to 100m* in a clear line of sight, and combined
+      with two of our 7dB aerials around 200m.\r\n\r\nThese work perfectly with all
+      700TVL or analogue cameras, transmitting a full D1 resolution image complimenting
+      any analogue camera in our range.\r\n\r\nThe receiver is fitted with 2 audio
+      and 2 video outputs, allowing you to connect it to both a monitor and recorder
+      at the same time. It even comes with 4 AV cables, so you don't need any additional
+      wiring to get it connected to your existing system.\r\n\r\n* With a completely
+      clear line of sight. Please note walls and thick solid objects can reduce signal
+      strength typically by 60% (depending on material and construction)."
+    specification: "Video Output: 2x Composite\r\nVideo Input: Composite\r\nVideo
+      Type: PAL/NTSC\r\nVideo Compression: MPEG4\r\nFPS and Display: PAL: 720x576
+      @ 30FPS / NTSC: 720x480 @ 25FPS\r\nFrequency: 2.4GHz - 2.483GHz depending on
+      channel\r\nData Rate: 6Mbps\r\nModulation: 16QAM, QPSK, BPSK\r\nIncluded Antenna:
+      Omni-Directional 3dBi\r\nPower Supply: 12V DC, 1A\r\nOperating Temperature:
+      0â„ƒ - 40â„ƒ "
+    in_the_box: "<ul>\r\n<li>1x Digital Wireless 2.4GHz AV Transmitter</li>\r\n<li>1x
+      Digital Wireless 2.4GHz AV Receiver</li>\r\n<li>2x 12V DC 1A PSU</li>\r\n<li>2x
+      BNC video adapters</li>\r\n<li>4x 1m RCA Phono Cables</li>\r\n<li>Product Manual</li>\r\n<li>Certificate
+      of Conformity</li>\r\n</ul>"

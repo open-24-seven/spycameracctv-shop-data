@@ -1,0 +1,83 @@
+product:
+  path: aviary-camera-kit-2-hd-ip-cameras-recorder
+  sku: 2NCIP2
+  name: Aviary Camera Kit with 2 1080p HD IP Cameras and NVR
+  images:
+  - path: 5478.jpg
+    title: Aviary Camera Kit with 2 HD IP Cameras and NVR
+  - path: 5479.jpg
+    title: Green Feathers HD IP bird box camera
+  - path: 5480.jpg
+    title: Green feathers remote access app
+  - path: 5481.jpg
+    title: Green feathers wired ip camera connector
+  - path: 5482.jpg
+    title: 4 channel NVR with remote access
+  - path: 5483.jpg
+    title: 4 channel remote access NVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 3208300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: Complete camera system for a small aviary or pigeon loft. Monitor
+        your animals from anywhere using PC, phone or tablet.
+    videos: []
+    manuals: []
+    software:
+    - http://downloads.spycameracctv.com/NCIP9/software/Gamut-SNVR-2.0.0.zip
+    description: "Our Green Feathers line of HD wildlife cameras is the culmination
+      of years of experience selling and designing bespoke CCTV systems for bird boxes,
+      nesting houses and breeders. This aviary camera kit uses two of these specialist
+      devices, along with a network video recorder and all of the cabling required
+      to get it up and running. It's a complete solution for monitoring your birds
+      in a large cage, small aviary or pigeon loft, and lets you check up on them
+      wherever you are using a PC, phone or tablet.\r\n\r\nThe cameras are small enough
+      to be installed in the corner of the cage, and use a 2.8mm lens to record everything
+      in a 103 degree field of view. Despite their size, they record pin sharp 1080p
+      HD video, recording far more detail than other dedicated cameras on the market.
+      Footage is recorded in vivid true-to-life colour during day, whilst invisible
+      IR LEDs provide clear night vision after dark, with no red glow to disturb the
+      birds. They even have microphones to record audio from inside the aviary.\r\n\r\nAlso
+      included in the kit is 20m of cabling per camera, and a network video recorder
+      to connect them to. The NVR uses power-over-ethernet to send power to the cameras,
+      so you don't need to run separate power supplies into the cage. By connecting
+      the NVR to your network you can set up remote access, letting you log in with
+      an app to view your birds from anywhere with an internet connection. If you
+      have knowledge of RTSP streams, then you can even set up streaming to websites.
+      Add a hard drive to the NVR to allow recording of weeks' of footage at a time."
+    specification: "<p><strong>Camera Spec</strong>\r\n\r\nImaging Chip: 1/3\" Low
+      light CMOS\r\nSensor Resolution: 1080p\r\nSensitivity: 0.5Lux (IR off), 0Lux
+      (IR On)\r\nMain Stream Resolution: 1080p @15fps, 720p @25fps\r\nSub Stream Resolution:
+      4CIF @15fps, CIF @25fps\r\nVideo Compression: H.264\r\nDWDR: On/Off\r\n3D DNR:
+      YEs\r\nLens: 2.8mm\r\nField of View: 92Â°\r\nLens Mount: Board\r\nDay & Night:
+      Auto ICR switch\r\nConfiguration: Via web browser or CMS software\r\nRecording:
+      Continuous, Motion, Scheduled (via CMS)\r\nProtocol: HTTP, TCP/IP, ARP, RTSP,
+      RTP, UDP, SMTP, FTP, DHCP, DNS, DDNS, PPPOE, UPNP, NTP, 802.1x\r\nEthernet:
+      10/100 Base-T, Auto-sensing, Half/full duplex, RJ45\r\nPoE: IEEE 802.3af compliant\r\nPower
+      Input: 12V DC or PoE\r\nPower Consumption: 6W (Max)\r\nDimensions: 43x43x21mm
+      (excluding cables & bracket)\r\nOperational Temperature: -20Â°c to +55Â°c\r\nHumidity:
+      10-80%\r\n</p>\r\n<p><strong>Recorder Spec</strong>\r\n\r\nVideo standard: PAL/NTSC\r\nCompression:
+      H.264\r\nOutputs: VGA/HDMI\r\nInputs: 1 line in, mono RCA, 1 Vp-p, 10 kâ„¦\r\nOutput:
+      1 line out, mono RCA, 1 Vp-p, 10 kâ„¦\r\nCompression: G.711\r\nSampling rate:
+      8 kHz per channel\r\nScreen: Full, full sequence, quad, multi-screen (live/playback),
+      event call-up (live)\r\nFrame rate: 25fps/30fps per channel (PAL/NTSC)\r\nDigital
+      Zoom: Yes\r\nEvents: Motion detect, video blind, video loss\r\nRemote notification:
+      Via control centre software\r\nMalfunction relay: Disk space low, IP conflict,
+      disk failures\r\nEthernet: 10/100 Base-T, auto-sensing, half/full duplex, RJ45\r\nUSB:
+      2x USB 2.0 Ports\r\nProtocols: HTTP, TCP/IP, ARP, RTSP, RTP, UDP, SMTP, FTP,
+      DHCP, DNS, DDNS, PPPoE, UPNP, NTP\r\nIP Cameras: 4 @ 1080p\r\nSupported IP H.264
+      devices: Golbong IP cameras, ONVIF 2.0\r\nUSB: Flash memory\r\nNetwork: Golbong
+      software\r\nOverwrite modes: Continuous, overwrite\r\nInternal HDD: 1x Unit
+      (up to 4TB)\r\nPlayback function: Fast forward/reverse, frame forward/reverse,
+      freeze\r\nDigital zoom: Yes\r\nSearch mode: Date/time, event\r\nRated Voltage
+      and Power: 110â€“240V AC, 50/60Hz, 1.5A\r\nExternal power adaptor: 48V DC\r\nCameras:
+      802.3af compliant Power over Ethernet (4 port 40W)\r\nDimensions: 255mm x 44mm
+      x 236mm (LxHxW)\r\nOperating temperature: 5Â°C to 45Â°C\r\nStorage temperature:
+      -25Â°C to +70Â°C\r\nRelative humidity: <93% non-condensing</p>"
+    in_the_box: "<ul>\r\n<li>2x Green Feathers HD IP cameras</li>\r\n<li>2x 20m Cat6
+      network cables</li>\r\n<li>1x 4 Channel NVR</li>\r\n<li>1x USB mouse</li>\r\n<li>1x
+      Mains power supply for recorder</li>\r\n</ul>"

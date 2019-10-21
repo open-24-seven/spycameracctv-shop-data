@@ -1,0 +1,32 @@
+product:
+  path: 2mm-female-to-1mm-male-dc-jack-plug-adapter
+  sku: 21MMTO13MM
+  name: 2.1mm Female to 1.3mm Male DC Power Jack Plug Adapter 8V or 12V Camera
+  images:
+  - path: 3267.jpg
+    title: 2.1mm Female to 1.3mm Male DC Power Jack Plug Adapter 8V or 12V Camera
+  - path: 1825.jpg
+    title: 2.1mm Female to 1.3mm Male Plug Adapter
+  - path: 1826.jpg
+    title: 1.3mm Male Plug Adapter to 2.1mm Female Jack
+  - path: 1827.jpg
+    title: DC jack plug adapter with 1.3mm male jack connector and 2.1mm female DC
+      plug.
+  prices:
+    default:
+    - break: 1
+      unit_price: 24900
+  content:
+    ean: "5060181652080"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: 'Use this simple DC power jack adaptor to connect DC cables with
+      different jack sizes together. This adapts a 2.1mm/5.5mm jack size at the female
+      end to a 1.3mm/3.5mm jack size at the male end.  '
+    specification: "Female jack: 2.1mm/5.5mm\r\nMale jack: 1.3mm/3.5mm"
+    in_the_box: "<ul>\r\n<li>1x Female 2.1mm DC Jack to 1.3mm Plug Adapter</li>\r\n<li>2
+      Year Warranty from SpyCameraCCTV</li>\r\n</ul>"

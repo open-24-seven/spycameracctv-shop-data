@@ -1,0 +1,79 @@
+product:
+  path: long-range-wireless-lambing-camera-system-4-1080p-hd-ip-cameras-nvr
+  sku: PKE244WL
+  name: Long Range Wireless Lambing Camera System- 4 1080p HD IP Cameras & NVR
+  images:
+  - path: 4986.jpg
+    title: Long Range Wireless Lambing Camera System- 4 1080p HD IP Cameras & NVR
+  - path: 4992.jpg
+    title: 1080p hd outdoor ip camera
+  - path: 4993.jpg
+    title: EnGenius EL-ENS500 long range wifi bridge
+  - path: 5197.jpg
+    title: Wiring diagram of Long Range Wireless Camera Kit
+  - path: 4991.jpg
+    title: 4 camera CCTV NVR with 1TB HDD
+  - path: 5459.jpg
+    title: 1080p HD CCTV NVR rear view
+  - path: 4994.jpg
+    title: 10m cat6 ethernet cable
+  prices:
+    default:
+    - break: 1
+      unit_price: 5575000
+  content:
+    ean: "5060423071860"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/3tGTZX7LEoA
+    manuals:
+    - ENS500_Manual.pdf
+    software: []
+    description: "Since 2009 our farming and foaling camera kits have been helping
+      farmers take the stress out of monitoring their animals by providing them with
+      an easy way to keep watch over all their livestock from one central building.
+      This new HD lambing camera system is the next generation in our range, providing
+      farmers with more video quality, wireless range and convenience than ever possible
+      before.\r\n\r\nAs opposed to traditional analogue CCTV cameras, this system
+      uses advanced <strong>IP security cameras</strong>. These record high quality
+      digital video and then send it as data down a network cable. As a result, the
+      kit records in 1920x1080p HD, capturing images of your animals with more detail
+      and definition.\r\n\r\nThis also means that, instead of using standard wireless
+      transmitters, the system can use a pair of WiFi transmitters to send your video
+      across huge ranges- up to 5km providing there is a direct line of sight between
+      the devices. This lets you keep a constant watch over animals all the way on
+      the other side of your property!\r\n\r\nAs well as 4 weatherproof cameras with
+      30m night vision, the system also includes a 4-channel network video recorder
+      (NVR). The cameras are wired into this central recorder in your barn or lambing
+      shed, and then this is connected to the transmitter in order to send video from
+      all 4 cameras. The NVR boasts a full set of adjustable features, including motion
+      detection and scheduled recording, allowing you to keep an archive of footage
+      on your chosen hard drive. The signal from the transmitter can then connect
+      directly to your internet router, allowing you to view your animals on a PC,
+      smartphone or tablet from anywhere with an internet connection!\r\n"
+    specification: "Cameras\r\n\r\nImaging Sensor: 1/2.8\" Progressive Scan CMOS\r\nMinimum
+      Illumination: 0.01 Lux (IR On), 0 Lux (IR Off)\r\nShutter Speed: 1/3 to 1/100,000s,
+      supports slow shutter\r\nLens: 2.8mm\r\nField of View: 106Â°\r\nLens Mount:
+      M12\r\nDay & Night Switching: IR Cut with auto switching\r\nDNR: 3D DNR\r\nWDR:
+      Digital WDR\r\nVideo Compression: H.264+/H.264 (Main stream), H.264/MJPeg (Sub
+      stream)\r\nH.264 Type: Mainline, Baseline\r\nVideo Bitrate: 32Kbps to 8Mbps\r\nMax
+      Resolution: 1920x1080\r\nMain Stream Max Framerate: 1920x1080, 1280x960, 1280x720
+      @25fps\r\nSub Stream Max Framerate: 704x576, 640x480, 352x288, 320x240 @25fps\r\nImage
+      Settings: Brightness, Saturation, Contrast, Sharpness\r\nOther Recording Features:
+      Scheduled day/night switching, Mirror, Back light correction, Region of interest\r\nCommunication
+      Interface: 1x RJ45 10/100M Self adaptive Ethernet\r\nOperational Temperature:
+      -30Â°c to +60Â°c\r\nOperational Humidity: 95% or less\r\nPower Supply: 12VDC,
+      PoE (802.3af)\r\nPower Consumption: Max 5W/6.5W (PoE)\r\nIngress Protection:
+      IP67\r\nIR Range: 30m\r\nDimensions: 69.1x66x172.7mm\r\nWeight: 500g\r\n\r\nWiFi
+      Transmitters\r\n\r\nInterface: 2x RJ45 Connectors, 1x Reset Button\r\nPower
+      Requirements: Active Internet, Proprietary PoE, Power Adapter\r\nFrequency Band:
+      802.11 a/n\r\nData Rate: 300Mbps\r\nAntenna: 10dBi\r\nOperation Mode: Access
+      Point, Client Bridge, Client Router, WDS\r\nOperational Temperature: -20Â°c
+      to +70Â°c\r\nHumidity: 0-90%\r\nDimensions: 186x100x29mm\r\nWeight: 300g "
+    in_the_box: "<ul>\r\n<li>4x 1080p HD IP security cameras</li>\r\n<li>1x HD NVR</li>\r\n<li>1x
+      USB Mouse for NVR</li>\r\n<li>1x Mains Power Supply for NVR</li>\r\n<li>4x 10m
+      Ethernet Cables</li>\r\n<li>2x EnGenius EL-ENS500 wifi bridges</li>\r\n<li>2x
+      Mains Power Supplies</li>\r\n<li>2x PoE Injectors</li>\r\n<li>2x Mount Sets</li>\r\n<li>2x
+      Set of Screws</li>\r\n</ul>"

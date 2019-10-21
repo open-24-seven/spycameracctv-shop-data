@@ -1,0 +1,54 @@
+product:
+  path: birdbox-nestbox-day-night-camera-20m-av
+  sku: CMOSNC720M
+  name: Green Feathers Bird Box Camera with Night Vision & 20m Cable
+  images:
+  - path: 3874.jpg
+    title: Green Feathers Nest Box Cam with Night Vision and 20m AV cable, Perfect
+      Bird Box Pack
+  - path: 447.jpg
+    title: Green Feathers Nestbox Camera with night vision
+  - path: 5193.jpg
+    title: bird box camera packaging
+  - path: 448.jpg
+    title: 10 M Cable
+  - path: 3276.jpg
+    title: 12V DC 500mA UK Power Supply for CCTV Cameras - 2.1mm Jack
+  - path: 5891.jpg
+    title: 700tvl bird box camera sample footage
+  prices:
+    default:
+    - break: 1
+      unit_price: 291600
+  content:
+    ean: "5060181651106"
+    meta:
+      title: ""
+      description: Our original tiny wired bird box camera is the easiest way to watch
+        nesting birds in your very own garden! Buy online today!
+    videos:
+    - https://www.youtube.com/embed/lTABq7RkJo8
+    manuals:
+    - http://downloads.spycameracctv.com/NC701G/manuals/NC701G.pdf
+    software:
+    - http://downloads.spycameracctv.com/NC701G/manuals/NC701G.pdf
+    description: "This wired bird box camera kit is an ideal kit for seeing wildlife
+      in your garden that you would not usually see and to watch chicks growing up
+      and flying the nest. This tiny camera is perfect for screwing into a bird box
+      to watch nesting birds from your TV. This bird box camera measures just 3cm
+      x 2.5 cm x 2cm so it won't take up too much space in your nest box. \r\n\r\nWith
+      night vision, a 2.8mm wide-angle lens and adjustable focus this camera is well-suited
+      to cramped bird boxes. 700TVL will give you high quality images of your nesting
+      birds with a super wide 2.8mm lens to give you a full view inside the nest box.\r\n\r\nIncluded
+      in this bundle is a 20m video and power cable to trail back to your television
+      and power supply for quick and easy set-up. You can add a 1 channel DVR to record
+      your footage or use one of our USB capture devices to record via your PC, so
+      you can go back and watch your footage with a cup of tea when you're ready. "
+    specification: "Video: PAL/NTSC\r\nResolution: 700 TV Lines\r\nImage form: JPEG\r\nImage
+      pixels: 512 x 582            \r\nVideo form: AVI\r\nMinimum illumination: 1
+      Lux \r\nLens: Super Wide 2.8mm\r\nWhite balance: Auto\r\nS/N ratio: >48dB(AGC
+      Off)\r\nBack light compensation: Auto  \r\nElectronic shutter: 1/50(1/60)-1/100,000
+      seconds\r\nOperation temperature:-20 to 50 degrees Celsius\r\nPower Supply:
+      DC 8V 500mA       "
+    in_the_box: "<ul>\r\n<li>1x Bird Box Camera</li>\r\n<li>1x UK mains adaptors</li>\r\n<li>1x
+      20m Video & Power cable</li>\r\n</ul>"

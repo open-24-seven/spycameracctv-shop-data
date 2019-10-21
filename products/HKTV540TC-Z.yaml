@@ -1,0 +1,49 @@
+product:
+  path: hikvision-5mp-turret-cctv-camera-motorised-zoom-40m-ir
+  sku: HKTV540TC-Z
+  name: Hikvision 5MP Turret CCTV Camera with Motorised Zoom, 40m IR, PoC
+  images:
+  - path: 5360.jpg
+    title: "\tHikvision 5MP Turret CCTV Camera with Motorised Zoom, 40m IR"
+  - path: 5362.jpg
+    title: Hikvision 5mp resolution size chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 800000
+  content:
+    ean: "5060423076223"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - HK1TV540T-Z.pdf
+    software: []
+    description: "Hikvision's Turbo HD-TVI is one of the most popular camera ranges
+      from one of the most trusted names in security. They boast fantastic high definition
+      image quality, all through a simple plug-and-play cable. This means you can
+      get the same results as an HD IP camera without the hassle of configuring it
+      onto your network. This outdoor turret camera is one of the latest in this range,
+      with an incredible <i>5 Megapixel</i> recording resolution- that's 2592x1944
+      video!\r\n\r\nThe camera pairs also features a motorised zoom lens, letting
+      you remotely adjust the camera's field of view from a wide 86Â° to a narrow
+      28Â°. Paired with the massive recording resolution, this lets you capture fine
+      subject detail such as faces and clothes. Other features include 40m night vision
+      range for round-the-clock monitoring even in large spaces. The camera is housed
+      in an IP67 rated turret housing, making it suitable for indoor or outdoor use.\r\n\r\nThe
+      camera uses a standard twist-fit BNC output, so can plug straight in to any
+      HD-TVI compatible recorder. It even supports Power-over-Coax (PoC), letting
+      it draw power from a compatible DVR over the RG59 cable, and removing the need
+      for an additional power supply."
+    specification: "Imaging Sensor: 5MP CMOS\r\nEffective Pixels: 2560x1944\r\nMinimum
+      Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter Speed: 1/25 - 1/50,000s\r\nLens:
+      Motorised, 2.8mm to 12mm\r\nField of View: 90.4Â° to 28Â°\r\nDay & Night: ICR\r\nSynchronisation:
+      Internal\r\nVideo Frame Rate: 2560x1944 @ 20fps\r\nOutput: 1x BNC\r\nAGC: Supported\r\nD/N
+      Mode: Auto/Colour/Black & White\r\nWhite Balance: ATW/MWB\r\nBLC: Supported\r\nLanguage:
+      English, Chinese\r\nMenu Functions: Brightness, Sharpness, DNR, Mirror, Bad
+      pixel correction, Smart IR\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational
+      Humidity: <90% (non condensing)\r\nPower Supply: 12V DC\r\nPower Consumption:
+      Max 6W\r\nProtection Level: IP67\r\nIR Range: 40m\r\nCommunication: UTC\r\nDimensions:
+      134.3x123.9x111.4mm\r\nWeight: 750g"
+    in_the_box: "<ul>\r\n<li>1x HIkvision 5MP turret camera</li>\r\n</ul>"

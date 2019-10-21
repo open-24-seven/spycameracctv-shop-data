@@ -1,0 +1,72 @@
+product:
+  path: hikvision-8-dome-camera-hiwatch-ip-system-1080p-nvr
+  sku: PKE278
+  name: Hikvision 8 Dome Camera HiWatch IP System - 1080p, NVR
+  images:
+  - path: 5376.jpg
+    title: "\tHikvision 8 Dome Camera Easy IP System - 1080p, 2TB NVR"
+  - path: 5377.jpg
+    title: Hikvision Easy IP Dome Camera
+  - path: 5378.jpg
+    title: Hikvision Easy IP NVR
+  prices:
+    default:
+    - break: 1
+      unit_price: 6691700
+  content:
+    ean: "5060423074120"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 8-dome camera system from Hikvisionâ€™s latest HiWatch IP range
+      is an excellent value, easy-to-install home security systems that don't compromise
+      on quality. Featuring 8 turret dome cameras all recording detailed video in
+      1080p Full HD, it's a smart choice for securing a larger home or small business.\r\n\r\nThe
+      cameras are an excellent choice for both indoor and outdoor environments. They
+      provide night vision with a range of 30 metres, ensuring large unlit spaces
+      are monitored at night. They are integrated into rugged, IP67 rated weatherproof
+      housings, allowing them to be set up outdoors exposed to the elements. They're
+      also each fitted with a wide-angle lens, capturing every subject within a 95Â°
+      field of view. Thanks to Power over Ethernet you neednâ€™t worry about extra
+      power supplies because the cameras can draw their power from the Ethernet cables.\r\n\r\nIn
+      this system, we have included an 8-camera network video recorder (NVR) to control
+      the recording and storage of footage. As with all our professional CCTV recorders,
+      it's kitted out with a host of motion detection and scheduling modes. The recorder
+      connects directly to your router and, once configured, enables remote and mobile
+      access. This means you can check up on live or recorded footage from anywhere
+      using a PC or mobile device."
+    specification: "<strong>Cameras</strong>\r\n\r\nImaging Sensor: 1/2.8\" Progressive
+      Scan CMOS\r\nMinimum Illumination: 0.01 Lux (IR On), 0 Lux (IR Off)\r\nShutter
+      Speed: 1/3 to 1/100,000s, supports slow shutter\r\nLens: 2.8mm\r\nField of View:
+      95Â°\r\nLens Mount: M12\r\nDay & Night Switching: IR Cut with auto switching\r\nDNR:
+      3D DNR\r\nWDR: Digital WDR\r\nVideo Compression: H.264+/H.264 (Main stream),
+      H.264/MJPEG (Sub stream)\r\nH.264 Type: Mainline, Baseline\r\nVideo Bitrate:
+      32Kbps to 8Mbps\r\nMax Resolution: 1920x1080\r\nMain Stream Max Framerate: 1920x1080,
+      1280x960, 1280x720 @25fps\r\nSub Stream Max Framerate: 704x576, 640x480, 352x288,
+      320x240 @25fps\r\nImage Settings: Brightness, Saturation, Contrast, Sharpness\r\nOther
+      Recording Features: Scheduled day/night switching, Mirror, Back light correction,
+      Region of interest\r\nCommunication Interface: 1x RJ45 10/100M Self adaptive
+      Ethernet\r\nOperational Temperature: -30Â°c to +60Â°c \r\nOperational Humidity:
+      95% or less\r\nPower Supply: 12V DC, PoE (802.3af)\r\nPower Consumption: Max
+      4W/6W (PoE)\r\nIngress Protection: IP67\r\nIR Range: 30m\r\nDimensions: 85.5x172.7mm\r\nWeight:
+      350g\r\n\r\n<strong>Recorder</strong>\r\n\r\nIP Video Input: 8-ch\r\nTwo-way
+      audio input: 1-ch, RCA (2.0 Vp-p, 1kâ„¦)\r\nIncoming Bandwidth: 60 Mbps\r\nOutgoing
+      Bandwidth: 40 Mbps\r\nRemote connection: 64\r\nRecording Resolution: 4MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nFrame
+      rate: 50fps\r\nHDMI/VGA output: 1920x1080, 1600x1200, 1280x1024, 1280x720, 1024x768
+      @ 60Hz\r\nAudio Output: 1-ch, RCA (Linear, 1kâ„¦)\r\nLive view/playback resolution:
+      4MP/3MP/1080p/1.3MP/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nCapability: 2-ch
+      @ 4MP, 4-ch @ 1080p\r\nSATA: 1x SATA interface for 1 HDD\r\nCapacity: Up to
+      6TB for each disk\r\nNetwork protocols: TCP/IP, DHCP, Hik-Connect, DDNS, NTP,
+      SADP, SMTP, UPnP\r\nNetwork interface: 1x RJ45 10/100 Mbps self-adaptive Ethernet
+      interface\r\nInterface: 8x independent 100 Mbps built-in switch network interfaces\r\nMax
+      power: 80W\r\nSupported standard: AF & AT\r\nUSB interface: 2x USB 2.0\r\nPower
+      supply: 48V DC\r\nConsumption (no HDD or PoE): 96W\r\nOperating temperature:
+      -10Â°â€“55Â°C\r\nOperating humidity: 10% to 90%\r\nChassis: 385mm chassis\r\nDimensions
+      (WDH): 285x215x48mm\r\nWeight (without HDD): 1kg"
+    in_the_box: "<ul><li>8x Hikvision dome IP cameras</li>\r\n<li>8x 10m Ethernet
+      cables</li>\r\n<li>1x Hikvision 8 channel NVR</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x
+      3m Cat 5 Ethernet cable</li>\r\n<li>1x USB mouse</li>\r\n<li>1x Software and
+      manual CD</li>\r\n</ul>"

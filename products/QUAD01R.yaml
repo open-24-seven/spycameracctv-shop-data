@@ -1,0 +1,41 @@
+product:
+  path: clearance-quad-processor-split-screen-cctv-system
+  sku: QUAD01R
+  name: B-Grade 25% Off! 4 Way Colour Quad Processor for CCTV Systems
+  images:
+  - path: 3243.jpg
+    title: QUAD01-main
+  - path: 3244.jpg
+    title: QUAD01-back
+  - path: 3245.jpg
+    title: QUAD01-remote
+  prices:
+    default:
+    - break: 1
+      unit_price: 450000
+  content:
+    ean: "5060181651274"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/vtaJbzEt1WE
+    manuals: []
+    software: []
+    description: "B - Grade Product: 25% off!!\r\nThis product has either been opened,
+      returned by customers, are ex display or have been used for technical testing.
+      All products have had some use, some pay have cosmetic damage, such as screw
+      fixings damage.\r\n\r\nThis Quad processor is perfect for home or small commercial
+      use, giving you the ability to view 4 cameras at once. The processor can be
+      combined with any CCTV or security camera systems to turn one view into four
+      neat pictures on your screen. You can even Zoom into one of the individual cameras
+      using the remote control to get a closer look if necessary.\r\n"
+    specification: "Video Standard: PAL: 50 field/sec \r\nDefinition: PAL: 720x576
+      \r\nTape input: 1.0Vp-P/75 ohm input\r\nTape out: 1.0Vp-P/75 ohm input\r\nVideo
+      Input Port:\t4 cameras\r\nVideo Output Port:\t1 switch & 1 quad output\r\nLoad
+      Impedance:\t75 Ohms\r\nAlarm mode: Video lost warning, touch and start mode,
+      moving detection warning\r\nPower Source:\tDC12V/1A\r\nPower Consumption:\t6W
+      maximum\r\nOperating Environment:\t10~80%RH, -30 to +60 degree's C\r\nDimension
+      (mm):\t240(W) x  44.4(H) x  151(D)\r\nWeight:\t1.25 kg\r\n"
+    in_the_box: "<ul>\r\n<li>1x Colour Quad Processor</li>\r\n<li>1x Remote control</li>\r\n<li>5x
+      RCA to BNC plug adapters</li>\r\n<li>1x Mains Adapter</li>\r\n</ul>"

@@ -1,0 +1,72 @@
+product:
+  path: 16-camera-hd-cctv-system-hikvision-tvi-20m-turrets-4tb-dvr
+  sku: TVI7T164TB
+  name: 16 Camera HD CCTV System - Hikvision TVI 20m Turrets, 4TB DVR
+  images:
+  - path: 5518.jpg
+    title: 16 Camera HD CCTV System - Hikvision TVI 20m Turrets, 4TB DVR
+  - path: 5519.jpg
+    title: hikvision easy TVI turret camera with 1080p, 20m ir
+  - path: 5520.jpg
+    title: Hikvision easy TVI camera connectors
+  - path: 5521.jpg
+    title: Gamut 16 channel hybrid hd dvr
+  - path: 5522.jpg
+    title: gamut 16 channel hybrid dvr rear view
+  - path: 5589.jpg
+    title: 16 Camera HD CCTV System - Hikvision TVI 20m Turrets
+  prices:
+    default:
+    - break: 1
+      unit_price: 13061300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "If you're a small businesses owner with large property such as a
+      warehouse or car park, it can be tricky to get adequate CCTV coverage. Larger
+      systems can easily run into multiple thousands of pounds. With your business
+      in mind, we have put together this 16 camera HD CCTV system, using Hikvision
+      Easy TVI cameras that record clear, high resolution footage without blowing
+      your budget.\r\n\r\nThe cameras use HD-TVI technology, letting them record in
+      1920x1080p Full HD resolution. Crucially, the video format makes this possible
+      using standard plug-and-play coaxial cables, so there's no need for a tricky
+      network configuration. Not only this, but each camera boasts 20m night vision
+      range for use in unlit areas. The discreet turret housings are great for use
+      in indoor spaces, but IP66 rated weatherproofing ensures they can be used outdoors
+      as well.\r\n\r\nThe kit includes all of the cabling and connectors needed to
+      get it up and running, with a huge 250m reel of RG59 CCTV cable. We have alos
+      included a professional grade 16 channel DVR from Gamut, capable of recording
+      1080p footage from every camera with no loss of quality. We've preinstalled
+      a massive 4TB hard drive, although this can be upgraded with up to 12TB if needs
+      be. You can also connect the recorder to a router in order to enable remote
+      access, letting you view live or recorded footage from anywhere in the world
+      using a PC, phone or tablet."
+    specification: "<p>Camera Spec</p>\r\n\r\nImaging Sensor: CMOS\r\nEffective Pixels:
+      1920x1080\r\nMinimum Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter
+      Speed: 1/25 to 1/50,000s\r\nLens Mount: M12\r\nDay & Night: ICR\r\nSynchronization:
+      Internal\r\nVideo Frame Rate: 1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N
+      Ratio: >62dB\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational Humidity:
+      <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower Consumption: MAx 4W\r\nProtection
+      Level: IP66\r\nIR Range: 20m\r\nDimensions: 110mm (diameter) x 93.2mm\r\nWeight:
+      350g \r\n\r\n<p>Recorder Spec</p>\r\n\r\nVideo System: PAL\r\nOperating System:
+      Linux\r\nVideo Compression: H.264\r\nVideo Input: 16x Composite BNC\r\nVideo
+      Output: HDMI, VGA\r\nIP Video Input: Up to 8 cameras\r\nAudio Input: 8x RCA\r\nAudio
+      Output: 1x RCA\r\nRecording Resolution: 3MP@12fps, 1080p@15fps, 720p@25fps,
+      960h@25fps\r\nIP Recording Bandwidth: 32Mbps-96Mbps\r\nMaximum Output BAndwidth:
+      64Mbps\r\nMaximum Decode Performance: 8ch 1080p realtime\r\nRecording Modes:
+      Continuous, Manual, Motion Detect\r\nSynchronous Playback: 16 channels\r\nNetwork
+      Type: Lan, DHCP, DDNS\r\nHDD Interface: 2x SATA, Max 6TB each\r\nMultiplex Operation:
+      Live display, Record, Playback, Backup, Network\r\nUSB Ports: 2x\r\nSensor &
+      Alarm I/O: 16x In, 1x Out\r\nPTZ Control: Yes, RS485\r\nMobile Access: Android,
+      iOS\r\nVGA/HDMI Ouput: 1024x768, 1280x1024, 1440x900, 1280x720, 1920x1080, 1680x1050,
+      1600x1200, 1920x1200, 2560x1440, 3840x2160\r\nPower Supply: DC 12V 5A\r\nDimensions:
+      378x340x50mm\r\nWorking Temperature: -10Â°c to +55Â°c\r\nWorking Humidity: 10-90%"
+    in_the_box: "<ul>\r\n<li>16x Hikvision Easy TVI turret cameras</li>\r\n<li>16x
+      Mains power supplies</li>\r\n<li>1x 16 Channel DVR</li>\r\n<li>1x 250m RG59
+      cable reel</li>\r\n<li>32x BNC twist connectors</li>\r\n<li>16x male power connectors</li>\r\n<li>16x
+      female power connectors</li>\r\n<li>1x USB mouse</li>\r\n<li>1x Remote control</li>\r\n</ul>"

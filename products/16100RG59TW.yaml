@@ -1,0 +1,22 @@
+product:
+  path: 16-camera-100m-reel-pack
+  sku: 16100RG59TW
+  name: 100m RG59 Pro-Grade cable with connector pack for 16 cameras
+  images:
+  - path: 5460.jpg
+    title: 100m RG59 Pro-Grade cable with connector pack for 16 cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 834300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

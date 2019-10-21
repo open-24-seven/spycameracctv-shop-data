@@ -1,0 +1,43 @@
+product:
+  path: hd-spy-camera-1080p-tvi-hidden-security-camera-smoke-detector
+  sku: GT4TV2SMKGB
+  name: HD Spy Camera- 1080p TVI Hidden Security Camera in Smoke Detector
+  images:
+  - path: 4979.jpg
+    title: HD Spy Camera- 1080p TVI Hidden Security Camera in Smoke Detector
+  - path: 5575.jpg
+    title: 1080p HD 4 in 1 hidden smoke detector camera
+  prices:
+    default:
+    - break: 1
+      unit_price: 575000
+  content:
+    ean: "5060423073376"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Looking for a professional quality hidden security camera for monitoring
+      an office or shop? This smoke detector housing conceals an HD spy camera, recording
+      from a tiny lens on the side of the unit. When installed on the ceiling of a
+      shopfloor or stockroom it looks like any other commercial smoke detector, however
+      this one lets you monitor the room in 1080p Full HD!\r\n\r\nThis is part of
+      our first covert camera range to feature TVI HD technology, a type of cutting
+      edge surveillance video format that was previously only available in large,
+      bulky security cameras. This allows you to still record clear video full of
+      usable video, whilst still keeping your security system discreet. What's more,
+      TVI video uses standard BNC connectors, so if you have an existing system then
+      you can potentially use the same coaxial cabling.\r\n\r\nWhen installed in the
+      ceiling, the video and power cables can be run into the top of the camera, keeping
+      them concealed from view. Just like a standard CCTV camera this HD spy camera
+      does not have built in recording, but can be connected to any TVI-compatible
+      CCTV DVR in order to capture footage.\r\n\r\n"
+    specification: "Resolution: 1920x1080\r\nLens: 3.6mm\r\nMinimum Illumination:
+      0.001 Lux\r\nSync System: Internal\r\nSignal/Noise Ratio: >50dB\r\nElectronic
+      Shutter: 1/50 to 1/100,000s\r\nVideo Output: TVI/CVBS\r\nPower Input: 12V DC\r\nCurrent:
+      300mA\r\nDimensions: 119mm (diameter) x56mm\r\nWeight: 350g\r\nOperational Temperature:
+      -10Â°c to +50Â°c\r\nRelative Humidity: 95% Max"
+    in_the_box: "<ul>\r\n<li>1x HD spy camera smoke detector</li>\r\n<li>1x Mains
+      Power Supply</li>\r\n<li>1x User manual</li>\r\n</ul>"

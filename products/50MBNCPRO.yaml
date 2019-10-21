@@ -1,0 +1,40 @@
+product:
+  path: 50m-professional-copper-rg59-bnc-video-dc-power-extension-cctv-cable
+  sku: 50MBNCPRO
+  name: 50m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  images:
+  - path: 3657.jpg
+    title: 50m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  - path: 3658.jpg
+    title: Professional BNC video connector and 2.1mm DC power jack
+  - path: 3659.jpg
+    title: High grade RG59 CCTV cable cutaway diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 287500
+  content:
+    ean: "5060181655555"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "If you've invested in professional CCTV cameras such as our Hikvision
+      TurboHD line, then the last thing you want is poor quality cabling compromising
+      your gear's performance! For this reason, we have put together this range of
+      high grade CCTV Video and Power cables, using Bare copper RG59 wiring. This
+      helps minimise the signal drop-off that can cause a notable drop in image quality
+      in lower grade wiring.\r\n\r\nThis 2 way Coaxial cable not only features a Video
+      wire, but also a DC power line with standard 2.1mm jack. This means you can
+      run both video and power to your camera with ONE cable, and really saves time
+      when installing your system!\r\n\r\nLooking for a different length of cable?
+      We stock these in 10, 20, 30, 40, 50 and 60 metre lengths, and can even supply
+      massive uncut reels! If you have any questions, or need help setting up your
+      system, just give our technical advisers a call- just see our contact page for
+      the easiest way to get in touch!"
+    specification: "Length: 50m\r\nInner conductor: 0.81mm Bare Copper\r\n1st Shielding:
+      Single Aluminium Foil\r\nJacket: 6x3.5mm Black PVC\r\nImpedance: 75+/-3 Ohm\r\nCapacitance:
+      53pF/m\r\n"
+    in_the_box: ""

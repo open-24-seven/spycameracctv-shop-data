@@ -1,0 +1,59 @@
+product:
+  path: 4-camera-digital-wireless-cctv-kit-ir-mobile-access-portable-lcd
+  sku: 4DIGLAN1003
+  name: 4 Camera Digital Wireless CCTV Kit- IR, Mobile Access, Portable LCDÂ 
+  images:
+  - path: 5082.jpg
+    title: '4 Camera Digital Wireless CCTV Kit- IR, Mobile Access, Portable LCD '
+  - path: 5084.jpg
+    title: Digital wireless security camera with PIR
+  - path: 5085.jpg
+    title: CCTV wireless receiver, DVR and screen
+  prices:
+    default:
+    - break: 1
+      unit_price: 3633300
+  content:
+    ean: "5060423072027"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Zls9f5NxAlg
+    - https://www.youtube.com/embed/MDdsHBW6I7s
+    manuals: []
+    software:
+    - http://downloads.spycameracctv.com/1DIGLAN1003/manuals/DIGLAN1003-Manual.pdf
+    description: "We are often contacted by customers who want to set up their own
+      home security system, but are put off by the prospect of connecting everything
+      together. This wireless security camera system is the perfect solution, with
+      4 wireless cameras sending video back to one central device that acts are receiver,
+      recorder and monitor. This makes it so much simpler to install, meaning it's
+      a fantastic option for DIY users. Don't let that fool you, though- it's also
+      one of the most feature packed kits in our entire range!\r\n\r\nThe system features
+      4 bullet cameras, each housed in an IP66 rated weatherproof casing. This makes
+      them suitable for use indoors or outdoors. A ring of IR LEDs provides clear
+      night vision for subjects up to 10m away. Uniquely, they also feature PIR sensors.
+      These can detect changes in temperature caused by a subject moving, and use
+      this to trigger recording for more accurately than standard motion detection.\r\n\r\nThe
+      cameras connect to the recorder using digital wireless transmission. This helps
+      keep the signal free from interference and picture breakdown. It also allows
+      the cameras to transmit to the receiver from up to 100m away in direct line
+      of sight, although this will be reduced with obstructions. <i>Please note, as
+      with all wireless CCTV, the cameras will still need to be connected to a power
+      source</i>.\r\n\r\nThe recorder itself features a built-in 9\" colour monitor,
+      so you don't need to connect it to a separate TV to view your cameras. It records
+      to MicroSD cards up to 128GB in size (not included), allowing you to easily
+      store and share footage. The device even features a rechargeable battery, allowing
+      you to use it unplugged for short periods of time. The system can also be plugged
+      in to your router, letting you watch the cameras live on an iPhone or Android
+      handset."
+    specification: "Scanning System: Interlaced\r\nSynchronization: Internal\r\nField
+      of View: 80Â°\r\nGain Control: Auto\r\nWhite Balance: Auto\r\nIR LED Frequency:
+      850nm\r\nNight Vision Range: Up to 10m\r\nAudio: Yes\r\nTalkback: Yes\r\nRecording
+      Resolution: 720p (up to 2 cameras), VGA (up to 4 cameras)\r\nStorage: MicroSD
+      (supports up to 128GB, not included)\r\nLCD Screen: 9\" TFT LCD\r\nCamera Power
+      Supply: 9V 1000mA\r\nScreen Power Supply: 5V 2000mA"
+    in_the_box: "<ul>\r\n<li>4x Digital wireless security cameras with 1.5m cable</li>\r\n<li>1x
+      Combination receiver, DVR & screen</li>\r\n<li>5x Mains power supplies with
+      1.5m cable</li>\r\n<li>1x Network cable</li>\r\n<li>English instructions</li>\r\n</ul>"

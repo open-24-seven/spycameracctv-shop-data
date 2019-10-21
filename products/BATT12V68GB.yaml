@@ -1,0 +1,49 @@
+product:
+  path: 12v-dc-rechargeable-li-on-lithium-6800mah-battery-for-security-cameras
+  sku: BATT12V68GB
+  name: 12V DC Rechargeable Li-On Lithium 6800mAh Battery for Security Cameras
+  images:
+  - path: 1724.jpg
+    title: High Capacity 6800mAh 12V DC Lithium Rechargable CCTV Battery
+  - path: 1725.jpg
+    title: Rechargable Li-On 12V DC 6800mAh CCTV Battery
+  - path: 1726.jpg
+    title: Mains Power to 12V Battery Charger Included
+  - path: 4516.jpg
+    title: 12V DC Rechargeable Li-On Lithium 6800mAh Battery for Security Cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 300000
+  content:
+    ean: "5060181652981"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/BATT/manuals/BATT-guide.pdf
+    software: []
+    description: "This is a high capacity lithium ion (li-on) battery that is designed
+      to be used with CCTV cameras and other 12V DC equipment. This 6800mAh lithium
+      battery has a high capacity of 6800mAh which can provide up to 36 hours of continuous
+      for power for your 12V DC camera. Because this high capacity lithium battery
+      is fully rechargeable it can be used again and again with your CCTV camera or
+      other 12V DC equipment for a portable solution.\r\n\r\nThis high capacity 12V
+      DC battery uses a jack type connector with a 5.5mm outer diameter and a 2.1mm
+      inner diameter, making it is compatible our with long range CCTV camera equipment
+      or our short range 2.4GHz security camera kits. This means you can place your
+      cameras where there is no local power supply and have them transmit back to
+      your receiver continuously for up to 36 hours* (depending on camera model and
+      power requirements).\r\n\r\nThis 12V DC lithium battery will also work well
+      with our wired and pinhole cameras if you require to build a portable hidden
+      spy camera recorder if you are a private investigator or if you are a property
+      surveyor and would like to have a portable camera system for checking piping,
+      lofts, drains etc.\r\n\r\n<b>Please Note:</b>  This product is covered by our
+      12 Month Warranty not 24!"
+    specification: "Capacity of Battery: 6800mAh\r\nDuration of Power Supply: Up to
+      36 hours\r\nInput Voltage: 12.6V \r\nOutput Voltage: 12.6 - 10.8V\r\nSize: 143
+      x 84 x 28mm\r\nMaximum Discharge Current: 2A\r\nCharge Cycle: 800 charges"
+    in_the_box: "<ul>\r\n<li>1x Rechargeable 12V DC Lithium 6800mAh Battery</li>\r\n<li>1x
+      2.1mm male to male connection cable</li>\r\n<li>1x 110/240V Mains Power Charger</li>\r\n<li>Instruction
+      Manual</li>\r\n</ul>"

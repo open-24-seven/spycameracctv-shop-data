@@ -1,0 +1,84 @@
+product:
+  path: hikvision-8-camera-4mp-ip-cctv-system-30m-night-vision-nvr
+  sku: PKIP38
+  name: Hikvision 8 Camera 4MP IP CCTV System with 30m Night Vision, NVR
+  images:
+  - path: 5317.jpg
+    title: Hikvision 8 Camera 4MP IP CCTV System with 20m Night Vision, 2TB NVR
+  - path: 5318.jpg
+    title: Hikvision 4MP bullet camera with 20m night vision
+  - path: 5319.jpg
+    title: 'Hikvision 4MP NVR '
+  - path: 5320.jpg
+    title: Cat6 outdoor network cable
+  prices:
+    default:
+    - break: 1
+      unit_price: 11658300
+  content:
+    ean: "5060423072874"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>Hikvision</strong> are the single biggest name in the security
+      industry, with their cameras watching over everything from airports to football
+      stadiums. It's no surprised then, that they are often at the cutting edge of
+      surveillance technology. This 8 camera 4 megapixel security system is no exception,
+      boasting network IP cameras that record amazing quality footage with even more
+      detail than 1080p Full HD. It's a fantastic choice for demanding jobs such as
+      monitoring a busy bar or shop.\r\n\r\nDon't be fooled by their small size, the
+      8 bullet cameras included in the kit feature night vision for subjects up to
+      30m away, allowing round the clock monitoring. They are also IP67 rated, allowing
+      them to be installed in exposed outdoor locations. As IP cameras, they record
+      lossless digital footage and send it down data cables directly to the recorder.\r\n\r\nThe
+      kit also includes a professional grade Hikvision NVR, capable of recording the
+      cameras at full resolution. Handily, the recorder features Power-over-Ethernet
+      (PoE), letting it send power to the cameras over the network cables used to
+      connect the kit together. As with all of our CCTV recorders, it's also kitted
+      out with a complete suite of recording modes, including motion detection and
+      7 day scheduling. Connect the NVR to your network router to enable remote access.
+      Once configured this lets you watch live or recorded footage from anywhere using
+      a PC or mobile device. This means that you can keep one eye on your property,
+      no matter where you are!  \r\n\r\n<i>Some basic networking knowledge is recommended
+      for configuring the remote access. If you need a bit of help getting it running
+      then we also have a great remote setup service to get it all sorted for you.
+      <a href=\"https://www.spycameracctv.com/spycamera/gold-support-remote-setup-online-viewing-mobile-access\"
+      target=\"_blank\">See here for more details</a></i>"
+    specification: "<p>Camera</p>\r\n\r\nImaging Sensor: 1/3\" CMOS\r\nMinimum Illumination:
+      0.01 Lux (colour, IR off), 0 Lux (IR on)\r\nShutter Speed: 1/3s to 1/100,000s\r\nSlow
+      Shutter: Support\r\nLens: 2.8mm\r\nField of View: 98Â°\r\nLens Mount: M12\r\nDay
+      & Night: IR Cut\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo Compression:
+      H.265, H.264\r\nVideo Bit Rate: 32kbps to 16Mbps\r\nMax Resolution: 2560x1440\r\nMain
+      Stream: 2560x1440, 2048x1536, 1920x1080, 1280x960, 1280x720 @25fps\r\nSub Stream:
+      1280x720, 640x360, 352x288 @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage
+      Settings: Rotate, brightness, contrast, saturation, sharpness\r\nDay/Night Switch:
+      Auto/Scheduled\r\nAlarm Trigger: Motion detection, tampering, network disconnected,
+      IP address conflict, illegal login, HDD full, HDD error\r\nProtocols: TVP/IP,
+      UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP,
+      SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandard: ONVIF (S,G), PSIA, CGI, ISAPI\r\nNetwork
+      Functions: One key reset, dual-VCA, anti-flicker, heartbeat, mirror, password
+      protection, privacy mask, watermark, IP address filter\r\nCommunication Interface:
+      1x RJ45 10M/100M Self adaptive\r\nOn Board Storage: MicroSD, up to 128GB (not
+      included)\r\nBehaviour Analysis: Line crossing detection, intrusion detection,
+      unattended baggage detection, object removal detection, face detection\r\nOperational
+      Temperature: -30Â°c to +60Â°c\r\nOperational Humidity: <95%\r\nPower Supply:
+      12V DC (6W), PoE (7.5W)\r\nIR Range: 30m\r\nProtection: IP67\r\nDimensions:
+      70(d)x155mm\r\nWeight: 420g \r\n\r\n<p>DVR</p>\r\n\r\nIP Video Input: 8 Channels\r\nAudio
+      Input: 1 Channel, 2 way, RCA Composite\r\nIncoming Bandwidth: 50Mbps\r\nOutgoing
+      Bandwidth: 80Mbps\r\nRemote Connection: 128\r\nRecording Resolution: 5MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nFrame
+      Rate: 50fps (main stream), 50fps (sub-stream)\r\nHDMI/VGA Output: 1ch, 1920x1080p/60Hz,
+      1600x1200/60Hz, 1280x1024/60Hz, 1280x720/60Hz, 1024x768/60Hz\r\nAudio Output:
+      1ch, RCA\r\nLive View Resolution: 5MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nLive
+      View Capability: 8 channels @ 720p, 6 channels @ 1080p\r\nHDD: 2x SATA interface\r\nCapacity:
+      Up to 4TB per disk\r\nNetwork Interface: 1x RJ45 10/100/1000 Mbps\r\nUSB Interface:
+      1x USB 2.0, 1x USB 3.0\r\nAlarm In/Out: 4/1\r\nInterface: 8x 100Mbps PoE network\r\nMax
+      PoE Power: 120W\r\nSupported Standard: AF, AT\r\nPower Supply: 220V AC\r\nPower
+      Consumption (without HDD): 10W\r\nWorking Temperature: -107deg;c to +55 Â°c\r\nWorking
+      Humidity: 10-90%\r\nChassis: 19\" rack mounted 1U chassis\r\nDimensions: 445x290x45mm\r\nWeight
+      (without HDD): 1Kg "
+    in_the_box: "<ul>\r\n<li>8x Hikvision 4MP bullet cameras</li>\r\n<li>8x 10m Ethernet
+      cables</li>\r\n<li>1x Hikvision 8 camera nvr</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x
+      USB mouse</li>\r\n<li>Software & manual CD</li>\r\n</ul> "

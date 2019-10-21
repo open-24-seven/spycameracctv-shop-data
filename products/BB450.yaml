@@ -1,0 +1,50 @@
+product:
+  path: green-feathers-de-luxe-wooden-bird-box-fsc-certified-uk-made
+  sku: BB450
+  name: 'Green Feathers De Luxe Wooden Bird Box - FSC Certified, UK Made  '
+  images:
+  - path: 5703.jpg
+    title: " \tGreen Feathers De Luxe Wooden Bird Box - FSC Certified, UK Made "
+  - path: 5704.jpg
+    title: de luxe wooden bird box with removable front
+  - path: 5705.jpg
+    title: bird box camera in wooden bird house
+  - path: 5914.jpg
+    title: Green Feathers de luxe bird box dimensions
+  prices:
+    default:
+    - break: 1
+      unit_price: 233299
+  content:
+    ean: "5060423076773"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/XYIXOfXGwO0
+    manuals:
+    - http://downloads.spycameracctv.com/BB/manuals/bird-box-instructions.pdf
+    software: []
+    description: "Our Green Feathers team has over a decade's experience designing
+      and selling specialist camera kits for recording and observing wildlife. Now
+      we can proudly announce that we have teamed up with the artisans at Riverside
+      Woodcraft to bring you our first range of bird houses. Each one has been purpose
+      designed for installing one of our bird box cameras. It makes an ideal project
+      for a family or school, letting you watch as birds nest, hatch and grow in the
+      nest, all from a unique close up view. \r\n\r\nThis De Luxe box is built from
+      sturdy 21mm thick wood, significantly more heavyweight than the lighter, less
+      durable designs on the market. The box also carries the badge of the Forest
+      Stewardship Council, ensuring that it's only produced from sustainable sources
+      of wood. The front of the box has a 32mm entrance hole, ideal for Tits and Sparrows.
+      The front plate can also be removed, providing an open box design preferred
+      by Robins and some larger birds.\r\n\r\nThe interior of the box is designed
+      with extra height, providing your camera with the widest possible of view of
+      both the nest and the entrance. It also leaves additional space for one of our
+      <a href=\"https://www.spycameracctv.com/spycamera/daylight-white-led-light-nest-bird-boxes\"
+      target=\"_blank\">daylight LEDs</a> if required. The camera can easily be mounted
+      via the screw hole in the back of the box, and the cables routed out via the
+      air vents under the roof. The kit also includes a set of mounting plates and
+      screws for use when hanging the box."
+    specification: "Wood Thickness: 21mm\r\nEntrance Hole: 32mm\r\nDimensions: 470x250x190mm"
+    in_the_box: "<ul>\r\n<li>1x De Luxe wooden bird box</li>\r\n<li>2x Metal mounting
+      brackets</li>\r\n<li>8x Mounting screws</li>\r\n</ul>"

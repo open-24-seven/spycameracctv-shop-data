@@ -1,0 +1,37 @@
+product:
+  path: long-range-poe-extender-ip-camera-systems
+  sku: PXT100M
+  name: Long Range PoE Extender for IP Camera Systems
+  images:
+  - path: 5778.jpg
+    title: Long Range PoE Extender for IP Camera Systems
+  - path: 5779.jpg
+    title: PoE extender wiring diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 500000
+  content:
+    ean: "5060423075431"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Power-over-Ethernet - or PoE - devices let you run power down a
+      network cable to IP cameras, preventing the need for a dedicated mains power
+      supply. PoE makes it much simpler to wire up large IP security systems, but
+      comes with a drawback - it only works down cables up to 90m in length. This
+      long range PoE extender is a great solution, increasing this range by further
+      100m. You can even chain multiple extenders together, sending the power down
+      a total cable length of 500m.\r\n\r\nThe extenders work with standard Cat5e
+      or Cat6 cable using RJ45 connectors. They are housed in sturdy metal casings,
+      and feature built in brackets for wall mounting."
+    specification: "Ports: 1x RJ45 input, 1x RJ45 output\r\nPower Supply Mode: PoE
+      input, supports Mid-span and End-span\r\nTransmission Mode: CAt5e/Cat6 UTP cable\r\nOutput
+      Wattage: 15.4W (max)\r\nBandwidth: 10/100Mbps\r\nStandard: IEEE802.3 10BASE-T,
+      IEEE802.3u 100BASE-TX/100BASE-FX, IEEE802.3az, IEEE802.3af\r\nWorking Status:
+      PoE indicator, Act/Link/Act indicator\r\nOperational Temperature: -20 to +55c\r\nOperational
+      Humidity: 5-95%\r\nDimensions: 83x51.5x24mm\r\nWeight: 88.6g"
+    in_the_box: "<li>1x Long-range PoE extender</li>\r\n</ul>"

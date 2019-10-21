@@ -1,0 +1,46 @@
+product:
+  path: clearance-spycamera-cctv-sd-hd-remote-pir-camera
+  sku: SPYPIR028R
+  name: B-Grade 25% Off PIR Sensor Hidden Spy Camera
+  images:
+  - path: 2987.jpg
+    title: SPYPIR028
+  - path: 2988.jpg
+    title: HD028(with remote)
+  prices:
+    default:
+    - break: 1
+      unit_price: 991700
+  content:
+    ean: "5060181654138"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/0P-xHi2F9mM
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 25% off</strong>\r\nThis product has either
+      been opened, returned by customers, are ex display or have been used for technical
+      testing. All products have had some use, some pay have cosmetic damage, such
+      as screw fixings damage.\r\n\r\nThis is our amazing high definition (HD) PIR
+      Sensor camera with a built in Micro SD Card DVR. The PIR Sensor won't look out
+      of place in any environment, perfect for covert surveillance. This spy camera
+      records at 1280 x 720 for HD video recordings at 30 Frames per second. Brilliant
+      resolution and picture quality without jerky images. As an added bonus this
+      PIR spy camera has a 10m Night vision capability from IR LED's, perfect for
+      night time monitoring.\r\n\r\nThe mini DVR can record to a Micro SD Card (up
+      to 32GB) continuously or via motion detection. It even has pre record usually
+      found on much more expensive systems, this means that the DVR will record for
+      3 seconds before the motion has occurred. You will never miss a moment of recording.\r\n\r\nThe
+      spy camera comes with a remote control to select how you want the unit to record.
+      It also comes with a USB connection to download footage direct to your computer
+      or Apple mac. Please note however a Windows PC is required to configure the
+      recorder."
+    specification: "Camera: CMOS, 2.0 Mega pixels\r\nPost: Mini 5 pin USB\r\nInternal
+      Memory: NO\r\nPower: 6V AC adaptor\r\nVideo Resolution: 1280 x 720/D1/VGA\r\nFrames
+      per second: 30\r\nVideo Format: AVI\r\nSD Card: Micro SD with up to 32GB support\r\nNight
+      vision: IR LED with 10m range\r\nDimensions: 103mm x 60mm x 29.5mm"
+    in_the_box: "<ul>\r\n<li>1x B-grade PIR Sensor Hidden Spy Camera</li>\r\n<li>1x
+      Remote Controller</li>\r\n<li>1x USB Mains Power Adaptor</li>\r\n<li>1x User
+      Manual</li>\r\n<li>1x Battery for Remote Controller</li>\r\n</ul>"

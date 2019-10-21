@@ -1,0 +1,51 @@
+product:
+  path: wireless-spy-pinhole-camera-hidden-2.4ghz
+  sku: PHC701
+  name: 2.4Ghz Wireless Mini Hidden Spy Pinhole Camera 700 TV Lines
+  images:
+  - path: 4048.jpg
+    title: tiny wireless pinhole camera size comparison
+  - path: 1561.jpg
+    title: Wireless 2.4GHz Mini Hidden Spy Camera with 380TVL Audio
+  - path: 1562.jpg
+    title: Wireless Pinhole Spy Camera with Microphone
+  - path: 2295.jpg
+    title: Ph01 size
+  - path: 1563.jpg
+    title: Pinhole Spy Camera with Power Adapter and Battery Clip
+  - path: 141.jpg
+    title: Pinhole Camera 2.4 Ghz
+  - path: 140.jpg
+    title: Pinhole Camera Accessories
+  prices:
+    default:
+    - break: 1
+      unit_price: 249899
+  content:
+    ean: "5060181650574"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Lz_rnvUDTlw
+    manuals: []
+    software: []
+    description: "This tiny pinhole spy camera is perfect for hidden camera installations
+      or covert surveillance. It measures just 56x60x45mm and only needs a 2mm hole
+      to see through, which makes it easily concealable in regular household items
+      and perfect for private investigators and James Bond wannabes.\r\n\r\nThe pinhole
+      camera uses a CMOS imaging sensor for 700 TV Lines of resolution and a sensitive
+      microphone for recording audio. It then transmits the video signal wireless
+      on 1 of the 4 available 2.4 GHz channels.\r\n\r\nTo select a different channel,
+      simply flick one of the switches on the back of the mini pinhole camera. This
+      allows you to make sure this camera doesn't interfere with any existing wireless
+      2.4 GHz cameras you may have or wireless broadband.\r\n\r\nPLEASE NOTE: This
+      is a camera only. You will need to add this to an excising system with a receiver
+      for it to work."
+    specification: "<strong>Camera</strong>\r\nEffective Resolution: 628x582\r\nHorizontal
+      Definition: 700 TV Lines\r\nScan Frequency: 50Hz\r\nMinimum Illumination: 3
+      LUX\r\nSensitivity: +18DB-AGC ON-OFF\t\r\n0utput Power: <10dBm 10mW)/100dBm(100mW)\r\nOutput
+      Frequency: 2.4 GHz\r\nWireless Distance: 10-20m/50m\r\nVoltage: 8V DC\r\nCurrent:
+      200 mA\r\nPower Consumption: 150mA"
+    in_the_box: "<ul>\r\n<li>1x 2.4GHz Wireless Pinhole Spy Camera</li>\r\n<li>1x
+      UK Mains power cable</li>\r\n</ul>"

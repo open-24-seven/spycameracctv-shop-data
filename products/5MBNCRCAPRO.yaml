@@ -1,0 +1,35 @@
+product:
+  path: 5m-professional-copper-rg59-bnc-video-rca-audio-power-cctv-cable
+  sku: 5MBNCRCAPRO
+  name: 5m Professional Copper RG59 BNC Video, RCA Audio and Power CCTV Cable
+  images:
+  - path: 5188.jpg
+    title: " \t5m Professional Copper RG59 BNC Video, RCA Audio and Power CCTV Cable"
+  - path: 5189.jpg
+    title: bnc video, rca audio and dc power connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 66700
+  content:
+    ean: "5060423070375"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Looking at our TVI HD 1080p security cameras? With such high quality
+      cameras it's vital that you use RG59 cabling to connect together your system.
+      This 5m video, audio and power cable is made with shielded copper RG59 cabling,
+      making it suitable for use with these systems, as well as high grade 700TVL
+      cameras. \r\n\r\nThe cable is pre-fitted with a secure BNC connector for video,
+      as well as a standard RCA pug for audio. Running next to this is a small power
+      cable with a 2.1mm jack for running 12V DC to your cameras.\r\n\r\nWe also have
+      these cables in 10m, 20m, 30m, 40m, 50m and 60m lengths, so whatever your needs
+      you can be sure to find what you require"
+    specification: "Length: 5m\r\nVideo Connector: BNC\r\nAudio Connector: RCA\r\nPower
+      Connector: 2.1mm Jack\r\nInner Conductor: 0.81mm Bare Copper\r\n1st Shielding:
+      Single Aluminium foil\r\nJacket: 6x3.5mm Black PVC\r\nImpedence: 75+/-3 Ohm\r\nCapacitance:
+      53pF/m "
+    in_the_box: ""

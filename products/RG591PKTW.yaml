@@ -1,0 +1,28 @@
+product:
+  path: 1-camera-connector-kit-rg59-cable-power-bnc-twist-fitting
+  sku: RG591PKTW
+  name: 1 Camera Connector Kit for RG59 Cable- Power and BNC Twist Fittings
+  images:
+  - path: 4348.jpg
+    title: 1 Camera Connector Kit for RG59 Cable- Power and BNC Twist Fittings
+  prices:
+    default:
+    - break: 1
+      unit_price: 49600
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This simple bundle has been designed ot include all of the fittings
+      you need to wire a <i>single camera</i> onto one of our uncut RG59 cable reels.
+      This high copper professional cable is perfect for use with our Song EFFIO cameras.
+      The bundle includes 2 BNC twist video fittings, as well as 1 male and 1 female
+      DC power plug.\r\n\r\nBNC twist fit connectors are simple to fit to your video
+      cable, and only need wire strippers- no dedicated tools!"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>2x BNC Twist connectors</li>\r\n<li>1x Male DC power
+      jack</li>\r\n<li>1x Female DC power plug</li>\r\n</ul>"

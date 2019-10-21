@@ -1,0 +1,51 @@
+product:
+  path: wireless-hd-security-camera-receiver-720p-15m-night-vision
+  sku: DIGIR720HD
+  name: Wireless HD Security Camera and Receiver - 720p AHD, 15m Night Vision
+  images:
+  - path: 5542.jpg
+    title: " \tWireless HD Security Camera and Receiver - 720p, 15m Night Vision"
+  - path: 5543.jpg
+    title: wireless hd security camera side view
+  - path: 5544.jpg
+    title: wireless 720p hd security camera front view
+  - path: 5545.jpg
+    title: 2.4GHz digital wireless CCTV receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 1066700
+  content:
+    ean: "5060423074229"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Wireless cameras are a fantastic way to add flexibility to your
+      home security system. They can easily be moved to new locations without the
+      need for extensive rewiring, making them an excellent choice for security in
+      rented properties, or in awkward to reach spots. This compact digital wireless
+      CCTV camera also has the benefit of capturing images in 720p HD, or one megapixel,
+      significantly more detail than is traditionally possible with wireless devices.\r\n\r\nThis
+      increase in quality is possible because the camera uses AHD encoding, allowing
+      it to capture HD video efficiently enough to transmit over a wireless signal.
+      Luckily, this format of video is compatible with all of our <a href=\"https://www.spycameracctv.com/spy/cctv-recorders/tvi-hd-dvrs/\"
+      target=\"_blank\">HD hybrid DVRs</a>, so you can easily integrate this camera
+      into an existing security system. The camera transmits to the receiver using
+      digital wireless technology, helping greatly reduce the risk of interference
+      & picture breakdown, and providing a range of up to 100m in clear line of sight.\r\n\r\nThe
+      camera is also fitted with a ring of infrared LEDs, providing 15m of night vision
+      range. The metal housing is rated IP66 weather proof, allowing it to be installed
+      even in the most exposed outdoor locations.\r\n\r\n\r\n\r\n"
+    specification: "Imaging Sensor: 1/2.9\" CMOS\r\nEffective Pixels: 1280x720\r\nImage
+      Resolution: 720p@15fps\r\nLens: 3.6mm f/2.0\r\nViewing Angle: 70Â° (diagonal)\r\nIR
+      LEDs: 24x, 850nm\r\nIR Range: 15m\r\nWeather Resistance: IP66\r\nHousing Material:
+      Aluminium\r\nCamera Operational Temperature: -20Â°c to +40Â°c\r\nFrequency Range:
+      2.4-2.483GHz\r\nTX Power: 16dBm\r\nRX Sensitivity: -81dBm\r\nSpread Spectrum
+      Type: FHSS\r\nModulation: GFSK\r\nData Rate: 4Mbps\r\nCommunication Range: 100m
+      (clear line of sight)\r\nOutput: BNC\r\nReceiver Operational Temperature: -10Â°c
+      to +40Â°c\r\nOperational Humidity: 0-85%\r\nPower Requirement: 9V DC\r\n"
+    in_the_box: "<ul>\r\n<li>1x AHD digital wireless camera</li>\r\n<li>1x Digital
+      wireless receiver</li>\r\n<li>2x Mains power supplies</li>\r\n</ul>"

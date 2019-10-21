@@ -1,0 +1,23 @@
+product:
+  path: standard-uk-240v-c14-kettle-lead-cable
+  sku: MAINSC13GB
+  name: UK 240V C14 3-Pin Kettle Lead Cable
+  images:
+  - path: 3227.jpg
+    title: UK 240v C14 3 Pin Kettle Lead
+  prices:
+    default:
+    - break: 1
+      unit_price: 100000
+  content:
+    ean: "5060181655524"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: Standard 3 pin wall socket with C14 (kettle lead) type connection.
+      Fits a wide range of electrical devices including DVRs and Monitors.
+    specification: ""
+    in_the_box: ""

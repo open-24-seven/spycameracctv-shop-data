@@ -1,0 +1,36 @@
+product:
+  path: b-grade-vandalproof-dome-cctv-camera-sony-chip
+  sku: ODDMVF516WR
+  name: B Grade 60% Off - Vandalproof Dome CCTV Camera with Sony Chip
+  images:
+  - path: 5694.jpg
+    title: " \tB Grade 60% Off - Vandalproof Dome CCTV Camera with Sony Chip"
+  - path: 5695.jpg
+    title: BNC Cable connector
+  prices:
+    default:
+    - break: 1
+      unit_price: 491700
+  content:
+    ean: "2276"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don\\'t
+      miss out on this great bargain price!"
+    specification: "Image Sensor: 1/3 inch SONY CCD\r\nResolution: 500x582(PAL) /
+      510x492(NTSC)\r\nHorizontal Resolution: 420TV Lines\r\nSignal System: PAL /
+      NTSC\r\nScanning System: 2:1 interlaced scan\r\nMin. Illumination: 0.5 LUX\r\nSync
+      System: Internal\r\nS/N ratio: >48 dB (AGC OFF)\r\nElectronic Shutter (PAL):
+      1/50-1/100,000sec\r\nScanning System (PAL): 625 Lines, 50 Field/Sec\r\nGamma
+      correction: 0.45\r\nVideo Output: 1 Vpp, 75 Ohms\r\nAGC: Auto\r\nLens: 3.5-8mm
+      Manual Varifocal lens\r\nPower: 12VDC (+/-10%)\r\nCurrent: 150mA\r\nDimension:
+      145x145x90mm\r\nWeight: 850g\r\nOperation Temperature: -10 degrees C ~ +50 degrees
+      C RH95% Max\r\nStorage Temperature: -20 degrees C ~ +60 degrees C RH95% Max "
+    in_the_box: "<ul>\r\n<li>1x Dome CCTV Security Camera</li>\r\n<li>1x Mains power
+      supply</li>\r\n<li>2 Year Warranty</li>\r\n</ul>"

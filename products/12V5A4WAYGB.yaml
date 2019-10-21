@@ -1,0 +1,36 @@
+product:
+  path: 4-way-12-volt-dc-cctv-camera-power-supply-5-amp-2mm-dc-jack-plug
+  sku: 12V5A4WAYGB
+  name: 4 Way 5 Amp 12 Volt CCTV Camera Power Supply 2.1mm DC Jack Plug
+  images:
+  - path: 1732.jpg
+    title: 4 Way 12V Power Supply for CCTV Cameras with 4 Amp Output
+  - path: 1733.jpg
+    title: 4 Way Power Splitter Cable 2.1mm Jack Plug Connector
+  - path: 1734.jpg
+    title: 12 Volt Direct Current (DC) 4 Amp Output Power Supply
+  - path: 1735.jpg
+    title: 4 Amp 12V Power Adapter for CCTV Security Cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 238000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: Use this 4-way CCTV camera power supply to feed up to 4 CCTV cameras
+      from one mains power source. This is ideal when you have a CCTV installation
+      in place where there is a limited number of mains outlets. This power supply
+      is compatible with 12-volt devices that use a standard 2.1mm/5.5mm DC power
+      jack.
+    specification: "Input Voltage: 100-240V ~ 50/60Hz 1.5A\r\nOutput Voltage: 12V
+      5A\r\nConnector: DC Jack Plug (2.1mm Inner / 5.5mm Outer Diameter)\r\nDimensions:
+      118 x 52 x 35mm"
+    in_the_box: "<ul>\r\n<li>1x 4 Way Power Supply</li>\r\n<li>1x 2.1mm 4 Way Power
+      Splitter</li>\r\n<li>1x 100/240V Mains Power Cable</li>\r\n<li><strong>2 Year
+      Guarantee from SpyCameraCCTV</strong></li>\r\n</ul>"

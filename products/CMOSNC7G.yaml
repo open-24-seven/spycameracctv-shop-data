@@ -1,0 +1,36 @@
+product:
+  path: birdbox-nestbox-day-night-hidden-camera
+  sku: CMOSNC7G
+  name: Wired Bird Box Camera with Night Vision (Spare camera only)
+  images:
+  - path: 514.jpg
+    title: Wired Bird Box Camera with Night Vision
+  - path: 5224.jpg
+    title: Power supply for wired bird box camera
+  - path: 5892.jpg
+    title: 700tvl bird box camera sample footage
+  prices:
+    default:
+    - break: 1
+      unit_price: 229200
+  content:
+    ean: "5060423072683"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/lTABq7RkJo8
+    manuals: []
+    software: []
+    description: This wired bird box camera kit is an ideal kit for seeing wildlife
+      in your garden that you would not usually see. This tiny camera is perfect for
+      screwing into a bird box to watch nesting birds on your TV. With night vision,
+      a wide-angle lens and adjustable focus this camera is well-suited to cramped
+      bird boxes.
+    specification: "Video: PAL/NTSC\r\nImage Sensor: OV7949/OV7950\r\nResolution:
+      700 TV Lines\r\nImage form: JPEG\r\nImage pixels: PAL (H X V): 512 X 582            \r\nVideo
+      form: AVI\r\nMinimum illumination: 1.0Lux \r\nLens: 2.8mm\r\nMount: C/CS Mount\r\nWhite
+      balance: Auto \r\nS/N ratio: >48dB(AGC Off)\r\nBacklight compensation: Auto
+      \ \r\nElectronic shutter: 1/50(1/60)-1/100,000 seconds\r\nOperation temperature:-20
+      to 50 degrees Celsius\r\nPower Supply:DC 8V <500mA       "
+    in_the_box: "<ul>\r\n<li>1x Bird Box Camera</li>\r\n<li>1 x UK Mains Power Supply</li>\r\n</ul>\r\n"

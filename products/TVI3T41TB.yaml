@@ -1,0 +1,81 @@
+product:
+  path: 4-camera-tvi-1080p-hd-cctv-system-20m-ir-1tb-dvr
+  sku: TVI3T41TB
+  name: 4 Camera TVI 1080p HD CCTV System with 40m IR and 1TB DVR
+  images:
+  - path: 5253.jpg
+    title: 4 Camera Gamut TVI 1080p HD CCTV System with 20m IR and 1TB DVR
+  - path: 5254.jpg
+    title: Hikvision 20m TVI bullet camera front view
+  - path: 5255.jpg
+    title: Gamut HD hybrid 4 channel DVR
+  - path: 5256.jpg
+    title: Gamut HD hybrid 4 channel DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 3216300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    manuals: []
+    software: []
+    description: "Looking for the fantastic clarity and image quality provided by
+      HD IP cameras, but intimidated by by the prospect of an involved set up on your
+      network? There is another way! This Turbo HD TVI CCTV security system uses Hikvision
+      cameras to ensure the best possible image quality, whilst still using a simple
+      plug and play installation. This makes it ideal for everything from demanding
+      home users to smaller business properties.\r\n\r\nTVI technology uses advanced
+      encoding in order to send amazing quality 1080p  Full HD video down an RG59
+      cable, the same type used by many traditional CCTV systems. It means that- if
+      you have an existing CCTV system on your property- then you might not even need
+      to run new cables! This makes it a perfect kit for existing CCTV users looking
+      for an upgrade in quality.\r\n\r\n<i>You can add cables to your system with
+      the drop down menu at the top of the page, or choose to leave them out if you
+      are upgrading the cameras and recorder in an existing system</i>\r\n\r\nIncluded
+      in the kit is 4 compact Hikvision bullet cameras, each with 40m of night vision
+      range for round the clock monitoring. They also boast a weatherproof housing,
+      making them ideal for both indoor and outdoor security. Their size makes them
+      a great option for installing in a doorway, or under the eaves of a house.\r\n\r\nThe
+      powerful Gamut recorder is kitted out with a wide range of advanced recording
+      options, including independent motion detection and scheduling settings for
+      each camera. Footage can be recorded at 1920x1080 Full HD on each channel, and
+      stored on the pre-installed 1TB hard drive. As well as connecting to a TV or
+      monitor, you can monitor the footage remotely by logging in securely over the
+      internet with a PC. Once configured, you can even check your cameras on-the-move
+      using a smartphone or tablet."
+    specification: "<strong>Cameras</strong>\r\n\r\nImaging Sesnor: 2MP CMOS\r\nEffective
+      Resolution: 1920x1080\r\nMinimum Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter
+      Speed: 1/25 - 1/50,000s\r\nLens: 3.6mm\r\nHorizontal Field of View: 70.9&Deg;\r\nLens
+      Mount: M12\r\nDay & Night: IR Cut Filter\r\nSynchronisation: Internal\r\nVideo
+      Frame Rate: 1080p@25fps\r\nHD Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational
+      Temperature: -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply:
+      12V DC\r\nPower Consumption: 4W (Max)\r\nProtection Level: IP66\r\nMaterial:
+      Metal\r\nIR Range: 40m\r\nDimensions: 75.4x230.8x152.8mm\r\nWeight: 560g\r\n\r\n<strong>Recorder</strong>\r\n\r\nVideo
+      Compression: H.264\r\nVideo System : NTSC/PAL\r\nOperation System : Linux(embedded)\r\nVideo-input
+      /output : 4CH inputs / VGA and HDMI output\r\nAudio input /output : 4CH inputs
+      /1CH output(RCA)\r\nDisplay resolution PAL : 1920*1080P or 1280*720P or 960*576\r\nDisplay
+      resolution NTSC: 1920*1080P or 1280*720P or 960*480\r\nDisplay feature: single/
+      Quad/S.E.Q.\r\nRecord resolution: PAL : 1920*1080P or 1280*720P or 960*576\r\nRecord
+      resolution: NTSC: 1920*1080P or 1280*720P or 960*480\r\nRecord speed 1080P :15fps(each
+      ch)\r\nRecord speed 720P : 30fps(each ch)\r\nRecord speed 960H : 30fps(each
+      ch)\r\nRecording Mode : Continuous/Manual/Motion detect\r\nPlayback Channel
+      : 1/4CH, or Via CMS, Mobile for 1ch playback, laptop for 1/4Ch playback\r\nPlayback
+      Channel : Local DVR: 1~4ch\r\nPlayback Channel : PC/MAC: 1~4ch\r\nPlayback Channel
+      : Smart Phones: 1ch (using app)\r\nPlayback speed : 1080P :15fps(each ch)\r\nPlayback
+      speed : 720P : 30fps(each ch)\r\nPlayback speed : 960H : 30fps(each ch)\r\nSensor
+      & Alarm I/O : 4 inputs /1 output\r\nNetwork Type : Lan, DHCP, and DDNS\r\nE-mail
+      Notifications : Yes, Support\r\nHDD interface : 1SATA HDDs, up to 6TB\r\nMultiplex
+      Operation : live display, record, playback, backup and network\r\nUSB : 2x USB(for
+      mouse and backup/upgrade)\r\nPTZ Control : yes\r\nMobile Surveillance : Support
+      Mobile Phones based on iPhone and Android operation system\r\nVGA : 800*600,1024*768,1280*1024,1440*900,1920*1080\r\nHDMI
+      : 1080P\r\nIR Extender Port : yes\r\nCLOUD : Optional\r\nP2P : Optional\r\nPower
+      Supply : DC 12V, 2A\r\nDimension(WxDxH) : 300 x 227 x 53mm "
+    in_the_box: "<ul>\r\n<li>4x Hikvision HD CCTV Camera </li>\r\n<li>4x Mains Power
+      Supplies for Cameras </li>\r\n<li>1x 4 Channel HD TVI DVR with 1TB Hard Drive</li>\r\n<li>1x
+      Mains Power Supply for DVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x Remote Control</li>\r\n<li>1x
+      Manual and Software CD</li>\r\n</ul>"

@@ -1,0 +1,30 @@
+product:
+  path: 60w-hi-poe-injector-hikvision-ptz-cameras
+  sku: POEINJHK
+  name: 60W Hi-PoE Injector for Hikvision PTZ Cameras
+  images:
+  - path: 5666.jpg
+    title: 60W Hi-PoE Injector for Hikvision PTZ Cameras
+  - path: 5667.jpg
+    title: Hikvision Hi-PoE injector connecters
+  prices:
+    default:
+    - break: 1
+      unit_price: 525000
+  content:
+    ean: "5060423075745"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Many larger PoE devices, such as Hikvision's high powered PTZ cameras,
+      draw more power than is available with standard PoE connections. This injector
+      connects to the mains, and sends power down the ethernet cable to your camera.\r\n\r\nThe
+      injector supplies up to 60W, enough to power Hi-PoE devices such as long range
+      PTZ domes."
+    specification: "Power Output: 60W\r\nCompatibility: PoE, PoE+, Hi-PoE\r\nConnectors:
+      Kettle lead, RJ45 in, RJ45 out"
+    in_the_box: "<ul>\r\n<li>1x Hi-PoE injector</li>\r\n<li>1x Mains power cable</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

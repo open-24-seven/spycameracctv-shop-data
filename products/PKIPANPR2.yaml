@@ -1,0 +1,81 @@
+product:
+  path: hikvision-anpr-2-camera-cctv-system-2tb-hdd-nvr
+  sku: PKIPANPR2
+  name: Hikvision ANPR CCTV System with 2 Darkfighter Cameras & 2TB HDD NVR
+  images:
+  - path: 5044.jpg
+    title: Hikvision ANPR CCTV System with 2 Lightfighter Cameras & 2TB HDD NVR
+  - path: 5047.jpg
+    title: Hikvision ANPR CCTV System with 2 Lightfighter Cameras & 2TB HDD NVR
+  - path: 5046.jpg
+    title: Hikvision ANPR CCTV System with 2 Lightfighter Cameras & 2TB HDD NVR
+  - path: 5048.jpg
+    title: Hikvision ANPR CCTV System with 2 Lightfighter Cameras & 2TB HDD NVR
+  prices:
+    default:
+    - break: 1
+      unit_price: 15433300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Unleash the power of Hikvision's Darkfighter cameras and Smart NVR
+      with this professional ANPR CCTV bundle. This system's unique feature is <strong>Automatic
+      Number Plate Recognition (ANPR) technology</strong> allowing the cameras to
+      capture vehicles' registration plates and send the key data to the NVR. \r\n\r\nIncluded
+      are two Hikvision Darkfighter cameras that are designed for outdoor, bright
+      environments where subjects may be lit by the sun from behind. Ordinarily for
+      cameras with auto-exposure this would mean that it compensates by underexposing
+      often leading to silhouetted subjects. The Darkfighter cameras overcome this
+      with wide dynamic range (WDR) and smart imaging technology to ensure that the
+      subject is always properly exposed and focussed.\r\n\r\nBased on IP technology
+      the cameras send Full 1080p HD images with a frame rate of up to 50 fps over
+      network cable without the need for additional power cabling. This leads back
+      to the Smart NVR, which has a built-in PoE switch for powering the cameras.
+      The recorder boasts a new GUI interface and intuitive video content analysis
+      modes for a range of security applications. Pre-installed with a 2TB hard drive
+      for plenty of recording storage, the NVR allows full-quality HD recording and
+      synchronous playback of up to 16 cameras.\r\n\r\nCrucially you can hook the
+      system up to your network for remote access of your cameras from virtually anywhere.
+      This proves very useful if you want to monitor the cameras from a different
+      location to where the recorder is located.\r\n"
+    specification: "Cameras\r\n\r\nImage sensor: 1/2.8â€\x9D Progressive Scan CMOS\r\nMin.
+      illumination: 0.005 Lux @ F1.2, 0 Lux with IR\r\nShutter speed: 1s ~ 1/100,000s\r\nSlow
+      shutter: Yes\r\nLens: 2.8â€“12mm @ F1.4 (113Â°â€“33.8Â°\r\nDay & Night: IR Cut
+      filter with auto switch\r\nWDR: 140 dB\r\nVideo compression: H.264+/H.264/MJPEG\r\nVideo
+      bitrate: 32 Kbpsâ€“16Mbps\r\nAudio compression: G.711/G.722.1/G.726/MP2L2\r\nAudio
+      bitrate: 64 Kbps/16 Kbps/16 Kbps/32â€“128 Kbps\r\nAudio sample rate: 16 KHz,
+      32 KHz, 44.1 KHz, 48 KHz\r\nMax. resolution: 1920 x 1080 pixels\r\nFrame rate:
+      50fps\r\nThird stream: Up to 1280 x 720 20fps\r\nImage enhancement: BLC/HLC/3D
+      DNR/ROI/Defog\r\nSmart detection: Line crossing detection, intrusion detection,
+      region entrance, region exiting, unattended baggage, object removal\r\nNetwork
+      storage: NAS (Supports NFS, SMB/CIFS), ANR\r\nAlarm trigger: Motion detection,
+      tampering alarm, network disconnect, IP address conflict, storage exception\r\nProtocols:
+      TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP,
+      UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour\r\nStandards: ONVIF, PSIA,
+      CGI, ISAPI\r\nAudio interface: 1-ch 3.5 mm audio in (Mic in/Line in)/out interface\r\nCommunication
+      interface: 1x RJ45 Ethernet port\r\nAlarm interface: 1 input, 1 output (up to
+      DC 24V 1A or AC 110V 500mA)\r\nVideo output: 1Vp-p composite output (75â„¦/BNC)\r\nOn-board
+      storage: Built-in MicroSD/SDHC/SDXC slot up to 128GB\r\nProtection level: IP67\r\nIR
+      distance: 50m/100m\r\nOperating conditions: -30Â°Câ€“60Â°C, 95% humidity or
+      less\r\nPower supply: 12V DC, PoE\r\nPower consumption: Max. 12W\r\nDimensions:
+      100 x 103.9 x 311.8 mm\r\nWeight: 2 kg\r\n\r\nNVR\r\n\r\nIP video inputs: 16-channels\r\nTwo-way
+      audio input: 1-ch, RCA (2.0 Vp-p, 1Kâ„¦)\r\nIncoming bandwidth: 160 Mbps\r\nOutgoing
+      bandwidth: 80 Mbps\r\nRecording resolution: 6MP/5MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nFrame
+      rate: 50fps\r\nHDMI/VGA output: 1920 x 1080/1600 x 1200/1280 x 1024/1280 x 720/1024
+      x 768\r\nAudio output: 1-ch, RCA (linear, 1Kâ„¦)\r\nLiveview capability: 16-ch
+      @ 4CIF, 12-ch @ 720p, 6-ch @ 1080p\r\nSATA: 4x SATA interfaces for 2 HDDs +
+      1 DVD-R/W or 4 HDDs\r\neSATA (optional): 1x interface\r\nCapacity: Up to 6TB
+      per HDD\r\nNetwork interface: 1x RJ45 Ethernet\r\nSerial interface: RS232, RS485\r\nUSB
+      interface: 2x USB 2.0, 1x USB 3.0\r\nAlarm in/out: 16 / 4 \r\nPoE interface:
+      16 independent 100Mbps POE network interfaces, 200 W max.\r\nPower supply: 100~240V
+      AC\r\nConsumption (without HDD, DVD or PoE): â‰¤20 W\r\nOperational temperature:
+      -10Â°C~+55Â°C\r\nOperational humidity: 10~90%\r\nDimensions: 445 x 390 x 70
+      mm \r\nWeight (chassis only): â‰¤ 4 kg"
+    in_the_box: "<ul>\r\n<li>2x Hikvision Darkfighter Outdoor Bullet Cameras</li>\r\n<li>1x
+      Hikvision 16 Channel NVR with 2TB HDD</li>\r\n<li>2x Cat 6 Ethernet Network
+      Cables</li>\r\n</ul>"

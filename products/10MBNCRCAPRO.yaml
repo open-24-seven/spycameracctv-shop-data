@@ -1,0 +1,32 @@
+product:
+  path: 10m-professional-copper-rg59-bnc-video-rca-audio-power-cctv-cable
+  sku: 10MBNCRCAPRO
+  name: 10m Professional Copper RG59 BNC Video, RCA Audio and Power CCTV Cable
+  images:
+  - path: 4910.jpg
+    title: 10m Professional Copper RG59 BNC Video, RCA Audio and Power CCTV Cable
+  - path: 4911.jpg
+    title: Close up of BNCRCAPRO
+  prices:
+    default:
+    - break: 1
+      unit_price: 95800
+  content:
+    ean: "5060423070382"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Looking to put together a 1080p TVI HD system? Such high resolution
+      cameras naturally need to be connected to cables that won't compromise their
+      recording quality. Luckily, this 10m cable is made from RG59 cable, with a shielded
+      Copper core, making it perfect for use with these kits, as well as Sony EFFIO
+      systems.\r\n\r\nThe cable is pre-fitted with a BNC connector for video & RCA
+      for audio, as well as a 2.1mm jack for DC power. This means you only have to
+      run one cable out to your camera's location.\r\n\r\nWe also have these cables
+      in 5m, 20m, 30m, 40m, 50m and 60m lengths, so you can be sure to find the right
+      size for your installation."
+    specification: ""
+    in_the_box: ""

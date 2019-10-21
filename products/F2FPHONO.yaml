@@ -1,0 +1,25 @@
+product:
+  path: female-to-female-phono-adapter-coupler
+  sku: F2FPHONO
+  name: 'Female To Female RCA Phono Coupler Adapter '
+  images:
+  - path: 1674.jpg
+    title: Female to Female RCA Phono Connector Coupler
+  - path: 153.jpg
+    title: Female To Female Phono Coupler
+  prices:
+    default:
+    - break: 1
+      unit_price: 16600
+  content:
+    ean: "5060181650383"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This adaptor allows you to connect two cables with male RCA/phono
+      jacks together to effectively create one cable.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Female to Female RCA Phono Coupler</li>\r\n</ul>"

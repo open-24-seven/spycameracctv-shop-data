@@ -1,0 +1,54 @@
+product:
+  path: hikvision-hiwatch-8-channel-nvr
+  sku: 8NVREZ1
+  name: Hikvision HiWatch 8 Channel NVR
+  images:
+  - path: 5350.jpg
+    title: Hikvision Easy IP 8 Channel NVR
+  - path: 5351.jpg
+    title: Rear of Hikvision Easy IP 8 Channel NVR
+  prices:
+    default:
+    - break: 1
+      unit_price: 1381600
+  content:
+    ean: "5060423073482"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision is the worldâ€™s biggest manufacturer of CCTV and is one
+      of the most trusted names for supplying professional installers. Their HiWatch
+      range is designed for ease-of-use with home and small business users in mind.
+      Despite being IP-based this recorder is easy to use and still has many of the
+      features found in high-end recorders. Supporting up to 8 cameras that are 2-megapixels
+      or 4 cameras that are 4-megapixels you can easily connect the HiWatch cameras
+      you need for your system.\r\n\r\nDue to a built-in PoE compatibility, you can
+      power up to 8 IP cameras without the need for separate power supplies, significantly
+      reducing the amount of cable you need to run. Total recording storage is maximised
+      thanks to the clever H.264+ compression, which effectively reduces the storage
+      space needed by up to 50%. Smart functions, such as smart search, can help you
+      easily find what you need to within the recorded footage.\r\n\r\nWhen connected
+      to your network you can easily remotely access the recorder to view live and
+      recorded footage, as well as tweaking settings. This is easily carried out using
+      Hikvisionâ€™s PC software and the smartphone app. You can also connect the recorder
+      to your monitor or TV using the HDMI or VGA output."
+    specification: "<strong>Video/Audio Input</strong>\r\n\r\nIP Video Input: 8-ch\r\nTwo-way
+      audio input: 1-ch, RCA (2.0 Vp-p, 1kâ„¦)\r\n\r\n<strong>Network</strong>\r\n\r\nIncoming
+      Bandwidth: 60 Mbps\r\nOutgoing Bandwidth: 40 Mbps\r\nRemote connection: 64\r\n\r\n<strong>Video/Audio
+      Output</strong>\r\n\r\nRecording Resolution: 4MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nFrame
+      rate: 50fps\r\nHDMI/VGA output: 1920x1080, 1600x1200, 1280x1024, 1280x720, 1024x768
+      @ 60Hz\r\nAudio Output: 1-ch, RCA (Linear, 1kâ„¦)\r\n\r\n<strong>Decoding</strong>\r\n\r\nLive
+      view/playback resolution: 4MP/3MP/1080p/1.3MP/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nCapability:
+      2-ch @ 4MP, 4-ch @ 1080p\r\n\r\n<strong>Hard Disk</strong>\r\n\r\nSATA: 1x SATA
+      interface for 1 HDD\r\nCapacity: Up to 6TB for each disk\r\n\r\n<strong>Network</strong>\r\n\r\nNetwork
+      protocols: TCP/IP, DHCP, Hik-Connect, DDNS, NTP, SADP, SMTP, UPnP\r\nNetwork
+      interface: 1x RJ45 10/100 Mbps self-adaptive Ethernet interface \r\n\r\n<strong>PoE</strong>\r\n\r\nInterface:
+      8x independent 100 Mbps built-in switch network interfaces\r\nMax power: 80W\r\nSupported
+      standard: AF & AT\r\n\r\n<strong>General</strong>\r\n\r\nUSB interface: 2x USB
+      2.0\r\nPower supply: 48V DC\r\nConsumption (no HDD or PoE): 96W\r\nOperating
+      temperature: -10Â°â€“55Â°C \r\nOperating humidity: 10% to 90%\r\nChassis: 385mm
+      chassis\r\nDimensions (WDH): 285x215x48mm\r\nWeight (without HDD): 1kg"
+    in_the_box: "<ul><li>1x Hikvision HiWatch 8 Channel NVR</li></ul>\r\n"

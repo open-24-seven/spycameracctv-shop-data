@@ -1,0 +1,67 @@
+product:
+  path: b-grade-hikvision-4k-cctv-turret-camera-8mp-30m-ir
+  sku: HKIP830T-SR
+  name: B Grade 25% Off - Hikvision 4K CCTV Turret Camera 8MP with 30m IR
+  images:
+  - path: 5887.jpg
+    title: " \tB Grade 25% Off - Hikvision 4K CCTV Turret Camera 8MP with 30m IR"
+  - path: 5888.jpg
+    title: Hikvision 8mp resolution chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 1800000
+  content:
+    ean: "5060611441253"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-grade 25% off</strong>\r\nThis product is a customer return
+      or ex-display model. The packaging will have been opened but the contents have
+      been fully tested. It might have minor cosmetic defects.\r\n\r\nWhilst 1080p
+      HD cameras record great amounts of detail - and are incredibly cost effective
+      with modern technology - even they don't have the resolution needed for the
+      most demanding applications. If you need to capture an individual's face clearly,
+      or need to simultaneously monitor multiple parts of an image, then it's worth
+      upgrading to an 8 megapixel camera. Hikvision's 4K CCTV range records at 3840x2160
+      resolution, capturing <i>four times</i> the detail of 1080p.\r\n\r\nThis turret
+      CCTV camera packs this imaging technology into a compact package, ideal for
+      use in a bar or shop. The discreet housing helpds protect the camera, and is
+      IP67 rated, allowing installation in even the most exposed outdoor locations.
+      Despite it's small size, it uses an IR array to provide 30m of clear night vision
+      illumination. It also includes a 2.8mm wide angle lens, providing a 102Â° field
+      of view.\r\n\r\nThe IP camera connects directly to your network using an ethernet
+      cable, or into a network video recorder. It uses PoE, allowing it to draw power
+      from the cable instead of relying on a power supply (compatible switch or router
+      required). Once configured, the camera can be viewed and controlled from a PC,
+      ad footage can be recorded to the on-board MicroSD card slot (up to 128GB cards,
+      not included). as with all of Hikvision's professional IP cameras, it also boasts
+      a range of smart features, including facial recognition and intruder detection."
+    specification: "Imaging Sensor: 1/2.5\" CMOS\r\nMinimum Illumination: 0.01Lux
+      (Colour), 0Lux (IR on)\r\nShutter Speed: 1/3 - 1/100,000s\r\nSlow Shutter: Support\r\nLens:
+      2.8mm\r\nField Of View: 102Â° (horizontal)\r\nLens Mount: M12\r\nIris: f/2\r\nDay
+      & Night: IR cut filter\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo
+      Compression: H.265/H.264 (main stream), H.265/H.264/MJPEG (sub stream), H.265/H.264
+      (third stream)\r\nH.264 Type: Main Profile/High Profile\r\nH.264+: Support\r\nH.265
+      Type: Main Profile\r\nH.265+: Support\r\nVideo Bitrate: 32Kbps to 16MBps\r\nMax
+      Resolution: 3840x2160\r\nMain stream: 3840x2160 @20fps, 2560x1920/2560x1440/1920x1080/1280x720
+      @25fps\r\nSub stream: 640x360/352x288 @25fps\r\nThird stream: 1280x720/640x360,352x288
+      @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage Settings: Rotate, Brightness/Contrast/Saturation/Sharpness
+      adjustable via software\r\nDay/Night Switch: Auto/Scheduled\r\nStorage: MicroSD
+      (up to 128GB, not included)\r\nAlarm Trigger: Motion Detect, Tampering Alarm,
+      Network Disconnect, IP Address Conflict, Illegal Login, HDD Full, HDD Error\r\nProtocol:
+      TVP/IP, UDP, ICMP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP,
+      UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandard: ONVIF (Profile S/G),
+      PSIA, CGI, ISAPI\r\nNetwork Function: One key reset, Anti-flicker, Heartbeat,
+      Mirror, Password protection, Privacy mask, Watermark, IP Address filter\r\nCommunication
+      Interface: 1x RJ45 10M/100M Self-adaptive Ethernet\r\nSmart Features: Line crossing
+      detection, Intrusion detection, Object removal detection, Unattended baggage
+      detection, Face detection\r\nOperational Temperature: -30Â°c to +60Â°c\r\nOperational
+      Humidity: <95%\r\nPower Supply: 12V DC, PoE(802.3af 42.5 - 57V, class 3)\r\nPower
+      Consumption: 12V DC +/- 25%, 7.5W, PoE 9.5W\r\nIR Range: 30m\r\nProtection Level:
+      IP67\r\nDimensions: 127.3(diameter) x 95.9mm\r\nWeight: 620g "
+    in_the_box: "<ul>\r\n<li>1x Hikvision 4K CCTV turret camera</li>\r\n<li>1x Mains
+      Power Supply</li>\r\n</ul>"

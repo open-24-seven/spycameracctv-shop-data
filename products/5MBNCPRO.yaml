@@ -1,0 +1,38 @@
+product:
+  path: 5m-professional-copper-rg59-bnc-video-dc-power-cctv-coaxial-cable
+  sku: 5MBNCPRO
+  name: 5m Professional Copper RG59 BNC Video and DC Power CCTV Coaxial Cable
+  images:
+  - path: 4310.jpg
+    title: 5m Professional Copper RG59 BNC Video and DC Power CCTV Coaxial Cable
+  - path: 4311.jpg
+    title: Pro copper BNC cable connectors
+  - path: 4312.jpg
+    title: 5m Professional copper BNC video and power cable cutaway
+  prices:
+    default:
+    - break: 1
+      unit_price: 58300
+  content:
+    ean: "5060181658365"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Invested in one of our TVI Professional HD Cameras? With high quality
+      cameras it's vital that you have a cable to match, otherwise a poor signal can
+      degrade the image that you get from the device. This professional grade 5m cable
+      is made with high copper RG59 cable, helping to ensure there is minimal signal
+      breakdown. It is also pre-fitted with BNC and power connectors, so you don't
+      need to worry about installing your own.\r\n\r\nThe cable runs alongside DC
+      power wires, allowing you to run video and power down to the camera via the
+      same cable, helping to reduce the amount of wiring required for your system.\r\n\r\nNeed
+      a different length? We also have these pro grade cables in 10, 20,30,40,50 and
+      60 metres length, as well as large uncut reels if you want to put together a
+      bespoke system."
+    specification: "Length: 5m\r\nInner Conductor: 0.81mm Bare Copper\r\n1st Shielding:
+      Single Aluminium foil\r\nJacket: 6x3.5mm Black PVC\r\nImpedence: 75+/-3 Ohm\r\nCapacitance:
+      53pF/m"
+    in_the_box: ""

@@ -1,0 +1,30 @@
+product:
+  path: rg59-connectors-2-cameras-powerjack-bnc
+  sku: RG594PKTW
+  name: 4 Camera Connector Kit for RG59 Cable - Power and BNC Twist Fittings
+  images:
+  - path: 2252.jpg
+    title: 4 camera adapter kit for rg59
+  prices:
+    default:
+    - break: 1
+      unit_price: 198400
+  content:
+    ean: "5060181653797"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/vBe_C69xKEM
+    manuals: []
+    software: []
+    description: "This little pack contains all of the adapters and ends you need
+      to connect 4 cameras using our larger uncut cable reels. The kit includes 8
+      BNC twist connectors for the video cables, and 4 each of make and female DC
+      power connectors. Our uncut cable reels are all made from high grade copper
+      RG59 cable, making these a great way to get the best from professional cameras
+      such as Sony's EFFIO range.\r\n\r\nThe included BNC twist connectors are simple
+      to add to your cable, and just need wire strippers- no special tools."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>4x Male Power Jacks</li>\r\n<li>4x Female Power Jacks</li>\r\n<li>8x
+      BNC Twist Fit Adaptors</li>\r\n<li>Full 2 year warranty from SpyCameraCCTV</li>\r\n</ul>"

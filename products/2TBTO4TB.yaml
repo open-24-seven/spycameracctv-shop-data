@@ -1,0 +1,22 @@
+product:
+  path: 2tb-to-4tb-upgrade
+  sku: 2TBTO4TB
+  name: 2TB to 4TB Hard Drive Upgrade
+  images:
+  - path: 3975.jpg
+    title: 2TB to 4TB Hard Drive Upgrade
+  prices:
+    default:
+    - break: 1
+      unit_price: 666700
+  content:
+    ean: ""
+    meta:
+      title: 2TB to 4TB Hard Drive Upgrade
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

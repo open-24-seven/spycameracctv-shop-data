@@ -1,0 +1,30 @@
+product:
+  path: rca-to-hdmi-adapter-upscale-700tvl-cvbs-1080p
+  sku: RCATOHDMI
+  name: RCA to HDMI Video Adapter - Upscale 700TVL CVBS to 1080p
+  images:
+  - path: 5668.jpg
+    title: RCA to HDMI Video Adapter - Upscale 700TVL CVBS to 1080p
+  prices:
+    default:
+    - break: 1
+      unit_price: 158300
+  content:
+    ean: "5060423076490"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: 'Our Green Feathers bird box cameras are an incredibly popular way
+      to watch birds hatch and grow in your garden, but the RCA connectors that they
+      use can often be tricky to adapt to HD televisions. This RCA to HDMI adapter
+      is the perfect solution, taking the analogue video signal, and outputting it
+      from a universal HDMI connection, ready to plug into the back of any TV on the
+      market. '
+    specification: "Video Input: 1x Composite RCA\r\nAudio Input: 2x Composite RCA\r\nPower
+      Input: USB\r\nOutput: 1x HDMI\r\nVideo Mode: PAL, NTSC\r\nHDMI Output: 1080p/60Hz,
+      720p/60Hz\r\nDimensions: 66x55x20mm\r\nWeight: 40g"
+    in_the_box: "<ul>\r\n<li>1x RCA to HDMI Converter</li>\r\n<li>1x USB Cable</li>\r\n<li>1x
+      User Manual</li>\r\n<li><strong>3 Year guarantee with SpyCameraCCTV</strong>\r\n</li>"

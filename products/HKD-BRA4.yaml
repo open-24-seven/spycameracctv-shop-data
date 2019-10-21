@@ -1,0 +1,29 @@
+product:
+  path: hikvision-junction-box-varifocal-domes
+  sku: HKD-BRA4
+  name: Hikvision Junction Box for Varifocal Domes
+  images:
+  - path: 5408.jpg
+    title: ' Hikvision Junction Box for Varifocal Domes'
+  prices:
+    default:
+    - break: 1
+      unit_price: 120000
+  content:
+    ean: "5060423073017"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - HKD-BRA4.pdf
+    software: []
+    description: "If you're installing an IP camera on an outside wall, then we always
+      recommend using a junction box to manage your cables. The IP64 rated housing
+      will protect the connectors from vandals as well as the elements.\r\n\r\nAs
+      an added bonus, it means you no longer have to drill a huge hole in the outside
+      wall in order to feed through the ethernet connector, making wiring so much
+      simpler."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Hikvision junction box for dome cameras</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

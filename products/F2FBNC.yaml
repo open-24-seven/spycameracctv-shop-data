@@ -1,0 +1,26 @@
+product:
+  path: female-to-female-bnc-coupler-for-cctv-video-extension-cables
+  sku: F2FBNC
+  name: Female to Female BNC Coupler for CCTV Video Extension Cables
+  images:
+  - path: 3271.jpg
+    title: Female to Female BNC Coupler for CCTV Video Extension Cables
+  - path: 3270.jpg
+    title: Female to Female BNC Coupler for CCTV Video Extension Cables
+  prices:
+    default:
+    - break: 1
+      unit_price: 16600
+  content:
+    ean: "5060181654886"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: If you've made a faux-pas with the length of cable you wanted this
+      will cater for your extension needs. This coupler will join 2 of our pre-cut
+      BNC cables together.
+    specification: ""
+    in_the_box: ""

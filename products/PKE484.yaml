@@ -1,0 +1,76 @@
+product:
+  path: hikvision-4-dome-camera-hiwatch-ip-system-4mp-nvr
+  sku: PKE484
+  name: Hikvision 4 Dome Camera HiWatch IP System - 4MP, NVR
+  images:
+  - path: 5448.jpg
+    title: " \tHikvision 4 Dome Camera Easy IP System - 4MP, 2TB NVR"
+  - path: 5449.jpg
+    title: Hikvision easy ip hiwatch 4mp dome ip camera
+  - path: 5450.jpg
+    title: Hikvision Easy IP NVR with 2tb hdd
+  - path: 5451.jpg
+    title: Hikvision easy ip nvr rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 5381600
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision's HiWatch IP range brings the amazing image quality of
+      their industry leading professional security cameras to the home user, providing
+      \ easy to use kit at a price tag that doesn't break the bank. As part of this
+      range, this 4 dome camera IP system boasts 4 megapixels (2688x1520) of recording
+      resolution - twice the subject detail of even 1080p Full HD. \r\n\r\nThe cameras
+      are housed inside IP67 rated weatherproof casings, allowing them to be used
+      indoors or outdoors, exposed to the worst of the elements. Each camera is fitted
+      with IR LEDs to provide 30m of clear night vision illumination, making them
+      a perfect choice to watch over the outside of a house with a large garden or
+      driveway. The cameras use Power-over-Ethernet (PoE), so they draw power from
+      the network cable, removing the need for setting up annoying separate mains
+      supplies.\r\n\r\nAs well as the cameras, the kit includes everything you need
+      to get them up and running, including 10m network cables and an HD recorder
+      to control the system. The recorder (or NVR) is able to record each camera at
+      full 4MP resolution, so you won't lose a pixel of quality. In addition to a
+      host of adjustable motion detection and scheduling settings, it also allows
+      remote access. Once configured to your network, this can let you view or record
+      footage from anywhere using a smartphone, tablet or PC.\r\n\r\n\r\n"
+    specification: "Camera\r\n\r\nImaging Sensor: 1/3\" CMOS\r\nMinimum Illumination:
+      0.01 Lux(IR off), 0 Lux (IR on)\r\nLens: 2.8mm\r\nField of View: 105Â° (horizontal)\r\nLens
+      Mount: M12\r\nDay & Night: IR Cut w Auto switch\r\nDNR: 3D DNR\r\nWDR: Digital
+      WDR\r\nVideo Compression: H.264+, H.264 (main stream), H.264, MJPEG (sub stream)\r\nMain
+      Stream Frame Rate: 2688x1520/2304x1296 @ 20fps, 1920x1080/1280x720 @ 25fps\r\nSub
+      Stream Frame Rate: 460x360/352x288 @ 25fps\r\nImage Settings: Brightness, saturation,
+      contrast, sharpness\r\nDay/Night Switch: Auto, Scheduled\r\nDetection: Motion
+      Detection\r\nAlarms: Video tampering, network disconnection, IP address conflict\r\nProtocols:
+      TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, UPnP,
+      SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour\r\nStandard: ONVIF(S,G), PSIA,
+      CGI, ISAPI\r\nNetwork Functions: One key reset, anti-flicker, heartbeat, mirror,
+      password protection, privacy mask, watermark, IP address filter\r\nCommunication:
+      1x RJ45 10M/100M self-adaptive ethernet\r\nReset: Supported\r\nOperational Temperature:
+      -30Â°c to +60Â°c\r\nOperational Humidity: <95%\r\nPower Supply: 12V DC, PoE\r\nPower
+      Consumption: 5.5W Max\r\nProtection Level: IP67, IK10\r\nIR Range: 30m\r\nDimensions:
+      111(diameter)x82mm\r\nWeight: 500g\r\n\r\nRecorder\r\n\r\nIP Video Input: 8-ch\r\nTwo-way
+      audio input: 1-ch, RCA (2.0 Vp-p, 1kâ„¦)\r\nIncoming Bandwidth: 60 Mbps\r\nOutgoing
+      Bandwidth: 40 Mbps\r\nRemote connection: 64\r\nRecording Resolution: 4MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nFrame
+      rate: 50fps\r\nHDMI/VGA output: 1920x1080, 1600x1200, 1280x1024, 1280x720, 1024x768
+      @ 60Hz\r\nAudio Output: 1-ch, RCA (Linear, 1kâ„¦)\r\nLive view/playback resolution:
+      4MP/3MP/1080p/1.3MP/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nCapability: 4-ch
+      @ 4MP, 8-ch @ 1080p\r\nSATA: 1x SATA interface for 1 HDD\r\nCapacity: Up to
+      6TB for each disk\r\nNetwork protocols: TCP/IP, DHCP, Hik-Connect, DDNS, NTP,
+      SADP, SMTP, UPnP\r\nNetwork interface: 1x RJ45 10/100 Mbps self-adaptive Ethernet
+      interface\r\nInterface: 8x independent 100 Mbps built-in switch network interfaces\r\nMax
+      power: 80W\r\nSupported standard: AF & AT\r\nUSB interface: 2x USB 2.0\r\nPower
+      supply: 48V DC\r\nConsumption (no HDD or PoE): 96W\r\nOperating temperature:
+      -10Â°â€“55Â°C\r\nOperating humidity: 10% to 90%\r\nChassis: 385mm chassis\r\nDimensions
+      (WDH): 285x215x48mm\r\nWeight (without HDD): 1kg "
+    in_the_box: "<ul>\r\n<li>4x 4MP HiWatch IP dome cameras</li>\r\n<li>4x 10m Ethernet
+      cables</li>\r\n<li>1x Hikvision HD NVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x
+      Mains power supply</li>\r\n<li>1x 3m CAT5E network patch cable</li>\r\n<li>1x
+      Manual and software CD</li>\r\n</ul>"

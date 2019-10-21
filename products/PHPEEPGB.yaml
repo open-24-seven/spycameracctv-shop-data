@@ -1,0 +1,51 @@
+product:
+  path: colour-door-camera-spy-peep-hole-wide-angle-stainless-steel
+  sku: PHPEEPGB
+  name: Door Peephole Spy Camera with Wide Angle Lens
+  images:
+  - path: 1768.jpg
+    title: Colour door security camera with wide angle lens and low 0.5 LUX level.
+  - path: 1769.jpg
+    title: Peep hole spy camera for front door security with wide angle lens.
+  - path: 1770.jpg
+    title: Low LUX spy hole camera with water proof lens and RCA video connection.
+  - path: 1789.jpg
+    title: Door Mounted Peephole Spy Camera with Wide Angle Lens and 0.5 LUX Level.
+  - path: 1771.jpg
+    title: Door security camera comes with RCA video cable and power adapter.
+  - path: 3311.jpg
+    title: 12V DC 500mA UK Power Supply for CCTV Cameras - 2.1mm Jack
+  - path: 4556.jpg
+    title: Door Peephole Camera with Wide Angle Lens, Colour and Waterproof
+  prices:
+    default:
+    - break: 1
+      unit_price: 350000
+  content:
+    ean: "5060181653155"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/1FQhuM1LRl8
+    manuals: []
+    software: []
+    description: "This door peephole spy camera is ideal for those looking for some
+      added security in their home or even business. If you want to see who is at
+      the front door without opening it or even leaving the comfort of your living
+      room then this may be the peephole camera for you. The camera lens is discrete
+      at just the size of a 2p, so visitors to your front door will assume it's just
+      a standard peephole. \r\n\r\nThe lens itself is a wide-angle to give you the
+      best view possible of your front door despite its tiny size. It has a low lux
+      rating giving you a good picture when it's dark. Simply drill a hole in your
+      front door (or any surface) and secure the lens. The lens is waterproof to withstand
+      any wet weather it may come face to face with. \r\n\r\nThis set comes with a
+      connection to view the footage from your TV, you can also add a DVR to your
+      kit to record your footage rather than just view it live. "
+    specification: "Camera Output Resolution: 380 TV Lines\r\nImage Sensor: 1/4 Inch
+      Colour CMOS\r\nAuto Electronic Exposure: 1/50â€“1/6000 Seconds\r\nMin B/W Illumination:
+      0.5 Lux\r\nMin Colour Illumination: 2 Lux\r\nView Angle: 92 degrees\r\nS/N Ratio:
+      46dB (AGC=1X)\r\nPower Supply: 12V DC\r\nCurrent Consumption: < 35mA\r\nDimensions:
+      Diameter 18mm, Length (adjustable) 27-44mm"
+    in_the_box: "<ul>\r\n<li>1x Door Peephole Spy Camera</li>\r\n<li>1x 12V UK Mains
+      Power Supply</li>\r\n<li>1x RCA to BNC Adaptor</li>\r\n</ul>"

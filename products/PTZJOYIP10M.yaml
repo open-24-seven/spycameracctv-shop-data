@@ -1,0 +1,27 @@
+product:
+  path: joystick-controller-upgrade-wireless-ip-ptz-packs
+  sku: PTZJOYIP10M
+  name: Joystick Controller Upgrade for Wireless IP PTZ Packs
+  images:
+  - path: 5251.jpg
+    title: Joystick Controller Upgrade for Wireless IP PTZ Packs
+  prices:
+    default:
+    - break: 1
+      unit_price: 1950000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This is an optional extra for our wireless PTZ IP camera systems,
+      providing an easy way to precisely control the camera movements. The joystick
+      can be connected to one of the wifi bridges using the included Cat6 cables.
+      The router can either connect into the joystick in turn, or directly into the
+      wifi bridge.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x PTZ Joystick controller</li>\r\n<li>1x 10m Cat6 ethernet
+      cable</li>\r\n</ul>"

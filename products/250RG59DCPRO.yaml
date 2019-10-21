@@ -1,0 +1,52 @@
+product:
+  path: 250m-reel-high-copper-rg59-coaxial-cctv-camera-cable-2-low-voltage-wires
+  sku: 250RG59DCPRO
+  name: 250m Reel High Copper RG59 Coaxial CCTV Camera cable with Power Cables
+  images:
+  - path: 3622.jpg
+    title: " \t250m Reel High Copper RG59 Coaxial CCTV Camera cable with Power Cables"
+  - path: 4077.jpg
+    title: RG59 coaxial shotgun cable connectors
+  - path: 3623.jpg
+    title: Interior diagram of 250m RG59 coax cable reel
+  prices:
+    default:
+    - break: 1
+      unit_price: 1241700
+  content:
+    ean: "5060181655708"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/vBe_C69xKEM
+    manuals: []
+    software: []
+    description: "If you've invested in the best CCTV equipment, such as our Hikvision
+      TurboHD or 16 Camera systems, then you don't want the quality of your system
+      top be hampered by sub-standard cabling! Because of this, we are now stocking
+      these MASSIVE 250m reels of <strong>professional grade</strong> RG59 coaxial
+      cable. This is provided alongside 2 DC power cables, making the ideal way to
+      run both power and video signals to your CCTV cameras. \r\n\r\n Unlike standard
+      coaxial cabling, this high grade reel uses Bare Copper wire braiding to shield
+      it's central conductor, providing impressively low attenuation. For those of
+      us less technically inclined this basically means you can run a greater length
+      of cable without a degradation in signal quality. both cables are also protected
+      by a heavy duty 6mm PVC jacket, so they're safe to use outdoors, or even buried
+      in the ground. If you're intending to install any wired CCTV cameras a distance
+      away from your home, then it really pays to invest in this high grade cable!\r\n\r\nThis
+      really is the ideal choice for professional CCTV installers- stock up in bulk
+      to make easy work out of those large scale jobs. Of course you don't have to
+      be a pro to use this gear, it's no more difficult than wiring up a HiFi. Our
+      full range of <a href=\"https://www.spycameracctv.com/spycamera/10-x-bnc-male-twist-on-connector-rg59-co-axial-coax-adapter-for-cctv\"
+      target=\"_new\">BNC twist fit adapters</a> and <a href=\"https://www.spycameracctv.com/search/?search=powerjack\"
+      target=\"_new\">Power Jack Connectors</a> means we have everything you need
+      to get your Security system up and running!\r\n\r\n"
+    specification: "Coaxial Cable\r\n\r\nInner Conductor: 0.81mm Bare Copper (BC)\r\nDielectric:
+      3.7mm Foam Polyethylene\r\n1st Shielding: Single Bonded Aluminium foil\r\nOuter
+      Conductor: 55% 64 x 0.12mm Bare Copper (BC)\r\nJacket: 6mm PVC\r\nResistance:
+      75 Ohm\r\nNominal Capacitance: 53 pF/m\r\nAttenuation @ 20C (db/100m): 5Hz-
+      3.8, 55Hz- 6.41, 550Hz- 19.04, 1000Hz- 26.82\r\n\r\nDC Power Cable\r\n\r\nInner
+      Conductor: 16 x 0.2mm Bare Copper\r\nInner Jacket: 1.8mm PVC\r\nOuter Jacket:
+      6mm PVC"
+    in_the_box: "<ul>\r\n<li>1x 250m reel of high copper, low resistance Coax cable</li>\r\n</ul>"

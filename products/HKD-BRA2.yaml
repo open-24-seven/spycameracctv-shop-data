@@ -1,0 +1,29 @@
+product:
+  path: hikvision-junction-box-turret-cameras
+  sku: HKD-BRA2
+  name: Hikvision Junction Box for Turret Cameras
+  images:
+  - path: 5406.jpg
+    title: Hikvision Junction Box for Turret Cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 225000
+  content:
+    ean: "5060423072997"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - HKD-BRA2.pdf
+    software: []
+    description: "We always recommend using a junction box when installing IP cameras
+      on the exterior of a building. This Hikvision junction is designed to fit the
+      connectors for a Hikvision turret camera, protecting them from vandals and the
+      elements.\r\n\r\nThe junction box also makes installing the camera so much easier,
+      as it means you no longer have to drill large holes in exterior walls to feed
+      through the ethernet connection."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Hikvision junction box for turret cameras</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

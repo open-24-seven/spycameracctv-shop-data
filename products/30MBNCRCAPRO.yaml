@@ -1,0 +1,29 @@
+product:
+  path: 30m-professional-copper-rg59-bnc-video-rca-audio-power-cctv-cab
+  sku: 30MBNCRCAPRO
+  name: 30m Professional Copper RG59 BNC Video, RCA Audio and Power CCTV Cable
+  images:
+  - path: 4914.jpg
+    title: 30m Professional Copper RG59 BNC Video, RCA Audio and Power CCTV Cable
+  - path: 4915.jpg
+    title: Close up of BNCRCAPRO
+  prices:
+    default:
+    - break: 1
+      unit_price: 195799
+  content:
+    ean: "5060423070405"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Installing a high grade camera such as a TVI HD model, with an additional
+      microphone? High grade cables such as RG59 are usually sold \"shotgun\" style,
+      with a video and power line, but no connector for audio. Uniquely, this professional
+      quality RG59 cable has an additional RCA connector, letting you run video, audio
+      and power all in one device.\r\n\r\nWe also have these cables in 5m, 10m, 20m,
+      40m, 50m and 60m lengths, so you can be sure to find what you're looking for"
+    specification: ""
+    in_the_box: ""

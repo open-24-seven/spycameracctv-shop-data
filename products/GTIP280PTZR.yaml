@@ -1,0 +1,43 @@
+product:
+  path: b-grae-gamut-1080p-ptz-bullet-80m-ir-10x-zoom
+  sku: GTIP280PTZR
+  name: B Grade 25% Off - Gamut 1080p PTZ Bullet with 80m IR, 10x Zoom
+  images:
+  - path: 5628.jpg
+    title: B Grade 25% Off - Gamut 1080p PTZ Bullet with 80m IR, 10x Zoom
+  prices:
+    default:
+    - break: 1
+      unit_price: 2241700
+  content:
+    ean: "3154"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "Image Sensor: 1/2.8\" Sony Exmor CMOS Sensor\r\nElectronic Shutter:
+      1/25s ~ 1/100000s\r\nIRIS: F1.6~F22\r\nDay & Night: ICR\r\nMin. Illumination:
+      0.01lux@(F1.6,AGC ON), 0 Lux with IR\r\nAudio compression: G.711-U law\r\nImage
+      Settings: AWB, AGC Adjustable\r\nExposure Mode: Sharpness, Saturation, Brightness
+      & Contrast Adjustable\r\nWDR Range: Digital WDR\r\nNoise Reduction: 2D/3D-DNR\r\nImage
+      Orientation: Mirror/Flip\r\nPrivacy Zone: Yes\r\nMotion Detection: Yes\r\nCompression:
+      Main Chip\r\nVideo Compression: H.264\r\nResolution: 1920x1080, 25fps\r\nBit
+      rate: 32kbps-16Mbps\r\nEncode Mode: VBR/CBR\r\nImage Quality: Five levels under
+      VBR; Free adjustment under CBR\r\nLens: 5.1-51mm\r\nIris: Auto Iris\r\nWaterproof:
+      IP66\r\nBracket: Wall Bracket(optional)\r\nDimensions: 153mmÃ—93mmÃ—130mmï¿½?LÃ—WÃ—H)\r\nWeight(gross):
+      920g\r\nOptical Zoom: 10X\r\nIR Distance: 80M\r\nPan Rotation Range: 0ã€«~250
+      ã€«\r\nTilt Rotation Range: -5ã€«~55\r\nPan Speed: 0.5ã€«~12 ã€«/s\r\nTilt Speed:
+      0.5ã€«~10 ã€«/s\r\nPreset Position: 256\r\nNetwork: RJ45\r\nRemote Monitoring:
+      IE Browsing, CMS 3 Control Software\r\nUser Access: Supports simultaneous monitoring
+      for up to 4 users with multi-stream real time transmission\r\nNetwork Protocol:
+      TCP/IP, UDP, DHCP, NTP, RTSP, PPPoE, DDNS, SMTP, FTP\r\nONVIF: Support\r\nEthernet:
+      100Mbps\r\nPower Supply: DC12V\r\nWork Environment: -35ï¿½?~60ï¿½?, 10%~90%
+      Humidity "
+    in_the_box: "<ul>\r\n<li>1x Gamut Bullet PTZ Camera</li>\r\n<li>1x Mains Power
+      Supply</li>\r\n<li><strong>2 Year guarantee with SpyCameraCCTV</strong></li>\r\n</li>"

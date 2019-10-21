@@ -1,0 +1,34 @@
+product:
+  path: lockable-metal-security-box-1080p-hd-hunting-camera
+  sku: HCAME1BOX
+  name: Lockable Metal Security Box for 1080p HD Hunting Camera
+  images:
+  - path: 5151.jpg
+    title: Lockable Metal Security Box for 1080p HD Hunting Camera
+  - path: 5152.jpg
+    title: Lockable metal security box with adjustable stand
+  prices:
+    default:
+    - break: 1
+      unit_price: 283300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Our <a href=\"https://www.spycameracctv.com/spycamera/1080p-hd-waterproof-trail-wildlife-hunting-camera\">HD
+      hunting cameras</a> are a fantastic way to monitor areas or properties where
+      there is no power. They have been used to secure allotments, farms, gardens,
+      and to prevent fly-tipping, amongst countless other uses. In some situations
+      however, they can be vulnerable to theft or vandalism. This lockable metal security
+      box is the perfect solution, keeping your camera under lock and key, whilst
+      still able to record and trigger via PIR.\r\n\r\nThe box is designed specifically
+      for our camera and fits snugly and securely. An adjustable stand lets you perfectly
+      position the camera for optimum coverage. The case can also be locked to a secure
+      point such as a fence or tree to prevent it being moved."
+    specification: 'Dimensions: 158x106x66mm (170x106x66mm including tab on base)'
+    in_the_box: "<ul>\r\n<li>1x Metal Security Box</li>\r\n<li>1x Adjustable Stand</li>\r\n<li>1x
+      Set of screws and allen key</li>\r\n</ul>"

@@ -1,0 +1,26 @@
+product:
+  path: 10-metre-power-cable-for-5v-cctv-camera-spycam
+  sku: 10M17POWER
+  name: 10 Metre Power Cable for CCTV/Spy Cameras and Gadgets
+  images:
+  - path: 3822.jpg
+    title: 10 Metre Power Cable for 5V CCTV/Spy Cameras and Gadgets
+  - path: 3823.jpg
+    title: 10m 5V DC Power Cable Connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 60700
+  content:
+    ean: "5060181655234"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This extension cable with 1.7mm male to female connections is perfect
+      for use with a wide range of products that utilise this standard connector,
+      including many of our own CCTV and spy cameras.
+    specification: "Length: 10 Metres\r\nJack Size: 1.7mm/4.75mm (inner/outer diameter)\r\n"
+    in_the_box: 1 x 10m Power Extension Cable

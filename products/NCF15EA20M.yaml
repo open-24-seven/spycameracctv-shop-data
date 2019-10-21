@@ -1,0 +1,61 @@
+product:
+  path: birdbox-ccd-nestbox-day-night-hidden-camera-20m-wired
+  sku: NCF15EA20M
+  name: Green Feathers Bird Box Camera with Sony Chip & 20m Cable
+  images:
+  - path: 3664.jpg
+    title: High resolution Bird Box camera with IR Night Vision and free bird box
+  - path: 516.jpg
+    title: NCF15WA20M
+  - path: 510.jpg
+    title: blue tit in nesting box
+  - path: 509.jpg
+    title: blue tits caught on hidden camera
+  - path: 3293.jpg
+    title: 12V DC 500mA UK Power Supply for CCTV Cameras - 2.1mm Jack
+  prices:
+    default:
+    - break: 1
+      unit_price: 483300
+  content:
+    ean: "5060423071464"
+    meta:
+      title: ""
+      description: This tiny Sony CCD camera with night vision and 20m cable is perfect
+        for bird box viewing. Buy online today for FREE UK delivery!
+    videos:
+    - https://www.youtube.com/embed/WZukGbORQTI
+    manuals: []
+    software: []
+    description: "Our wired bird box camera with Sony chip provides splendid video
+      quality, much better than our standard camera. This clarity kit includes a 20-metre
+      cable to connect the camera to a TV or recorder, and has a tiny camera, making
+      it perfect for bird nesting boxes â€“ it wonâ€™t even spook any camera-shy birds!\r\n\r\nThe
+      camera boasts focus from just a few inches up to around 30 meters, enabling
+      you to get the best image no matter how far the object is from the lens. The
+      detail is excellent, for example, if youâ€™d focus the camera on your finger,
+      you could see the ridges on your fingernail! You'll even catch the little barbs
+      of the feathers, speckles on the eggs, or the adorable expressions on the fledglingsâ€™
+      faces - and we know you wouldn't want to miss those.\r\n\r\nThe 3-way 20-metre
+      cable (supplied) connects the camera directly to your TV/recorder and carries
+      video, audio, and power, so you only need to install one cable between the camera
+      and your house.\r\nLonger cables are available should you need to cover a greater
+      distance. Simply call our team for more information.\r\n\r\nThis tiny camera
+      measures just 50 x 50 x 30 mm (think of a slightly chubby square matchbox),
+      which makes it a good fit for any bird nesting box, hive, den or hole. Furthermore,
+      the No-Glow infrared LEDs, allowing round-the-clock viewing, wonâ€™t disturb
+      any birds or other animals, arenâ€™t too powerful (so they wonâ€™t risk bleaching
+      the background), but are just right for seeing in a small space.\r\n\r\nOur
+      customers use this cam system for watching owls, buzzards, and small birds such
+      as nesting blue tits. The cameras are also popular with bird breeding professionals,
+      who use them across multiple aviaries. For bigger nests, some customers have
+      chosen our slightly larger 30 LED product or our CCD bird box camera, available
+      from our complete packages/specialist kits section.\r\n\r\n\r\n"
+    specification: "TV system: PAL\r\nImage sensor: Color 1/3-inch SONY CCD Sensor\r\nNumber
+      of pixels (H x V): PAL: 512 x 582\r\nSynchronization system: internal\r\nMinimum
+      illumination: 1.0Lux/F1.2\r\nResolution: 700 TV lines\r\nWhite balance: auto\r\nS/N
+      ratio: > 48dB\r\nBack light compensation: auto\r\nVideo output: 1.0Vp-p at 75
+      Ohms\r\nGamma correction: 0.45\r\nOperation temperature: -20 to 50 degrees Celsius\r\nPower
+      supply: DC 12V less than 150mA\r\nWhite balance: auto"
+    in_the_box: "<ul>\r\n<li>1x Bird Box Camera</li>\r\n<li>1x UK mains power supply</li>\r\n<li>1x
+      20-metre 3-way cable for carrying power, audio and video</li>\r\n</ul>"

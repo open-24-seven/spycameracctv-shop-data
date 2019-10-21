@@ -1,0 +1,70 @@
+product:
+  path: hi-res-bird-box-camera-700tvl-sony-effio-ccd-ir-night-vision
+  sku: NCF15EA
+  name: Hi Res Bird Box Camera with 700TVL Sony EFFIO CCD, IR Night Vision
+  images:
+  - path: 3837.jpg
+    title: Hi Res Bird Box Camera with 700TVL Sony EFFIO CCD, IR Night Vision
+  - path: 3831.jpg
+    title: 'Bird box Camera with sony 700TVL Effio CCD size '
+  - path: 3832.jpg
+    title: Bird Box Camera Cable
+  - path: 3838.jpg
+    title: Sony Effio Logo
+  - path: 4595.jpg
+    title: Hi Res Bird Box Camera with 700TVL Sony EFFIO CCD, IR Night Vision
+  prices:
+    default:
+    - break: 1
+      unit_price: 375000
+  content:
+    ean: "5060181650338"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/WZukGbORQTI
+    manuals: []
+    software: []
+    description: "For anyone with a love of wildlife, a Bird Box Camera is a wonderful
+      way to watch animals grow. Our Bird box cameras are in use all over world, including
+      live streaming on the popular <a href=\"http://www.sparrowhawk-island.co.uk/live_sparrowhawk_and_wildlife_cams.php\"
+      target=\"new\">Sparrowhawk Island</a> project. This new model- an adaptation
+      of one of our most popular designs- uses a 700TV Line Sony EFFIO chip to provide
+      exceptional quality video, full of fine detail. This makes it a fantastic option
+      for public bird cameras such as website streams and in schools.\r\n\r\nKey to
+      this camera's amazing quality is the Sony EFFIO imaging system. This combines
+      a highly sensitive imaging chip with specially designed circuitry to provide
+      image quality unsurpassed by anything else in it's class. Practically speaking,
+      this allows it to provide a sharp video filled with fine details, perfect for
+      feathers and wings! The recording resolution is an impressive 700TV Lines, capturing
+      almost twice the detail of it's competitors! The Effio system also provides
+      wonderfully clean video, with much less of the grain and noise that can effect
+      more basic cameras.\r\n\r\nOf course, when recording at night, the can also
+      use it's array of 10 Infra-Red LEDs to provide clear night vision. This allows
+      you to keep an eye on what your resident birds are doing even at the dead of
+      night. The LEDs are specially designed to work over short distances, so as not
+      to 'blow out' the image with highlights when the subject is close.\r\n\r\nAs
+      with all of our Wildlife cameras, this device is simple to set up- no need to
+      hire a pro for the day! The camera uses a standard BNC connection, which can
+      go straight into a <a href=\"https://www.spycameracctv.com/spy/digital-video-recorders/stand-alone-dvr/\"
+      title=\"Digital Video Recorder\">Digital Video Recorder</a>. With the included
+      RCA Adapter, the camera can also be viewed live on any TV or Monitor. Of course,
+      with such a high quality device, it's important to not compromise your picture
+      with the wrong cables. See the drop down menu at the top for our range of pro
+      grade shielded BNC cables, ideal for installation in your garden!\r\n\r\nOf
+      course, if you have special requirements, such as wanting a wireless conversion
+      or a custom installation, you can always get in touch with our sales team. Simply
+      check our <a href=\"https://www.spycameracctv.com/contact.php\" target=new\">contact
+      page</a> for the easiest way to get in touch!\r\n\r\n\r\n"
+    specification: "Imaging Chip: Sony colour CCD with EFFIO-E DSP\r\nTotal Pixels:
+      960x582\r\nScanning System: PAL\r\nHorizontal Resolution: 700TV Line\r\nLens:
+      2.8mm\r\nIR LEDs: x10 Array\r\nIR Illumination: 5m\r\nMinimum Illumination:
+      0LUX (IR On)\r\nS/N Ratio: >48dB\r\nVideo Output: 1.0Vp-p/75ohm\r\nSynchronisation:
+      Internal Sync\r\nGain Control: Automatic\r\nWhite Balance: Automatic\r\nBacklight
+      Compensation: Automatic\r\nExposure Mode: EE\r\nPower Supply: DC 12V\r\nOperational
+      Temperature: -20C to +70C\r\nDimensions:  4cm x 4cm x 2cm (with the lens total
+      depth is 4cm)\r\n"
+    in_the_box: "<ul>\r\n<li>1x Bird box Camera with 700TVL Sony EFFIO CCD</li>\r\n<li>1x
+      1.2m Mains Power Supply</li>\r\n<li>1x BNC to RCA adapter</li>\r\n<li>Product
+      Manual</li>\r\n</ul>"

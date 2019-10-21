@@ -1,0 +1,54 @@
+product:
+  path: 5mp-hd-tiny-pinhole-spy-camera-3-in-1-osd-controller
+  sku: GTTV505PHGB
+  name: 5MP HD Tiny Pinhole Spy Camera - 3-in-1, OSD Controller
+  images:
+  - path: 5849.jpg
+    title: 5MP tiny pinhole spy camera in hand
+  - path: 5842.jpg
+    title: " \t5MP HD Tiny Pinhole Spy Camera - 4-in-1, OSD Controller"
+  - path: 5843.jpg
+    title: 5MP pinhole camera front view
+  - path: 5844.jpg
+    title: 5MP pinhole camera with osd controller
+  - path: 5845.jpg
+    title: pinhole camera video and osd connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 674900
+  content:
+    ean: "5060611441215"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "All too often, setting up a covert CCTV system means having to compromise
+      on picture resolution. This is a big problem in many scenarios, for example
+      if you're trying to set up a camera to watch what staff are doing at the till.
+      Luckily, this tiny pinhole camera provides an ideal solution, boasting an incredible
+      recording resolution of 5 megapixels, despite measuring a tiny 25x25mm.\r\n\r\nThe
+      advanced imaging sensor records video at up to 2688x1920, capturing over twice
+      the picture detail of Full HD. The resolution can also be dropped down to 4MP
+      if widescreen video is required. All of this is recorded through a tiny pinhole
+      lens, capable of seeing through gaps as small as 2mm. This allows you to keep
+      the camera itself neatly concealed, for example in a drawer or at the back of
+      a shelf.\r\n\r\nThe camera's 3-in-1 technology means it's compatible with HD-TVI,
+      AHD and CVBS video systems. In other words, it should be backwards compatible
+      with most legacy CCTV systems, and is a great option for expanding an existing
+      kit. We have also included a plug-in control for the camera's on-screen display,
+      letting you quickly change settings such as white balance and back-light compensation."
+    specification: "Imaging Sensor: 1/2.7\" CMOS\r\nActive Pixels: 2688x1944\r\nResolution:
+      2688x1440, 2688x1920, 950tvl (CVBS)\r\nS/N Ratio:>50dB\r\nVideo Output: TVI
+      2.0, AHD 2.0, CVBS\r\nMinimum illumination: 0.5lux (colour), 0.1lux (B&W)\r\nLens:
+      3.7mm Pinhole\r\nWhite Balance: ATW, AWC-SET\r\nExposure: DC, MANUAL\r\nBacklight
+      Compensation: OFF, BLC\r\nDay & Night: AUTO, COLOUR, BW, EXT\r\nMotion Detection:
+      On, Off\r\n3DNR: OFF, LOW, MIDDLE, HIGH (exc CVBS)\r\nDigital Effect: OFF, MIRROR,
+      V-FLIP, ROTATE & FREEZE\r\nImage Enhancement: D-WDR\r\nDefog: On, Off\r\nCommunication:
+      Coax\r\nOSD: OSD Controller\r\nLanguage: ENG, GER, FRA, ITA, SPA, POL, RUS,
+      POR, NED, TUR, KOR, JPN, HEB, ARB\r\nPower: DC 12V\r\nPower Consumption: 1.2W\r\nOperational
+      Temperature: -10 to +50c\r\nDimensions: 25x25x16mm "
+    in_the_box: "<ul>\r\n<li>1x Pinhole spy camera</li>\r\n<li>1x OSD controller</li>\r\n<li>1x
+      Mains power supply</li>\r\n</ul>"

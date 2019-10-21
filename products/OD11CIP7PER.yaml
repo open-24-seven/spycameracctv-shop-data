@@ -1,0 +1,70 @@
+product:
+  path: 1mp-720p-hd-dome-ip-network-security-camera-10m-ir-night-vision
+  sku: OD11CIP7PER
+  name: B-Grade 60% Off 1MP 720p HD Dome IP Security Camera with 10m IR
+  images:
+  - path: 4247.jpg
+    title: 1MP 720p HD Dome IP Network Security Camera with 10m IR Night Vision
+  - path: 4293.jpg
+    title: 720p HD Dome IP camera size comparison
+  - path: 4248.jpg
+    title: Ethernet connection and DC power in
+  - path: 4548.jpg
+    title: 1MP 720p HD Dome IP Security Camera, ONVIF with 10m IR Night Vision
+  prices:
+    default:
+    - break: 1
+      unit_price: 645800
+  content:
+    ean: "5060181658501"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/2XwK8C7g32w
+    manuals:
+    - Golbong IP Cams.pdf
+    software: []
+    description: "<strong>B-Grade Product: 60% off</strong>\r\nThis product has either
+      been opened, returned by customers, are ex-display or have been used for technical
+      testing. All products have had some use, some may have cosmetic damage, such
+      as screw fixings damage.\r\n\r\nThis <strong>IP dome security camera</strong>
+      records detailed HD footage, and can easily be set up to stream live over the
+      internet. Unlike analogue CCTV cameras, IP cameras record footage digitally,
+      and then outputs it via a network connection. This not only lets them capture
+      more fine detail than traditional equipment, but means you can connect them
+      directly to your router for live online viewing without the need for a separate
+      DVR. This makes this camera a great value option for anyone looking to start
+      an IP system, and perfect for offices or retail spaces.\r\n\r\nThe camera's
+      all digital imaging system allows it to record footage in full colour 1280x720
+      HD, showing a significant step up in improvement from even the highest quality
+      analogue cameras. This provides much more fine detail in the video images, helping
+      you keep an eye on everything that happens on your property. This high resolution
+      video can be recorded whilst simultaneously viewing lower resolution streams
+      on PC or mobile.  \r\n\r\nEarlier models of IP camera had quite an involved
+      set up, making them highly impractical for users without a good knowledge of
+      networking, IP addresses and so on. We have designed this range of cameras to
+      have a simple software set up once connected to your router, and include step
+      by step instructions in plain English. Once configured you can view live footage,
+      and make recordings using the included software. For 24/7 monitoring however,
+      we recommend using our dedicated NVR. The camera is also ONVIF compatible, meaning
+      you can use it with most NVRs on the market.\r\n\r\nThe camera itself is housed
+      in a durable dome casing, helping keep it discreet when mounted from a suspended
+      ceiling or on a wall. The housing is even weather proof to the IP66 standard,
+      allowing it to be installed in exposed outdoor locations. It is fitted with
+      a ring of IR LEDs, providing 10m of clear night vision, vital for security after
+      hours. It is also POE, allowing it to draw power from the network cable when
+      used with a compatible switch. This greatly reduces the number of cables you
+      have to run."
+    specification: "Imaging Chip: 1/4\" CMOS\r\nSensor Pixels: 1280x720\r\nSensitivity:
+      1 Lux (IR Off), 0 Lux (IR On)\r\nMain Stream Resolution: 1280x720 @25fps, 4CIF
+      @25fps\r\nSub-stream Resolution: 4CIF @25fps, CIF @25fps\r\nVideo Compression:
+      H.264\r\nNight Vision Range: Up to 10m\r\nDay/Night: Auto ICR Switching\r\nLens:
+      2.8mm, Fixed Iris F/1.4\r\nField of View: 75 degrees\r\nPower inputs: PoE, 12V
+      DC \r\nMaximum Power consumption: 6W\r\nSoftware Configuration: Via web browser
+      or CMS Software\r\nNetwork Protocols: HTTP, TCP/IP, ARP, RTSP, RTP, UDP, SMTP,
+      FTP, DHCP, DNS, DDNS, PPOE, UPNP, NTP, 802.1x\r\nEthernet: 10/100 Base-T, auto-sensing,
+      half/full duplex, RJ45\r\nDimensions: 156mm (Diameter)x 128mm (Height)\r\nOperational
+      Temperature: -20c to +55c\r\nHumidity: 10-80%"
+    in_the_box: "<ul>\r\n<li>1x Dome IP Security Camera</li>\r\n<li>1x Set of fixings
+      for bracket</li>\r\n<li>English instructions</li>i>\r\n</ul>"

@@ -1,0 +1,47 @@
+product:
+  path: 8v-dc-li-on-high-capacity-6800mah-battery-for-pinhole-bird-box-cameras
+  sku: BATT8V68GB
+  name: 8V DC Rechargeable Li-On Lithium 6800mAh Battery for Birdbox Cameras
+  images:
+  - path: 1729.jpg
+    title: 6800mAh 8V High Capacity Lithium Battery for Birdbox and Pinhole Cameras
+  - path: 1731.jpg
+    title: High Capacity 6800mAh 8V DC Rechargable Lithium Battery
+  - path: 1730.jpg
+    title: 8V DC Lithium Battery Charger Included
+  - path: 4514.jpg
+    title: 8V DC Rechargeable Li-On Lithium 6800mAh Battery for Birdbox Cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 264600
+  content:
+    ean: "5060181653001"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/BATT/manuals/BATT-guide.pdf
+    software: []
+    description: "This rechargeable 8V DC lithium battery is designed to be used with
+      an 8V wildlife camera, birdbox or nestbox camera. It has a massive 6800mAh capacity
+      which means it can power your bird box camera for up to 36 hours. This is great
+      if you have a wireless nest box camera and don't want trailing wires across
+      your garden and through your house.\r\n\r\nThis re-chargeable 8V DC lithium
+      birdbox camera battery uses a jack type connector with a 1.3mm inner diameter,
+      making it is compatible our with wireless bird box camera kits as well as our
+      pinhole covert cameras. This means you can place your wildlife cameras where
+      there is no local power supply and have them transmit back to your receiver
+      continuously for up to 36 hours* (depending on camera model and power requirements).\r\n\r\nThis
+      8V lithium battery will also work well with our wired and pinhole cameras if
+      you require to build a potable hidden spy camera recorder if you are a private
+      investigator or if you are a property surveyor and would like to have a portable
+      camera system for checking piping, lofts, drains etc.\r\n\r\n<b>Please Note:</b>
+      \ This product is covered by our 12 Month Warranty not 24!"
+    specification: "Capacity of Battery: 68000mAh\r\nDuration of Power Supply: Up
+      to 36 hours\r\nInput Voltage: 8.4V \r\nOutput Voltage: 8.4 - 7.2v\r\nSize: 118
+      x 72 x 32mm"
+    in_the_box: "<ul>\r\n<li>1x High Capacity 8V DC Lithium Battery</li>\r\n<li>1x
+      1.3mm male to 2.1mm male connection cable</li>\r\n<li>1x 110/240V Mains Power
+      Charger</li>\r\n<li>Product Instruction Manual</li>\r\n</ul>"

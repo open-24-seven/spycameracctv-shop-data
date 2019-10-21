@@ -1,0 +1,47 @@
+product:
+  path: hikvision-4mp-ip-outdoor-bullet-camera-80m
+  sku: HKIP480B
+  name: Hikvision 4MP IP Outdoor Bullet Camera with 80m Night Vision
+  images:
+  - path: 5222.jpg
+    title: Hikvision 4MP IP Outdoor Bullet Camera with 80m Night Vision
+  prices:
+    default:
+    - break: 1
+      unit_price: 1583300
+  content:
+    ean: "5060423073395"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - HKIP450B.pdf
+    software: []
+    description: ""
+    specification: "<strong>Camera</strong>\r\n\r\nImage Sensor: 1/3\" Progressive
+      Scan CMOS\r\nMin. Illumination: 0.01Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter
+      Speed: 1/3 s to 10,000s\r\nSlow shutter: Supported\r\nLens: 12mm @ f2.0\r\nAngle
+      of view: 25Â°\r\nLens mount: M12\r\nDay & night: IR cut filter with auto switch\r\nWide
+      Dynamic Range: 120dB\r\nCompression Standard\r\nVideo Compression: H.264/MJPEG/H.264+\r\nH.264
+      Type: Main Profile\r\nVideo Bit Rate: 32 Kbps ~ 16 Mbps\r\n\r\n<strong>Image</strong>\r\n\r\nMax.
+      Resolution: 2688Ã—1520\r\nFrame Rate: 50Hz: 20fps (2688Ã—1520), 25fps (1920Ã—1080),
+      25fps (1280Ã—720)\r\nSub stream: 25fps (352Ã—288), 25fps (640Ã—360)\r\nImage
+      Enhancement: BLC/3D DNR/ROI\r\nImage Setting: Rotate Mode, Saturation, Brightness,
+      Contrast, Sharpness adjustable by client software or web browser\r\nDay/Night
+      switch: Auto/schedule/triggered by alarm in\r\n\r\n<strong>Network</strong>\r\n\r\nNetwork
+      Storage: NAS (Support NFS, SMB/CIFS \r\nDetection: Intrusion detection, line
+      crossing detection, motion detection, dynamic analysis\r\nAlarm Trigger: Tampering
+      alarm, network disconnect, IP address conflict, storage exception\r\nProtocols:
+      TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE,
+      NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour\r\nSecurity: Anti-Flicker,
+      heartbeat, mirror, password protection, privacy mask, watermark, IP address
+      filtering, anonymous access\r\nStandard: ONVIF (PROFILE S, PROFILE G), PSIA,
+      CGI, ISAPI\r\n\r\n<strong>Interface</strong>\r\n\r\nCommunication Interface:
+      1x RJ45 10M/100M Ethernet port\r\n\r\n<strong>General</strong>\r\n\r\nOperating
+      Conditions: -30 Â°Câ€“60 Â°C, Humidity 95% or less (non-condensing)\r\nPower
+      Supply: DC12V Â± 10%, PoE (802.3af)\r\nPower Consumption: Max. 7.5W \r\nNight
+      vision range: Approx. 80 meters\r\nIngress Protection: IP67\r\nDimensions: 299.71Ã—
+      86.48 Ã— 85.11 mm\r\nWeight: 1200g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 4MP IP Outdoor Bullet Camera</li>\r\n<li><strong>2
+      year guarantee from SpyCameraCCTV</strong></li>\r\n</ul>"

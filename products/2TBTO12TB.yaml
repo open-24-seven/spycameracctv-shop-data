@@ -1,0 +1,22 @@
+product:
+  path: 2tb-to-12tb-upgrade
+  sku: 2TBTO12TB
+  name: 2TB to 12TB Hard Drive Upgrade
+  images:
+  - path: 5423.jpg
+    title: ' 2TB to 12TB Hard Drive Upgrade'
+  prices:
+    default:
+    - break: 1
+      unit_price: 4333300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

@@ -1,0 +1,28 @@
+product:
+  path: 5-metre-dc-power-cable-5v-gadgets-cctv-cameras-17mm-jack
+  sku: 5M17POWER
+  name: 5 Metre DC Power Cable for Gadgets and CCTV Cameras w 1.7mm Jack
+  images:
+  - path: 4137.jpg
+    title: 5 Metre DC Power Cable for 5V Gadgets and CCTV Cameras w 1.7mm Jack
+  prices:
+    default:
+    - break: 1
+      unit_price: 45100
+  content:
+    ean: "5060181657006"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This DC power extension cable features a 1.7mm jack connection and
+      is ideal for use with a wide variety of gadgets. It is also a perfect accessory
+      for our standard Digital Wireless CCTV cameras. This makes them a great option
+      if you need to increase the distance between the camera and the power supply.\r\n\r\nPlease
+      note, this is <b>not</b> compatible with our Digital Wireless LCD Receiver kits
+      or cameras. If you are not sure which one you need to go for, just select a
+      cable from the drop down menu on the camera listing."
+    specification: "Length: 5 Metres\r\nJack Size: 1.7mm/4.75mm (inner/outer diameter)\r\n"
+    in_the_box: 1x 5m Power Extension Cable

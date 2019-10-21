@@ -1,0 +1,42 @@
+product:
+  path: b-grade-hikvision-16-channel-960h-cctv-dvr-2tb-hdd
+  sku: 16DVR72WIR
+  name: 'B Grade 30% Off - Hikvision 16 Channel 960H CCTV DVR with 2TB HDD '
+  images:
+  - path: 5596.jpg
+    title: " \tB Grade 30% Off - Hikvision 16 Channel 960H CCTV DVR with 2TB HDD "
+  prices:
+    default:
+    - break: 1
+      unit_price: 3741700
+  content:
+    ean: "3118"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 20% Off RRP</strong>\r\nThis item is either
+      an ex display model, has been unboxed, or was a customer return. All B grade
+      products are tested by our tech team, and still covered by our product guarantee.
+      \r\n\r\nStock is extremely limited, so don't miss out on this great bargain
+      price!"
+    specification: "Video compression: H.264\r\nVideo input: 16-ch\r\nVideo input
+      interface: BNC (1.0 Vp-p, 75 Î©), PAL / NTSC self-adaptive\r\nAudio compression:
+      G.711u\r\nAudio input: 1-ch, RCA (2.0 Vp-p, 1 kÎ©)\r\nTwo-way audio input: 1-ch,
+      RCA (2.0 Vp-p, 1 kÎ©) (using the audio input)\r\nHDMI output: 1080p, UXGA, SXGA,
+      720p, XGA\r\nVGA Output: 1080p, SXGA, 720p, XGA\r\nCVBS output: 1-ch, BNC (1.0
+      Vp-p, 75 Î©),\r\nVideo loop out (optional): 4-ch, BNC (1.0 Vp-p, 75 Î©)\r\nEncoding
+      resolution: WD1/4CIF/2CIF/CIF/QCIF\r\nFrame rate: 25 fps (P) / 30 fps /N\r\nVideo
+      bit rate: 32 Kbps ~ 2048 Kbps, or user defined (Max. 3072 Kbps)\r\nAudio output:
+      1-ch, RCA (Linear, 1 kÎ©)\r\nAudio bit rate: 64 Kbps\r\nDual-stream Support:
+      CIF / QCIF @ 25 fps (P) / 30 fps (N)\r\nStream type: Video, Video & Audio\r\nHDD
+      Capacity: Up to 4TB capacity\r\nNetwork interface: 1, RJ45 10M / 100M Ethernet
+      interface\r\nSerial interface: 1 RS-485 interface, half-duplex\r\nUSB interface:
+      2, USB 2.0\r\nPower supply: 12V DC\r\nConsumption: â‰¤ 20 W\r\nWorking temperature:
+      -10 Â°C ~ +55 Â°C\r\nWorking humidity: 10% ~ 90%\r\nDimensions (WÃ—DÃ—H): 445
+      Ã— 290 Ã— 45 mm\r\nWeight: â‰¤ 4 kg"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 16 channel DVR with 2TB HDD</li>\r\n<li>1x
+      Mains power supply</li>\r\n<li>1x Remote control</li>\r\n<li>1x USB mouse</li>\r\n<li>1x
+      Manual & software CD</li>\r\n<li><strong>2 Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,47 @@
+product:
+  path: spy-camera-coffee-cup-1080p-hd-wifi-microsd-storage
+  sku: SPYDCUPW
+  name: Spy Camera Coffee Cup - 1080p HD, Wifi, MicroSD Storage
+  images:
+  - path: 5898.jpg
+    title: Spy Camera Coffee Cup - 1080p HD, Wifi, MicroSD Storage
+  - path: 5899.jpg
+    title: Spy camera hidden in coffe cup lid - controls
+  - path: 5927.jpg
+    title: disposable cups for spy camera coffee cup
+  prices:
+    default:
+    - break: 1
+      unit_price: 2249600
+  content:
+    ean: "5060611442427"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Where's the most effective place to hide something? In plain sight.
+      \r\n\r\nThis unassuming disposable coffee cup conceals a tiny HD spy camera
+      inside the lid, making it the ideal tool for covert surveillance on the street,
+      or in the office. A small pinhole lens on the side of the plastic lid captures
+      everything within a 66 degree field of view from the side of the cup. What's
+      more, the camera and lid fit most 90mm cups, allowing use with take away drinks
+      from all high street chains.\r\n\r\nThe camera records video in 1080p HD quality,
+      ensuring you capture plenty of identifiable subject detail. It's powered by
+      a small rechargeable battery, allowing up to 180 minutes of continuous recording
+      to MicroSD card (card not included).It even has a Wifi connection, letting you
+      easily view images and control recording from a mobile phone or tablet."
+    specification: "Imaging Sensor: 1/3\" CMOS\r\nSensor Resolution: 2592x1944\r\nSensitivity:
+      3.3 Lux @f/2\r\nLens: 4mm f/3.2\r\nAngle of View: 66 degrees\r\nCompression:
+      H.264, JPEG\r\nFile Format: .mov, .jpg\r\nVideo Recording Mode: Manual\r\nVideo
+      Resolution: 1920x1080p\r\nFrame Rate: Up to 30fps\r\nWifi: Built in module (IEEE
+      802.11b/g/n)\r\nWifi Protocol: RTSP\r\nStorage: MicroSD (max 32GB, not included)\r\nData
+      Interface: Mini USB 2.0\r\nDate/Time Table: YYYY/MM/DD, HH:MM:SS\r\nPower Input:
+      5V\r\nPower Consumption: 380-420mA (Wifi on +80mA)\r\nCharging Time: 240min
+      (400mA)\r\nBattery Input: DC 3.7V, 1400mA LiPo \r\nBattery Lifetime: 180 mins
+      (1080p continuous recording, Wifi off)\r\nRecording Time: 10min/GB @ 1920x1080\r\nVibration
+      Alert: Power on/off, recording, low battery\r\nDimensions: 93(d)x20mm\r\nWeight:
+      88g"
+    in_the_box: "<ul>\r\n<li>1x Spy coffee cup lid</li>\r\n<li>3x Takeaway coffee
+      cups</li>\r\n<li>1x Mini USB cable</li>\r\n</ul>"

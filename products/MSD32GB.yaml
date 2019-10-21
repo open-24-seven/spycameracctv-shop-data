@@ -1,0 +1,29 @@
+product:
+  path: microsd-sd-32gb-memory-card
+  sku: MSD32GB
+  name: 32GB Micro SDHC Class 10 Memory Card with SD Adaptor
+  images:
+  - path: 3136.jpg
+    title: 32GB Micro SDHC Memory Card with Full Size SD Adapter
+  prices:
+    default:
+    - break: 1
+      unit_price: 140400
+  content:
+    ean: "8806086561631"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 32GB MicroSD Card is perfectly capable for HD video and image
+      applications thanks to its high data rate specification. Included is an MicroSD
+      to SD card adaptor so that files can be accessed from an standard size SD card
+      slot. \r\n\r\nThis card is compatible with all our products that feature a MicroSD
+      card slot.\r\n\r\n<i>To ensure we can offer the best price and availability
+      to our customers, we use a variety of MicroSD card manufacturers. This means
+      the card you receive may not match the model pictured</i>"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 32GB Micro SDHC Card</li>\r\n<li>1x Micro SD to full
+      size SD adaptor</li>\r\n<li>Works with all SpyCameraCCTV memory card products</li>\r\n</ul>"

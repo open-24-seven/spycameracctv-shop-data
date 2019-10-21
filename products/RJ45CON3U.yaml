@@ -1,0 +1,24 @@
+product:
+  path: rj45-connector-cat5e-cat6-ethernet-network-cables
+  sku: RJ45CON3U
+  name: RJ45 Connector for Cat5e Cat6 Ethernet Network Cables
+  images:
+  - path: 4395.jpg
+    title: RJ45 Connector for Cat5e Cat6 Ethernet Network Cables
+  prices:
+    default:
+    - break: 1
+      unit_price: 1500
+  content:
+    ean: "5060181659553"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: RJ45 jack connector for crimping onto the ends of cut Cat 5 and Cat
+      6 ethernet network connectors. Requires a RJ45 crimping tool.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x RJ45 Jack</li>\r\n<li><strong>2 Year warranty with
+      SpyCameraCCTV</strong></li>\r\n</ul>"

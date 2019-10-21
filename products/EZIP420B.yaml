@@ -1,0 +1,59 @@
+product:
+  path: hikvision-hiwatch-4mp-ip-camera-20m-night-vision
+  sku: EZIP420B
+  name: Hikvision HiWatch 4MP IP Camera with 20m Night Vision
+  images:
+  - path: 5775.jpg
+    title: " \tHikvision HiWatch 4MP IP Camera with 30m Night Vision"
+  - path: 5776.jpg
+    title: Hiwatch 4MP IP camera front view
+  - path: 5777.jpg
+    title: HiWatch camera connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 1036600
+  content:
+    ean: "5060423075080"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "The best selling <strong>HiWatch</strong> range brings Hikvision's
+      advanced CCTV technology to the DIY and home user, with high resolution video
+      and simple installation. This 4 megapixel IP camera is a great example, capturing
+      2560x1440 images with twice the detail of 1080p Full HD.\r\n\r\nAs well as punching
+      above its weight on picture quality, the compact camera also features infrared
+      LEDs that provide 20m night vision range. Combined with Hikvision's own 3D DNR
+      noise reduction technology, this helps ensure video is clean and detailed at
+      all hours of the day. The camera is also housed in a robust IP67 rated weatherproof
+      housing, allowing installation indoors or outdoors. \r\n\r\nThe camera supports
+      Power-over-Ethernet (or \"PoE\"). This means it can draw power down the cable
+      from compatible switches or recorders, instead of needing a dedicated mains
+      plug. Once the IP camera is configured to your network, you can watch it from
+      anywhere using a PC or mobile app. The software even lets you set up recording
+      to a PC, unlocking features such as motion detection without needing a dedicated
+      recorder."
+    specification: "Imaging Sensor: 1/3\" CMOS\r\nMinimum Illumination: 0.054 Lux
+      (Colour, IR Off), 0 Lux (B&W, IR On)\r\nShutter Time: 1/3-100,000s\r\nSlow Shutter:
+      Supported\r\nLens: 4mm\r\nField of View: 77 Degrees (horizontal)\r\nLens Mount:
+      M12\r\nDay & Night: IR Cut Filter\r\nWide Dynamic Range: 120dB\r\nDigital Noise
+      Reduction: 3D DNR\r\nVideo Compression: H.264+, H.264, MJPEG\r\nVideo Bitrate:
+      32kbps - 16Mbps\r\nMax Image Resolution: 2560x1440\r\nFrame Rate: 2560x1440/2304x1296/1920x1080/1280x720
+      @25fps (main stream), 640x480/640x360/320x240 @25fps (sub stream)\r\nImage Enhancement:
+      BLC, 3D DNR\r\nImage Settings: Rotate, saturation, brightness, contrast, sharpness,
+      AGC, white balance (adjustable by client or browser)\r\nBLC: Supported\r\nDay/Night:
+      Day, Night, Auto switching\r\nNetwork Storage: NAS (supports NFS, SMB/CIFS)\r\nAlarm
+      Trigger: Motion detection, video tampering, network, disconnected, IP address
+      conflict, illegal login, HDD full, HDD error\r\nProtocol: TCP/IP, ICMP, HTTP,
+      HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, UPnP, SMTP, IGMP, 802.1x,
+      Q os, IPv6, UDP, Bonjour\r\nGeneral Functions: Anti-flicker, heartbeat, mirror,
+      passowrd protection, privacy mask, watermark, IP address filtering\r\nSystem
+      Compatibility: ONVIF (S,G), ISAPI\r\nCommunication Interface: 1x RJ45 10/100Mbit
+      self adaptive ethernet\r\nIR Range: 20m\r\nOperational Temperature: -30 to +60c\r\nOperational
+      Humidity: <95%\r\nPower Supply: 12V DC, PoE\r\nPower Consumption: Max 5.5W DC,
+      7W PoE\r\nWeather Proofing: IP67\r\nDimensions: 70mm(diameter)x191.3mm\r\nWeight:
+      280g\r\n\r\n\r\n "
+    in_the_box: "<ul>\r\n<li>1x HiWatch 4MP IP camera</li>\r\n</ul>"

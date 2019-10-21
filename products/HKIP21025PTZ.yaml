@@ -1,0 +1,70 @@
+product:
+  path: hikvision-ip-ptz-camera-2mp-25x-zoom-100m-night-vision
+  sku: HKIP21025PTZ
+  name: Hikvision IP PTZ Camera - 2MP with 25x Zoom, 100m Night vision
+  images:
+  - path: 5523.jpg
+    title: Hikvision IP PTZ Camera - 2MP with 20x Zoom, 100m Night vision
+  - path: 5524.jpg
+    title: Hikvision 2mp 20x zoom ptz camera front view
+  - path: 5557.jpg
+    title: Hikvision 20x zoom 2MP PTZ dome camera with bracket
+  prices:
+    default:
+    - break: 1
+      unit_price: 3720000
+  content:
+    ean: "5060423076025"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This Hikvision pan-tilt-zoom camera's large zoom and night vision
+      range make it a fantastic way to monitor larger open spaces such as a car park
+      or farm. The motorised base can be controlled using a recorder, or even your
+      PC or smartphone, providing 360 degree coverage of your property right at your
+      fingertips.\r\n\r\nThe camera is built around a 2mp sensor, recording 1080p
+      Full HD video. This is combined with a 25x optical zoom lens, letting you focus
+      on incredibly fine details on nearby subjects, or on subjects right on the other
+      side of your property. A bank of powerful infrared LEDs illuminates everything
+      up to 100m away, whilst the camera's Smart IR feature reduces the intensity
+      for objects closer to the camera, keeping them clearly lit. \r\n\r\nWhen connected
+      to a Hikvision NVR, the camera supports a wide range of smart features, including
+      intrusion and line crossing detection. It also allows a wide range of automated
+      movements, including up to 300 pre set camera positions, and 8 programmed patrols.
+      The high speed tracking lets you easily follow subjects either using the onscreen
+      camera controls, or with a <a href=\"https://www.spycameracctv.com/spycamera/pan-tilt-zoom-joystick-controller-cctv-monitor-ptz-ip-cameras\"
+      target=\"_blank\">hardware controller</a>. This all makes the camera a powerful
+      security tool, whether set up as a standalone device, or adding flexible coverage
+      to a larger system."
+    specification: "Imaging Sensor: 1/2.8\" CMOS\r\nResolution: 1920x1080\r\nMinimum
+      Illumination: 0.005 Lux (IR Off), 0 Lux (IR On)\r\nFocal Length: 4.8-120mm\r\nOptical
+      Zoom: 20x\r\nDigital Zoom: 16x\r\nZoom Speed: Approx 3.6s (wide-tele)\r\nAngle
+      of View: 57.6-2.5 Degrees\r\nMinimum Working Distance: 10-1500mm\r\nAperture
+      Range: f/1.6 to f/3.5\r\nFocus Mode: Auto, Semi-auto, Manual\r\nDigital WDR:
+      Supported\r\nAGC: Auto, Manual\r\nWhite Balance: Auto, Manual, ATW, Indoor,
+      Outdoor, Daylight, Sodium\r\nDay & Night: IR Cut\r\nPrivacy Mask: Up to 8, programmable\r\nImage
+      Enhancement: 3D DNR, Defog, HLC/BLC, EIS\r\nPan & Tilt Range: Pan 360Â° (endless),
+      Tilt 15-90Â°\r\nSpeed: 0.1-80Â°/s\r\nPreset Positions: 300\r\nPatrols: 8, Up
+      to 32 positions per patrol\r\nPark Action: Preset, patrol, pattern, pan scan,
+      tilt scan, random scan, frame scan, panorama scan\r\nScheduled Task: Auto scan,
+      frame scan, random scan, patrol, pattern, preset, panorama scan, tilt scan,
+      dome reboot, dome adjust\r\nSmart Detection: Intrusion, Line crossing, Motion\r\nROI
+      Encoding: Supports 4 areas with adjustable levels\r\nIR Range: 100m\r\nIR Intensity:
+      Automatically adjusted depending on zoom ration\r\nEthernet: 10Base-T, 100Base-TX,
+      RJ45\r\nStreams: Up to 3\r\nMain Stream Resolution: 1920x1080/1280x960/1280x720
+      @25fps, 1280x960/1280x720@50fps\r\nSub Stream Resolution: 704x576/640x480/352x288
+      @25fps\r\n3rd Stream Resolution: 1920x1080/1280x960/1280x720/704x576/640x480/352x240
+      @25fps\r\nImage Compression: H.264/MJPEG\r\nAudio Input: 1x \r\nAudio Output:
+      1x\r\nProtocol: IPv4/IPv6, HTTP, HTTPS, 802.1x, QoS, FTP, SMTP, UPnP, SNMP,
+      DNS, DDNS, NTP, RTSP, RTP, TCP, UDP, IGMP, DHCP, PPPoE\r\nSimultaneous Live
+      View: Up to 20 users\r\nLocal Storage: MicroSD, Up to 128GB (not included)\r\nUsers:
+      Up to 32 users, 3 levels (admin, operator, user)\r\nSecurity Measures: User
+      authentication (ID and PW), Host authentication (MAC address), IP address filter\r\nApplication
+      Programming: API, Supports ONVIF, PSIA and CG\r\nPower: 12V DC & POE (802.3at,
+      class4)\r\nWorking Temperature: 30&Deg;c to +65Â°c\r\nHumidity: <90%\r\nProtection
+      Level: IP66, 4,000V Lightning protection\r\nDimensions: 164.5mm (diameter)x
+      295mm\r\nWeight: 2kg\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 2MP PTZ camera</li>\r\n</ul>"

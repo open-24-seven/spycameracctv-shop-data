@@ -1,0 +1,49 @@
+product:
+  path: b-grade-hikvision-4mp-bullet-ip-camera-30m-ir
+  sku: HKIP430BR
+  name: B Grade 30% Off - Hikvision 4MP Bullet IP Camera with 30m IR
+  images:
+  - path: 5691.jpg
+    title: " \tB Grade 30% Off - Hikvision 4MP Bullet IP Camera with 30m IR"
+  prices:
+    default:
+    - break: 1
+      unit_price: 2415000
+  content:
+    ean: "5060423075288"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "<strong>Camera</strong>\r\n\r\nImage Sensor: 1/3\" Progressive
+      Scan CMOS\r\nMin. Illumination: 0.01Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter
+      Speed: 1/3 s to 10,000s\r\nLens: 2.8mmâ€“12mm @ f1.4\r\nAngle of view: 112Â°â€“33.8Â°\r\nLens
+      Mount: M12\r\nDay & Night: IR cut filter with auto switch\r\nWide Dynamic Range:
+      120dB\r\n\r\n<strong>Compression Standard</strong>\r\n\r\nVideo Compression:
+      H.264/MJPEG/H.264+\r\nH.264 Type: Main Profile\r\nVideo Bit Rate: 32 Kbps ~
+      16 Mbps\r\n\r\n<strong>Image</strong>\r\n\r\nMax. Resolution: 2688Ã—1520\r\nFrame
+      Rate: 50Hz: 20fps (2688Ã—1520), 25fps (1920Ã—1080), 25fps (1280Ã—720)\r\nImage
+      Enhancement: BLC/3D DNR/ROI\r\nImage Setting: Rotate Mode, Saturation, Brightness,
+      Contrast, Sharpness adjustable by client software or web browser\r\n\r\n<strong>Network</strong>\r\n\r\nNetwork
+      Storage: NAS (Support NFS, SMB/CIFS), ANR\r\nDetection: Intrusion detection,
+      line crossing detection, motion detection, dynamic analysis\r\nAlarm Trigger:
+      Tampering alarm, network disconnect, IP address conflict, storage exception\r\nProtocols:
+      TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE,
+      NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour\r\nGeneral: One-key
+      reset, anti-flicker, heartbeat, mirror, password protection, privacy mask, watermark,
+      IP address filtering, anonymous access\r\nStandard: ONVIF (PROFILE S, PROFILE
+      G), PSIA, CGI, ISAPI\r\n\r\n<strong>Interface</strong>\r\n\r\nCommunication
+      Interface: 1x RJ45 10M/100M Ethernet port\r\nStorage: Built-in MicroSD/SDHC/SDXC
+      card slot, up to 128GB\r\n\r\n<strong>General</strong>\r\n\r\nOperating Conditions:
+      -30 Â°Câ€“60 Â°C, Humidity 95% or less (non-condensing)\r\nPower Supply: DC12V
+      Â± 10%, PoE (802.3af)\r\nPower Consumption: Max. 5.5W (Max 7.5W with IR cut
+      filter on)\r\nNight vision range: Approx. 30 meters\r\nIngress Protection: IP67\r\nDimensions:
+      95 Ã— 105 Ã— 258.6 mm\r\nWeight: 1200g"
+    in_the_box: "<ul><li>1x Hikvision 4MP IP Outdoor Varifocal Bullet Camera</li>\r\n<li><strong>2
+      year guarantee from SpyCameraCCTV</strong></li></ul>\r\n"

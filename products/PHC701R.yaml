@@ -1,0 +1,36 @@
+product:
+  path: clearance-wireless-spy-pinhole-camera-hidden-2.4ghz
+  sku: PHC701R
+  name: B-Grade Wireless Spy Pinhole Camera 700 TV Lines with Audio
+  images:
+  - path: 2773.jpg
+    title: PHC02
+  - path: 2774.jpg
+    title: PH01 v 50p
+  - path: 2775.jpg
+    title: Power Adapter and Battery Clip
+  prices:
+    default:
+    - break: 1
+      unit_price: 266700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 30% off</strong>\r\nThis product has either
+      been opened, returned by customers, are ex display or have been used for technical
+      testing. All products have had some use, some pay have cosmetic damage, such
+      as screw fixings damage.\r\n\r\nAll our B-Grade products are fully tested but
+      please be aware some products may have cosmetic wear and tear, and specific
+      screw holes and mounting areas may be used. "
+    specification: "<strong>Camera</strong>\r\nEffective Resolution: 628x582\r\nHorizontal
+      Definition: 700 TV Lines\r\nScan Frequency: 50Hz\r\nMinimum Illumination: 3
+      LUX\r\nSensitivity: +18DB-AGC ON-OFF\t\r\n0utput Power: <10dBm 10mW)/100dBm(100mW)\r\nOutput
+      Frequency: 2.4 GHz\r\nWireless Distance: 10-20m/50m\r\nVoltage: 8V DC\r\nCurrent:
+      200 mA\r\nPower Consumption: 150mA"
+    in_the_box: "<ul>\r\n<li>1x 2.4GHz Wireless Pinhole Spy Camera</li>\r\n<li>1x
+      UK Mains power cable</li>\r\n</ul>"

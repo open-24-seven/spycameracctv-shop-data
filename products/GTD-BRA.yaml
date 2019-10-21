@@ -1,0 +1,33 @@
+product:
+  path: gamut-weatherproof-junction-box-outdoor-dome-cameras
+  sku: GTD-BRA
+  name: Gamut Weatherproof Junction Box for Outdoor Dome Cameras
+  images:
+  - path: 5639.jpg
+    title: " \tGamut Weatherproof Junction Box for Outdoor Dome Cameras"
+  - path: 5713.jpg
+    title: Gamut dome camera junction box schematic
+  - path: 5640.jpg
+    title: Weatherproof dome camera junction box kit
+  - path: 5642.jpg
+    title: Weatherproof dome camera junction box top view
+  prices:
+    default:
+    - break: 1
+      unit_price: 150000
+  content:
+    ean: "5060423075981"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "We always recommend using a junction box when installing a CCTV
+      camera on the outside of a building. All of the cables that run to the camera
+      can be connected inside the protective housing, shielding them from the weather
+      and from anyone who might try and tamper with them. \r\n\r\nThis junction box
+      is designed to work with most standard sized dome and turret cameras."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Outdoor junction box</li>\r\n<li>2x Cable feeds</li>\r\n<li>Complete
+      set of fixings</li>\r\n<li><strong>3 Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

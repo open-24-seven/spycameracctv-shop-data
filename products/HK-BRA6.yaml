@@ -1,0 +1,29 @@
+product:
+  path: hikvision-junction-box-bullet-cameras-small
+  sku: HK-BRA6
+  name: Hikvision Junction Box for Bullet Cameras - Small
+  images:
+  - path: 5404.jpg
+    title: Hikvision Junction Box for Bullet Cameras - Small
+  prices:
+    default:
+    - break: 1
+      unit_price: 225000
+  content:
+    ean: "5060423072973"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - HKB-BRA1.pdf
+    software: []
+    description: "Adding a junction box to your Hikvision bullet camera helps protect
+      the cable connectors from vandals and the elements. It's rated IP64 waterproof
+      - more than enough to protect cables - and is ideal for mounting on the outside
+      of a building.\r\n\r\nImportantly, it makes it so much easier to wire the camera,
+      as it prevents you having to drill large holes in an exterior wall to feed through
+      the IP camera connector. "
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Hikvision outdoor junction box</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

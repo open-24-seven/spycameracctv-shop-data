@@ -1,0 +1,47 @@
+product:
+  path: 15m-ir-digital-wireless-security-camera-pir-lcd-mobile-access
+  sku: 1DIGLAN1502
+  name: 15m IR Digital Wireless CCTV Camera System w PIR LCD Mobile Access
+  images:
+  - path: 4112.jpg
+    title: 15m IR Digital Wireless Security Camera w PIR, LCD and Mobile Access
+  - path: 4238.jpg
+    title: B grade- 25% Off! Digital Wireless Security Camera with Mobile Access
+  - path: 4113.jpg
+    title: Outdoor wireless security camera
+  - path: 4239.jpg
+    title: digital wireless security camera with 15m night vision and PIR
+  - path: 4114.jpg
+    title: LCD receiver with mobile access
+  - path: 4240.jpg
+    title: Digital wireless LCD receiver with mobile access
+  - path: 4115.jpg
+    title: Outdoor Security Camera Front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1658300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/MySqjWGqW0o
+    - https://www.youtube.com/embed/4Giu1M_49pk
+    manuals: []
+    software: []
+    description: ""
+    specification: " Imaging Sensor: 1/5\" Colour CMOS\r\nLens Viewing Angle: 50 Degrees\r\nVideo
+      System: NTSC/PAL\r\nVideo Resolution: 656x488 Pixels\r\nNight Vision Range:
+      15m\r\nIR LED Light: 850nm\r\nIR LED Startup/Shutdown: 2 Lux LED On, 15 Lux
+      LED Off\r\nCamera Dimensions: 164x81x172mm\r\nVideo Frame Rate: 30fps (Max,
+      lower with multiple cameras)\r\nVideo Resolution: VGA\r\nVideo encoding: MPEG-4\r\nVideo
+      Format: .avi\r\nSD Card: Supports up to 32GB (Class 10 Required)\r\nHard disk
+      support: Up to 1TB external disk\r\nLCD Screen Type: 7\" TFT LCD\r\nLCD Screen
+      resolution: 800x480\r\nLuminance Resolution: 250cd/m2\r\nPower Supply: DC 5V
+      1A\r\nCurrent Consumption: 700mA (Max)\r\nWeight: 615g "
+    in_the_box: "<ul>\r\n<li>1x 15m night vision digital wireless CCTV camera</li>\r\n<li>1x
+      Combination receiver, recorder and monitor</li>\r\n<li>2x 1.5m Mains power supplies</li>\r\n<li>1x
+      AV cable</li>\r\n<li>English manual</li>\r\n<li><strong>2 Year warranty with
+      SpyCameraCCTV</strong></li>\r\n</ul>"

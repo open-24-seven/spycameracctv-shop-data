@@ -1,0 +1,31 @@
+product:
+  path: 64gb-silicon-power-i-series-usb-2-memory-stick-storage
+  sku: USB64GBSP
+  name: 64GB Silicon Power i-Series USB 2.0 Memory Stick Storage
+  images:
+  - path: 4440.jpg
+    title: 64GB Silicon Power i-Series USB 2.0 Memory Stick Storage
+  prices:
+    default:
+    - break: 1
+      unit_price: 267800
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This i-Series USB 2.0 memory stick by Silicon Power packs in a massive
+      64GB of storage, despite it's compact size. This makes it the ideal way to easily
+      transfer CCTV footage from your DVR's hard drive to another computer or device-
+      essential if you have to hand important clips to the authorities. As with all
+      USB sticks it's also a simple way to store or backup your photos, music and
+      documents.\r\n\r\nThe stick itself is housed in a sleek metal casing, and features
+      a protective plastic cap over it's contacts. It uses the standard USB 2.0 protocol,
+      so installing it is as simple as plugging it in to your computer, and then dragging
+      and dropping the files- that's all there is to it!"
+    specification: "Capacity: 64GB\r\nWeight: 10g\r\nDimensions: 60 x 18 x 8mm\r\nOperating
+      Temperature: 0 to +70c\r\nInterface: USB 2.0 "
+    in_the_box: "<ul>\r\n<li>1x 64GB USB 2.0 memory stick</li>\r\n</ul>"

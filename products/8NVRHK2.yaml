@@ -1,0 +1,39 @@
+product:
+  path: hikvision-8-channel-nvr-8-port-poe-switch-80mbps
+  sku: 8NVRHK2
+  name: Hikvision 8 Channel NVR with 8 Port POE Switch
+  images:
+  - path: 5226.jpg
+    title: Hikvision 8 Channel NVR with 8 Port POE Switch & 4TB Hard Drive 80Mbps
+  prices:
+    default:
+    - break: 1
+      unit_price: 2480000
+  content:
+    ean: "5060423072768"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/8NVRHK2.pdf
+    software: []
+    description: ""
+    specification: "<strong>Inputs</strong>\r\n\r\nIP video input: 8 channels\r\nIncoming
+      bandwidth: 80 Mbps\r\nOutgoing bandwidth: 160 Mbps\r\n\r\n<strong>Outputs</strong>\r\n\r\nHDMI
+      output resolution: 4K, 2K, 1920x1080, 1600x1200, 1280x1024, 1280x720, 1024x768\r\nVGA
+      output resolution: 1920x1080, 1280x1024, 1280x720, 1024x768\r\nAudio output:
+      1-ch, RCA (Linear, 1kâ„¦)\r\n\r\n<strong>Decoding</strong>\r\n\r\nDecoding format:
+      H.265/H.264/H.264+/MPEG4\r\nRecording Resolution: 8MP/6MP/5MP/4MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nSynchronous
+      playback: 8-ch\r\nCapability: 2-ch @ 4K or 8-ch @ 1080p\r\n\r\n<strong>Network</strong>\r\n\r\nNetwork
+      protocols: TCIP/IP, DHCP, Hik Cloud P2P, DNS, DDNS, NTP, SADP, SMTP, NFS, Iscsi,
+      UPnP, HTTPS\r\n\r\n<strong>Hard disk</strong>\r\n\r\nSATA: 2x SATA interfaces\r\nCapacity:
+      Up to 6TB capacity per disk\r\n\r\n<strong>External Interface</strong>\r\n\r\nTwo-way
+      audio: 1-ch, RCA (2.0 Vp-p, 1kâ„¦)\r\nNetwork interface: 1x RJ-45 10/100/1000
+      Mbps self-adaptive Ethernet interface\r\nUSB interface: Front: 1x USB 2.0; Rear:
+      1x USB 3.0\r\nAlarm in/out: 4/1\r\nPower supply: 48V DC\r\nPower: â‰¤40 W\r\nConsumption
+      (without HDD): â‰¤15 W\r\nOperating temperature: -10ÂºC to +55ÂºC\r\nOperating
+      humidity: 10 to 90%\r\nChassis: 385mm chassis\r\nDimensions: 385x315x52 mm\r\nWeight
+      (without HDD): â‰¤1 kg"
+    in_the_box: "<ul><li>1x Hikvision 8 channel NVR</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x
+      USB mouse</li>\r\n<li>1x Software & manual CD</li></ul>\r\n"

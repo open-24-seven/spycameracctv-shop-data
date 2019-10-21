@@ -1,0 +1,37 @@
+product:
+  path: b-grade-digital-wireless-transmitter-receiver-kit
+  sku: DIG24PKR
+  name: B Grade 30% Off - Digital Wireless CCTV Transmitter Receiver Kit
+  images:
+  - path: 5615.jpg
+    title: " \tB Grade 30% Off - Digital Wireless CCTV Transmitter Receiver Kit"
+  - path: 5616.jpg
+    title: Digital Wireless CCTV Transmitter
+  - path: 5617.jpg
+    title: Digital Wireless CCTV Receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 1033300
+  content:
+    ean: "2361"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "Video Output: 2x Composite\r\nVideo Input: Composite\r\nVideo
+      Type: PAL/NTSC\r\nVideo Compression: MPEG4\r\nFPS and Display: PAL: 720x576
+      @ 30FPS / NTSC: 720x480 @ 25FPS\r\nFrequency: 2.4GHz - 2.483GHz depending on
+      channel\r\nData Rate: 6Mbps\r\nModulation: 16QAM, QPSK, BPSK\r\nIncluded Antenna:
+      Omni-Directional 3dBi\r\nPower Supply: 12V DC, 1A\r\nOperating Temperature:
+      0â„ƒ - 40â„ƒ "
+    in_the_box: "<ul>\r\n<li>1x Digital Wireless 2.4GHz AV Transmitter</li>\r\n<li>1x
+      Digital Wireless 2.4GHz AV Receiver</li>\r\n<li>2x 12V DC 1A PSU</li>\r\n<li>2x
+      BNC video adapters</li>\r\n<li>4x 1m RCA Phono Cables</li>\r\n<li>Product Manual</li>\r\n<li>Certificate
+      of Conformity</li>\r\n<li><strong>2 Year Warranty from SpyCameraCCTV</strong></li>\r\n</ul>"

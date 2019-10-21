@@ -1,0 +1,26 @@
+product:
+  path: silicon-power-64gb-sdhc-memory-card-class-10
+  sku: SD64GB
+  name: 64GB SDXC Memory Card Class 10
+  images:
+  - path: 4941.jpg
+    title: Silicon Power 64GB SDXC Memory Card Class 10
+  prices:
+    default:
+    - break: 1
+      unit_price: 302100
+  content:
+    ean: "5060423070870"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 64GB SD Card is ideal for use in any camera and is capable
+      of recording HD video thanks to the Class 10 high data rate specification. \r\n\r\n<i>To
+      ensure we can offer the best price and availability to our customers, we use
+      a variety of SD card manufacturers. This means the card you receive may not
+      match the model pictured</i>"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 64GB SDXC SD Card</li>\r\n</ul>"

@@ -1,0 +1,28 @@
+product:
+  path: 4-camera-connector-kit-rg59-cable-bnc-crimp-power
+  sku: RG594PKCR
+  name: 4 Camera Connector Kit for RG59 Cable- BNC Crimp and Power Fittings
+  images:
+  - path: 4347.jpg
+    title: 4 Camera Connector Kit for RG59 Cable- BNC Crimp and Power Fittings
+  prices:
+    default:
+    - break: 1
+      unit_price: 198400
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This little bundle contains all of the connectors and adapters you
+      need to connect 4 cameras up to one of our reels of uncut professional RG59
+      cable. The kit includes 8 BNC crimp connectors for video, as well as 4 each
+      of male and female DC power connectors.\r\n\r\nCrimp connectors provide a durable
+      and robust end to your cable, but you will have to have a crimping tool in order
+      to connect them."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>8x BNC Crimp video connectors</li>\r\n<li>4x Male DC
+      power connectors</li>\r\n<li>4x Female DC power connectors</li>\r\n</ul>"

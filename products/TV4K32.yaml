@@ -1,0 +1,80 @@
+product:
+  path: hikvision-turbo-hd-8mp-cctv-system-2-bullet-cameras-dvr
+  sku: TV4K32
+  name: Hikvision Turbo HD 8MP CCTV system with 2 Bullet Cameras, DVR
+  images:
+  - path: 5881.jpg
+    title: Hikvision Turbo HD 8MP CCTV system with 2 Bullet Cameras, DVR
+  - path: 5882.jpg
+    title: Hikvision 8mp resolution chart
+  - path: 5883.jpg
+    title: Hikvision Turbo HD 8MP bullet camera
+  - path: 5884.jpg
+    title: Hikvision 4 channel hybrid DVR
+  - path: 5885.jpg
+    title: Hikvision 4 channel hybrid DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 4158300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "8 Megapixel - or 4K - is the flagship resolution for CCTV, recording
+      hugely detailed images with over 4 times the subject detail of 1080p. This allows
+      you to gain exceptional, quality even from small crops of the picture, ideal
+      for recording in areas like busy bars, clubs and car parks. Up until recently,
+      however, 8MP meant IP cameras, and a complex configuration over a network. Hikvision's
+      Turbo HD range changes this, providing incredible detail whilst still using
+      traditional, plug and play coaxial cables.\r\n\r\nThis security system uses
+      two Turbo HD bullet cameras, along with a professional grade recorder to control
+      them. Despite their compact size, the cameras are rated IP67 weatherproof and
+      boast 40m of night vision. This makes them suitable for both indoor and larger
+      outdoor spaces. \r\n\r\nThe DVR is also part of the Turbo HD range, ensuring
+      it can record footage from the cameras without any loss of picture quality.
+      It includes a wide range of recording features such as motion detection and
+      24/7 scheduling, as well as your choice of hard drive to store the files. By
+      connecting the DVR to your network router, you can even set up remote access,
+      letting you view cameras and control settings from anywhere using a mobile or
+      PC."
+    specification: "<p>Camera<p>\r\nImaging Sensor: 8.29MP progressive scan CMOS\r\nSignal
+      System: PAL/NTSC\r\nFrame Rate (PAL): 8MP @12.5fps, 5MP @20fps, 4MP/1080p @2fps\r\nResolution:
+      3840x2160\r\nMinimum Illumination: 0.003 Lux (colour, IR off), 0 Lux (IR on)\r\nShutter
+      Time (PAL): 1/12.5-10,000s\r\nLens: 2.8mm\r\nHorizontal Field of View: 102.2
+      Degrees\r\nLens Mount: M12\r\nDay & Night: IR Cut\r\nSynchronization: Internal
+      Synch\r\nWide Dynamic Range: 120dB\r\nAGC: Supported\r\nDay/Night: Auto, colour,
+      B&W\r\nWhite Balance: Auto, manual, natural\r\nPrivacy Mask: Supports 4 programmable
+      masks\r\nBack Light Compensation: Supported\r\n3D DNR: Supported, 10 levels\r\nLanguage:
+      English\r\nImage Functions: Contrast, sharpness, saturation, mirror, defog,
+      HLC\r\nHD Output: 1x BNC\r\nCVBS Output: 1x BNC\r\nOperational Temperature:
+      -40 to +60c\r\nOperational Humidity: <90%\r\nPower Supply: 12V DC\r\nPower Consumption:
+      Max 4.8W\r\nProtection Level: IP67\r\nHousing Material: Metal\r\nIR Range: 40m\r\nCommunication:
+      Up the coax (HIKVISION-C)\r\nDimensions: 70(d)x159.8mm\r\nWeight: 420g \r\n\r\n<p>Recorder</p>\r\nCoaxial
+      Inputs: 4x BNC\r\nVideo Compression: H.265+, H.265, H.264+, H.264\r\nHD-TVI
+      Input: 8MP, 5MP, 4MP, 3MP, 1080p30, 1080p25, 720p60, 720p50, 720p30, 720p25\r\nAHD
+      Input: 5MP, 4MP, 3MP, 1080p30, 1080p25, 720p30, 720p25\r\nHD-CVI Input: 4MP,
+      1080p30, 1080p25, 720p30, 720p25\r\nCVBS Input: PAL, NTSC\r\nIP Video Input:
+      2x (over network)\r\nIP Video Resolution: Up to 8MP\r\nAudio Compression: G.711u\r\nAudio
+      Input: 4x RCA\r\nCVBS Output: 1x BNC (704x576)\r\nHD Output: 1x HDMI, 1x VGA\r\nHDMI
+      Output: 3840x2160@30, 2560x1440@60, 1080@60, 1280x1024@60, 1024x768@60\r\nVGA
+      Output: 1920x1080@60, 1280x1024@60, 1280x720@60, 1024x768@60\r\nEncoding Resolution:
+      8MP, 5MP, 4MP, 3MP, 1080p, 720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame Rate:
+      8MP@12fps, 5MP@20fps, 3MP@18fps, 4MP/1080p/720p/WD1/4CIF/VGA/CIF@25fps\r\nSub
+      Stream Frame Rate: WD1/4CIF/CIF@25fps\r\nVideo Bitrate: 32Kbps to 16Mbps\r\nAudio
+      Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual Stream: Supported\r\nStream
+      Type: Video, Video & Audio\r\nSynchronous Playback: 4x\r\nRemote Connections:
+      32\r\nNetwork Protocols: TCP/IP, PPPoE, Hik-Connect, DNS, DDNS, NTP, SADP, NFS,
+      iSCSI, UPnP, HTTPS, ONVIF\r\nStorage: 1x SATA (Up to 8TB)\r\nNetwork Interface:
+      1x 10/100/1000M Self adaptive Ethernet\r\nUSB Interface: 1x USB 2.0 (front),
+      1x USB 3.0 (back)\r\nSerial Interface: RS-485\r\nAlarm In/Out: 4/1\r\nPower
+      Supply: 12V DC\r\nConsumption: <15W (No HDD)\r\nOperational Temperature: -10
+      to +55C\r\nOperational Humidity: 10-90%\r\nDimensions: 315x242x45mm\r\nWeight:
+      <1.5Kg (no HDD)"
+    in_the_box: "<ul>\r\n<li>2x Hikvision Turbo HD bullet cameras</li>\r\n<li>2x Mains
+      power supplies for cameras</li>\r\n<li>1x Hikvision turbo HD DVR</li>\r\n<li>1x
+      USB mouse</li>\r\n<li>1x Mains power supply for recorder</li>\r\n</ul>"

@@ -1,0 +1,43 @@
+product:
+  path: hikvision-5-port-poe-network-switch
+  sku: 5PORTPOEHK
+  name: Hikvision 5 Port PoE Network Switch
+  images:
+  - path: 5327.jpg
+    title: Hikvision 5 Port PoE Network Switch
+  - path: 5329.jpg
+    title: 5 port hikvision poe network switch front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 480000
+  content:
+    ean: "5060423073161"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/5PORTPOEHK.pdf
+    software: []
+    description: "Power over Ethernet (or PoE) cameras help make it a breeze to set
+      up an IP security system. They draw power from the same cable as they use for
+      data, preventing the need for annoying external power supplies. In order to
+      use them however, you need a device with the right interface. This Hikvision
+      PoE network switch can power up to 4 IP cameras, whilst also helping your network
+      manage the increased data traffic.\r\n\r\nThe device features 4 PoE ports for
+      the cameras, as well as one uplink port to connect to your router. This allows
+      you to set up multiple IP cameras without having to wire them all directly into
+      the back of an NVR."
+    specification: "Network Ports: 5\r\nPoE Ports: 4x 10/100Mbps RJ45\r\nUplink Port:
+      1x 100Mbps Ethernet\r\nNetwork Protocal: IEEE802.3, 802.3u, 802.3x, 802.3af,
+      802.3at\r\nSwitching Capacity: 1Gbps\r\nMax Forwarding Rate: 0.74Mpps\r\nHigh
+      Priority Ports: Port 1\r\nForwarding Mode: Store-and-forward\r\nMAC Address
+      Table: 1k\r\nFlow Control: IEEE802.3x full duplex\r\nPoE Standard: IEEE802.3af,
+      IEEE802.3at\r\nPoE Power Budget: 58W\r\nWorking Mode: 250m 10M Cat5e (Extend
+      On), 100m (Extend Off)\r\nPower Supply: 21V DC, 1.25A\r\nPower Consumption:
+      63W\r\nSurge Protection: 4KV\r\nOperational Temperature: 0Â°c to +40Â°c\r\nOperational
+      Humidity: 10-90%\r\nStorage Temperature: -40Â°c to +70Â°c\r\nWeight: 299g\r\nDimensions:
+      132x93.3x27.6mm\r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision PoE Network Switch</li>\r\n<li>1x Mains
+      Power Supply</li>\r\n<li>English setup instrucitons</li>\r\n</ul>"

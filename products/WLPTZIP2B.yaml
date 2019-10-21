@@ -1,0 +1,78 @@
+product:
+  path: wireless-calving-camera-kit-remote-pan-tilt-zoom-control-3km-range
+  sku: WLPTZIP2B
+  name: Wireless Calving Camera Kit- Remote Pan Tilt Zoom Control, 3km Range
+  images:
+  - path: 5246.jpg
+    title: Wireless Calving Camera Kit- Remote Pan Tilt Zoom Control, 3km Range
+  - path: 5247.jpg
+    title: Wireless PTZ camera movements
+  - path: 5249.jpg
+    title: Long range wifi bridge pair
+  - path: 5297.jpg
+    title: Wireless 1080p calving camera kit image sample
+  - path: 5292.jpg
+    title: Schematic of Wireless Calving Camera Kit
+  - path: 5250.jpg
+    title: Long range wifi bridge rear view
+  - path: 5252.jpg
+    title: Optional joystick controller
+  - path: 5577.jpg
+    title: wireless calving camera kit with PTZ bullet camera
+  prices:
+    default:
+    - break: 1
+      unit_price: 3325000
+  content:
+    ean: "5060423072959"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/12-b3ESBmaU
+    - https://www.youtube.com/embed/jKmD8kQmUbY
+    manuals:
+    - http://downloads.spycameracctv.com/GTIP210PTZGB/manuals/User%20Manual%20V-A.01.pdf
+    software: []
+    description: "Our range of livestock camera kits have all been purpose-designed
+      to help you monitor animals from across large farm properties. This unique wireless
+      calving camera kit goes one step further, providing remote control over the
+      camera's movements directly from your phone. This makes it perfect for monitoring
+      animals inside of a large shed or barn, where they might be moving around, or
+      in different locations.\r\n\r\nThis is all possible thanks to the included pan
+      tilt zoom (or \"PTZ\") IP camera. This is mounted to a motorised base, allowing
+      it to be rotated up, down and side to side by the user. It features a built-in
+      10x optical zoom that can be controlled using the same interface. To ensure
+      it can be used 24/7, the camera also boasts a huge 100m night vision range.
+      This means it is suitable for even the largest farm buildings. In case you want
+      to mount it outdoors then it is rated IP66 for complete weatherproofing. Without
+      the need for several cameras calving season can be made less stressful.\r\n\r\nThe
+      camera connects to your home's internet router using a pair of powerful wifi
+      transmitters that can be mounted on the barn and your farmhouse. With a direct
+      line of sight, they allow transmission up to an incredible 3km range. Once configured
+      to your network, the camera can be viewed and controlled using a PC or mobile
+      device. If you want even more precise control of the camera movements, we also
+      offer a joystick controller. This allows intuitive, fingertip control, as well
+      as the ability to program in preset movements. You can add this from the drop-down
+      menu at the top of the page.\r\n\r\nSome knowledge of networking is generally
+      advised for configuring the camera, however, we also offer a remote setup service
+      if you would prefer us to take care of that side of things. Just check the menu
+      at the top of the page for more information."
+    specification: "<p>Camera</p>\r\nImaging Chip: 1/3\" Sony CMOS\r\nImaging Resolution:
+      1920x1080p\r\nLens: 5.1-51mm\r\nOptical Zoom: 10x\r\nDay/Night: IR Cut\r\nBLC:
+      Auto\r\nWhite Balance: Auto\r\nS/N Ratio: >50dB\r\nProtocol: TCP/IP, HTTP, NTP,
+      IGMP, DHCP, UDP, SMTP, RTP, RTSP, ARP, DDNS, DNS, PPPoE, P2P\r\nSoftware Control:
+      IE, CMS, Management Platform\r\nVideo Compression: H.264, M-JPEG\r\nAudio Compression:
+      G711, PCM\r\nMobile View: Android, iOS\r\nPan Range: 0-220Â°\r\nTilt Range:
+      -45-+40Â°\r\nPreset Points: 220\r\nGuard Tours: 3 (each with up to 16 presets)\r\nOperational
+      Temperature: -40Â°c to +60Â°c\r\nAuto Control LED: PWN\r\nIR Distance: Up to
+      100m\r\nPower Consumption: <15W\r\nLightning Protection: 6000V\r\nWeight: 1.25Kg
+      \r\n\r\n<p>Transmitters</p>\r\nInterface: 2x RJ45 Connectors, 1x Reset Button\r\nPower
+      Requirements: Active Internet, Proprietary PoE, Power Adapter\r\nFrequency Band:
+      802.11 a/n\r\nData Rate: 300Mbps\r\nAntenna: 10dBi\r\nOperation Mode: Access
+      Point, Client Bridge, Client Router, WDS\r\nOperational Temperature: -20Â°c
+      to +70Â°c\r\nHumidity: 0-90%\r\nPower supply: 24V 0.6A, Passive PoE\r\nDimensions:
+      186x100x29mm\r\nWeight: 300g "
+    in_the_box: "<ul>\r\n<li>1x PTZ bullet IP camera</li>\r\n<li>2x Wifi bridges</li>\r\n<li>2x
+      Mains power supplies</li>\r\n<li>2x POE injectors</li>\r\n<li>2x Pole mount
+      kits</li>\r\n<li>2x 10m ethernet cables</li>\r\n<li>2x 3m ethernet cables</li>\r\n</ul>"

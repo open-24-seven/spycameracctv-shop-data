@@ -1,0 +1,24 @@
+product:
+  path: cctv-a4-sign-tracking
+  sku: CCTVSIGNA4
+  name: A4 CCTV Warning sign with CCTV tracking code
+  images:
+  - path: 2868.jpg
+    title: A4 CCTV Warning sign with CCTV tacking code
+  - path: 2830.jpg
+    title: A4 CCTV Warning sign with CCTV tacking code
+  prices:
+    default:
+    - break: 1
+      unit_price: 66600
+  content:
+    ean: "5060181654756"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

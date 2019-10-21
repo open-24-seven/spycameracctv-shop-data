@@ -1,0 +1,26 @@
+product:
+  path: gnet-in-car-gps-dongle
+  sku: GNETGPS
+  name: GPS Dongle for Gnet Car DVRs
+  images:
+  - path: 5000.jpg
+    title: GPS Dongle for Gnet Car DVRs
+  prices:
+    default:
+    - break: 1
+      unit_price: 125000
+  content:
+    ean: "5060423071334"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<p>This GPS dongle module is compatible with our Gnet Car DVR dashboard
+      camera systems as a convenient way of adding geo-location data to your footage.
+      As such this device is designed to work seamlessly with the car DVR. To find
+      out more about the Car DVR please <a href=\\\"https://www.spycameracctv.com/spycamera/1-channel-720p-hd-smart-car-dashboard-camera-dvr\\\">click
+      here</a>.\r\n</p>"
+    specification: ""
+    in_the_box: "<li>GPS dongle</li>\r\n"

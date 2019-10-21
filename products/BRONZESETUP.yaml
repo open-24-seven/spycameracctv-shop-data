@@ -1,0 +1,46 @@
+product:
+  path: bronze-support-remote-setup-online-viewing-mobile-access
+  sku: BRONZESETUP
+  name: Bronze Remote Setup for Online & Mobile Access
+  images:
+  - path: 4654.jpg
+    title: " \tBronze Support - Remote Setup for Online Viewing & Mobile Access"
+  prices:
+    default:
+    - break: 1
+      unit_price: 250000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/m2KeSa4dSuU
+    manuals: []
+    software: []
+    description: "<strong>Who is this service right for?</strong>\r\n\r\nâ€¢ Users
+      with one IP camera connected directly to their network</li>\r\n\r\n<strong>Who
+      is this service not right for?</strong>\r\n\r\nâ€¢ Users with more than 1 camera</li>\r\nâ€¢
+      Systems with a remote access DVR or NVR</li>\r\n\r\n<i>For these situations
+      we recommend our silver, gold or platinum support packages, depending on the
+      number of cameras you have</i>\r\n\r\nIP cameras are a great tool for securely
+      monitoring your property whilst away, but they can sometimes be confusing to
+      get up and running for people with no experience with networking or routers.
+      That's why our simple to use remote setup service takes away the technical hassle
+      of configuring an IP camera for viewing over the internet or on mobile.\r\n\r\nAfter
+      the initial setup, a simple annual Direct Debit subscription will then be set
+      up for continued remote access via a secure web address. \r\n\r\nLogging in
+      remotely to your computer, one of our tech support agents will completely configure
+      your software and router, as well as setting up a web address through which
+      you can securely log in to see your camera's feed. The service usually takes
+      around 30 minutes, during which time you can get our support agent to guide
+      you through the process on the phone, or alternatively leave them to it if you'd
+      prefer to have a cup of tea!\r\n\r\nThe service can also configure mobile access
+      of your camera, setting it up so you can view it live on iOS, Android or Windows
+      phone devices (depending on the camera's compatibility), allowing live viewing
+      even when on-the-go. It also covers continuing remote support for the first
+      month in case there are any initial teething troubles with the connection.\r\n\r\n<i>After
+      purchasing, just <a href=\"https://www.spycameracctv.com/contact.php\">give
+      us a call</a> and arrange a time for the set up that best suits you</i>"
+    specification: Â 
+    in_the_box: ""

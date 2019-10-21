@@ -1,0 +1,33 @@
+product:
+  path: clearance-rechargable-lion-8v-dc-1800mah-battery-pinhole-birdbox-camera
+  sku: BATT8V18GBR
+  name: B - Grade 15% Off! 8V DC Li-On Lithium Rechargeable 1800mAh Battery
+  images:
+  - path: 3107.jpg
+    title: BATT8V1800_Main
+  - path: 3108.jpg
+    title: BATTERY1800_Connector
+  prices:
+    default:
+    - break: 1
+      unit_price: 169500
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "B - Grade Product: 15% off!!\r\nThis product has either been opened,
+      returned by customers, are ex display or have been used for technical testing.
+      All products have had some use, some pay have cosmetic damage, such as screw
+      fixings damage.\r\n\r\nAll our B - Grade products are fully tested but please
+      be aware some products may have cosmic wear and tear, and specific screw holes
+      and mounting areas may be used. \r\nPLEASE NOTE THAT AS THIS IS A CLEARANCE
+      ITEM THERE IS LIMITED STOCK."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Rechargeable 8V DC Lithium Battery</li>\r\n<li>1x
+      1.3mm male to 2.5mm male connection cable</li>\r\n<li>1x 110/240V Mains Power
+      Charger</li>\r\n<li>Product Instruction Manual</li>\r\n<li>1 Year Guarantee
+      from SpyCameraCCTV</li>\r\n</ul>"

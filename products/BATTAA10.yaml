@@ -1,0 +1,23 @@
+product:
+  path: duracell-industrial-alkaline-aa-batteries-10-pack
+  sku: BATTAA10
+  name: Duracell Industrial Alkaline AA Batteries- 10 Pack
+  images:
+  - path: 4996.jpg
+    title: duracell industrial aa battery box of 10
+  prices:
+    default:
+    - break: 1
+      unit_price: 41700
+  content:
+    ean: "5000394079779"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 10 pack of Industrial alkaline AA batteries by Duracell is suitable
+      for powering any AA device. The multi pack is a great way to save money!
+    specification: ""
+    in_the_box: "<ul>\r\n<li>10x Alkaline AA batteries</li>\r\n</ul>"

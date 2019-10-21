@@ -1,0 +1,31 @@
+product:
+  path: ip66-waterproof-junction-box-cctv-cables-76-76-51-mm
+  sku: IP66ENC
+  name: IP66 Waterproof Junction Box for CCTV Cables - 76x76x51mm
+  images:
+  - path: 5316.jpg
+    title: " \tIP66 Waterproof Junction Box for CCTV Cables - 76x76x51mm"
+  prices:
+    default:
+    - break: 1
+      unit_price: 49900
+  content:
+    ean: "5060423072102"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Any security system is only as strong as it's weakest link. Because
+      of this it's always vital to make sure your CCTV cables are well protected from
+      the elements, vandals, or anything else that might stop them from working. This
+      compact enclosure completely covers the junctions between your cabling and the
+      camera. The housing is IP66 rated, ensuring it can provide protection even in
+      exposed outdoor locations.\r\n\r\nIt's large enough to work with either Cat6
+      cables for IP cameras, or RG59 cables for HD-TVI models. To install, just push
+      the cables through the side and screw them in securely to the holder, then clip
+      the cover closed.\r\n"
+    specification: "Size: 76x76x51mm\r\nIP Rating: IP66"
+    in_the_box: "<ul>\r\n<li>1x IP66 waterproof junction box</li>\r\n<li>1x Cable
+      holder</li>\r\n<li><strong>2 Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

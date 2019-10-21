@@ -1,0 +1,39 @@
+product:
+  path: netgear-n300-wifi-range-extender
+  sku: NGWFREP
+  name: Netgear N300 Wifi Range Extender
+  images:
+  - path: 5611.jpg
+    title: Netgear N300 Wifi Range Extender
+  prices:
+    default:
+    - break: 1
+      unit_price: 249899
+  content:
+    ean: "606449104912"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Wifi cameras provide more freedom than any other type of CCTV, using
+      your home or office wireless network to transmit video that can be viewed from
+      anywhere in the world. One limitation, however, is that most buildings will
+      have \"Wifi dead zones\", or spots that have very little signal. If you are
+      using our Green Feathers Wifi bird box camera, then it may also be a problem
+      getting a good signal all the way at the back of your garden where the nest
+      box is installed.\r\n\r\nThis Netgear Wifi range extender is a cheap and easy
+      solution, simply picking up your existing signal and boosting it. By connecting
+      it to a mains socket roughly half way between the router and the camera, you
+      can hugely increase the coverage and signal quality. The device supports high
+      speed networks up to 300Mbps, and has a simple set up guide, so you don't need
+      extensive networking knowledge to get it up and running!"
+    specification: "Wifi Technology: 802.11n\r\nWifi Performance: N300 (up to 300Mbps
+      depending on network)\r\nWifi Band: 2.4GHz\r\nEthernet Ports: 1x High Speed\r\nUSB
+      Ports: N/A\r\nInstallation: CD-less, Push n Connect using WPS\r\nSecurity: Wifi
+      Protected Access (WPA, WPA2-PSK), WEP\r\nSystem Requirements: 802.11 b/g/n 2.4GHz
+      router; IE 5.0, Firefox 2.0, Safari 1.4, Chrome 11.0 browsers or later \r\nDimensions:
+      67x55x34mm\r\nWeight: 98g"
+    in_the_box: "<ul>\r\n<li>1x Netgear Wifi Range Extender</li>\r\n<li>1x Quick Start
+      Guide</li>\r\n</ul>"

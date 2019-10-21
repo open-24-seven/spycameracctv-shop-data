@@ -1,0 +1,71 @@
+product:
+  path: usb-receiver-cctv-wireless-infrared-day-night-hidden-spy-camera-system
+  sku: USBNC701
+  name: Green Feathers Wireless Bird Box Camera & USB Recording Kit
+  images:
+  - path: 3629.jpg
+    title: Green Feathers Wireless Bird Box Camera with Night Vision and USB Connector
+  - path: 3631.jpg
+    title: Close up of wireless bird box camera
+  - path: 5191.jpg
+    title: bird box camera packaging
+  - path: 3802.jpg
+    title: Hidden Pinhole Bird Box camera, Night Vision and Wireless USB Receiver
+  - path: 5671.jpg
+    title: USB wireless bird box camera screenshot
+  - path: 2027.jpg
+    title: USB Video Capture Device with iSpy Software for Windows PC
+  - path: 2038.jpg
+    title: Bird Box Camera Power Supply
+  prices:
+    default:
+    - break: 1
+      unit_price: 624800
+  content:
+    ean: "5060181650666"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/1MVdx4BJyQ0
+    manuals:
+    - http://downloads.spycameracctv.com/NC701G/manuals/NC701G.pdf
+    software: []
+    description: "Bundled with our best-selling Green Feathers brand wireless bird
+      box camera is a USB video capture device for recording footage of your birds
+      to your Windows PC. You can now watch your footage of your garden birds building
+      their nest and raising their young from your laptop or PC and record it all
+      to watch later. \r\n\r\nThis is an easy-to-use, plug-and-play kit that allows
+      wildlife recording without the expense of a fully-fledged DVR. Our 700 TV line
+      wireless bird box camera provides a wide-angle field-of-view and night vision.
+      This, coupled with the fact that the camera measures just 42 mm by 35 mm, makes
+      it an ideal camera that neatly screws into small bird boxes. \r\n\r\nWireless
+      transmission from the bird box camera provides a range of up to 50 metres in
+      clear line-of-sight to the receiver from where you connect it to your TV (via
+      RCA/SCART) for live viewing and the USB Capture Device for recording.\r\n\r\nThe
+      USB Capture Device includes free <strong>iSpy software</strong> that features
+      advanced recording options such as motion detection and scheduled recording
+      so that you can configure recording to your specification. Footage is recorded
+      to the hard drive so that you can return to view it at anytime. Furthermore
+      you can export footage to upload to YouTube and the Cloud. Please note that
+      this is third party software and we do not support all features.\r\n\r\nTo download
+      the software follow <a href=\"http://www.ispyconnect.com/download.aspx\" target=\"_blank\">this
+      link</a>."
+    specification: "<strong>Camera</strong>\r\n\r\nImaging Sensor: 1/3 inch OMNIVISION
+      Colour CMOS\r\nHorizontal Resolution: 700TV Line\r\nCMOS Total Pixels: 628 x
+      582 (PAL) / 510 x 492 (NTSC)\r\nScanning Frequency(H): 15.625KHz 15.734KHz\r\nScanning
+      Frequency(V): 50Hz 60Hz\r\nAngular Field of View: 110 degree (f=2.8mm)\r\nMinimum
+      Illumination: 3.0Lux (F1.2)/ 0Lux (IR LED On)\r\nConsumption Current: 80 mA\r\nWireless
+      Frequency: ISM 2.414 - 2.468ghz\r\nOperating Range: 30m/100m (Obstructed / Unobstructed)\r\nTransmission
+      Power: 10mW\r\nGain Control: Automatic\r\nModulation Mode: FM\r\nBandwidth:
+      18M\r\nPower: DC 8V / 500mA\r\nOperating Temperature: -10oC ~ +40oC\r\nOperating
+      Humidity: 85%RH\r\nDimension (WxLxH): 42x35x35mm\r\nWeight: 65g\r\n\r\n<strong>Receiver</strong>\r\n\r\nFrequency:
+      ISM 2414 - 2468MHz 4 Channel\r\nAntenna: Omni-directional antenna\r\nChannel:
+      1-4 (Flip-type switch)\r\nIntermediate Frequency: 480MHz\r\nFrequency Stabilization:
+      +/- 100KHz\r\nDemodulation Mode: FM\r\nReceiving Sensitivity: <=129;-85dBm\r\nVideo
+      Output: 1Vp-p@75 ohm, S/N>38dB\r\nAudio Output: 10K ohm/200mVp-p\r\nPower:DC
+      12v 500ma\r\nOperating Temperature: -10 degrees C to +40 degrees C\r\nOperating
+      Humidity: 85%RH\r\nDimension (WxLxH): 80x68x16 mm\r\nWeight: 120g"
+    in_the_box: "<ul>\r\n<li>1x Wireless Bird Box Camera</li>\r\n<li>2x Mains power
+      supplies</li>\r\n<li>1x Receiver with Antenna</li>\r\n<li>1x USB Video Capture
+      Device</li>\r\n<li>Set up instructions</li>\r\n</ul>"

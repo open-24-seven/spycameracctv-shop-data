@@ -1,0 +1,27 @@
+product:
+  path: male-jack-connector-adapter-2mm-inner-screw-terminal-for-cctv-x-10
+  sku: PWRJCKMX10
+  name: Male Jack Connector Adapter 2.1mm Screw Terminal for CCTV Cameras x 10
+  images:
+  - path: 1682.jpg
+    title: 10 x 2.1mm Male DC Connectors with Screw-Type Terminals
+  - path: 1683.jpg
+    title: 2.1mm / 5.5mm Male Jack Plug Connector with Screw Terminal
+  prices:
+    default:
+    - break: 1
+      unit_price: 124000
+  content:
+    ean: "5060181652950"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "You can use these 2.1mm DC Jack Plugs with cut low voltage, stranded
+      wire. We also sell RG59 Co-Axial Cable combined with with 2 stranded wires to
+      create your own CCTV Camera Cable lengths with Power Connectors.\r\n\r\n<a href=\"https://www.spycameracctv.com/spycamera/100-metre-reel-rg59-co-axial-combo-cctv-camera-cable-with-power-line\"
+      target=\"_blank\">Click this link for Reels of <strong>RG59 Combo Power Cable</strong>.</a>"
+    specification: "Outer Diameter: 5.5mm\r\nInner Diameter: 2.1mm"
+    in_the_box: "<ul>\r\n<li>10 x 5.5mm / 2.1mm Male DC Connectors with Screw Terminals</li>\r\n</ul>"

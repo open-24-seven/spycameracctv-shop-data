@@ -1,0 +1,45 @@
+product:
+  path: additional-720p-hd-digital-wireless-camera-ir-security-light
+  sku: DIGIRC1003SL
+  name: Additional 720p HD Digital Wireless Camera with IR & Security Light
+  images:
+  - path: 4972.jpg
+    title: Additional 720p HD Digital Wireless Camera with IR & Security Light
+  prices:
+    default:
+    - break: 1
+      unit_price: 825000
+  content:
+    ean: "5060423071655"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This digital wireless security camera is a fantastic addition to
+      our <a href=\"https://www.spycameracctv.com/spycamera/720p-hd-digital-wireless-cctv-kit-mobile-access-9-portable-lcd\">Portable
+      LCD receiver kit</a>, allowing you to add extra coverage to your system. Uniquely,
+      this camera features a powerful built-in security light. This uses ultra-bright
+      daylight LEDs to illuminate a wide area in front of the camera whenever the
+      system detects movement. The brightness and triggering can be adjusted from
+      the system's control menu.\r\n\r\nAs with the other cameras available for the
+      system, this camera uses digital wireless transmission in order to send video
+      back to the receiver. This system helps boost the signal's range, allowing it
+      to transmit up to 100m in direct line of sight, and also helps greatly reduce
+      interference from other wireless devices.\r\n\r\nThe camera records in 720p
+      high definition- incredibly high quality for a wireless camera. This helps it
+      capture plenty of usable details of subjects. Other features include an IP66
+      weather resistant housing to allow outdoor use, IR night vision, and even a
+      built-in PIR motion detector."
+    specification: "Frequency Range: 2.4GHz-2.483GHz\r\nData Range: 4Mbps\r\nTransmission
+      Power: 16dBm\r\nModulation: GFSK with FHSS\r\nTransmission Range: 100m (direct
+      line of sight)\r\nImage Sensor: 1/4\" Colour CMOS\r\nPixels: 1280x720\r\nLight
+      Sensitivity: 3.5 Lux (IR Off)\r\nImage Processing: MPEG-4\r\nResolution/Frame
+      Rate: 720p@15fps (1 camera), VGA@30fps (2 cameras), VGA@10fps (4 cameras)\r\nLens:
+      3.6mm\r\nAngle of View: 92Â°\r\nNight Vision Range: 12m\r\nCamera Power: 9V
+      DC\r\nPower Consumption: 1680mA (max with spotlight on)\r\nOperational Temperature:
+      -10Â°c to +40Â°c\r\nProtection Class: IP54\r\nOperational Humidity: 0-85%\r\nCamera
+      Power Supply: 9V 2000mA\r\nScreen Power Supply: 5V 2000mA"
+    in_the_box: "<ul>\r\n<li>1x Digital wireless camera with security light</li>\r\n<li>1x
+      Mains power supply</li>\r\n<li>Set of screws</li>\r\n</ul>"

@@ -1,0 +1,51 @@
+product:
+  path: waterproof-digital-wireless-av-cctv-transmitter-receiver-24ghz
+  sku: DIG24PKWP
+  name: 2.4GHz Waterproof Digital Wireless AV CCTV Transmitter Receiver Kit
+  images:
+  - path: 4366.jpg
+    title: '2.4GHz Waterproof Digital Wireless AV CCTV Transmitter & Receiver Kit '
+  - path: 4370.jpg
+    title: waterproof digital wireless transmitter connectors
+  - path: 4367.jpg
+    title: IP66 rated digital wireless cctv transmitter
+  - path: 4368.jpg
+    title: IP66 rated digital wireless cctv receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 1400000
+  content:
+    ean: "5060181658556"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This robust CCTV transmitter kit provide extra flexibility to your
+      CCTV system, by freeing you from the limitations of hard wired cables. This
+      also means you can convert heavy duty professional CCTV cameras- usually only
+      available as wired connections only- into a long range wireless system. This
+      makes them perfect for use on large properties such as farms.\r\n\r\nThis particular
+      kit improves on our standard audio and video transmitter set by encasing both
+      the transmitter and receiver into durable IP66 housings. This means they can
+      hold up to the worst the elements can throw at them, and is essential if they
+      are going to be set up in exposed outdoor locations. They are also wall mountable
+      for a simple installation. This kit is also unique in that both devices feature
+      spare audio and video output cables. This allows you to connect to more than
+      one device, for example setting up a local monitor by the transmitter, or connecting
+      the receiver to a monitor and a DVR.\r\n\r\nLike all of our selection of long
+      range equipment, this kit uses digital wireless technology. This helps ensure
+      a clean signal with significantly reduced interference from other devices, and
+      secure pairing that prevents other nearby users from potentially picking up
+      your video. The powerful transmitter can work up to 100m in clear line of sight,
+      though this can easily be increase by adding high gain antennae."
+    specification: "Operating Frequency Band: 2.4GHz-2.4835GHz\r\nModulation: 16QAM/QPSK/BPSK\r\nReceiver
+      Sensitivity: -85dBm min\r\nVideo Input Level: 1V p-p @ 75 Ohm\r\nVideo Output
+      Level: 1V+/-0.2V p-p @ 75 Ohm\r\nAntenna: 3dBi Omnidirectional\r\nPA Output
+      Power: 100mw\r\nPower Consumption: 1.9W\r\nPower Supply: 12V/1A\r\nDimensions:
+      76x73x24mm (each)\r\nWeight: 82g (each)"
+    in_the_box: "<ul>\r\n<li>1x Waterproof AV transmitter</li>\r\n<li>1x Waterproof
+      AV receiver</li>\r\n<li>2x UK Mains power supplies</li>\r\n<li>2x Removable
+      antennae</li>\r\n<li>English setup instructions</li>\r\n</ul>"

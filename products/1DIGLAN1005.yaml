@@ -1,84 +1,66 @@
-product: 
- sku: 1DIGLAN1005
- ean: 5060423074212
- url: 1080p-digital-wireless-cctv-kit-mobile-access-touch-screen-dvr
- name: 1080p Digital Wireless CCTV Kit - Mobile Access, Touch Screen DVR
- Images:
-  - 5532_xl.jpg
-  - 5535_xl.jpg
-  - 5534_xl.jpg
-  - 5533_xl.jpg
- login_required: no
- description: |
-  Professional grade wired security systems may provide unmatched resolution and control, but there are plenty of situations where they are just not practical, such as if you're renting a property, or if you need a quick DIY installation. If you need a flexible all-in-one solution, then this 1080p wireless CCTV kit is a great alternative. It's incredibly easy to set up, even for those of us without wiring knowledge, and the kit includes everything you need to get the camera up and running right out of the box.
-
-  The camera records in 1080p Full HD, making it one of the highest resolution wireless kits on the market, and ensuring recordings are full of usable subject detail. The monitor can record from up to 4 cameras in 1080p, so you can easily expand your system. As well as IR LEDs for night vision, the camera also features a passive infrared (PIR) sensor. This can pick up the body heat of subjects within 5m, and use it to trigger recording. Footage is then transmitted to the monitor using digital wireless technology, providing a clean signal with greatly reduced risk of interference.
-
-  The included monitor features a 9" touch screen, letting you easily set up recording and picture settings. Footage is then recorded to the built-in MicroSD card slot (card not included). A rechargeable battery even lets you pick up the screen and move about your house while in use. To enable mobile access, simply plug the screen into your router, and configure the camera using the free app. This lets you view live or recorded footage from wherever you are, using a phone or tablet.
- features:
-  - 1080p Full HD: Records 1920x1080 video footage, capturing far more subject detail than most wireless devices
-  - PIR Sensor: Detects body heat from subjects moving within 5m, and uses it to trigger recording
-  - 10m Night Vision: Infrared LEDs provide clear illumination for recording in completely unlit areas
-  - Weather-resistant: IP65 rated housing allows camera to be installed indoors or outdoors
-  - Two Way Audio: Features microphone and speaker, letting you both record audio from subjects, and talk back to them. Perfect for use as a door entry camera
-  - Digital Wireless: Greatly reduces the risk of interference and picture breakup, and allows a transmission range of up to 100m in clear line of sight
-  - 9" Screen: Displays camera footage on a bright colour screen
-  - Touch Screen: Easily navigate menus and recording settings by tapping the screen
-  - Rechargeable Battery: Allows you to pick up screen and move about your property for up to 90 minutes whilst still watching the camera
-  - Mobile Access: Plug the monitor into your router in order to watch live or recorded footage on your phone or tablet
-  - Push Notifications: Receive notifications straight to your phone whenever motion detection is triggered
-  - 4 Channel Recorder: Add up to 3 additional cameras to your system, all recording in glorious Full HD
-  - Talkback Function: Use the mobile app to talk to subjects through the camera's speaker
-  - MicroSD Recording: Built-in card slot for easy storage of footage. Compatible with cards up to 128GB (not included)
- specification: |
-  Camera Spec
-
-  Frequency Range: 2.4-2.483GHz
-  Data rate: 6MBps
-  Transmitting Power: 16dBm (TYP)
-  Modulation Type: GFSK with FHSS
-  Transmission Range: 100m
-  Imaging Sensor: 1/2.7" CMOS
-  Resolution: 1920x1080
-  Image Processing: H.264
-  Lens: 3.6mm
-  Field of View: 92°
-  Minimim Illumination: 5 Lux (IR Off), 0 Lux (IR On)
-  IR LEDs: 16
-  IR Range: 10m
-  Power: 9V DC 600mA
-  Power Consumption: 540mA (max, IR on)
-  Operational Temperature: -10°c to +40°c
-  Operational Humidity: 0-85%
-  Housing Material: ABS
-  Weatherproofing: IP65
-
-  Monitor Spec
-
-  Frequency Range: 2.4-2.483GHz
-  Data Rate: 6Mbps
-  Receiving Sensitivity: -81dBm
-  Modulation Type: GFSK with FHSS
-  LCD Panel Size: 9"
-  LCD Resolution: 1024x600
-  Viewing Angle: 140° (horizontal), 110° (vertical)
-  Power Requirements: 5V DC 2A
-  Power Consumption: 1050mA (max)
-  Operational Temperature: -10°c to +40°c
-  Operational Humidity: 0-85%
- contents:
-  - 1x Digital wireless security camera
-  - 1x 9" Touch screen monitor
-  - 2x Mains power supplies
-  - 1x Network cable
-  - Manual
- video: 
- manual: http://downloads.spycameracctv.com/DIGLAN1005/manuals/1005-user-manual.pdf
- software:
- associated_products:
-  - 2DIGLAN1005
-  - 4DIGLAN1005
-  - 1DIGLAN05SL
-  - WLNVR1
- meta_title: 1080p Digital Wireless CCTV Kit | SpyCameraCCTV
- meta_description: This 1080p wireless cctv kit is a one-box solution to home security. It features our 3-in-1 portable monitor with MicroSD recording and network connectivity. Buy online today for FREE UK delivery!
+product:
+  path: 1080p-digital-wireless-cctv-kit-mobile-access-touch-screen-dvr
+  sku: 1DIGLAN1005
+  name: Digital Wireless CCTV Kit with Mobile Access, Touch Screen DVR
+  images:
+  - path: 5532.jpg
+    title: " \t1080p Digital Wireless CCTV Kit - Mobile Access, Touch Screen DVR"
+  - path: 5535.jpg
+    title: Full HD digital wireless CCTV camera
+  - path: 5534.jpg
+    title: 1080p digital wireless cctv camera front view
+  - path: 5533.jpg
+    title: Touch Screen CCTV monitor and digital wireless receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 1900000
+  content:
+    ean: "5060423074212"
+    meta:
+      title: ""
+      description: This 1080p wireless CCTV kit is a one-box solution to home security.
+        It features our 3-in-1 portable monitor with MicroSD recording and network
+        connectivity. Buy online today for FREE UK delivery!
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/DIGLAN1005/manuals/1005-user-manual.pdf
+    software:
+    - ' '
+    description: "Professional grade wired security systems may provide unmatched
+      resolution and control, but there are plenty of situations where they are just
+      not practical, such as if you're renting a property, or if you need a quick
+      DIY installation. If you need a flexible all-in-one solution, then this 1080p
+      wireless CCTV kit is a great alternative. It's incredibly easy to set up, even
+      for those of us without wiring knowledge, and the kit includes everything you
+      need to get the camera up and running right out of the box.\r\n\r\nThe camera
+      records in 1080p Full HD, making it one of the highest resolution wireless kits
+      on the market, and ensuring recordings are full of usable subject detail. The
+      monitor can record from up to 4 cameras in 1080p, so you can easily expand your
+      system. As well as IR LEDs for night vision, the camera also features a passive
+      infrared (PIR) sensor. This can pick up the body heat of subjects within 5m,
+      and use it to trigger recording. Footage is then transmitted to the monitor
+      using digital wireless technology, providing a clean signal with greatly reduced
+      risk of interference.\r\n\r\nThe included monitor features a 9\" touch screen,
+      letting you easily set up recording and picture settings. Footage is then recorded
+      to the built-in MicroSD card slot (card not included). A rechargeable battery
+      even lets you pick up the screen and move about your house while in use. To
+      enable mobile access, simply plug the screen into your router, and configure
+      the camera using the free app. This lets you view live or recorded footage from
+      wherever you are, using a phone or tablet. "
+    specification: "Camera Spec\r\n\r\nFrequency Range: 2.4-2.483GHz\r\nData rate:
+      6MBps\r\nTransmitting Power: 16dBm (TYP)\r\nModulation Type: GFSK with FHSS\r\nTransmission
+      Range: 100m\r\nImaging Sensor: 1/2.7\" CMOS\r\nResolution: 1920x1080\r\nImage
+      Processing: H.264\r\nLens: 3.6mm\r\nField of View: 92Â°\r\nMinimum Illumination:
+      5 Lux (IR Off), 0 Lux (IR On)\r\nIR LEDs: 16\r\nIR Range: 10m\r\nPower: 9V DC
+      600mA\r\nPower Consumption: 540mA (max, IR on)\r\nOperational Temperature: -10Â°c
+      to +40Â°c\r\nOperational Humidity: 0-85%\r\nHousing Material: ABS\r\nWeatherproofing:
+      IP65\r\n<br />\r\n<br />\r\nMonitor Spec\r\n\r\nFrequency Range: 2.4-2.483GHz\r\nData
+      Rate: 6Mbps\r\nReceiving Sensitivity: -81dBm\r\nModulation Type: GFSK with FHSS\r\nLCD
+      Panel Size: 9\"\r\nLCD Resolution: 1024x600\r\nViewing Angle: 140Â° (horizontal),
+      110Â° (vertical)\r\nPower Requirements: 5V DC 2A, 2.1mm jack\r\nPower Consumption:
+      1050mA (max)\r\nOperational Temperature: -10Â°c to +40Â°c\r\nOperational Humidity:
+      0-85%\r\n"
+    in_the_box: "<ul>\r\n<li>1x Digital wireless security camera</li>\r\n<li>1x 9\"
+      Touch screen monitor</li>\r\n<li>2x Mains power supplies</li>\r\n<li>1x Network
+      cable</li>\r\n<li>Full instructions</li>\r\n</ul>"

@@ -1,0 +1,25 @@
+product:
+  path: bnc-t-adapter-2-female-1-male-connect-dvr-2-outputs
+  sku: BNCTPIECE-M
+  name: BNC T Adapter - 2 Female, 1 Male, Connect DVR to 2 Outputs
+  images:
+  - path: 5811.jpg
+    title: " \tBNC T Adapter - 2 Female, 1 Male, Connect DVR to 2 Outputs"
+  prices:
+    default:
+    - break: 1
+      unit_price: 16700
+  content:
+    ean: "5060611441352"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This BNC T adapter features one male connection, splitting into two
+      female. It's perfect for splitting the output from a CCTV DVR or transmitter,
+      letting you connect it to two monitors.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x BNC T adapter</li>\r\n<li><strong>3 Year guarantee
+      with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,51 @@
+product:
+  path: b-grade-4-channel-hd-hybrid-cctv-dvr
+  sku: 4DVRRS2R
+  name: B Grade 30% Off - 4 Channel HD Hybrid CCTV DVR
+  images:
+  - path: 5607.jpg
+    title: B Grade 30% Off - 4 Channel HD Hybrid CCTV DVR
+  - path: 5608.jpg
+    title: Gamut 4 channel hybrid DVR front panel
+  - path: 5609.jpg
+    title: 4 channel hybrid DVR box contents
+  - path: 5610.jpg
+    title: Gamut 4 channel hybrid DVR back panel
+  prices:
+    default:
+    - break: 1
+      unit_price: 991700
+  content:
+    ean: "5060423072942"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/4DVRRS2/manuals/User-Manual.pdf
+    software: []
+    description: "<strong>B-Grade Product: 20% Off RRP</strong>\r\nThis item is either
+      an ex display model, has been unboxed, or was a customer return. All B grade
+      products are tested by our tech team, and still covered by our product guarantee.
+      \r\n\r\nStock is extremely limited, so don't miss out on this great bargain
+      price!"
+    specification: "Video Compression: H.264\r\nVideo System: NTSC/PAL\r\nOperation
+      System: Linux (embedded)\r\nVideo input/output: 4CH inputs/VGA and HDMI output\r\nAudio
+      input/output: 4CH inputs/1CH output (RCA)\r\nDisplay resolution: 1920x1080 or
+      1280x720 or  960x576\r\nDisplay feature: single/ Quad/S.E.Q.\r\nRecord speed
+      1080p: 15fps (each ch) \r\nRecord speed 720p: 30fps (each ch) \r\nRecord speed
+      960H: 30fps (each ch) \r\nRecording Mode: Continuous/Manual/Motion detect\r\nPlayback
+      Channel: 1/4CH, or Via CMS, Mobile for 1ch playback, laptop for 1/4Ch playback\r\nPlayback
+      Channel: Local DVR: 1~4ch\r\nPlayback Channel: PC/MAC: 1~4ch \r\nPlayback Channel:
+      Smart Phones: 1ch (using app)\r\nPlayback speed: 1080p 15fps(each ch); 720p:
+      30fps(each ch); 960H: 30fps(each ch)\r\nSensor & Alarm I/O: 4 inputs /1 output\r\nNetwork
+      Type: Lan, DHCP, and DDNS\r\nE-mail Notifications: Yes, Support\r\nHDD interface:
+      1x SATA HDDs (up to 6TB)\r\nMultiplex Operation: live display, record, playback,
+      backup and network\r\nUSB: 2x USB (for mouse and backup/upgrade)\r\nPTZ Control:
+      Yes\r\nMobile Surveillance: Support Mobile Phones based on iPhone and Android
+      operation system\r\nVGA: 800x600, 1024x768, 1280x1024, 1440x900, 1920x1080\r\nHDMI:
+      1080p\r\nIR Extender Port: Yes\r\nCLOUD: Optional\r\nP2P: Optional\r\nPower
+      Supply: DC 12V, 2A\r\nDimensions (WxDxH): 300 x 227 x 53mm"
+    in_the_box: "<li>1x HD 1080p Hybrid DVR CCTV Recorder</li>\r\n<li>1x UK Power
+      Supply</li>\r\n<li>1x English step-by-step set up instructions</li>\r\n<li>Full
+      2 Years Guarantee from SpyCameraCCTV</li>\r\n"

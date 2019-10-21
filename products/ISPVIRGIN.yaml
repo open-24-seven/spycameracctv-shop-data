@@ -1,0 +1,22 @@
+product:
+  path: virgin-isp-setup
+  sku: ISPVIRGIN
+  name: Virgin ISP Setup
+  images:
+  - path: 5945.jpg
+    title: ""
+  prices:
+    default:
+    - break: 1
+      unit_price: 0
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

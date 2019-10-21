@@ -1,0 +1,78 @@
+product:
+  path: green-feathers-wireless-bird-box-camera-hikvision-4-channel-dvr
+  sku: NCEZ
+  name: Green Feathers Wireless Bird Box Camera with Hikvision 4 Channel DVR
+  images:
+  - path: 5707.jpg
+    title: " \tGreen Feathers Wireless Bird Box Camera with Hikvision 4 Channel DVR"
+  - path: 5708.jpg
+    title: Green Feathers Wireless Bird Box Camera Kit
+  - path: 5709.jpg
+    title: Wireless bird box camera
+  - path: 5710.jpg
+    title: Hikvision 4 channel DVR
+  - path: 5711.jpg
+    title: Hikvision 4 channel CCTV DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 954300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Our best selling Green Feathers wireless bird box camera has long
+      been a firm favourite with nature lovers, letting you easily watch live as birds
+      nest, hatch and fledge, all from the comfort of your living room. Now we have
+      paired our most popular camera with a digital video recorder from Hikvision,
+      making it easy to record and archive footage, and even to view your camera remotely
+      on a PC or mobile.\r\n\r\nThe kit includes a tiny wireless camera, easily installed
+      in any standard garden bird box or bird house. It uses a wide angle lens and
+      night vision LEDs to capture everything happening in the box, even in the dead
+      of night. Don't worry though, the LEDs use invisible infrared, so there won't
+      be any visible red glow that might disturb the chicks' sleep. This video footage
+      is then transmitted back to the included wireless receiver. The wireless works
+      over distances up to 50m, but solid obstructions such as walls will reduce this,
+      so always try and set up the receiver as close as possible to the box.\r\n\r\nThe
+      DVR is designed by Hikvision, the largest name in CCTV technology. The receiver
+      connects to one of the 4 video channels, letting you easily set up scheduled
+      and motion detection recording. Simply choose a hard drive from the drop down
+      menu, and we will pre-install this before shipping the recorder out to you.
+      The DVR can also be connected to your internet router. Once configured, this
+      lets you log in and view the bird box from anywhere in the world using a PC
+      or mobile device.\r\n\r\n"
+    specification: "Camera\r\n\r\nImaging Sensor: 1/3 inch OMNIVISION colour CMOS\r\nHorizontal
+      Resolution: 700 TV lines\r\nCMOS Total Pixels: 628 x 582 (PAL) / 510 x 492 (NTSC)\r\nScanning
+      Frequency(H): 15.625kHz 15.734kHz\r\nScanning Frequency(V): 50Hz 60Hz\r\nAngular
+      Field of View: 110 degree (f=2.8mm)\r\nMinimum Illumination: 3.0Lux (F1.2)/
+      0Lux (IR LED on)\r\nInfrared LED: 6EA Invisible IR LED 940nm\r\nConsumption
+      Current: 150 mA\r\nWireless Frequency: ISM 2.414 - 2.468GHz\r\nWireless Range:
+      10-20m/50m (obstructed/unobstructed)\r\nTransmission Power: 10mW\r\nGain Control:
+      Automatic\r\nModulation Mode: FM\r\nBandwidth: 18m\r\nPower: DC 8V, 500mA\r\nOperating
+      Temperature: -10Â°C ~ +40Â°C\r\nOperating Humidity: 85%RH\r\nDimension (WxLxH):
+      42x35x35mm\r\nWeight: 65g\r\n\r\nReceiver\r\n\r\nFrequency: ISM 2414 - 2468MHz
+      4 Channel\r\nAntenna: Omni-directional antenna\r\nChannel: 1-4 (Flip-type switch)\r\nIntermediate
+      Frequency: 480MHz\r\nFrequency Stabilization: +/- 100kHz\r\nDemodulation Mode:
+      FM\r\nReceiving Sensitivity: 85dBm\r\nVideo Output: 1Vp-p@75 ohm, S/N>38dB\r\nAudio
+      Output: 10K ohm/200mVp-p\r\nPower:DC 12V, 500mA\r\nOperating Temperature: -10Â°C
+      to +40 Â°C\r\nOperating Humidity: 85%RH\r\nDimension (WxLxH): 80x68x16mm\r\nWeight:
+      120g\r\n\r\nRecorder\r\n\r\nVideo Input: 4x BNC\r\nVideo Compression: H.264+\r\nHD-TVI/AHD/CVI
+      Input: 1080p@25/30fps, 720p@25/30fps\r\nCVBS Input: Supported\r\nAudio Compression:
+      G.711u\r\nAudio Input: 1x RCA\r\nHDMI/VGA Output: 1920x1080, 1280x1024, 1280x720,
+      1024x768\r\nEncoding Resolution: 1080pLite, 720p, WD1, 4CIF, VGA, CIF\r\nMain
+      Stream Frame Rate: 1080pLite, 720p @ 12fps\r\nSub Stream Frame Rate: CIF, QVGA,
+      QCIF @ 25fps\r\nVideo Bitrate: 32kbps to 4Mbps\r\nAudio Output: 1x RCA\r\nAudio
+      Bitrate: 64Kbps\r\nDual Stream: Support\r\nSynchronous Playback: 4 Channels\r\nRemote
+      Connections: 32\r\nNetwork Protocols: TCP/IP, PPPoE, DHCP, Hik-Connect, DNS,
+      DDNS, NTP, SADP, SMTP, NFS,iSCSI, UPnP, HTTPS\r\nSATA: 1x Interface\r\nCapacity:
+      Up to 6TB\r\nNetwork Interface: 1x 10/100M RJ45 Ethernet\r\nUSB Interface: 2x
+      USB 2.0 (rear panel)\r\nPower Supply: 12V DC\r\nConsumption (without HDD): <8W\r\nOperational
+      Temperature: -10Â°c to +55Â°c\r\nOperational Humidity: 10-90%\r\nDimensions:
+      200x200x45mm\r\nWeight (without HDD): 800g\r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Wireless bird box camera</li>\r\n<li>1x Wireless receiver</li>\r\n<li>1x
+      1m AV cable</li>\r\n<li>2x Mains power supplies</li>\r\n<li>1x CCTV recorder</li>\r\n<li>1x
+      Mains power supply for DVR</li>\r\n<li>1x USB mouse</li>\r\n</ul>"

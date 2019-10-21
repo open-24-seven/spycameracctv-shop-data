@@ -1,0 +1,63 @@
+product:
+  path: clearance-infra-red-day-night-wireless-outdoor-cctv-camera
+  sku: IR01R
+  name: B - Grade 30% Off! Wireless Colour CCTV IR Camera with Audio&Receiver
+  images:
+  - path: 2824.jpg
+    title: IR01-main
+  - path: 2825.jpg
+    title: IRC01-front-cable_ebay
+  - path: 2698.jpg
+    title: 2-power-adapters-av-cable
+  prices:
+    default:
+    - break: 1
+      unit_price: 400000
+  content:
+    ean: "5060181650406"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/3tYWzPWP0cg
+    manuals: []
+    software: []
+    description: "This compact kit is simply a great entry level CCTV system. Its
+      ideal for keeping an eye on your car, shed, front door or even your children!
+      The infrared night vision camera will wirelessly transmit the video to the compact
+      receiver unit, which can then be easily connected to a TV, or DVR. A business
+      owner could even use it to monitor operations in an office or shop. As with
+      all of our comprehensive packages, all of the required leads are included. When
+      it arrives you can just plug it in and it's ready to go.\r\n\r\nDespite being
+      only roughly the size of a pool ball, don't let it's unassuming exterior fool
+      you! The camera actually boasts a host of features making it an impressively
+      versatile little piece of equipment. Most notably, the camera is fitted with
+      an array of 30 infrared LEDs. This provides illumination for night vision up
+      to 10m away, perfect for mounting next to your front door, or over a side access
+      pathway. The LEDs are fitted with a photosensitive detector, letting them automatically
+      switch on when the light level falls below a certain level. The camera's tiny
+      imaging chip records 380 TV lines of detail and when in daylight records in
+      glorious full colour. The integrated lens can also be focussed, allowing you
+      to precisely adjust the image.\r\n\r\nThe camera is encased in a waterproof
+      housing, so it can be installed outside and exposed to the elements. Included
+      in the package is a 12-volt power supply to connect to the camera, our recommended
+      method. This allows the camera to stay on indefinitely, 24 hours a day- a necessity
+      if it's being used as a security camera. However it is powered, the camera can
+      transmit video to the wireless receiver from a range of up to 50m, depending
+      on obstacles. "
+    specification: "Camera\r\n\r\nFrequency: ISM 2,414 - 2,468MHz\r\nImaging Sensor:
+      1/3 inch Colour CMOS\r\nHorizontal Resolution: 380 TV Lines\r\nCMOS Total Pixels:
+      628x582 (PAL) / 510x492 (NTSC)\r\nView Angles: 62 degrees\r\nMinimum Illumination:
+      0 Lux / 0 Lux (IR ON)\r\nGain Control: Automatic\r\nTransmission Power: 10mW\r\nConsumption
+      Current: 150mA daytime / 400ma Night time\r\nModulation Mode: FM\r\nBandwidth:
+      18M\r\nWireless Range: 10-20m/50m (obstructed/unobstructed)\r\nPower: DC 12V\r\nOperating
+      Temperature: -10oC ~ +40oC\r\nOperating Humidity: 85%RH\r\nDimensions (WxLxH):
+      56x60x45 mm\r\nWeight: 190 g\r\n\r\nReceiver\r\n\r\nFrequency: ISM 2,414 - 2,468MHz\r\nAntenna:
+      Omni-directional antenna\r\nChannel: 1-4 (tune-type switch)\r\nIntermediate
+      Frequency: 480MHz\r\nFrequency Stabilization: +/- 100KHz\r\nDemodulation Mode:
+      FM\r\nReceiving Sensitivity: <=-85dBm\r\nVideo Output: 1Vp-p@75 ohm, S/N>38dB\r\nPower:
+      DC 12V\r\nOperating Temperature: -10oC ~ +40oC\r\nOperating Humidity: 85%RH\r\nDimension(WxLxH):
+      80x68x16 mm\r\nWeight: 120 g"
+    in_the_box: "<ul>\r\n<li>1x Wireless CCTV Security Camera</li>\r\n<li>1x 4 Channel
+      Wireless Receiver</li>\r\n<li>1x Audio/Video RCA Phono Cable</li>\r\n<li>2x
+      Mains power supplies</li>\r\n</ul>"

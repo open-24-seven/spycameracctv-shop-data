@@ -1,0 +1,29 @@
+product:
+  path: b-grade-spare-digital-wireless-camera-pir-10m-ir
+  sku: DIGIRC1002R
+  name: B Grade 30% Off Spare Digital Wireless Camera with PIR, 10m IR
+  images:
+  - path: 5620.jpg
+    title: " \tB Grade 30% Off Spare Digital Wireless Camera with PIR, 10m IR"
+  - path: 5621.jpg
+    title: Digital wireless cctv camera with pir
+  prices:
+    default:
+    - break: 1
+      unit_price: 491700
+  content:
+    ean: "2686"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "<ul>\r\n<li>1x Outdoor digital wireless security camera</li>\r\n<li>1x
+      1.5m 5V Mains DC Power Supply</li>\r\n<li>English set up instructions</li>\r\n<li><strong>2
+      Year warranty with SpyCameraCCTV</strong></li>\r\n</ul>"
+    in_the_box: ""

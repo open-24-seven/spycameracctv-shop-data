@@ -1,0 +1,66 @@
+product:
+  path: hiwatch-hd-cctv-system-4-turret-cameras-20m-ir-dvr
+  sku: TVEZ74
+  name: HiWatch HD CCTV System - 4 Turret Cameras, 20m IR, DVR
+  images:
+  - path: 5850.jpg
+    title: HiWatch HD CCTV System - 4 Turret Cameras, 20m IR, DVR
+  - path: 5851.jpg
+    title: 20m hiwatch turret camera front view
+  - path: 5852.jpg
+    title: 4 channel hiwatch hybrid DVR
+  - path: 5853.jpg
+    title: hiwatch 4 channel DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1825000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision has long had a reputation as making some of the most powerful
+      surveillance kit on the market, long used by governments and commercial installers.
+      They have put together their popular range of <strong>HiWatch</strong> cameras
+      and recorders as a way to bring this dependable image and build quality to home
+      and DIY installers. This 4 camera HiWatch CCTV system is a perfect example,
+      featuring HD turret cameras and a DVR. It all goes together using standard twist-fit
+      BNC cables, so it's a great option if you want to upgrade an older kit without
+      rewiring your house.\r\n\r\nDespite their discreet size, the turret housings
+      protecting each camera are rated IP66, allowing them to be used either indoors
+      or outdoors. They also each boast 20m night vision, allowing them to clearly
+      see intruders on your property even in total darkness. Pictures are captured
+      with a high grade 1080p sensor, recording full, true-to-life colour in daylight.\r\n\r\nThe
+      included HiWatch DVR has many of the recording features found on it's bigger
+      brothers. This includes motion detection and 24/7 scheduling, all adjustable
+      camera-by-camera. Footage is recorded onto your choice of hard drive at 1080lite
+      quality, allowing you to hold many days' worth of clips at a time. You can also
+      connect the DVR to your router, allowing you to configure remote access to cameras
+      and recording settings from a PC or mobile device."
+    specification: "<p>Cameras</p>\r\nImaging Sensor: CMOS\r\nEffective Pixels: 1920x1080\r\nMinimum
+      Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter Speed: 1/25 to 1/50,000s\r\nLens
+      Mount: M12\r\nDay & Night: ICR\r\nSynchronization: Internal\r\nVideo Frame Rate:
+      1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational Temperature:
+      -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower
+      Consumption: Max 4W\r\nProtection Level: IP66\r\nIR Range: 20m\r\nDimensions:
+      82.6mm (diameter) x 70mm\r\nWeight: 230g\r\n\r\n<p>Recorder</p>\r\nVideo Input:
+      4x BNC\r\nVideo Compression: H.264+\r\nHD-TVI/AHD/CVI Input: 1080p@25/30fps,
+      720p@25/30fps\r\nCVBS Input: Supported\r\nAudio Compression: G.711u\r\nAudio
+      Input: 1x RCA\r\nHDMI/VGA Output: 1920x1080, 1280x1024, 1280x720, 1024x768\r\nEncoding
+      Resolution: 1080pLite, 720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame Rate:
+      1080pLite, 720p @ 12fps\r\nSub Stream Frame Rate: CIF, QVGA, QCIF @ 25fps\r\nVideo
+      Bitrate: 32kbps to 4Mbps\r\nAudio Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual
+      Stream: Support\r\nSynchronous Playback: 4 Channels\r\nRemote Connections: 32\r\nNetwork
+      Protocols: TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS,iSCSI,
+      UPnP, HTTPS\r\nSATA: 1x Interface\r\nCapacity: Up to 6TB\r\nNetwork Interface:
+      1x 10/100M RJ45 Ethernet\r\nUSB Interface: 2x USB 2.0 (rear panel)\r\nPower
+      Supply: 12V DC\r\nConsumption (without HDD): <8W\r\nOperational Temperature:
+      -10Â°c to +55Â°c\r\nOperational Humidity: 10-90%\r\nDimensions: 200x200x45mm\r\nWeight
+      (without HDD): 800g\r\n\r\n    "
+    in_the_box: "<ul>\r\n<li>4x HiWatch turret cameras</li>\r\n<li>4x Mains power
+      supplies for cameras</li>\r\n<li>1x HiWatch 4 channel DVR</li>\r\n<li>1x Mains
+      power supply for DVR</li>\r\n<li>1x USB mouse</li>\r\n</ul>"

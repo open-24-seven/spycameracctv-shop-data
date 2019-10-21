@@ -1,0 +1,26 @@
+product:
+  path: 40m-cat5e-outdoor-ethernet-network-cable-ptz-ip-camera-systems
+  sku: 40MCAT5ODW
+  name: 40m Cat 5e Outdoor Ethernet Network Cable
+  images:
+  - path: 4478.jpg
+    title: 40m Cat6 Outdoor Ethernet Network Cable for PTZs and IP Camera Systems
+  prices:
+    default:
+    - break: 1
+      unit_price: 216700
+  content:
+    ean: "5060423076667"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 40m Cat5e ethernet cable is ideal for use in demanding high
+      bandwidth network applications such as commercial IP camera systems and NVRs.
+      The cable is also waterproof, allowing it to be run to outdoor locations. You
+      can even clip the RJ45 connectors off and use it as a PTZ data cable.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 40m Cat5e Cable</li>\r\n<li><strong>2 Year warranty
+      with SpyCameraCCTV</strong></li>\r\n</ul>"

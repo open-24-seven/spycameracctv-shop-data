@@ -1,0 +1,38 @@
+product:
+  path: b-grade-24-camera-hd-nvr-2tb-hdd
+  sku: 24NVR97D2TBR
+  name: B Grade 25% Off - Gamut 24 Channel NVR with 2TB HDD
+  images:
+  - path: 5603.jpg
+    title: B Grade 30% Off - 24 Camera HD NVR with 2TB HDD
+  prices:
+    default:
+    - break: 1
+      unit_price: 2491700
+  content:
+    ean: "3123"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 25% Off RRP</strong>\r\nThis item is either
+      an ex-display model, has been unboxed, or was a customer return. All B grade
+      products are tested by our tech team, and still covered by our product guarantee.
+      \r\n\r\nStock is extremely limited, so don't miss out on this great bargain
+      price!"
+    specification: "IP Cameras: 8x @5MP, 16x @3MP, 24x @1080p, 32x @ 960p \r\nVideo
+      Compression: H.264\r\nVideo Outputs: Composite Video, VGA, HDMI\r\nVideo Outputs:
+      1x Composite RCA\r\nAudio Compression: G.711\r\nAudio Sampling Rate: 8KHz/channel\r\nPlayback
+      Resolution: 800x600, 1024x768, 1280x1024, 1360x768, 1440x900, 1920x1080, 704x576\r\nRecorded
+      Frame Rate: Up to 25fps per channel\r\nSplit-screen Modes: 1, 2x2, 3x3, 4x4,
+      5,5, 6x6\r\nDigital Zoom: Supported\r\nEvent Recording: Motion Detection, Video
+      Blind, Video Loss\r\nEthernet: 10/100MBps Base T, duplex RJ45\r\nUSB: 2x USB
+      2.0 ports\r\nProtocols: HTTP, TCP/IP, ARP, RTSP, RTP, UDP, SMTP, FTP, DHCP,
+      DNS, DDNS, PPPOE, UPNP, NTP\r\nONVIF 2.0: Compliant\r\nStorage Bays: 2x SATA\r\nPassword
+      protection: Multi-level\r\nPower Supply: 12V DC, 4A\r\nDimensions: 255x45x225mm\r\nOperational
+      Temperature: +5Â°c to +45Â°c\r\nOperational Humidity: 93% Maximum"
+    in_the_box: "<ul>\r\n<li>1x NVR with 2TB HDD</li>\r\n<li>1x Mains Power Supply</li>\r\n<li>1x
+      USB Mouse</li>\r\n<li>Software and information CD</li>\r\n<li><strong>3 Year
+      guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,4 +1,4 @@
-associations:
+product_category_relations:
   spy/shop-by-solution/security-systems/home-security:
     products:
       - TVEZ32

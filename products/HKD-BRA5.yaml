@@ -1,0 +1,28 @@
+product:
+  path: hikvision-junction-box-dome-cameras-small
+  sku: HKD-BRA5
+  name: Hikvision Junction Box for Dome Cameras - Small
+  images:
+  - path: 5409.jpg
+    title: Hikvision Junction Box for Dome Cameras - Small
+  prices:
+    default:
+    - break: 1
+      unit_price: 150000
+  content:
+    ean: "5060423074052"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - HKD-BRA5.pdf
+    software: []
+    description: "When installing IP cameras on an exterior wall, we always recommend
+      using a junction box. This Hikvision junction box is designed for use with their
+      smaller dome cameras, and provides protection for the camera's connectors. It
+      is made to IP64 standard, with more than enough weather proofing for wiring.\r\n\r\nThe
+      box makes wiring so much simpler, as you no longer need to drill a large hole
+      in the exterior wall in order to feed through the ethernet connector.\r\n"
+    specification: ""
+    in_the_box: ""

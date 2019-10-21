@@ -1,0 +1,33 @@
+product:
+  path: inline-remote-utc-controller-effio-p-cameras-osd-menus
+  sku: OSDUTCCON
+  name: Inline Remote Up-the-Coax Controller for Analogue CCTV Cameras
+  images:
+  - path: 4136.jpg
+    title: 'Inline Remote UTC Controller for Effio P CCTV Cameras, OSD Menus '
+  prices:
+    default:
+    - break: 1
+      unit_price: 49900
+  content:
+    ean: "5060181658020"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/bJV8RR7gzjg
+    manuals: []
+    software: []
+    description: "Many of our professional grade CCTV cameras use Sony's <strong>EFFIO-P</strong>
+      imaging technology, enabling them to record  clear video even in situations
+      with high contrast and challenging lighting conditions. This remote UTC controller
+      is a great way to control these powerful features, allowing you to make in depth
+      adjustments using the camera's OSD (\"on-screen display\") menu.\r\n\r\nThe
+      controller works in-line, simply plugging in to the camera in front of the video
+      cable. This means you can quickly connect the controller to configure your cameras,
+      and then disconnect it. This is unlike other designs of UTC controller that
+      are built into the camera cable, meaning you have to drill a large hole to feed
+      it through during installation.\r\n\r\n"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Remote UTC Controller for EFFIO P</li>\r\n<li><strong>2
+      Year Warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,27 @@
+product:
+  path: bnc-female-to-rca-male-adapter
+  sku: BNCTORCA
+  name: BNC Male to RCA Female Adaptor Connector x 1
+  images:
+  - path: 154.jpg
+    title: BNC Female to RCA Male Adapter
+  - path: 155.jpg
+    title: RCA Male to BNC Female Adapter
+  prices:
+    default:
+    - break: 1
+      unit_price: 16600
+  content:
+    ean: "5060181650321"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: Adaptor for converting a BNC connection to a RCA/phono connection.
+      This is useful for camera systems where you need to connect a camera with phono
+      video connection to a recorder.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x BNC to RCA Adaptor</li>\r\n<li><strong>2 year guarantee
+      from SpyCameraCCTV</strong></li>\r\n</ul>"

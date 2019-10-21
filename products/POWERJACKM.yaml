@@ -1,0 +1,28 @@
+product:
+  path: male-jack-connector-adapter-5mm-outer-2mm-inner-screw-terminal
+  sku: POWERJACKM
+  name: Male Jack Connector Adapter 5.5mm Outer, 2.1mm Inner, Screw Terminal
+  images:
+  - path: 1672.jpg
+    title: 2.1mm Male DC Jack Plug Connector with Screw Terminals
+  prices:
+    default:
+    - break: 1
+      unit_price: 12400
+  content:
+    ean: "5060181652585"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/vBe_C69xKEM
+    manuals: []
+    software: []
+    description: "You can use this male DC Power Jack Plug with any Low Voltage Stranded
+      Wires to create your own cable lengths for use with your CCTV System. Simply
+      secure any Low-Voltage Stranded Wire into the screw type terminals.\r\n\r\nWe
+      sell RG59 Coax Cable combined with Low-Voltage Stranded Wires which these 2.1mm
+      DC Plugs will secure onto.\r\n\r\n<a href=\"https://www.spycameracctv.com/spycamera/100-metre-reel-rg59-co-axial-combo-cctv-camera-cable-with-power-line\"
+      target=\"_blank\">Click this link for Reels of <strong>RG59 Co-Axial Combo Cable</strong>.</a>"
+    specification: "Outer Diameter: 5.5mm\r\nInner Diameter: 2.1mm"
+    in_the_box: "<ul>\r\n<li>2.1mm Male DC Jack Plug Adapter with Screw Terminals</li>\r\n</ul>"

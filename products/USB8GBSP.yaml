@@ -1,0 +1,31 @@
+product:
+  path: 8gb-silicon-power-i-series-usb-2-memory-stick-storage
+  sku: USB8GBSP
+  name: 8GB Silicon Power i-Series USB 2.0 Memory Stick Storage
+  images:
+  - path: 4437.jpg
+    title: 8GB Silicon Power i-Series USB 2.0 Memory Stick Storage
+  prices:
+    default:
+    - break: 1
+      unit_price: 57200
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This slim 8GB i-Series USB 2.0 memory stick is a simple storage
+      solution for any kind of digital file. It's a perfect way to back up footage
+      from your CCTV recorder's hard drive, letting you easily transfer clips to a
+      computer, or pass them on to the authorities. It's also perfect as general storage,
+      providing an easy place to put your photos, music, documents or any other file
+      type.\r\n\r\nThe stick is protected by a durable case, and a clear plastic dust
+      cover helps keep the contacts on the connector clean when it's in your bag or
+      pocket. As a USB 2.0 device, there is no setup required, just plug it straight
+      into your comuputer and drag & drop files onto it!"
+    specification: "Capacity: 8GB\r\nWeight: 10g\r\nDimensions: 60x18x8mm\r\nOperating
+      Temperature: 0 to +70c\r\nInterface: USB 2.0 "
+    in_the_box: "<ul>\r\n<li>1x 8GB USB 2.0 memory stick</li>\r\n</ul>\r\n"

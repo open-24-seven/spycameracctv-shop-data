@@ -1,0 +1,37 @@
+product:
+  path: 10db-24ghz-directional-high-gain-antenna-1m-cable-adaptors
+  sku: 10DB24GHZANT
+  name: 10dB 2.4GHz Directional High Gain Antenna with 1m Cable and Adaptors
+  images:
+  - path: 4155.jpg
+    title: 10dB 2.4GHz Directional High Gain Antenna with 1m Cable and Adaptors
+  - path: 4156.jpg
+    title: 10db high gain antenna rear connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 402800
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 2.4GHz directional antenna is a fantastic way to greatly increase
+      the range of most wireless CCTV systems. the device boosts a transmitter or
+      receiver's gain by 10dB, massively increasing it's power. What's more, as the
+      unit only sends signal in a focussed 70 degree wide arc, it can achieve distances
+      much greater than similar omnidirectional models. The antenna mounts flat to
+      an external wall, so there's no need to set up a pole to hold it. We have also
+      included a 1m cable and a complete set of connectors, so should will work right
+      out of the box with all of our standalone transmitters and receivers.\r\n\r\nThis
+      antenna will massively boost the range of wireless systems, but the huge number
+      of factors impacting wireless performance means we cannot provide specific estimates
+      for range."
+    specification: "Frequency Range: 2.4-2.5GHz\r\nGain: 10dBi\r\nPolarisation: Vertical\r\nSWR:
+      <1.5:1\r\nImpedance: 50 Ohms\r\nConnector: N Socket\r\nDimensions: 107x94x30mm\r\nWeight:
+      320g\r\nWorking Temperature & Humidity: -40 to +50C, 20-95% "
+    in_the_box: "<ul>\r\n<li>1x 10dB High Gain Antenna</li>\r\n<li>1x 1m Cable</li>\r\n<li>Complete
+      set of connectors</li>\r\n</ul>"

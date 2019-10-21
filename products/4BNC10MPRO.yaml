@@ -1,0 +1,28 @@
+product:
+  path: 4-10m-bnc-pro-cables
+  sku: 4BNC10MPRO
+  name: 4 x 10m BNC Professional Grade Cables with Power and Video
+  images:
+  - path: 4889.jpg
+    title: 4 x 10m BNC Professional Grade Cables with Power and Video
+  prices:
+    default:
+    - break: 1
+      unit_price: 350000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is a 4 pack of 10m 'shotgun' RG59 extension cables for CCTV,
+      ideal for connecting any analogue or HD TVI cameras to a recorder.\r\n\r\nThey
+      are made from high grade shielded RG59 cable and are suitable for use in exposed
+      outdoor locations. At each end they feature twist fit BNC connectors for video
+      and 5.5x2.1mm DC jacks to carry power.\r\n\r\nOur 4 cable packs are a perfect
+      addition to a 4 channel DVR, and are available in a range of length options\r\n\r\n"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>4x 10m RG59 CCTV cables</li>\r\n<li><strong>2 Year guarantee
+      with SpyCameraCCTV</strong></li>\r\n</ul>"

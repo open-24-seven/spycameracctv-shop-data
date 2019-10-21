@@ -1,0 +1,47 @@
+product:
+  path: hikvision-16-channel-nvr-2tb-hdd-recorder
+  sku: 16NVRLPR2TB
+  name: Hikvision 16 Channel NVR 2TB HDD 6MP 1080p HD PoE ANPR Support
+  images:
+  - path: 5045.jpg
+    title: Hikvision 16 Channel NVR 2TB HDD 6MP 1080p HD PoE ANPR Support
+  prices:
+    default:
+    - break: 1
+      unit_price: 5440000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Unleash the power of Hikvision's 16-channel Smart NVR with Automatic
+      Number Plate Recognition (ANPR) technology. ANPR allows the NVR to store number
+      plate information from vehicles captured by the camera(s). Based on IP technology
+      the NVR records Full 1080p HD images from cameras with a resolution of up to
+      6 megapixels. Furthermore, the NVR supports 16 independent PoE channels allowing
+      you to power up to 16 IP cameras without additional power cabling. \r\n\r\nThe
+      recorder boasts a new GUI interface and intuitive video content analysis modes
+      for a range of security applications. Pre-installed with a 2TB hard drive for
+      plenty of recording storage, the NVR allows full-quality HD recording and synchronous
+      playback of up to 16 cameras. Supporting up to 4 hard drives with a capacity
+      of up to 6TB each the recorder has plenty of expandable recording storage.\r\n\r\nCrucially
+      you can hook the system up to your network for remote access of your cameras
+      from virtually anywhere. This proves very useful if you want to monitor the
+      cameras from a different location to where the recorder is located.\r\n"
+    specification: "IP video inputs: 16-channels\r\nTwo-way audio input: 1-ch, RCA
+      (2.0 Vp-p, 1Kâ„¦)\r\nIncoming bandwidth: 160 Mbps\r\nOutgoing bandwidth: 80
+      Mbps\r\nRecording resolution: 6MP/5MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF\r\nFrame
+      rate: 50fps\r\nHDMI/VGA output: 1920 x 1080/1600 x 1200/1280 x 1024/1280 x 720/1024
+      x 768\r\nAudio output: 1-ch, RCA (linear, 1Kâ„¦)\r\nLiveview capability: 16-ch
+      @ 4CIF, 12-ch @ 720p, 6-ch @ 1080p\r\nSATA: 4x SATA interfaces for 2 HDDs +
+      1 DVD-R/W or 4 HDDs\r\neSATA (optional): 1x interface\r\nCapacity: Up to 6TB
+      per HDD\r\nNetwork interface: 1x RJ45 Ethernet\r\nSerial interface: RS232, RS485\r\nUSB
+      interface: 2x USB 2.0, 1x USB 3.0\r\nAlarm in/out: 16 / 4 \r\nPoE interface:
+      16 independent 100Mbps POE network interfaces, 200 W max.\r\nPower supply: 100~240V
+      AC\r\nConsumption (without HDD, DVD or PoE): â‰¤20 W\r\nOperational temperature:
+      -10Â°C~+55Â°C\r\nOperational humidity: 10~90%\r\nDimensions: 445 x 390 x 70
+      mm \r\nWeight (chassis only): â‰¤ 4 kg"
+    in_the_box: <ul><li>1x Hikvision 16-channel NVR with 2TB HDD</li></ul>

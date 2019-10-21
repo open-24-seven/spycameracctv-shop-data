@@ -1,0 +1,66 @@
+product:
+  path: hikvision-4k-cctv-camera-8mp-uhd-50m-night-vision
+  sku: HKIP850B-S
+  name: 'Hikvision 4K CCTV Camera - 8MP with 50m Night Vision '
+  images:
+  - path: 5123.jpg
+    title: Hikvision 4K UHD CCTV Camera 8MP 50m IR Motorised Lens
+  prices:
+    default:
+    - break: 1
+      unit_price: 2060000
+  content:
+    ean: "5060423073536"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    - https://www.youtube.com/embed/jGgqiarHKWo
+    - https://www.youtube.com/embed/0kcEfrI7Pr8
+    manuals: []
+    software: []
+    description: "1080p security systems are fantastic for many applications, but
+      even 2MP cameras sometimes don't provide enough resolution, such as when you
+      need to make out specific faces from a distance away, or need to track movement
+      in crowds. For these high end commercial security applications, 4K CCTV really
+      comes into it's own. This Hikvision 4K bullet IP camera is a great example,
+      recording at an immense resolution, and packing a massive range of advanced
+      features.\r\n\r\n4K video is recorded at 3840x2160 resolution, providing 4 times
+      the detail of even the best 1080p cameras. In order to get the best coverage
+      it is fitted with a 4mm wide angle lens with a 79Â° field of view. Powerful
+      IR LEDs also provide 50m night vision range, making sure you still get plenty
+      of detail even after dark. The camera is also built into an IP67 rated outdoor
+      housing, allowing use throughout even the most challenging weather conditions.\r\n\r\nIP
+      camera technology means the camera records digital video, then sends it down
+      a network cable directly to your router. You can then view live over a PC or
+      mobile device, or record footage to an NVR connected to the same network. The
+      camera even features a MicroSD card slot, letting you record short sections
+      of footage directly without needing a separate recorder. Advanced image processing
+      technology also allows analytics features such as detecting specific faces,
+      or triggering recording when a subject crosses a preset boundary."
+    specification: "Imaging Sensor: 1/2.5\" CMOS\r\nMinimum Illumination: 0.01Lux
+      (Colour), 0Lux (IR on)\r\nShutter Speed: 1/3 - 1/100,000s\r\nSlow Shutter: Support\r\nLens:
+      4mm\r\nField Of View: 79Â° (horizontal)\r\nLens Mount: M12\r\nIris: f/2\r\nDay
+      & Night: IR cut filter\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo
+      Compression: H.265/H.264 (main stream), H.265/H.264/MJPEG (sub stream), H.265/H.264
+      (third stream)\r\nH.264 Type: Main Profile/High Profile\r\nH.264+: Support\r\nH.265
+      Type: Main Profile\r\nH.265+: Support\r\nVideo Bitrate: 32Kbps to 16MBps\r\nMax
+      Resolution: 3840x2160\r\nMain stream: 3840x2160 @20fps, 2560x1920/2560x1440/1920x1080/1280x720
+      @25fps\r\nSub stream: 640x360/352x288 @25fps\r\nThird stream: 1280x720/640x360,352x288
+      @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage Settings: Rotate, Brightness/Contrast/Saturation/Sharpness
+      adjustable via software\r\nDay/Night Switch: Auto/Scheduled\r\nStorage: MicroSD
+      (up to 128GB, not included)\r\nAlarm Trigger: Motion Detect, Tampering Alarm,
+      Network Disconnect, IP Address Conflict, Illegal Login, HDD Full, HDD Error\r\nProtocol:
+      TVP/IP, UDP, ICMP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP,
+      UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandard: ONVIF (Profile S/G),
+      PSIA, CGI, ISAPI\r\nNetwork Function: One key reset, Anti-flicker, Heartbeat,
+      Mirror, Password protection, Privacy mask, Watermark, IP Address filter\r\nCommunication
+      Interface: 1x RJ45 10M/100M Self-adaptive Ethernet\r\nSmart Features: Line crossing
+      detection, Intrusion detection, Object removal detection, Unattended baggage
+      detection, Face detection\r\nOperational Temperature: -30Â°c to +60Â°c\r\nOperational
+      Humidity: <95%\r\nPower Supply: 12V DC, PoE(802.3af 42.5 - 57V, class 3)\r\nPower
+      Consumption: 12V DC +/- 25%, 7.5W, PoE 9.5W\r\nIR Range: 50m\r\nProtection Level:
+      IP67\r\nDimensions: 104.8 (diameter) x 299.7mm\r\nWeight: 1200g\r\n\r\n \r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 4K bullet camera</li>\r\n<li>1x Mains Power
+      Supply</li>\r\n</ul>"

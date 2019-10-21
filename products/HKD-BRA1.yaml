@@ -1,0 +1,30 @@
+product:
+  path: hikvision-junction-box-mini-dome-cameras
+  sku: HKD-BRA1
+  name: Hikvision Junction Box for Mini Dome Cameras
+  images:
+  - path: 5405.jpg
+    title: Hikvision Junction Box for Mini Dome Cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 240000
+  content:
+    ean: "5060423072980"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - HKD-BRA1.pdf
+    software: []
+    description: "We always recommend adding a junction box if you are installing
+      a Hikvision camera to the exterior of a building. The durable metal bracket
+      helps protect the cable connectors from vandals., The housing is rated IP64,
+      providing more than enough weather protection for wiring.\r\n\r\nUsing a junction
+      box also makes installing the camera significantly easier, as you no longer
+      have to drill a large hall in an exterior wall to feed through the ethernet
+      connector."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Hikvision junction box for mini dome cameras</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,66 @@
+product:
+  path: hiwatch-hd-cctv-system-2-cameras-20m-ir-4-channel-dvr
+  sku: TVEZ32
+  name: HiWatch HD CCTV System - 2 Cameras, 20m IR, 4 Channel DVR
+  images:
+  - path: 5817.jpg
+    title: HiWatch HD CCTV System - 2 Cameras, 20m IR, 4 Channel DVR
+  - path: 5818.jpg
+    title: HiWatch 1080p bullet camera with 20m IR
+  - path: 5819.jpg
+    title: '4 channel Hiwatch DVR '
+  - path: 5820.jpg
+    title: HiWatch 4 Channel DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1241700
+  content:
+    ean: "5060611441543"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "The <strong>HiWatch</strong> range has been designed by Hikvision
+      - the world's largest CCTV manufacturer - specifically for home and DIY CCTV
+      users. It boasts some of the same advanced imaging technology as their commercial
+      grade cameras, providing great picture quality and even better value for money.
+      This system includes 2 HD bullet cameras and a digital video recorder. The cameras
+      and DVR both use standard twist-fit BNC cables, so this is a great upgrade kit
+      if you already have a legacy CCTV system installed.\r\n\r\nThe included cameras
+      are IP66 rated, meaning they're completely weather proof and suitable for installation
+      in exposed outdoor locations. Infrared LEDs also provide 20m clear night vision,
+      for round-the-clock security even in totally unlit areas. They capture video
+      at 1080p HD resolution, ensuring images full of usable subject detail. \r\n\r\nThe
+      HiWatch DVR provides a host of features to let you automate your security, including
+      adjustable motion detection and a 7 day, 24 hour schedule. Importantly, it has
+      4 video channels, letting you easily expand the system with 2 additional cameras
+      at a later date. The recorder can also connect to your network and, once configured,
+      lets you remotely view your home on a PC or mobile device over the internet.
+      Simply choose your desired hard drive storage from the drop down menu at the
+      top of the page.\r\n"
+    specification: "<p>Cameras</p>\r\nImaging Sensor: CMOS\r\nEffective Pixels: 1920x1080\r\nMinimum
+      Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter Speed: 1/25 to 1/50,000s\r\nLens
+      Mount: M12\r\nDay & Night: ICR\r\nSynchronization: Internal\r\nVideo Frame Rate:
+      1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational Temperature:
+      -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower
+      Consumption: MAx 4W\r\nProtection Level: IP66\r\nIR Range: 20m\r\nDimensions:
+      70mm (diameter) x 154.5mm\r\nWeight: 400g \r\n\r\n<p>Recorder</p>\r\nVideo Input:
+      4x BNC\r\nVideo Compression: H.264+\r\nHD-TVI/AHD/CVI Input: 1080p@25/30fps,
+      720p@25/30fps\r\nCVBS Input: Supported\r\nAudio Compression: G.711u\r\nAudio
+      Input: 1x RCA\r\nHDMI/VGA Output: 1920x1080, 1280x1024, 1280x720, 1024x768\r\nEncoding
+      Resolution: 1080pLite, 720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame Rate:
+      1080pLite, 720p @ 12fps\r\nSub Stream Frame Rate: CIF, QVGA, QCIF @ 25fps\r\nVideo
+      Bitrate: 32kbps to 4Mbps\r\nAudio Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual
+      Stream: Support\r\nSynchronous Playback: 4 Channels\r\nRemote Connections: 32\r\nNetwork
+      Protocols: TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS,iSCSI,
+      UPnP, HTTPS\r\nSATA: 1x Interface\r\nCapacity: Up to 6TB\r\nNetwork Interface:
+      1x 10/100M RJ45 Ethernet\r\nUSB Interface: 2x USB 2.0 (rear panel)\r\nPower
+      Supply: 12V DC\r\nConsumption (without HDD): <8W\r\nOperational Temperature:
+      -10Â°c to +55Â°c\r\nOperational Humidity: 10-90%\r\nDimensions: 200x200x45mm\r\nWeight
+      (without HDD): 800g"
+    in_the_box: "<ul>\r\n<li>2x HiWatch 20m bullet cameras</li>\r\n<li>2x Mains power
+      supplies for cameras</li>\r\n<li>1x HiWatch 4 channel DVR</li>\r\n<li>1x Mains
+      power supply for DVR</li>\r\n<li>1x USB Mouse</li>\r\n</ul>"

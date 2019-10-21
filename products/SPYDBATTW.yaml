@@ -1,0 +1,41 @@
+product:
+  path: hd-spy-power-bank-1080p-camera-wifi-microsd-storage
+  sku: SPYDBATTW
+  name: HD Spy Power Bank - 1080p Camera with Wifi, MicroSD Storage
+  images:
+  - path: 5919.jpg
+    title: HD Spy Power Bank - 1080p Camera with Wifi, MicroSD Storage
+  prices:
+    default:
+    - break: 1
+      unit_price: 2332900
+  content:
+    ean: "5060611442410"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This USB power bank may look mundane, but it conceals a secret -
+      a Full HD Wifi spy camera, recording from a tiny pinhole lens in the side of
+      the device. It's generic design means it can be left out in the open on a desk
+      or shelf without gaining any unwanted attention. Not only that, but it also
+      works as a functional power bank for 5V devices, so it won't attract any suspicion
+      if your subjects try it out. \r\n\r\nThe camera records time & date stamped
+      video in 1080p Full HD, ideally suited to gathering evidence. The large Lithium
+      battery powers the camera, providing over 8 hours of continuous recording time.
+      The kit includes a 16GB MicroSD to store footage, although the recorder does
+      work with cards up to 32GB. A built-in Wifi connection means you can connect
+      to view and control the camera using a phone or tablet, and even connect remotely
+      from anywhere in the world. "
+    specification: "Imaging Sensor: 1/29\" CMOS\r\nSensor Resolution: 200x1121\r\nSensitivity:
+      0.03 lux @ f/2.0\r\nLens: 3.6mm f/2.0\r\nField of View: 78 degrees\r\nCompression:
+      H.264, JPEG\r\nFile Format: .mov, .jpg\r\nRecording Modes: Auto, Manual, Motion
+      Detection\r\nRecording Capability: 1920x1080, 1280x720, 484x480\r\nFrame Rate:
+      Up to 30fps\r\nPhoto Resolution: 1600x1200\r\nWifi: Built-in module\r\nStorage:
+      MicroSD (up to 32GB, 16GB included)\r\nData Interface: Mini USB 2.0\r\nDate/Time
+      Table: YYY/MM/DD, HH:MM:SS\r\nPower Input: DC 5V\r\nPower Consumption: 480-530mA
+      (Wifi on)\r\nBattery Input: DC 3.7V, 6800mA\r\nCharging Time: 10hr (800mA)\r\nBattery
+      Lifetime: 390min\r\nRecording Time: 500min @ 1080p"
+    in_the_box: ""

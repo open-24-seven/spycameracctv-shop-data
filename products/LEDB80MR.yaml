@@ -1,0 +1,38 @@
+product:
+  path: b-grade-50m-ir-illuminator-led-security-floodlight-night-vision-cctv
+  sku: LEDB80MR
+  name: B-Grade 25% Off 50m IR Illuminator LED Night Vision Floodlight
+  images:
+  - path: 5287.jpg
+    title: "\t50m IR Illuminator LED Security Floodlight for Night Vision CCTV"
+  - path: 5288.jpg
+    title: Front of 50m IR Illuminator LED Security Floodlight for Night Vision CCTV
+  prices:
+    default:
+    - break: 1
+      unit_price: 491700
+  content:
+    ean: "5060181650505"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/0Np_NJ31T6A
+    manuals: []
+    software: []
+    description: "<strong>B-grade item: 25% off</strong>\r\nThis item is likely a
+      customer return or an ex-display model that is in a good condition but may have
+      some light cosmetic damage. \r\n\r\nNight vision is essential when using CCTV
+      to monitor unlit areas such as gardens and driveways, however, the IR LEDs built
+      into cameras do have their limitations. They are often not powerful enough for
+      larger areas and usually have a very narrow field of view. This powerful IR
+      illuminator is a great way to extend your system's coverage. \r\n\r\nThe weather
+      resistant bank of IR LEDs is mounted on an adjustable bracket, letting you easily
+      direct them towards the desired subject. This provides a versatile independent
+      source of light, which you can use to light up certain areas of the image, or
+      even just extend the range of your cameras. The floodlight can illuminate subjects
+      up to 50m away and will work with almost all CCTV cameras."
+    specification: "IR Range: 50m\r\nAngle of Illumination: 60Â°\r\nEnergy Efficient
+      LEDs\r\n"
+    in_the_box: "<ul>\r\n<li>1x IR illuminator with adjustable bracket</li>\r\n<li>1x
+      Set of screws and fixings</li>\r\n<li><strong>2 Year warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,36 @@
+product:
+  path: b-grade-700tvl-bird-box-camera-sony-effio-sensor
+  sku: NCF15EAR
+  name: B Grade 25% Off - 700TVL Bird Box Camera with Sony Effio Sensor
+  images:
+  - path: 5697.jpg
+    title: " \tB Grade 25% Off - 700TVL Bird Box Camera with Sony Effio Sensor"
+  - path: 5698.jpg
+    title: 700TVL bird box camera dimensions
+  prices:
+    default:
+    - break: 1
+      unit_price: 375000
+  content:
+    ean: "3161"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "Imaging Chip: Sony colour CCD with EFFIO-E DSP\r\nTotal Pixels:
+      960x582\r\nScanning System: PAL\r\nHorizontal Resolution: 700TV Line\r\nLens:
+      2.8mm\r\nIR LEDs: x10 Array\r\nIR Illumination: 5m\r\nMinimum Illumination:
+      0LUX (IR On)\r\nS/N Ratio: >48dB\r\nVideo Output: 1.0Vp-p/75ohm\r\nSynchronisation:
+      Internal Sync\r\nGain Control: Automatic\r\nWhite Balance: Automatic\r\nBacklight
+      Compensation: Automatic\r\nExposure Mode: EE\r\nPower Supply: DC 12V\r\nOperational
+      Temperature: -20C to +70C\r\nDimensions:  4cm x 4cm x 2cm (with the lens total
+      depth is 4cm)\r\n"
+    in_the_box: "<ul>\r\n<li>1x Bird box Camera with 700TVL Sony EFFIO CCD</li>\r\n<li>1x
+      1.2m Mains Power Supply</li>\r\n<li>1x BNC to RCA adapter</li>\r\n<li>Product
+      Manual</li>\r\n<li><strong>2 Year Warranty with SpycameraCCTV</strong>\r\n</ul>"

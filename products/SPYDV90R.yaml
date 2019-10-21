@@ -1,0 +1,49 @@
+product:
+  path: clearance-sound-activated-portable-mini-digital-video-spy-recorder-dvr-micro-sd
+  sku: SPYDV90R
+  name: B-Grade 30% Off Spy Pinhole Camera Recorder with Sound Activation
+  images:
+  - path: 2729.jpg
+    title: SPYDV90_Main
+  - path: 2730.jpg
+    title: SPYDV90_Buttons
+  - path: 2731.jpg
+    title: SPYDV90_SuctionMount
+  - path: 2732.jpg
+    title: SPYDV90_Accessories
+  prices:
+    default:
+    - break: 1
+      unit_price: 499900
+  content:
+    ean: "5060181652745"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/UJ-Z1Iq12T0
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 30% off</strong>\r\n\r\nThis product has
+      either been opened, returned by customers, are ex display or have been used
+      for technical testing. All products have had some use, some pay have cosmetic
+      damage, such as screw fixings damage.\r\n\r\nOur tiny spy pinhole camera recorder
+      is an ideal device for covert security surveillance in the home, office settings
+      or in your car. With its covert form factor this device can be placed in a room
+      without attracting any attention from unsuspecting passers-by. Key to its genius
+      is the fact it is battery-powered and features MicroSD card recording meaning
+      that no external recorders or wiring is required. \r\n\r\nThe integrated rechargeable
+      Lithium-ion battery provides up to 4 hours battery life on constant recording
+      or up to 500 hours when the device is set to sound-trigger mode. Plenty of recording
+      storage is provided due to the MicroSD slot, which supports cards up to 32GB
+      in capacity. Simply pop the MicroSD card (not included) into your computer or
+      use the USB cable to watch back videos at a later date."
+    specification: "Image Sensor: 1/4 CMOS\r\nVideo Format: AVI\r\nVideo Resolution:
+      640x480\r\nVoice Sampling: 16-bit\r\nLens View Angle: 74 degrees\r\nMinimum
+      Illumination: 1 Lux\r\nBattery Usage: 4 Hours (500 Hrs Audio Activated Stand-by
+      Mode) \r\nSupported Memory: MicroSD Cards (up to 32GB)\r\nCharge Time: 3 Hours
+      Approx.\r\nWeight: 35g\r\nDimensions: 78x33x12mm"
+    in_the_box: "<ul>\r\n<li>1x Spy Pinhole Camera Recorder</li>\r\n<li>1x Bag</li>\r\n<li>1x
+      Mains Power adapter</li>\r\n<li>1x USB Cable</li>\r\n<li>1x Car Charger Cable</li>\r\n<li>1x
+      Software CD</li>\r\n<li>1x Flexible Mounting Bracket</li>\r\n<li><strong>2 year
+      guarantee from SpyCameraCCTV</strong></li>\r\n</ul>"

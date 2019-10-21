@@ -1,0 +1,69 @@
+product:
+  path: hikvision-turbohd-tvi-1080p-hd-50m-ir-varifocal-bullet-cctv-camera
+  sku: HKTV240BC-LZ
+  name: Hikvision Turbo HD TVI 1080p 40m IR Motorised Zoom Camera with PoC
+  images:
+  - path: 4791.jpg
+    title: Hikvision TurboHD TVI 1080p HD 50m IR Varifocal Bullet CCTV Camera
+  - path: 4837.jpg
+    title: OBVTVI50M camera with box
+  - path: 4838.jpg
+    title: Front detail of OBVTVI50M camera
+  - path: 4792.jpg
+    title: Turbo HD TVI Sample Image
+  prices:
+    default:
+    - break: 1
+      unit_price: 840000
+  content:
+    ean: "5060423076179"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    manuals: []
+    software: []
+    description: "Until now if you wanted to get full quality HD images from your
+      security system the only real option was setting up IP cameras on a network.
+      Some of us more techy types find tweaking around with IP addresses and network
+      settings fun, however most people would rather just plug in some cable and get
+      going, especially in a large commercial set-up where simplicity and ease of
+      use is important.\r\n\r\nTurbo HD TVI technology allows the sending of uncompressed
+      1080p full quality video over the standard coax cable used in most CCTV systems.
+      This can give you the ability to upgrade your existing analogue system to super
+      high quality cameras and DVRs without needing to tear out your existing cabling
+      infrastructure and put in a new one. It even supports Power-over-Coax (PoC),
+      letting it draw power from a compatible DVR over the RG59 cable, and removing
+      the need for an additional power supply.\r\n\r\nAs well as extremely detailed
+      and clear images and zero delay playback giving you truly live surveillance,
+      this camera is packed with features making it versatile enough for almost any
+      security application. To give you true accuracy and flexibility of coverage,
+      the camera features a motorised lens, allowing you to zoom in from 92 to 32
+      degrees remotely using your DVR, or with a <a href=\"https://www.spycameracctv.com/spycamera/inline-remote-utc-controller-effio-p-cameras-osd-menus\">UTC
+      Controller</a>. The camera also boasts 40 metres of night vision capability
+      using Hikvision's EXIR Infra-red technology for more even and reliable low light
+      images. Bi-directional communication with the camera also gives more options
+      for precise control, allowing access to wide dynamic range and image controls.\r\n\r\nThis
+      camera packs all the features needed for a professional security system while
+      giving you plenty of options for flexibility. It is also ideal for upgrading
+      an existing system to high quality HD without rewiring your existing set-up
+      or needing to set up IP cameras on a network.  \r\n\r\nYou don't have to take
+      our word for it though, check out our comparison video to really see how much
+      better your security footage could be with a Turbo HD TVI system."
+    specification: "Camera\r\n\r\nImage Sensor: 1/3\" Progressive Scan CMOS\r\nSignal
+      System: PAL / NTSC\r\nEffective Pixels: 1920 x 1080\r\nMin. Illumination: 0.005
+      Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter speed: 1/25s to 1/50,000s \r\nLens:
+      2.8-12mm @ F1.4\r\nAngle of view: 103Â°-32Â° \r\nLens Mount: Ï†14\r\nDay & Night:
+      ICR \r\nWide dynamic range: 120 dB\r\nSynchronization: Internal synchronization\r\nVideo
+      Frame Rate: 1080p @ 25fps / 1080p @ 30fps\r\nHD Video Output: 1 Analogue HD
+      output\r\n\r\nMenu\r\n\r\nAGC: Support\r\nD/N Mode: Color / BW \r\nWhite Balance:
+      ATW, Manual\r\nPrivacy Mask: On/Off, maximum 4 zones\r\nMotion Detection: On/Off,
+      maximum 4 zones\r\nBLC: WDR, BLC, HLC, Off\r\nFunction: Brightness, Sharpness,
+      Mirror, Smart IR\r\n\r\nGeneral\r\n\r\nWorking Temperature: -20Â°C - 60Â°C (-4Â°F
+      - 140Â°F)\r\nHumidity: 90% or less (non-condensing)\r\nPower Supply: 12 VDC;
+      -A: 12 VDC, 24 VAC\r\nPower Consumption: 12V DC: Max. 7W; 24V AC: Max. 10W\r\nWeather
+      Proof Ratings: IP67\r\nIR Range: Up to 40m \r\nCommunication: Up the coax (need
+      UTC controller) \r\nDimensions: 92 x 89 x 269.6mm\r\nWeight: 900g (1.54lbs)"
+    in_the_box: "<ul>\r\n<li>1x Turbo HD TVI Bullet Camera</li>\r\n</ul>"

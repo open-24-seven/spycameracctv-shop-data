@@ -1,0 +1,66 @@
+product:
+  path: hikvision-2mp-vandal-proof-dome-ip-camera-low-light-30m-ir-microsd
+  sku: HKIP230D-LVS
+  name: Hikvision 2MP Vandal Proof Dome IP Camera - Low Light, 30m IR, MicroSD
+  images:
+  - path: 5526.jpg
+    title: Hikvision 2MP Vandal Proof Dome IP Camera - Low Light, 30m IR, MicroSD
+  - path: 5527.jpg
+    title: Hikvision IP Camera Connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 1160000
+  content:
+    ean: "5060423073840"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/3vNvoNXwaBo
+    manuals: []
+    software: []
+    description: "When setting up a home or business CCTV system, people often don't
+      consider the risk of someone trying to damage the cameras. After all, even the
+      highest resolution cameras on the market are of no use if someone's knocked
+      them out of position. Luckily, this 2MP IP camera from Hikvision is housed in
+      an IK10 rated, vandal proof dome. This completely encloses the camera, and is
+      resistant to up to 20 joules of force, making it a great choice to install in
+      those exposed locations such as points of entry, or narrow alleyways.\r\n\r\nThe
+      camera itself is built around the same electronics as Hikvision's \"Darkfighter\"
+      range of cameras, providing clear images even in dim or low light conditions.
+      When even this is not enough, the camera is also fitted with IR LEDs to provide
+      30m of night vision. Footage is recorded in 1920x1080 Full HD resolution, providing
+      sharp subject detail around the clock. \r\n\r\nWhen connected to a <a href=\"https://www.spycameracctv.com/spy/cctv-recorders/hd-ip-nvrs/\"
+      target=\"_blank\">Hikvision NVR</a> over a network, the camera supports the
+      latest range of smart detection features, including line crossing and intrusion.
+      Power-over-ethernet also means it can draw power from the same connection, so
+      there's no need for an additional mains supply. If you don't have a recorder,
+      then an onboard MicroSD slot can be used to record short clips, controlled from
+      your PC or phone. Alternatively, this can be used as an automatic backup in
+      case the connection to your NVR goes down."
+    specification: "Imaging Sensor: 1/2.8\" CMOS\r\nMaximum Resolution: 1920x1080\r\nMinimum
+      Illumination: 0.005Lux (IR off), 0Lux (IR on)\r\nShutter Speed: 1/3 - 1/100,000s\r\nSlow
+      Shutter: Supported\r\nLens: 2.8mm\r\nField of view: 108Â° (horizontal)\r\nLens
+      Mount: M12\r\nIris: f/1.6\r\nDay & Night: IR Cut\r\nDNR: 3D DNR\r\nWide Dynamic
+      Range: 120dB\r\nVideo Compression: H.265/H.264(main), H.265/H.264/MJPEG (sub),
+      H.265/H.264 (third)\r\nVideo Bitrate: 32Kbps to 16Mbps\r\nAudio Compression:
+      G.711,G.722.1,G.726,MP2L2\r\nMain Stream: 1920x1080, 1280x960, 1280x720 @25fps\r\nSub
+      Stream: 640x360, 352x288 @25fps\r\nThird Stream: 1920x1080, 1280x720, 640x360,
+      352x288 @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage Settings: Rotate mode,
+      Brightness, Contrast, Saturation, Sharpness (adjustable via web browser or CMS)\r\nRegion
+      of Interest: Supports 1 fixed region\r\nDay/Night Switch: Auto, Scheduled, Alarm
+      Triggered\r\nNetwork Storage: MicroSD, NAS\r\nAlarm Trigger: Motion detection,
+      Tampering alarm, Network disconnected, IP address conflict, Illegal login, HDD
+      full, HDD error\r\nProtocol: TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS,
+      DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandards:
+      ONVIF (S,G), PSIA, CGI, ISAPI\r\nGeneral Functions: One-key reset, Anti flicker,
+      Heartbeat, Mirror, Password protection, Privacy mask, Watermark, IP address
+      filter\r\nCommunication Interface: 1x RJ45 10M/100M self adaptive ethernet\r\nAudio
+      (-s): 1x input, 1x output\r\nAlarm (-s): 1x input, 1x output\r\nOnboard Storage:
+      MicroSD, up to 128GB (not included)\r\nBehaviour Analysis: Line crossing, Intrusion,
+      Unattended baggage, Object removal\r\nOperational Temperature: -30Â°c to +60Â°c\r\nOperational
+      Humidity: <95% (non condensing)\r\nPower Supply: 12V DC, PoE\r\nIR Range: Up
+      to 30m\r\nProtection Level: IP67, IK10\r\nDimensions: 111 (diameter)x 82.4mm\r\nWeight:
+      500g \r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision vandal proof dome camera</li>\r\n</ul>"

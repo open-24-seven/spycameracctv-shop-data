@@ -1,0 +1,42 @@
+product:
+  path: hikvision-9-port-poe-network-switch
+  sku: 9PORTPOEHK
+  name: Hikvision 9 Port PoE Network Switch
+  images:
+  - path: 5328.jpg
+    title: Hikvision 9 Port PoE Network Switch
+  - path: 5330.jpg
+    title: 9 port hikvision poe network switch front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1240000
+  content:
+    ean: "5060423073369"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/9PORTPOEHK.pdf
+    software: []
+    description: "Power over Ethernet (PoE) lets you power devices such as IP cameras
+      directly from their network connection, removing the need for annoying extra
+      power supplies. This 9 port PoE network switch from Hikvision can connect up
+      to 8 IP security cameras to your network, whilst also powering them. It's a
+      great way to manage the increased data from streaming HD cameras.\r\n\r\nThe
+      PoE provides a stable and reliable power supply for your security system, with
+      surge protection and up to 30W per port. The PoE ports can also automatically
+      switch between 10 & 100Mbps connections."
+    specification: "Network Ports: 9\r\nPoE Ports: 8x 10/100Mbps RJ45\r\nUplink Port:
+      1x 100Mbps Ethernet\r\nNetwork Protocal: IEEE802.3, 802.3u, 802.3x, 802.3af,
+      802.3at\r\nSwitching Capacity: 1.8Gbps\r\nMax Forwarding Rate: 1.34Mpps\r\nHigh
+      Priority Ports: Ports 1-2\r\nForwarding Mode: Store-and-forward\r\nMAC Address
+      Table: 4k\r\nFlow Control: IEEE802.3x full duplex\r\nPoE Standard: IEEE802.3af,
+      IEEE802.3at\r\nPoE Power Budget: 123W\r\nWorking Mode: 250m 10M Cat5e (Extend
+      On), 100m (Extend Off)\r\nPower Supply: 51V DC, 2.5A\r\nPower Consumption: 127W\r\nSurge
+      Protection: 4KV\r\nOperational Temperature: 0Â°c to +40Â°c\r\nOperational Humidity:
+      10-90%\r\nStorage Temperature: -40Â°c to +70Â°c\r\nWeight: 570g\r\nDimensions:
+      235x103x27mm"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 9 Port PoE Network Switch</li>\r\n<li>1x
+      Mains Power Supply</li>\r\n<li>English setup instructions</li>\r\n</ul>"

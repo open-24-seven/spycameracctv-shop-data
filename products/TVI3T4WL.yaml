@@ -1,0 +1,82 @@
+product:
+  path: wireless-barn-camera-kit-dvr-1080p-hd-tvi-3km-range
+  sku: TVI3T4WL
+  name: Wireless Barn Camera Kit with DVR- 1080p HD TVI, 3km Range
+  images:
+  - path: 5239.jpg
+    title: wireless barn camera kit with dvr and HD TVI cameras
+  - path: 5240.jpg
+    title: Hikvision HD TVI camera with 20m night vision
+  - path: 5298.jpg
+    title: Schematic Diagram of Wireless Barn Camera Kit
+  - path: 5242.jpg
+    title: Gamut hybrid 4 channel HD dvr
+  - path: 5243.jpg
+    title: Gamut hybrid DVR rear view
+  - path: 5244.jpg
+    title: Long range wifi bridge pair
+  - path: 5245.jpg
+    title: Long range wifi bridge rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 4408300
+  content:
+    ean: "5060423072966"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/3tGTZX7LEoA
+    manuals: []
+    software: []
+    description: "For years now we have provided industry-leading CCTV solutions for
+      remotely monitoring livestock and farm buildings. Our products help take the
+      stress out of breeding season by keeping a constant eye on animals, and help
+      protect thousands properties from theft. Because we're always to improve our
+      products, we are proud to announce our first HD TVI farm security system. TVI
+      cameras record incredibly detailed 1080p video, whilst only needing a simple
+      plug-and-play installation. Pairing this with a ridiculously powerful wifi transmitter
+      makes this barn camera kit one of our most impressive solutions.\r\n\r\nThe
+      kit features 4 Hikvision TVI bullet cameras, packing amazing recording quality
+      and 40m night vision into a tiny, unobtrusive housing. They are also IP66 rated,
+      making them suitable for installation in even the most exposed outdoor locations.
+      These simply plug in to the included DVR using twist fit cables. The recorder
+      lets you easily view cameras individually or as a split screen in Full HD. Adding
+      an optional Hard Drive also lets you take advantage of a huge range of professional
+      recording modes, including motion detection and 7 day scheduling.\r\n\r\nThe
+      cameras connect to the recorder located in your barn, and this links to your
+      home router using a pair of high power wifi bridges. These are capable of transmitting
+      over a massive distance- up to 3km in direct line of sight- making them suitable
+      for remote farm buildings. Once configured to your network, you can then remotely
+      check on the livestock in your barn from anywhere, using a PC or mobile device."
+    specification: "<p>Camera</p>\r\n\r\n\r\nImaging Sesnor: 2MP CMOS\r\nEffective
+      Resolution: 1920x1080\r\nMinimum Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter
+      Speed: 1/25 - 1/50,000s\r\nLens: 3.6mm\r\nHorizontal Field of View: 70.9&Deg;\r\nLens
+      Mount: M12\r\nDay & Night: IR Cut Filter\r\nSynchronisation: Internal\r\nVideo
+      Frame Rate: 1080p@25fps\r\nHD Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational
+      Temperature: -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply:
+      12V DC\r\nPower Consumption: 4W (Max)\r\nProtection Level: IP66\r\nMaterial:
+      Metal\r\nIR Range: 40m\r\nDimensions: 75.4x230.8x152.8mm\r\nWeight: 560g\r\n\r\n<p>DVR</p>\r\n\r\nVideo
+      Compression: H.264\r\nVideo System: NTSC/PAL\r\nOperation System: Linux (embedded)\r\nVideo
+      input/output: 4CH inputs/VGA and HDMI output\r\nAudio input/output: 4CH inputs/1CH
+      output (RCA)\r\nDisplay resolution: 1920x1080 or 1280x720 or 960x576\r\nDisplay
+      feature: single/ Quad/S.E.Q.\r\nRecord speed 1080p: 15fps (each ch)\r\nRecord
+      speed 720p: 30fps (each ch)\r\nRecord speed 960H: 30fps (each ch)\r\nRecording
+      Mode: Continuous/Manual/Motion detect\r\nPlayback Channel: 1/4CH, or Via CMS,
+      Mobile for 1ch playback, laptop for 1/4Ch playback\r\nPlayback Channel: Local
+      DVR: 1~4ch\r\nPlayback Channel: PC/MAC: 1~4ch\r\nPlayback Channel: Smart Phones:
+      1ch (using app)\r\nPlayback speed: 1080p 15fps(each ch); 720p: 30fps(each ch);
+      960H: 30fps(each ch)\r\nSensor & Alarm I/O: 4 inputs /1 output\r\nNetwork Type:
+      Lan, DHCP, and DDNS\r\nE-mail Notifications: Yes, Support\r\nHDD interface:
+      1x SATA HDDs (up to 6TB)\r\nMultiplex Operation: live display, record, playback,
+      backup and network\r\nUSB: 2x USB (for mouse and backup/upgrade)\r\nPTZ Control:
+      Yes\r\nMobile Surveillance: Support Mobile Phones based on iPhone and Android
+      operation system\r\nVGA: 800x600, 1024x768, 1280x1024, 1440x900, 1920x1080\r\nHDMI:
+      1080p\r\nIR Extender Port: Yes\r\nCLOUD: Optional\r\nP2P: Optional\r\nPower
+      Supply: DC 12V, 2A\r\nDimensions (WxDxH): 300 x 227 x 53mm\r\nseperator"
+    in_the_box: "<ul>\r\n<li>4x Hikvision HD bullet cameras</li>\r\n<li>4x Mains power
+      supplies for cameras</li>\r\n<li>4x 10m BNC video cables</li>\r\n<li>1x Gamut
+      CCTV DVR</li>\r\n<li>1x Mains power supply for DVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>2x
+      10m Ethernet cables</li>\r\n<li>2x 3m Ethernet cables</li>\r\n<li>2x Wifi bridges</li>\r\n<li>2x
+      POE Injectors for wifi bridges</li>\r\n<li>2x Pole mounts</li>\r\n</ul>"

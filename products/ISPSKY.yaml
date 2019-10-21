@@ -1,0 +1,22 @@
+product:
+  path: sky-isp-setup
+  sku: ISPSKY
+  name: Sky ISP Setup
+  images:
+  - path: 5942.jpg
+    title: ""
+  prices:
+    default:
+    - break: 1
+      unit_price: 0
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

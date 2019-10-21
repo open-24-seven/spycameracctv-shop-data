@@ -1,0 +1,52 @@
+product:
+  path: hikvision-turbo-hd-8mp-cctv-camera-40m-ir-low-light
+  sku: HKTV840B-LGB
+  name: 'Hikvision Turbo HD 8MP CCTV Camera with 40m IR, Low Light '
+  images:
+  - path: 5787.jpg
+    title: 'Hikvision Turbo HD 8MP CCTV Camera with 40m IR, Low Light '
+  prices:
+    default:
+    - break: 1
+      unit_price: 1360000
+  content:
+    ean: "5060423077473"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision's popular Turbo HD range brings outstanding image quality
+      and professional features - previously only possible with IP equipment - to
+      plug-and-play coaxial cameras. This outdoor bullet camera is no exception, with
+      a huge 8MP (3840x2160) resolution, capturing pictures packed with identifiable
+      subject detail. This makes it suited to high traffic areas such as shopping
+      centres, pubs and bars.\r\n\r\nThe camera's advanced imaging chip also means
+      that it can keep recording right down to 0.003 lux before needing night vision,
+      providing full colour images much longer into the evening. A 120dB Wide Dynamic
+      Range mode also helps improve performance when monitoring high contrast scenes
+      such as doorways and windows. When paired with <a href=\"https://www.spycameracctv.com/spycamera/hikvision-turbo-hd-4-channel-dvr-8mp-recording\"
+      target=\"_blank\">Hikvision's latest recorder</a>, you can even configure line
+      crossing and intrusion detection, triggering automated alerts just like Hikvision's
+      IP cameras.\r\n\r\nNaturally, the camera's high grade electronics are protected
+      by an IP67 rated weather proof housing, allowing use both indoors and out. EXIR
+      illuminators provide 40m night vision range, whilst automatically adjusting
+      so as to not overexpose closer subjects. The 2.8mm lens also provides a 102
+      degree wide angle field of view, ensuring everything in front of the camera
+      is captured on video."
+    specification: "Imaging Sensor: 8.29MP progressive scan CMOS\r\nSignal System:
+      PAL/NTSC\r\nFrame Rate (PAL): 8MP @12.5fps, 5MP @20fps, 4MP/1080p @2fps\r\nResolution:
+      3840x2160\r\nMinimum Illumination: 0.003 Lux (colour, IR off), 0 Lux (IR on)\r\nShutter
+      Time (PAL): 1/12.5-10,000s\r\nLens: 2.8mm\r\nHorizontal Field of View: 102.2
+      Degrees\r\nLens Mount: M12\r\nDay & Night: IR Cut\r\nSynchronization: Internal
+      Synch\r\nWide Dynamic Range: 120dB\r\nAGC: Supported\r\nDay/Night: Auto, colour,
+      B&W\r\nWhite Balance: Auto, manual, natural\r\nPrivacy Mask: Supports 4 programmable
+      masks\r\nBack Light Compensation: Supported\r\n3D DNR: Supported, 10 levels\r\nLanguage:
+      English\r\nImage Functions: Contrast, sharpness, saturation, mirror, defog,
+      HLC\r\nHD Output: 1x BNC\r\nCVBS Output: 1x BNC\r\nOperational Temperature:
+      -40 to +60c\r\nOperational Humidity: <90%\r\nPower Supply: 12V DC\r\nPower Consumption:
+      Max 4.8W\r\nProtection Level: IP67\r\nHousing Material: Metal\r\nIR Range: 40m\r\nCommunication:
+      Up the coax (HIKVISION-C)\r\nDimensions: 70(d)x159.8mm\r\nWeight: 420g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 8MP Turbo HD camera</li>\r\n<li>1x Mains
+      power supply</li>\r\n</ul>"

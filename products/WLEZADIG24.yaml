@@ -1,0 +1,64 @@
+product:
+  path: digital-wireless-calving-lambing-camera-kit-hikvision-cctv
+  sku: WLEZADIG24
+  name: Digital Wireless Calving & Lambing Camera Kit with Hiwatch CCTV
+  images:
+  - path: 5021.jpg
+    title: Digital Wireless Calving & Lambing Camera Kit with Gamut CCTV
+  - path: 5310.jpg
+    title: Gamut 30m night vision camera
+  - path: 5019.jpg
+    title: Digital Wireless Calving & Lambing Camera Kit with Hikvision CCTV
+  - path: 5020.jpg
+    title: Digital Wireless Calving & Lambing Camera Kit with Hikvision CCTV
+  - path: 5311.jpg
+    title: USB video connector
+  prices:
+    default:
+    - break: 1
+      unit_price: 2016699
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Here at SpyCameraCCTV we have been providing bespoke animal monitoring
+      kits to farmers for over 5 years. Our kits help to provide peace of mind, allowing
+      you to keep a close eye on your livestock from the comfort of your farmhouse.
+      This wireless lambing camera kit is the latest in our range of specialist kits,
+      featuring not only a 20m night vision camera, but a USB connector that allows
+      you to easily watch footage on your PC.\r\n\r\nThe kit consists of a CCTV camera
+      & microphone, a wireless transmitter and receiver pack, and all of the required
+      connectors to get the camera up and running. The camera itself is a compact
+      bullet design, making it easy to mount on the side of your barn or lambing shed.
+      It's fully weatherproof, and features powerful night vision LEDs, allowing it
+      to keep watch over your animals day and night. We have also included a small
+      microphone to install next to the camera, allowing you to hear if one of your
+      animals is in distress.\r\n\r\nThe camera & microphone wires straight into the
+      receiver using one of the included 10m cables, and then this transmits the audio
+      & video to the receiver- up to 100m away in clear line of sight. We have included
+      2 high gain antennae as well, which can be placed around your buildings to optimise
+      the signal. <i>Please note- camera and wireless transmitters will require a
+      local power supply.</i>\r\n\r\nYou can then simply plug the receiver into the
+      back of your TV, and watch your animals from the comfort of your sofa."
+    specification: "Camera\r\n\r\nImaging Sesnor: 2MP CMOS\r\nEffective Resolution:
+      1920x1080\r\nMinimum Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter
+      Speed: 1/25 - 1/50,000s\r\nLens: 3.6mm\r\nHorizontal Field of View: 70.9&Deg;\r\nLens
+      Mount: M12\r\nDay & Night: IR Cut Filter\r\nSynchronisation: Internal\r\nVideo
+      Frame Rate: 1080p@25fps\r\nHD Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational
+      Temperature: -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply:
+      12V DC\r\nPower Consumption: 4W (Max)\r\nProtection Level: IP66\r\nMaterial:
+      Metal\r\nIR Range: 20m\r\nDimensions: 75.4x230.8x152.8mm\r\nWeight: 560g\r\n\r\nTransmitter/Receiver\r\n\r\nVideo
+      Output: 2x Composite\r\nVideo Input: Composite\r\nVideo Type: PAL/NTSC\r\nVideo
+      Compression: MPEG4\r\nFPS and Display: PAL: 720x576 @ 30FPS / NTSC: 720x480
+      @ 25FPS\r\nFrequency: 2.4GHz - 2.483GHz depending on channel\r\nData Rate: 6Mbps\r\nModulation:
+      16QAM, QPSK, BPSK\r\nIncluded Antenna: Omni-Directional 3dBi\r\nPower Supply:
+      12V DC, 1A\r\nOperating Temperature: 0â„ƒ - 40â„ƒ "
+    in_the_box: "<ul>\r\n<li>1x Hikvision Bullet CCTV Camera</li>\r\n<li>1x CCTV Microphone</li>\r\n<li>1x
+      Mains Power Supply for Camera</li>\r\n<li>2x 10m AV Cables</li>\r\n<li>1x Digital
+      Wireless Transmitter</li>\r\n<li>1x Digital Wireless Receiver</li>\r\n<li>1x
+      USB video connector</li>\r\n<li>2x Mains Power Supplies for Transmitter & Receiver</li>\r\n<li>2x
+      7db High Gain Antennae</li>\r\n</ul>"

@@ -1,0 +1,26 @@
+product:
+  path: 1tb-seagate-surveillance-grade-hard-drive
+  sku: 1TBSSV
+  name: '1TB Seagate Surveillance Grade HDD '
+  images:
+  - path: 5262.jpg
+    title: '1TB Seagate Surveillance Grade HDD '
+  - path: 5584.jpg
+    title: 1TB Seagate HDD
+  prices:
+    default:
+    - break: 1
+      unit_price: 666700
+  content:
+    ean: "5060423071952"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 1TB Seagate hard drive is an ideal upgrade to one of our CCTV
+      DVRs. The surveillance grade drive is designed for constant use, essential when
+      archiving CCTV footage.
+    specification: ""
+    in_the_box: ""

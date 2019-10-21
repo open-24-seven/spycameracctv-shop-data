@@ -1,0 +1,31 @@
+product:
+  path: b-grade-gamut-4-in-1-cctv-camera-1080p-60m-ir
+  sku: GT4TV260BGBR
+  name: B Grade 30% Off - Gamut 4 in 1 CCTV Camera 1080p with 60m IR
+  images:
+  - path: 5627.jpg
+    title: "\tB Grade 30% Off - Gamut 4 in 1 CCTV Camera 1080p with 60m IR"
+  prices:
+    default:
+    - break: 1
+      unit_price: 825000
+  content:
+    ean: "5060423074625"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don\\'t
+      miss out on this great bargain price!"
+    specification: "Effective Pixels: 1956x1266\r\nVideo Frame Rate: 1080p@25fps\r\nSynchronisation:
+      Internal\r\nVideo Output: 1x BNC\r\nMax IR Range: 60m\r\nIR LEDs: 72x\r\nLens:
+      2.8-12mm\r\nTransmission Distance: Over 500m\r\nPower Supply: DC 12V\r\nIngress
+      Protection: IP66\r\nPower Consumption: Max 4W\r\nOperational Temperature: -20Â°c
+      to +65Â°c\r\nOperational Humidity: Less than 90%\r\nDimensions: 300x174x131mm\r\nWeight:
+      1.5Kg "
+    in_the_box: "<ul>\r\n<li>1x B Grade Gamut CCTV camera</li>\r\n<li>1x Mains power
+      supply</li>\r\n<li><strong>2 Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

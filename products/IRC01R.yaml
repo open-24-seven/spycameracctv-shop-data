@@ -1,0 +1,44 @@
+product:
+  path: clearance-2.4-infrared-day-night-wireless-outdoor-cctv-camera
+  sku: IRC01R
+  name: B-Grade Wireless IR Day/Night Vision - Spy Camera Only
+  images:
+  - path: 2596.jpg
+    title: IRC01-front
+  - path: 2597.jpg
+    title: IRC01-front-cable-underneath
+  - path: 2598.jpg
+    title: IRC01-profile2
+  - path: 2599.jpg
+    title: IRC01-front-cable
+  - path: 2600.jpg
+    title: Mains_Power_Adapter
+  prices:
+    default:
+    - break: 1
+      unit_price: 250000
+  content:
+    ean: "5060181656460"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "B-Grade Product: 30% off\r\nThis product has either been opened,
+      returned by customers, are ex display or have been used for technical testing.
+      All products have had some use, some pay have cosmetic damage, such as screw
+      fixings damage.\r\n\r\nAll our B-Grade products are fully tested but please
+      be aware some products may have cosmetic wear and tear, and specific screw holes
+      and mounting areas may be used. \r\n\r\nPLEASE NOTE THAT AS THIS IS A CLEARANCE
+      ITEM THERE IS LIMITED STOCK."
+    specification: "Frequency: ISM 2,400 - 2,483MHz\r\nImaging Sensor: 1/3 inch OMNIVISION
+      Colour CMOS\r\nHorizontal Resolution: 380TV Line\r\nCMOS Total Pixels: 628 x
+      582 (PAL) / 510 x 492 (NTSC)\r\nView Angles: 62 degrees\r\nMinimum Illumination:
+      0Lux / F2.0 & 0Lux (IR ON)\r\nGain Control: Automatic\r\nTransmission Power:
+      10mW\r\nConsumption Current: 80 mA\r\nModulation Mode: FM\r\nBandwidth: 18M\r\nOperating
+      Range: 50m (Unobstructed)\r\nPower: DC 12V 500mA\r\nOperating Temperature: -10oC
+      ~ +40oC\r\nOperating Humidity: 85%RH\r\nDimension (WxLxH):56x60x45 mm\r\nWeight:
+      210g"
+    in_the_box: "<ul>\r\n<li>1x Wireless CCTV Security Camera</li>\r\n<li>1x Mains
+      power supply</li>\r\n<li>2 year guarantee from SpyCameraCCTV</li>\r\n</ul>\r\n"

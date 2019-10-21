@@ -1,0 +1,25 @@
+product:
+  path: 180cm-vga-cable-15-pin-dsub
+  sku: VGACABLE
+  name: 1.8m Standard VGA Cable with 15pin D-sub Connections
+  images:
+  - path: 3206.jpg
+    title: main
+  - path: 3207.jpg
+    title: zoomed
+  prices:
+    default:
+    - break: 1
+      unit_price: 83300
+  content:
+    ean: "5060181655517"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: Standard male to male VGA cable with 15 pin connections for connecting
+      DVRs to flat screen TVs or PC monitors.
+    specification: ""
+    in_the_box: 1x 1.8m VGA Cable

@@ -1,0 +1,35 @@
+product:
+  path: surge-protector-masterplug-6-way-adapter
+  sku: POWERSURGE6
+  name: Masterplug 6 Way Surge Protected Power Extension Lead with 2m Cable
+  images:
+  - path: 4079.jpg
+    title: Masterplug 6 way surge protected extension cable
+  prices:
+    default:
+    - break: 1
+      unit_price: 123000
+  content:
+    ean: "5015056092201"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is our 6 way Masterplug surge protected extension cable with
+      2 metre lead, a perfect add-on to any 4 camera CCTV setup. Plug in up to 6 devices,
+      perfect for 4 cameras, a DVR and TV/Monitor. This surge protector has a maximum
+      load of 13 amps. \r\n\r\nHundreds of power surges can occur in your home and
+      office every day. The switching on/off of fluorescent lights and household appliances
+      like refrigerators, washing machines and tumble dryers can cause power surges
+      and spikes.\r\n\r\nMASTERPLUG SURGE WARRANTY\r\nConfident in our state of the
+      art technology Masterplug Surge products come with a 'Connected Equipment Warranty'.
+      In the unlikely event that a surge passes through this protection device within
+      3 years of purchase and damage occurs to the connected equipment, Masterplug
+      will pay up to the amount shown on the product packaging to repair or replace
+      the equipment.\r\nMasterplug stands by the quality of its Surge products."
+    specification: "Maximum surge energy: 375 Joules\r\nMaximum Current: 13500 amps\r\nClamping
+      voltage: 775 Volts\r\nResponse Time: <10ms\r\n3 channel protection: Yes\r\nThermal
+      Cutout: Yes\r\nSurge Neon Indicator: Yes"
+    in_the_box: "<ul>\r\n<li>1x 6 Way Surge protector</li>\r\n</ul>"

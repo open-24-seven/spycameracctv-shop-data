@@ -1,0 +1,26 @@
+product:
+  path: 4tb-seagate-surveillance-grade-hdd
+  sku: 4TBSSV
+  name: 4TB Seagate Surveillance Grade HDD
+  images:
+  - path: 5264.jpg
+    title: 4TB Seagate Surveillance Grade HDD
+  - path: 5586.jpg
+    title: 4tb seagate hdd
+  prices:
+    default:
+    - break: 1
+      unit_price: 2000000
+  content:
+    ean: "5060423071976"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: 'This huge 4TB hard disk drive from Seagate is perfect for use with
+      one of our professional CCTV DVRs or NVRs. The surveillance grade drive is designed
+      for constant use, essential when recording CCTV footage. '
+    specification: ""
+    in_the_box: ""

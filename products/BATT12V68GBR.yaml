@@ -1,0 +1,50 @@
+product:
+  path: b-grade-12v-dc-rechargeable-lithium-ion-6800mah-battery
+  sku: BATT12V68GBR
+  name: B Grade-25% Off! 12V DC Rechargeable Lithium Ion 6800mAh Battery
+  images:
+  - path: 4328.jpg
+    title: B Grade-25% Off! 12V DC Rechargeable Lithium Ion 6800mAh Battery
+  - path: 4329.jpg
+    title: 6800mah Lithium battery connector view
+  - path: 4517.jpg
+    title: B Grade-25% Off! 12V DC Rechargeable Lithium Ion 6800mAh Battery
+  prices:
+    default:
+    - break: 1
+      unit_price: 276300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "As with all of our B grade stock, this 12V rechargeable battery
+      has either been returned by a customer, used by our sales team for testing,
+      or has simply been removed from it's packaging. It will have seen minimal use,
+      but will have been taken out of it's packaging, and may show cosmetic signs
+      of use.\r\n\r\nThis is a high capacity lithium ion (li-on) battery that is designed
+      to be used with CCTV cameras and other 12V DC equipment. This 6800mAh lithium
+      battery has a high capacity of 6800mAh which can provide up to 36 hours of continuous
+      for power for your 12V DC camera. Because this high capacity lithium battery
+      is fully rechargeable it can be used again and again with your CCTV camera or
+      other 12V DC equipment for a portable solution.\r\n\r\nThis high capacity 12V
+      DC battery uses a jack type connector with a 5.5mm outer diameter and a 2.1mm
+      inner diameter, making it is compatible our with long range CCTV camera equipment
+      or our short range 2.4GHz security camera kits. This means you can place your
+      cameras where there is no local power supply and have them transmit back to
+      your receiver continuously for up to 36 hours* (depending on camera model and
+      power requirements).\r\n\r\nThis 12V DC lithium battery will also work well
+      with our wired and pinhole cameras if you require to build a portable hidden
+      spy camera recorder if you are a private investigator or if you are a property
+      surveyor and would like to have a portable camera system for checking piping,
+      lofts, drains etc.\r\n\r\nStock is however extremely limited, so don't delay
+      and snatch up a bargain!"
+    specification: "Capacity of Battery: 6800mAh\r\nDuration of Power Supply: Up to
+      36 hours\r\nInput Voltage: 12.6V \r\nOutput Voltage: 12.6 - 10.8V\r\nSize: 143
+      x 84 x 28mm\r\nMaximum Discharge Current: 2A"
+    in_the_box: "<ul>\r\n<li>1x 12V Lithium rechargeable battery</li>\r\n<li>1x 2.1mm
+      power connector</li>\r\n<li>1x Mains power charger</li>\r\n<li>Instruction sheet</li>\r\n<li>12
+      month warranty with SpyCameraCCTV</li>\r\n</ul>"

@@ -1,0 +1,66 @@
+product:
+  path: hikvision-covert-spy-camera-hd-remote-access-microsd-recorder-low-light
+  sku: HKIP205PH-LS
+  name: Hikvision Covert Spy Camera - HD, Low Light, MicroSD Recorder
+  images:
+  - path: 5215.jpg
+    title: Hikvision Covert Spy Camera - HD with Remote Access, MicroSD Recorder
+  - path: 5216.jpg
+    title: Hikvision covert microsd CCTV DVR
+  prices:
+    default:
+    - break: 1
+      unit_price: 3360000
+  content:
+    ean: "5060611442717"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "With staff theft accounting for <a href=\"https://www.spycameracctv.com/blog/5-reasons-cant-ignore-staff-theft\">up
+      to a third of retail losses</a>, it is sometimes an inconvenient truth that
+      businesses owners will have to discreetly keep an eye on employees. It can often
+      be tricky however, to find a system with a good balance between high quality
+      recording and easy concealment. Even most of the smallest cameras will still
+      need to be connected to a chunky and obvious recorder. Luckily, this Hikvision
+      covert spy camera kit is the ideal solution. As well as a tiny pinhole camera,
+      the kit includes a compact recorder that features many of the same smart detection
+      modes as Hikvision's larger professional grade IP cameras.\r\n\r\nThe camera
+      itself boasts an advanced sensor capable of recording WDR (wide dynamic range)
+      video. This means it can pick up extra detail in shadow and highlight areas,
+      helping it keep recording usable images in tricky high contrast situations such
+      as when facing a window. It can also switch to black and white when in low light
+      situations, allowing it to record footage right down to 0.0003Lux. Video can
+      be recorded at up to 1080p Full HD resolution, capturing plenty of subject detail.\r\n\r\nThe
+      camera connects to the recorder using an included 8m extension cable, letting
+      you easily conceal it nearby. Don't be fooled by its size - the recorder packs
+      in a host of professional control features, including motion detection, scheduling
+      and even smart features such as line crossing and intrusion detection. Footage
+      is recorded to a MicroSD card slot, compatible with cards up to 128GB (not included).
+      Crucially, the recorder can be connected to your router, allowing remote access
+      via PC, mobile or tablet. The means you can securely log in and view live footage
+      from the camera over the internet from anywhere in the world!\r\n\r\n"
+    specification: "Imaging Chip: 1/2.8\" CMOS\r\nResolution: 1920x1080\r\nFrame Rate:
+      25fps (1920x1080, 1280x960, 1280x720)\r\nMinimum Illumination: 0.0003 Lux\r\nShutter:
+      1s-1/100,000s\r\nLens: 3.7mm f/2.5 pinhole\r\nAngle of View: 71 degrees\r\nCable
+      Length: 8m\r\nDay & Night: Electronic Switching\r\nWide Dynamic Range: 120 dB\r\nVideo
+      Compression: H.265+, H.265, H.264+, H.264, MPEG4, MJPEG\r\nVideo Bitrate: 32Kbps-16Mbps\r\nAudio
+      Compression: G.711, G.722.1, G.726, MP2L2, PCM\r\nTriple Streams: Yes\r\nImage
+      Settings: Rotate Mode, Saturation, Brightness, Contrast, Sharpness, Grey scale
+      adjustable by client software or web browser\r\nBLC: Support\r\n3D DNR: Support\r\nStorage:
+      MicroSD (up 10 128GB, not included), NAS\r\nAlarm Trigger: Motion detection,
+      dynamic analysis, tampering alarm, network disconnect, IP address conflict,
+      storage full, storage error, intrusion detection, line crossing, defocus detection,
+      audio exception, scene change detection\r\nProtocols: TCP/IP,ICMP,HTTP,HTTPS,FTP,DHCP,DNS,DDNS,RTP,RTSP,RTCP,\r\nPPPoE,NTP,UPnP,SMTP,SNMP,IGMP,802.1X,QoS,IPv6,Bonjour\r\nNetwork
+      Functions: User Authentication, Watermark, IP address filtering, anonymous access,
+      flickerless, heartbeat, video mask\r\nSystem Compatibility: ONVIF (Profile S,
+      Profile G), PSIA, CGI, ISAPI\r\nAudio Input: 1x 3.5mm \r\nAudio Output: 1x 3.5mm\r\nCommunication:
+      1x RJ45 10/100M ethernet, 1x RS485\r\nAlarm Input: 1x\r\nAlarm Output: 1x\r\nReset
+      Button: Yes\r\nOperational Temperature: -30Â°c to +60Â°c\r\nOperational Humidity:
+      <95%\r\nPower Supply: 12V DC POE\r\nPower Consumption: 6.5W (Max)\r\nDimensions:
+      77Ã—69Ã—26 mm\r\nWeight: Main body: 210g, Package + accessories: 224g\r\n"
+    in_the_box: "<ul>\r\n<li>1x HD Covert IP Pinhole camera</li>\r\n<li>1x Mini CCTV
+      DVR</li>\r\n<li>1x 8m cable</li>\r\n<li>1x Mains power supply</li>\r\n<li>Quick
+      start guide</li>\r\n<li>Software CD</li>\r\n</ul>\r\n\r\n"

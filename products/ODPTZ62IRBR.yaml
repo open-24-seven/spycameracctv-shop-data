@@ -1,0 +1,42 @@
+product:
+  path: b-grade-mini-outdoor-dome-ptz-camera-12x-zoom
+  sku: ODPTZ62IRBR
+  name: B Grade 30% Off - Mini Outdoor Dome PTZ Camera with 12x Zoom
+  images:
+  - path: 5696.jpg
+    title: " \tB Grade 30% Off - Mini Outdoor Dome PTZ Camera with 12x Zoom"
+  prices:
+    default:
+    - break: 1
+      unit_price: 2727100
+  content:
+    ean: "3058"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don\\'t
+      miss out on this great bargain price!"
+    specification: "Optical Zoom: 12x (3.94-46mm)\r\nImaging chip: Samsung 1/4\\\"
+      Colour CCD\r\nVideo Resolution: 560TV Line\r\nSensitivity: Colour 0.2Lux, B
+      and W 0.04Lux\r\nMenu Languages: English, Chinese, Spanish\r\nPre-Set Positions:
+      128\r\nScan: Auto, Left-Right limited, Speed Adjustable\r\nPatrol: 8 Tracks-
+      Preset, Speed and Dwell time changeable\r\nPattern: 6 Lines- Pan, Tilt and Zoom
+      for up to 120 Seconds\r\nAlarm: 4 Inputs, 2 Outputs\r\nPassword Protection:
+      Supported\r\nTemperature Display: Supported\r\nAuthority Management: Supported\r\nPrivacy
+      Masking: 8 Zones\r\nAddress Range: 0-255, Set by dip switcher, firmware and
+      network\r\nCommunication: RS485\r\nBaud Rate: 2400,4800,9600,19200- set by dip
+      switcher\r\nProtocol: PELCO-D, PELCO-P, ULTRACK, VICON, DYNACOLOR\r\nDevice
+      Title: Display on/off\r\nZoom times: Display on/off\r\nPan Range: 0-360 Degree
+      Continuous\r\nPan Speed: 0.1-240 Degrees/sec\r\nTilt Range: 0-90 Degrees with
+      auto 180 Degree flip\r\nTilt Speed: 0.1-180 Degrees/sec\r\nPrecision: +/- 0.1
+      Degrees\r\nHousing: Vandal Proof Aluminium Alloy with Wall Mount\r\nSurge Protection:
+      6000V\r\nIngress Protection: IP66\r\nWorking Temperature: -10c to 60c\r\nWorking
+      Humidity: 0-90 Percent\r\nPower: 24V AC 3A, 60Hz/50Hz 35W\r\nseperator"
+    in_the_box: "<ul>\r\n<li>1x High Speed Mini Dome PTZ Camera with IR</li>\r\n<li>1x
+      Mounting Bracket</li>\r\n<li>1x UK Mains Power Supply</li>\r\n<li>English step
+      by step instructions</li>\r\n<li><strong>2 Year warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

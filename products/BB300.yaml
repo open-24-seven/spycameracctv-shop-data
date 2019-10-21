@@ -1,0 +1,46 @@
+product:
+  path: green-feathers-wooden-bird-box-fsc-certified-uk-made
+  sku: BB300
+  name: Green Feathers Wooden Bird Box  - FSC Certified, UK made
+  images:
+  - path: 5700.jpg
+    title: Green Feathers Wooden Bird Box - FSC Certified, UK made
+  - path: 5701.jpg
+    title: Green Feathers Wooden Bird Box with open door
+  - path: 5702.jpg
+    title: bird box camera in wooden bird house
+  - path: 5913.jpg
+    title: Green Feathers bird box dimensions
+  prices:
+    default:
+    - break: 1
+      unit_price: 154200
+  content:
+    ean: "5060423076766"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/XYIXOfXGwO0
+    manuals:
+    - http://downloads.spycameracctv.com/BB/manuals/bird-box-instructions.pdf
+    software: []
+    description: "Our Green Feathers team has over a decade's experience designing
+      and selling camera kits for watching wildlife and birds. Now we have teamed
+      up with the folks over at Riverside Woodcraft to produce our first bird house,
+      designed from the ground up to be perfect for setting up a bird box camera.
+      It's a perfect project for families or schools, letting you watch in amazing
+      detail, as birds investigate the box, then build a nest and raise their chicks.\r\n\r\nThe
+      box itself is incredibly solid, built from 21mm thick wood, unlike most of the
+      thinner, less durable boxes on the market. Importantly, it also carries the
+      FSC label, ensuring the timber only comes from responsible sources. Not only
+      that, but all of the boxes are handmade in the UK.\r\n\r\nThe interior of the
+      box has been designed to be as spacious as possible, leaving room for installation
+      of your camera. There is a small mounting hole in the back of the box, perfectly
+      sized to fit the camera's bracket. Slots run underneath either side of the roof
+      to add ventilation for the birds, and also providing a neat way to route power
+      and video cables out of the box. The kit also includes a set of mounting plates
+      and screws, letting you easily attach the box to a tree."
+    specification: "Wood Thickness: 21mm\r\nEntrance Hole: 32mm\r\nDimensions: 340x250x190mm"
+    in_the_box: "<ul>\r\n<li>1x Wooden bird box</li>\r\n<li>2x Metal mounting brackets</li>\r\n<li>8x
+      Mounting screws</li>\r\n</ul>"

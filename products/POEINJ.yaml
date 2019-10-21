@@ -1,0 +1,29 @@
+product:
+  path: 48v-active-poe-injector
+  sku: POEINJ
+  name: 48V Active PoE Injector
+  images:
+  - path: 5550.jpg
+    title: 48V Active PoE Injector
+  prices:
+    default:
+    - break: 1
+      unit_price: 187500
+  content:
+    ean: "5060423074779"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Power-over-ethernet IP cameras draw power down the network cable,
+      so they don't need a second cable to connect to mains. Usually this requires
+      a PoE compatible switch or recorder, but this PoE Injector is a fantastic solution
+      if this is not possible. It connects to mains, and sends power up to 100m down
+      Cat6 or Cat5e cable to provide power to a camera.\r\n\r\nThe injector uses 48V
+      \"active\" PoE, so you don't need a splitter at the camera end. Please note
+      injector is not compatible with PoE+, or higher voltage protocols."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x PoE injector</li>\r\n<li>1x 3 pin power plug</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

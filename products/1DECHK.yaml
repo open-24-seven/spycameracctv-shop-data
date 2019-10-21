@@ -1,0 +1,47 @@
+product:
+  path: hikvision-ip-decoder-1-channel-output-4-8mp-cameras
+  sku: 1DECHK
+  name: Hikvision IP Decoder - 1 Channel Output, for up to 4 8MP Cameras
+  images:
+  - path: 5734.jpg
+    title: " \tHikvision IP Decoder - 1 Channel Output, for up to 4 8MP Cameras"
+  - path: 5735.jpg
+    title: Hikvision 1 channel decoder rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 5120000
+  content:
+    ean: "5060423074847"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "IP camera systems provide the highest resolution cameras available
+      on the market, capturing more detail than ever previously possible. There can
+      be a downside to this though, the high processing demands mean it can be difficult
+      to find a way to monitor all of your cameras without a slow, stuttering frame
+      rate - even with a high end recorder. Luckily, we have a solution. This IP decoder
+      from Hikvision has a dedicated processor, letting you watch live footage from
+      8 megapixel IP cameras at a smooth 30 fps. This makes it a perfect tool for
+      dedicated security offices.\r\n\r\nThis model decoder has one HDMI output, letting
+      you watch up to 4 8MP cameras in a split screen view on a 4K UHD monitor. It's
+      adaptable to other formats as well, letting you watch 2x 12MP, 6x 5MP, or even
+      16x 1080p cameras, all with perfectly smooth motion. The LAN connection means
+      it doesn't need to be directly connected to the cameras or a recorder, just
+      connect it to a switch on the same network. The professional grade device also
+      features alarm in/out, and connections for a PTZ controller, letting it seamlessly
+      integrate into an existing security system."
+    specification: "HDMI Output: 1920x1080/50, 1600x1200/60, 1280x1024/60, 1280x720/50,
+      1024x768/60, 3840x2160/30\r\nVGA Output:  1920x1080/50, 1280x1024/60, 1280x720/50,
+      1024x768/60\r\nBNC Output: 1x Composite\r\nDecoding Resolution: Up to 12MP\r\nDecoding
+      Channels: 16x\r\nDecoding Capability: 2x 12MP @20fps, 4x 8MP @30fps, 6x 5MP
+      @30fps, 10x 3MP @30fps, 16x 2MP @30fps\r\nSplit Screen: 1,4,6,8,9,12,16\r\nNetwork
+      Interface: 1x 10/100/1000Mbps self adaptive ethernet\r\nSerial Interface: 1x
+      RS 232, 1x RS 485\r\nAudio Input: 1x 3.5mm plug\r\nAudio Output: 1x 3.5mm plug\r\nAlarm
+      In: 8 channels\r\nAlarm Out: 8 channels\r\nPower Consumption: >15W\r\nWorking
+      Temperature: -10 to +55c\r\nWorking Humidity: 10-90%\r\nDimensions: 220 x 148
+      x 45mm\r\nWeight: 1.2kg"
+    in_the_box: "<ul>\r\n<li>1x IP decoder</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

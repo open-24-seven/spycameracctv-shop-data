@@ -1,0 +1,55 @@
+product:
+  path: hikvision-hiwatch-4-channel-cctv-dvr
+  sku: 4DVREZB
+  name: Hikvision HiWatch 4 Channel CCTV DVR
+  images:
+  - path: 5472.jpg
+    title: Hikvision hiwatch Easy TVI 4 Channel CCTV DVR with 1TB HDD
+  - path: 5473.jpg
+    title: Hikvision easy tvi 4 channel cctv dvr front view
+  - path: 5474.jpg
+    title: hikvision easy tv 4 channel dvr rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 537800
+  content:
+    ean: "5060611442618"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/4DVREZA/manuals/4DVREZA-manual.pdf
+    software: []
+    description: "Hikvision have designed this HiWatch 4 channel CCTV DVR specifically
+      for home security, with many of the same recording options as their professional
+      recorders, but without the bulky size and price tag to match. It records footage
+      from up to 4 cameras in HD quality, and can be set up with a host of scheduling
+      options.\r\n\r\nThe hybrid recorder uses 4-in-1 technology to work with almost
+      all CCTV cameras that use the standard twist-fit BNC connector, so it will be
+      compatible both with new HD cameras and legacy equipment that you may already
+      have installed. When used with 720p cameras, a special long distance transmission
+      setting allows it to work with cabling up to 1200m in length, so large properties
+      aren't a problem either. It can even support up to 5 IP cameras recording at
+      960p resolution.\r\n\r\n With compatible cameras, you can also enable H.264+
+      encoding, which increases recording times without losing quality. You can connect
+      the recorder directly to an HD monitor either using VGA or HDMI, or alternatively
+      connect it to your network. Once configured, this lets you easily access live
+      or recorded footage from anywhere using a PC, phone or tablet."
+    specification: "Video Input: 4x BNC\r\nVideo Compression: H.264+\r\nHD-TVI/AHD/CVI
+      Input: 1080p@25/30fps, 720p@25/30fps\r\nIP Input: 1x RJ45 (supports up to 5
+      960p cameras)\r\nCVBS Input: Supported\r\nAudio Compression: G.711u\r\nAudio
+      Input: 1x RCA\r\nHDMI/VGA Output: 1920x1080, 1280x1024, 1280x720, 1024x768\r\nEncoding
+      Resolution: 1080lite (960x1080), 720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame
+      Rate: 1080lite, 720p @ 12fps\r\nSub Stream Frame Rate: CIF, QVGA, QCIF @ 25fps\r\nVideo
+      Bitrate: 32kbps to 4Mbps\r\nAudio Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual
+      Stream: Support\r\nSynchronous Playback: 4 Channels\r\nRemote Connections: 32\r\nNetwork
+      Protocols: TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS,iSCSI,
+      UPnP, HTTPS\r\nSATA: 1x Interface\r\nCapacity: Up to 6TB\r\nNetwork Interface:
+      1x 10/100M RJ45 Ethernet\r\nUSB Interface: 2x USB 2.0 (rear panel)\r\nPower
+      Supply: 12V DC\r\nConsumption (without HDD): <8W\r\nOperational Temperature:
+      -10Â°c to +55Â°c\r\nOperational Humidity: 10-90%\r\nDimensions: 200x200x45mm\r\nWeight
+      (without HDD): 800g\r\n"
+    in_the_box: "<ul>\r\n<li>1x 4 Channel HiWatch DVR</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x
+      USB Mouse</li>\r\n</ul>\r\n"

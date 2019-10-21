@@ -1,0 +1,30 @@
+product:
+  path: 3.5m-oudoor-cat5e-ethernet-network-cable-drum-ptz-ip-cameras
+  sku: 305MCAT5EODW
+  name: 305m Outdoor Cat5e Ethernet Network Cable Reel for PTZ and IP Cameras
+  images:
+  - path: 4393.jpg
+    title: 305m Outdoor Cat5e Ethernet Network Cable Reel for PTZ and IP Cameras
+  - path: 4394.jpg
+    title: Cat5e twisted pairs
+  prices:
+    default:
+    - break: 1
+      unit_price: 1095800
+  content:
+    ean: "5060181659546"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This massive reel of uncut Cat5e ethernet cable is just the thing
+      for large scale installations of IP cameras, PTZ cameras and other network enabled
+      devices. The cable itself is durable and waterproof, making it suitable for
+      outdoor use where it will be exposed to the elements. The cable is compatible
+      with standard RJ45 connectors, or you can use the twisted pairs directly with
+      PTZ equipment.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x uncut 305m Cat5e Cable reel</li>\r\n<li><strong>2
+      Year warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

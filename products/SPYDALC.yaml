@@ -1,0 +1,42 @@
+product:
+  path: desktop-spy-alarm-clock-1080p-hd-microsd-storage-pir-detection
+  sku: SPYDALC
+  name: Desktop Spy Alarm Clock - 1080p HD, MicroSD Storage, PIR Detection
+  images:
+  - path: 5918.jpg
+    title: Desktop Spy Alarm Clock - 1080p HD, MicroSD Storage, PIR Detection
+  - path: 5924.jpg
+    title: spy alarm clock camera with PIR front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 2082900
+  content:
+    ean: "5060611442489"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Ever since we started selling covert security solutions, alarm clocks
+      have been one of our best selling types of camouflage camera. They can easily
+      be left in plain sight on a desk, night stand or shelf, recording with a clear
+      view of the room. Because of this they're one of the best options for monitoring
+      a relative's carers.\r\n\r\nThis spy alarm clock has an extra trick up it's
+      sleeve - a passive infrared (PIR) detector, that can use a nearby subject's
+      body heat to trigger recording. This not only provides far more accurate motion
+      detection, but allows the camera to remain on standby for up to 9 days on a
+      single charge. Footage is recorded in 1920x1080 HD, for video clips with plenty
+      of subject detail. The kit includes a 16GB MicroSD card to hold recordings,
+      although it can work with cards up to 32GB. "
+    specification: "Imaging Sensor: 1/3\" CMOS\r\nVideo Resolution: 1920x1080\r\nPhoto
+      Resolution: 2592x1944\r\nSensitivity: 3.3 Lux @f/2.0\r\nLens: 4mm f/3.2\r\nField
+      of View: 66 DEgrees\r\nFile Format: .mov, .jpg\r\nFrame Rate: up to 30fps\r\nRecording
+      Modes: Continuous, PIR\r\nMemory Type: MicroSD\r\nData Interfadce: Mini USB
+      2.0\r\nDat/Time Stamp: YYYY.MM.DD HH:MM:SS\r\nContinuous Recording: 10 min/GB
+      \r\nPower Consumption: 250mA-390mA\r\nStandby Consumption: 6.4mA (approx)\r\nStandby
+      Time: 9 days\r\nBattery Lifetime: 180min (approx)\r\nBattery Capacity: 3.7V,
+      1350mA\r\nDimensions: 100x100x15mm\r\nWeight: 133g\r\n"
+    in_the_box: "<ul>\r\n<li>1x Spy alarm clock</li>\r\n<li>1x 16GB MicroSD card</li>\r\n<li>1x
+      Mini USB cable</li>\r\n<li>1x Wall mount</li>\r\n<li>Double sided tape</li>\r\n</ul>"

@@ -1,0 +1,30 @@
+product:
+  path: infra-red-remote-repeater-cable-for-2.4ghz-digital-transmitter-kit
+  sku: DIG24IR
+  name: Infra-Red Remote Repeater Cable for 2.4GHz Digital Transmitter Kit
+  images:
+  - path: 3266.jpg
+    title: Infra-Red Remote Repeater Cable for 2.4GHz Digital Transmitter Kit
+  - path: 2979.jpg
+    title: Infra-Red Remote Repeater Cable for 2.4GHz Digital Transmitter Kit
+  - path: 2993.jpg
+    title: IR Sender schematic
+  prices:
+    default:
+    - break: 1
+      unit_price: 58300
+  content:
+    ean: "5060181654848"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This extender kit will add the ability to control any infrared device
+      to our wireless 2.4GHz digital transmitter kit. \r\n\r\nThis would allow you
+      to be in bed and control the Sky Box in the living room, switch the channel
+      of your DVR to the horse which is foaling or control the DVR in your loft whist
+      sitting on the sofa."
+    specification: ""
+    in_the_box: ""

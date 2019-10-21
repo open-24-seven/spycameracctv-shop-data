@@ -1,0 +1,42 @@
+product:
+  path: mac-compatible-usb-video-capture-device
+  sku: USB1MAC
+  name: USB Video Capture Device for Mac OS X
+  images:
+  - path: 3729.jpg
+    title: AV RCA Phono to USB Video Capture Device for Mac
+  - path: 3715.jpg
+    title: USB Audio Video Capture Device Connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 266700
+  content:
+    ean: "5060181656255"
+    meta:
+      title: ""
+      description: This compact device is a fantastic way to record video straight
+        onto a Mac computer! The USB Video capture records stereo sound, and is powered
+        by your Mac.
+    videos: []
+    manuals: []
+    software:
+    - http://downloads.spycameracctv.com/USB1MAC/software/USB1MAC.dmg
+    description: "This simple to use USB Video Capture device is a fantastic way to
+      digitise any analogue video, ideal for combining one of our Bird Box Cameras
+      or Pinhole Cameras with an Apple Mac Computer. Unlike other similar devices
+      on the market, this one is purpose built for use with Macs (<i>and Macs only!</i>)\r\n\r\nSimply
+      hook your camera up to the RCA phono cables, and run the included software to
+      start recording. The device features stereo audio inputs to capture high quality
+      sound as well. We stock these as the perfect accessory for our range of Spy
+      Cameras and Wireless Cameras, but don't let that limit you! This works with
+      any RCA or S-Video feed, so can be used to record console games, or digitise
+      old home videos- anything with an AV output."
+    specification: "<p>Video System: PAL, NTSC\r\nVideo Input: RCA Composite, S-Video\r\nAudio
+      Input: Stereo RCA\r\nDimensions: 76x28x16mm\r\nPower: USB Bus\r\n</p>\r\n\r\n<strong>System
+      Requirements</strong>\r\n\r\n<p>\r\nProcessor: PowerPC G4, G5 or Intel Core\r\nRAM:
+      256MB\r\nVGA Card with 32MB Memory\r\nUSB: 1x USB 2.0 Port\r\nOperating System:
+      Mac OS X 10.4.7 or later\r\n</p>"
+    in_the_box: "<ul>\r\n<li>Mac Compatible USB Video Capture Device</li>\r\n<li>Video
+      Drivers and Software CD</li>\r\n<li>Video recording Software CD</li>\r\n<li>Quick
+      Setup Guide</li>\r\n</ul>"

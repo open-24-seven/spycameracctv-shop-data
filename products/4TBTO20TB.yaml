@@ -1,0 +1,22 @@
+product:
+  path: 4tb-to-20tb-upgrade
+  sku: 4TBTO20TB
+  name: 4TB to 20TB Hard Drive Upgrade
+  images:
+  - path: 5428.jpg
+    title: ' 4TB to 20TB Hard Drive Upgrade'
+  prices:
+    default:
+    - break: 1
+      unit_price: 7333300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

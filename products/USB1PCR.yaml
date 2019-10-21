@@ -1,0 +1,41 @@
+product:
+  path: b-grade-usb-video-capture-device-windows
+  sku: USB1PCR
+  name: B Grade 25% Off - USB Video Capture Device for Windows
+  images:
+  - path: 5886.jpg
+    title: " \tB Grade 25% Off - USB Video Capture Device for Windows"
+  prices:
+    default:
+    - break: 1
+      unit_price: 249800
+  content:
+    ean: "5060423074793"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-grade 25% off</strong>\r\nThis product is a customer return
+      or ex-display model. The packaging will have been opened but the contents have
+      been fully tested. It might have minor cosmetic defects.\r\n\r\nThis USB Video
+      Capture Device allows you to record video and audio from any spy camera or device
+      that uses RCA/phono connectors to your Windows PC. The key benefit of this device
+      is its ease of use: just connect it to your computer via a USB port, install
+      the software and start recording. For security solutions this saves you from
+      requiring a costly CCTV DVR to record your footage.\r\n\r\nThis device includes
+      free <strong>iSpy software</strong> that features advanced recording options
+      such as motion detection and scheduled recording so that you can configure recording
+      to your specification. Footage is recorded to the hard drive so that you can
+      return to view it at anytime. Furthermore you can export footage to upload to
+      YouTube and the Cloud. Please note that this is third-party software and we
+      do not support all features.\r\n\r\nTo download the software follow <a href=\"http://www.ispyconnect.com/download.aspx\"
+      target=\"_blank\">this link</a>."
+    specification: "<p>\r\nVideo Inputs: 1x RCA (PAL or NTSC) \r\nAudio Input: 1x
+      RCA \r\nDisplay Resolution: 640x480 \r\nRecording Resolution: 640x480 @ 30fps
+      \r\n\r\n<strong>Minimum System Requirements</strong> \r\n\r\nP4 1.7GHz CPU or
+      above\r\n256MB RAM  \r\nVGA card with 32MB memory \r\nOne available USB 2.0
+      port   \r\n1 GB+ hard drive space for video capture and editing\r\nCompatible
+      Windows-sound card\r\nWindows XP, Vista, 7, 8, 8.1, 10 supported\r\n</p>"
+    in_the_box: "<ul><li>USB Video Capture Device</li>\r\n<li>User Manual</li></ul>"

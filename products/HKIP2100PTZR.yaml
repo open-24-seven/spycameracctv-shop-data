@@ -1,0 +1,55 @@
+product:
+  path: b-grade-hikvision-2mp-ptz-camera-15x-zoom-100m-ir
+  sku: HKIP2100PTZR
+  name: B Grade 25% Off - Hikvision 2MP PTZ Camera, 15x Zoom, 100m IR
+  images:
+  - path: 5692.jpg
+    title: " \tB Grade 25% Off - Hikvision 2MP PTZ Camera, 15x Zoom, 100m IR"
+  - path: 5693.jpg
+    title: B grade Hikvision ptz dome with bracket
+  prices:
+    default:
+    - break: 1
+      unit_price: 3960000
+  content:
+    ean: "5060423074878"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "Imaging Sensor: 1/2.8\" CMOS\r\nResolution: 1920x1080\r\nMinimum
+      Illumination: 0.005 Lux (IR Off), 0 Lux (IR On)\r\nFocal Length: 5-75mm\r\nOptical
+      Zoom: 15x\r\nDigital Zoom: 16x\r\nZoom Speed: Approx 2.4s (wide-tele)\r\nAngle
+      of View: 53.8-4.0 Degrees\r\nMinimum Working Distance: 10-1500mm\r\nAperture
+      Range: f/1.6 to f/3.5\r\nFocus Mode: Auto, Semi-auto, Manual\r\nDigital WDR:
+      Supported\r\nAGC: Auto, Manual\r\nWhite Balance: Auto, Manual, ATW, Indoor,
+      Outdoor, Daylight, Sodium\r\nDay & Night: IR Cut\r\nPrivacy Mask: Up to 24,
+      programmable\r\nImage Enhancement: 3D DNR, Defog, HLC/BLC, EIS\r\nPan & Tilt
+      Range: Pan 360Â° (endless), Tilt 15-90Â°\r\nSpeed: 0.1-80Â°/s\r\nPreset Positions:
+      300\r\nPatrols: 8, Up to 32 positions per patrol\r\nPark Action: Preset, patrol,
+      pattern, pan scan, tilt scan, random scan, frame scan, panorama scan\r\nScheduled
+      Task: Auto scan, frame scan, random scan, patrol, pattern, preset, panorama
+      scan, tilt scan, dome reboot, dome adjust\r\nSmart Detection: Intrusion, Line
+      crossing, Motion, Face Detection, Region Entrance, Region Exit, Unattended Baggage,
+      Object Removal\r\nROI Encoding: Supports 2 areas with adjustable levels\r\nIR
+      Range: 100m\r\nIR Intensity: Automatically adjusted depending on zoom ration\r\nEthernet:
+      10Base-T, 100Base-TX, RJ45\r\nStreams: Up to 3\r\nMain Stream Resolution: 1920x1080/1280x960/1280x720
+      @25fps, 1280x960/1280x720@50fps\r\nSub Stream Resolution: 704x576/640x480/352x288
+      @25fps\r\n3rd Stream Resolution: 1920x1080/1280x960/1280x720/704x576/640x480/352x240
+      @25fps\r\nImage Compression: H.265+/H.265/H.264/MJPEG\r\nProtocol: IPv4/IPv6,
+      HTTP, HTTPS, 802.1x, QoS, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTP,
+      TCP, UDP, IGMP, DHCP, PPPoE\r\nSimultaneous Live View: Up to 20 users\r\nLocal
+      Storage: MicroSD, Up to 128GB (not included)\r\nUsers: Up to 32 users, 3 levels
+      (admin, operator, user)\r\nSecurity Measures: User authentication (ID and PW),
+      Host authentication (MAC address), IP address filter\r\nPower: 12V DC & POE+
+      (802.3at, class4), Max 18W\r\nWorking Temperature: -30&Deg;c to +65Â°c\r\nHumidity:
+      <90%\r\nProtection Level: IP66, 4,000V Lightning protection\r\nDimensions: 164.5mm
+      (diameter)x 295mm\r\nWeight: 2kg"
+    in_the_box: "<ul>\r\n<li>1x Hikvision low light PTZ camera</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

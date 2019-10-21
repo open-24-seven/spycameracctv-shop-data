@@ -1,0 +1,33 @@
+product:
+  path: 5-meter-cctv-power-cable-for-12v-8v-cctv-cameras-and-hidden-cameras
+  sku: 5M21POWER
+  name: 5 Metre DC Power Extension Cable with 2.1mm/5.5mm Jack
+  images:
+  - path: 1297.jpg
+    title: Waterproof CCTV Power Extension cable 12V/8V Security Cameras.
+  - path: 1298.jpg
+    title: Security Cable Power Extension Cable with 5.5mm DC Power Jack
+  - path: 5789.jpg
+    title: 2.1mm power cable dimensions
+  - path: 5790.jpg
+    title: 2.1mm power cable comparison
+  prices:
+    default:
+    - break: 1
+      unit_price: 45100
+  content:
+    ean: "5060181652042"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is a power extension lead for 12v cameras with 2.1mm (inner
+      pin) power jack. With a male and a female connector it will simply extend your
+      power supply between your camera and the adapter. \r\n\r\nPlease note, this
+      cable is not compatible with our 8V bird box cameras. They work with our <a
+      href=\"https://www.spycameracctv.com/spycamera/5-metre-waterproof-8v-power-extension-cable-for-birdbox-pinhole-camera\"
+      target=_blank\">1.3mm cables found here</a>\r\n\r\n"
+    specification: ""
+    in_the_box: ""

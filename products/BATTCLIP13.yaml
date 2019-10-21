@@ -1,0 +1,29 @@
+product:
+  path: 9v-pp3-battery-clip-wireless-bird-box-spy-cameras-13mm-jack
+  sku: BATTCLIP13
+  name: 9V PP3 Battery Clip for Cameras with 1.3mm Jack
+  images:
+  - path: 3928.jpg
+    title: 9V PP3 Battery Clip for Wireless Bird Box and Spy Cameras w 1.7mm Jack
+  prices:
+    default:
+    - break: 1
+      unit_price: 16600
+  content:
+    ean: "5060181654800"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This tiny battery clip will let you power your camera using a standard
+      9V \"PP3\" battery. Simply attach the clip to the battery terminals, then plug
+      the cable into your camera. \r\n\r\nUsing a brand new good quality battery will
+      give you around 90 minutes usage out of a camera with infrared, or just over
+      2 hours for one without. <i>Because of this it is only recommended for use in
+      temporary set ups</i>.\r\n\r\n<strong>Please note</strong>- Cheaper batteries
+      will have significantly lower capacities. Please check your camera has a plug
+      with a 1.3mm inner and 3.5mm outer diameter, and uses an 8-9V power supply."
+    specification: "Inner Diameter: 1.3mm\r\nOuter Diameter: 3.5mm"
+    in_the_box: "<ul>\r\n<li>1x 9V PP3 Battery adapter for 1.3mm DC cameras</li>\r\n</ul>"

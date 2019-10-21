@@ -1,0 +1,43 @@
+product:
+  path: hd-spy-camera-1080p-tvi-hidden-security-camera-pir-sensor
+  sku: GT4TV2PIRGB
+  name: 1080p TVI HD Spy Camera Hidden in PIR Sensor
+  images:
+  - path: 5059.jpg
+    title: "\t1080p TVI HD Spy Camera Hidden in PIR Sensor"
+  prices:
+    default:
+    - break: 1
+      unit_price: 575000
+  content:
+    ean: "5060423073383"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - 1463138389.pdf
+    software: []
+    description: "Looking for a professional quality security camera for monitoring
+      a office, shop or house? This camera, when attached to the wall, will covertly
+      record video without anyone noticing. Hiding a HD spy camera within a casing
+      of a PIR sensor, the camera captures footage through a tiny pinhole on the front
+      of the casing unbeknown to the unexpecting eye. When installed on the corner
+      of a hallway or stockroom it looks like any other PIR sensor but this one enables
+      you to monitor the room in 1080p HD.\r\n\r\nThis covert camera features TVI
+      HD technology a cutting-edge surveillance video format that was previously only
+      available in large, bulky security cameras. This allows you to capture clear
+      video full of usable detail, whilst still keeping your security system discreet.
+      What's more, TVI video uses standard BNC connectors so if you have an existing
+      system then you can potentially use the same coaxial cabling.\r\n\r\nTo record
+      footage just hook up the camera, using your coaxial cabling, to your TVI HD
+      DVR recorder and enjoy high quality recorded footage for playback at a later
+      date. This device can also be set to work with traditional analogue recorders
+      and AHD."
+    specification: "Image Sensor: 1/2.9\" SONY 2.4MP CMOS Sensor\r\nResolution: 1080p
+      Full HD\r\nSignal System: PAL / NTSC\r\nMinimum Illumination: 0.001 Lux @ f1.2\r\nS/N
+      Ratio/: >50dB\r\nSynchronous System: Internal\r\nVideo Output: AHD/CVI/CVBS/TVI\x7F\r\nPower:
+      DC 12V (+/-10%)/300mA\r\nLens: 3.7mm Pinhole Lens\r\nDimensions: 70(W) x 40(H)
+      x 119(D) mm\r\nWeight: 350 g\r\nOperating Conditions: -10~+50â„ƒ RH95% MAX"
+    in_the_box: "<ul>\r\n<li>1x HD PIR Sensor Spy Camera</li>\r\n<li>1x Mains Power
+      Supply</li>\r\n<li>1x User manual</li>\r\n</ul>"

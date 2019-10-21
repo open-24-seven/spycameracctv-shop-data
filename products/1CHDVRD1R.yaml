@@ -1,0 +1,49 @@
+product:
+  path: clearance-d1-minidvr-wireless-cctv-motion-detection-dvr
+  sku: 1CHDVRD1R
+  name: B-Grade 25% Off! Wireless D1 Mini DVR recorder with Motion Detection
+  images:
+  - path: 2831.jpg
+    title: d1 mini dvr with 4 channel 2.4ghz wireless cctv camera
+  - path: 2832.jpg
+    title: Mini DVR with D1 Recording and 2.4ghz wireless
+  - path: 2833.jpg
+    title: SD Card recording with d1 resolution mini dvr
+  - path: 2834.jpg
+    title: 4 wireless channels and 1 wired input with D1 recording
+  - path: 4492.jpg
+    title: B-Grade 40% Off! Wireless D1 Mini DVR recorder with Motion Detection
+  prices:
+    default:
+    - break: 1
+      unit_price: 908300
+  content:
+    ean: "5060181656408"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/_vRoR9RRZ-c
+    - https://www.youtube.com/embed/yRw95i3bdi8
+    manuals:
+    - http://downloads.spycameracctv.com/1CHDVRD1/manuals/1CHDVRD1-Manual.pdf
+    software: []
+    description: "B-Grade Product: 25% off\r\n\r\nThis product has either been opened,
+      returned by customers, are ex display or have been used for technical testing.
+      All products have had some use, some may have cosmetic damage, such as screw
+      fixings damage.\r\n\r\nAll our B-Grade products are fully tested but please
+      be aware some products may have cosmetic wear and tear, and specific screw holes
+      and mounting areas may be used. "
+    specification: "Working Voltage: DC12V \r\nWork Current: 400mA \r\nWorking Temperature:
+      -10â„ƒ ~ +50â„ƒ \r\nMaximum Memory: 32 GB \r\nMaximum Memory Capacity: 32 GB
+      \r\nCompression Format : MPEG4 \r\nFile Type: ASF\r\nRecord mode: Motion detect,
+      Manual Record, Boot Record, Pre-record, Scheduled Record\r\nManual record: 5min/
+      10min/ 20min (optional) \r\nMotion Detect: 20 seconds  \r\nBoot Record: Yes/no
+      \r\nPre Event Record: 5seconds/10seconds/off (optional) \r\nRecord quality:
+      3 rating adjustable\r\nVideo Resolution: 720 x 480/640 x 480/320 x 240 (adjustable)
+      \r\nFrame Rate: 5FPS/10FPS/15FPS/30FPS (optional) \r\nRecord signal: 1 channel
+      video & audio\r\nFile Store Mode: Overwrite when full or stop when full Compatible
+      camera\t\r\nCMOS & CCD Dimension: 130 x 107 x 26mm"
+    in_the_box: "<ul>\t\r\n<li>Mini DVR with 2.4GHz Wireless Antenna</li>\r\n<li>1x
+      3.5mm Jack to RCA Male AV Lead</li>\r\n<li>1x 3.5mm Jack to RCA Female AV Lead</li>\r\n<li>1x
+      2 Metre Mains power to 12V 500mAh Power Adapter</li>\r\n</ul>"

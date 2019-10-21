@@ -1,0 +1,27 @@
+product:
+  path: 2-30m-bnc-pro-cables
+  sku: 2BNC30MPRO
+  name: 2 x 30m BNC Professional Grade Cables with Power and Video
+  images:
+  - path: 5823.jpg
+    title: 2 x 30m BNC Professional Grade Cables with Power and Video
+  prices:
+    default:
+    - break: 1
+      unit_price: 375000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is a 2 pack of 30m 'shotgun' RG59 extension cables for CCTV,
+      ideal for connecting any analogue or HD TVI cameras to a recorder.\r\n\r\nThey
+      are made from high grade shielded RG59 cable and are suitable for use in exposed
+      outdoor locations. At each end they feature twist fit BNC connectors for video
+      and 5.5x2.1mm DC jacks to carry power. "
+    specification: ""
+    in_the_box: "<ul>\r\n<li>2x 30m BNC video and power cables</li>\r\n<li><strong>3
+      year guarantee with SpyCameraCCTV</strong>\r\n</ul>"

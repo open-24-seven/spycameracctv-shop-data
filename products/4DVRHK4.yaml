@@ -1,0 +1,62 @@
+product:
+  path: hikvision-turbo-hd-4-channel-dvr-8mp-recording
+  sku: 4DVRHK4
+  name: Hikvision Turbo HD 4 Channel DVR with 8MP Recording
+  images:
+  - path: 5785.jpg
+    title: Hikvision Turbo HD 4 Channel DVR with 8MP Recording
+  - path: 5786.jpg
+    title: Hikvision turbo hd 4 channel DVR rear panel
+  prices:
+    default:
+    - break: 1
+      unit_price: 1780000
+  content:
+    ean: "5060423077602"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision's Turbo HD range brings many of the professional grade
+      features  - previously only found in IP camera systems - to plug and play coaxial
+      CCTV. These include smart video analytics such as line crossing and intrusion
+      detection, letting you add advanced levels of automation to recording without
+      needing an in depth network configuration to get the cameras set up. This all
+      makes this 4 channel DVR a powerful security tool, as well as a fantastic option
+      for upgrading legacy CCTV systems. \r\n\r\nThe hybrid recorder is compatible
+      with TVI, AHD, CVI and CVBS cameras, and supports up to 2 IP cameras. The DVR
+      can even handle footage from different video systems on each channel, letting
+      you upgrade cameras in a system one-by-one, or mix IP and analogue formats.
+      Footage can be recorded at resolutions up to 8MP (4K), capturing far more subject
+      detail than has ever previously been possible with a coaxial DVR. The recorder
+      also has 4 separate audio inputs, letting you connect a microphone to each channel.\r\n\r\nCameras
+      can be viewed live on a TV or monitor using standard HDMI or VGA connections.
+      You can also hook to DVR up to your router, allowing secure remote access via
+      Hikvision's PC or mobile app. The recorder's smart analytics can be configured
+      through a PC, or using the DVR's built-in menu system when connected to a TV
+      or monitor via HDMI. Triggering modes can be set up on a camera-by-camera basis,
+      as well as traditional recording features such as motion detection and scheduling.\r\n\r\n\r\n\r\n\r\n"
+    specification: "Coaxial Inputs: 4x BNC\r\nVideo Compression: H.265+, H.265, H.264+,
+      H.264\r\nHD-TVI Input: 8MP, 5MP, 4MP, 3MP, 1080p30, 1080p25, 720p60, 720p50,
+      720p30, 720p25\r\nAHD Input: 5MP, 4MP, 3MP, 1080p30, 1080p25, 720p30, 720p25\r\nHD-CVI
+      Input: 4MP, 1080p30, 1080p25, 720p30, 720p25\r\nCVBS Input: PAL, NTSC\r\nIP
+      Video Input: 2x (over network)\r\nIP Video Resolution: Up to 8MP\r\nAudio Compression:
+      G.711u\r\nAudio Input: 4x RCA\r\nCVBS Output: 1x BNC (704x576)\r\nHD Output:
+      1x HDMI, 1x VGA\r\nHDMI Output: 3840x2160@30, 2560x1440@60, 1080@60, 1280x1024@60,
+      1024x768@60\r\nVGA Output: 1920x1080@60, 1280x1024@60, 1280x720@60, 1024x768@60\r\nEncoding
+      Resolution: 8MP, 5MP, 4MP, 3MP, 1080p, 720p, WD1, 4CIF, VGA, CIF\r\nMain Stream
+      Frame Rate: 8MP@12fps, 5MP@20fps, 3MP@18fps, 4MP/1080p/720p/WD1/4CIF/VGA/CIF@25fps\r\nSub
+      Stream Frame Rate: WD1/4CIF/CIF@25fps\r\nVideo Bitrate: 32Kbps to 16Mbps\r\nAudio
+      Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual Stream: Supported\r\nStream
+      Type: Video, Video & Audio\r\nSynchronous Playback: 4x\r\nRemote Connections:
+      32\r\nNetwork Protocols: TCP/IP, PPPoE, Hik-Connect, DNS, DDNS, NTP, SADP, NFS,
+      iSCSI, UPnP, HTTPS, ONVIF\r\nStorage: 1x SATA (Up to 8TB)\r\nNetwork Interface:
+      1x 10/100/1000M Self adaptive Ethernet\r\nUSB Interface: 1x USB 2.0 (front),
+      1x USB 3.0 (back)\r\nSerial Interface: RS-485\r\nAlarm In/Out: 4/1\r\nPower
+      Supply: 12V DC\r\nConsumption: <15W (No HDD)\r\nOperational Temperature: -10
+      to +55C\r\nOperational Humidity: 10-90%\r\nDimensions: 315x242x45mm\r\nWeight:
+      <1.5Kg (no HDD)\r\n\r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 4 channel DVR</li>\r\n<li>1x USB mouse</li>\r\n<li>1x
+      Mains power supply</li>\r\n<li>Software and manual CD</li>\r\n</ul>"

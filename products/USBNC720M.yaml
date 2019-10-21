@@ -1,0 +1,54 @@
+product:
+  path: colour-bird-box-camera-pc-usb-kit-motion-detection-20m-av-power-cable
+  sku: USBNC720M
+  name: Wired Bird Box Camera & Windows PC USB Recording Kit
+  images:
+  - path: 3653.jpg
+    title: Colour Bird Box Camera PC USB Kit Motion Detection 20m AV Power Cable
+  - path: 1783.jpg
+    title: Colour nest box camera with Infra-Red IR night vision.
+  - path: 1784.jpg
+    title: Windows 7 compatible USB AV capture device.
+  - path: 5672.jpg
+    title: USB bird box camera screenshot
+  - path: 1785.jpg
+    title: 12V DC power adapters for colour bird box camera with IR included.
+  - path: 4582.jpg
+    title: Colour Bird Box Camera PC USB Kit Motion Detection 20m AV Power Cable
+  prices:
+    default:
+    - break: 1
+      unit_price: 541400
+  content:
+    ean: "5060423075943"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/lTABq7RkJo8
+    manuals: []
+    software: []
+    description: "Our Wired Bird Box Camera allows you to watch nesting birds in your
+      garden from the comfort of your house. See the birds up close with our camera
+      designed especially for bird nesting boxes. Featuring a wide-angle lens and
+      night vision, the camera is ideally suited to cosy bird boxes. Video and audio
+      is sent down the included 20 metre cable from where the camera is also powered.
+      With 700 TV line video and adjustable focus the camera allows you to capture
+      the best images possible.   \r\n\r\nIn this kit we have included our USB Video
+      Capture Device, which allows you to record to your Windows PC without the need
+      for a costly DVR. Supplied is free software from iSpy that features advanced
+      recording options such as motion detection and scheduled recording so that you
+      can configure recording to your specification. Footage is recorded to the PC's
+      hard drive so that you can return to view it at anytime. Furthermore you can
+      export footage to upload to YouTube and back up to the cloud.\r\n\r\nTo download
+      the software follow <a href=\"http://www.ispyconnect.com/download.aspx\" target=\"_blank\">this
+      link</a>."
+    specification: "Video Standard: PAL/NTSC\r\nImage Sensor: OV7949/OV7950\r\nVertical
+      Resolution: 700 TV Lines\r\nPixel Resolution:  512(H) x 582(V)\r\nMinimum Colour
+      Illumination: 1.0Lux\r\nMinimum B/W Illumination: 0 Lux (IR On)\r\nLens: 2.8mm\r\nViewing
+      Angle: 110 degrees\r\nWhite balance: Auto\r\nS/N ratio: >48dB(AGC Off)\r\nBacklight
+      compensation: Auto\r\nElectronic shutter: 1/50(1/60)-1/100,000 seconds\r\nOperation
+      temperature:-20 to 50 degrees C\r\nPower Supply: 8V DC <500mA"
+    in_the_box: "<ul>\r\n<li>1x Bird Box Camera</li>\r\n<li>1x UK Power Supply</li>\r\n<li>1x
+      20m AV Power Cable</li>\r\n<li>1x USB Video Capture Device</li>\r\n<li>Set up
+      guide</li>\r\n</ul>"

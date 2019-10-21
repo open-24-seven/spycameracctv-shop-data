@@ -1,0 +1,46 @@
+product:
+  path: pan-tilt-zoom-joystick-controller-cctv-monitor-ptz-ip-cameras
+  sku: PTZJOYIP05
+  name: Pan Tilt Zoom Joystick Controller with CCTV Monitor for PTZ IP Cameras
+  images:
+  - path: 5029.jpg
+    title: " \tPan Tilt Zoom Joystick Controller with CCTV Monitor for PTZ IP Cameras"
+  - path: 5032.jpg
+    title: PTZ joystick controller front
+  - path: 5033.jpg
+    title: PTZ IP camera joystick connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 1825000
+  content:
+    ean: "5060611442151"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Pan-Tilt-Zoom- or \"PTZ\"- cameras are ideal when flexible coverage
+      and powerful zoom are needed, especially for unpredictable or moving targets.
+      To use them to their full potential however, a good quality controller is essential.
+      This joystick controller is designed specifically for PTZ IP cameras, and gives
+      you intuitive fingertip control over your cameras, making it much easier to
+      track subjects.\r\n\r\nUniquely, this controller also features a built-in CCTV
+      monitor on which you can view the camera's footage. This provides you with far
+      more freedom when setting up your system, as you don't need to connect the controller
+      to recorder. \r\n\r\nThe controller itself uses a 3 axis joystick, allowing
+      you to easily pan the camera around, and the zoom the lens with a quick twist.
+      You can also save camera positions as a preset, and then snap back to them at
+      the press of a button. Other presets include a 360 degrees tour, and an A-B
+      transmit between two saved positions.\r\n\r\nTo setup the controller just connect
+      it to the same network as your IP camera, and add the device using the onscreen
+      menu. As no recorder is needed, you can easily set up a quick monitoring system
+      relatively quickly. This makes it fantastic for mobile or temporary installations. "
+    specification: "Control Mode: Network\r\nControllable Devices: PTZ IP Cameras\r\nScreen
+      Display: 5\" HD LED Display\r\nInterface: 1x RS45, 1x DC 12V, 1x HDMI, 1x USB\r\nPower
+      Supply: DC 12V 2A\r\nProtocol: ONVIF 2.4\r\nJoystick: 3 Axis\r\nLanguage: English,
+      Chinese\r\nImage Switch Mode: Serial Number or Mouse\r\nOperational Temperature:
+      -20Â°c to +55Â°c\r\nDimensions: 260x160x48mm\r\nWeight: Gross 1.52Kg, Net 1Kg"
+    in_the_box: "<ul>\r\n<li>1x PTZ Joystick controller</li>\r\n<li>1x Mains Power
+      Supply</li>\r\n<li>1x User Manual CD</li>\r\n</ul>"

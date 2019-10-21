@@ -1,0 +1,44 @@
+product:
+  path: hikvision-hiwatch-hd-tvi-1080p-turret-camera-20m-night-vision
+  sku: EZTV220TGB
+  name: Hikvision HiWatch HD-TVI 1080p Turret Camera - 20m Night Vision
+  images:
+  - path: 5804.jpg
+    title: Hikvision HiWatch HD-TVI 1080p Turret Camera - 20m Night Vision
+  - path: 5805.jpg
+    title: HiWatch 1080p turret camera front view
+  - path: 5806.jpg
+    title: Hikvision 4-in-1 connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 256200
+  content:
+    ean: "5060423075110"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "The best selling HiWatch range has been put together by Hikvision
+      to help you secure your property without needing an expensive installation,
+      or a complex configuration. This HD turret camera is small & discreet - a fantastic
+      option for keeping watch over your home or a small shop.\r\n\r\nThe camera captures
+      footage in 1920x1080 Full HD, helping ensure that all of your footage is packed
+      with usable detail. As standard they're preset to use the HD-TVI format, but
+      the 4-in-1 technology can also be set to AHD, CVI, or CVBS.  This means that
+      they're cross compatible with a huge range of surveillance equipment, and can
+      easily be added to an existing system. Importantly, they are plug-and-play,
+      so there's no confusing networking required to get them up and running.\r\n\r\nThe
+      camera is fitted with infrared LEDs to provide 20m night vision range. And what's
+      more, the housing is rated IP66 weather proof. This means they can keep watch
+      over your property 24 hours a day, all year round."
+    specification: "Imaging Sensor: CMOS\r\nEffective Pixels: 1920x1080\r\nMinimum
+      Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter Speed: 1/25 to 1/50,000s\r\nLens
+      Mount: M12\r\nDay & Night: ICR\r\nSynchronization: Internal\r\nVideo Frame Rate:
+      1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational Temperature:
+      -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower
+      Consumption: Max 4W\r\nProtection Level: IP66\r\nIR Range: 20m\r\nDimensions:
+      82.6mm (diameter) x 70mm\r\nWeight: 230g "
+    in_the_box: "<ul>\r\n<li>1x HiWatch turret camera</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

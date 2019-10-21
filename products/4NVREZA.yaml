@@ -1,0 +1,53 @@
+product:
+  path: hikvision-hiwatch-4-channel-nvr-poe
+  sku: 4NVREZA
+  name: Hikvision HiWatch 4 Channel NVR with PoE
+  images:
+  - path: 5765.jpg
+    title: Hikvision HiWatch 4 Channel NVR with PoE
+  - path: 5766.jpg
+    title: Hikvision Hiwatch 4 channel NVR front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1133000
+  content:
+    ean: "5060423075783"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision's best-selling HiWatch range provides easy to use security
+      solutions, perfect for DIY installers. As part of this range, this 4 channel
+      network video recorder (NVR) features high resolution recording and advanced
+      features, along with a simple, compact design. It's a great value option for
+      setting up an IP security system in your home, or in a small shop.\r\n\r\nThe
+      recorder can capture footage from up to 4 cameras, and record in resolutions
+      up to 4MP (2560x1440), ensuring you won't lose any picture quality from your
+      cameras. It also supports a wide range of Hikvision's smart detection features,
+      and features a smart search mode, to easily check footage for important events
+      and triggers. The four camera inputs also support PoE, sending power down the
+      cable to run compatible cameras without additional mains supplies. The recorder
+      can be pre-fitted with hard drives up to 6TB in size, simply select the required
+      hard drive from the drop down menu.\r\n\r\nBy connecting the NVR to your internet
+      router, you can also allow remote access. Once configured, this lets you watch
+      live or recorded footage from anywhere using a PC or mobile app. HDMI and VGA
+      outputs also allow you to easily connect the recorder to an HD TV or monitor.\r\n"
+    specification: "IP Camera Inputs: 4x\r\nAudio Input: 1x RCA\r\nIncoming Bandwidth:
+      40Mbps\r\nOutgoing Bandwidth: 40Mbps\r\nRemote Connections: 64\r\nRecording
+      Resolution: 4MP, 3MP, 1080p, 1.3MP, UXGA, 720p, VGA, 4CIF, DCIF, 2CIF, CIF,
+      QCIF\r\nFrame Rate (per stream): 50fps\r\nHDMI/VGA Output: 1920x1080 @60Hz,
+      1280x1024 @60Hz, 1280x720 @60Hz, 1024x768 @60Hz\r\nAudio Output: 1x RCA\r\nLive
+      View Resolution:  4MP, 3MP, 1080p, 1.3MP, UXGA, 720p, VGA, 4CIF, DCIF, 2CIF,
+      CIF, QCIF\r\nDecoding Capability: 2ch @ 4MP, 4ch @ 2MP\r\nHard Drive: 1x SATA,
+      supports up to 6TB\r\nNetwork Protocols: TCP/IP, DHCP, Hik-Connect, DDNS, NTP,
+      SADP, SMTP, UPnP\r\nNetwork Interface: 1x RJ45, 10/100 Mbps\r\nUSB: 2x USB 2.0\r\nPoE:4x
+      100Mbps PoE (Camera inputs)\r\nMax PoE Power: 50W\r\nSupported Standard: AF,
+      AT\r\nPower Supply: 48V DC\r\nConsumption (without HDD and PoE): <18W\r\nOperational
+      Temperature: -10c to +55c\r\nOperational Humidity: 10-90%\r\nDimensions: 200x200x44.5mm\r\nWeight
+      (without HDD): <1Kg\r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x HiWatch 4 channel NVR</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x
+      Cat5e patch cable</li>\r\n<li>1x VGA cable</li>\r\n<li>1x USB mouse</li>\r\n<li>Software
+      and manual CD</li>\r\n</ul>"

@@ -1,0 +1,35 @@
+product:
+  path: b-grade-digital-wireless-cctv-camera-and-receiver
+  sku: DIGMINIIR01R
+  name: B Grade 30% Off - Digital Wireless CCTV Camera and Receiver
+  images:
+  - path: 5622.jpg
+    title: " \tB Grade 30% Off - Digital Wireless CCTV Camera and Receiver"
+  - path: 5623.jpg
+    title: mini digital wireless camera with night vision
+  - path: 5624.jpg
+    title: Digital wireless CCTV receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 433300
+  content:
+    ean: "2938"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "Imaging chip: 1/4\" Colour CMOS\r\nVideo quality: 380 TV Lines\r\nEffective
+      pixels: 628x582\r\nMinimum illumination: 3 Lux (IR Off), 0 Lux (IR On)\r\nMicrophone:
+      Yes\r\nAudio Range: 3 metres\r\nPower: 5V DC\r\nOperational temperature: -20c
+      to +60c\r\nTransmission method: Digital\r\nMaximum transmission range: 100m\r\nFrequency
+      band: 2.4 GHz\r\nSupported cameras: Up to 4\r\nReceiver video output: 480x240"
+    in_the_box: "<ul>\r\n<li>1x Digital Wireless Night Vision Camera</li>\r\n<li>1x
+      Digital Wireless Receiver</li>\r\n<li>2x Mains power supplies</li>\r\n<li>English
+      user manual</li>\r\n<li><strong>3 year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

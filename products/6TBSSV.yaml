@@ -1,0 +1,27 @@
+product:
+  path: 6tb-seagate-surveillance-grade-hdd
+  sku: 6TBSSV
+  name: 6TB Seagate Surveillance Grade HDD
+  images:
+  - path: 5265.jpg
+    title: 6TB Seagate Surveillance Grade HDD
+  - path: 5587.jpg
+    title: 6tb seagate hdd
+  prices:
+    default:
+    - break: 1
+      unit_price: 2500000
+  content:
+    ean: "5060423071983"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This massive 6TB hard drive is perfect for use in one of our professional
+      CCTV DVRs or NVRs, allowing weeks' worth of footage. It's part of Seagate's
+      surveillance grade range, designed for constant use- essential when recording
+      CCTV footage.
+    specification: ""
+    in_the_box: ""

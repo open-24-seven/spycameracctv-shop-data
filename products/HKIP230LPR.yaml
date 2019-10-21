@@ -1,0 +1,61 @@
+product:
+  path: hikvision-darkfighter-1080p-hd-outdoor-bullet-camera-ANPR
+  sku: HKIP230LPR
+  name: Hikvision Darkfighter 2MP 1080p HD Outdoor Bullet Camera ANPR Support
+  images:
+  - path: 5043.jpg
+    title: "\tHikvision Lightfighter 2MP 1080p HD Outdoor Bullet Camera ANPR Support"
+  prices:
+    default:
+    - break: 1
+      unit_price: 5400000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    - https://www.youtube.com/embed/3vNvoNXwaBo
+    manuals:
+    - http://downloads.spycameracctv.com/HKIP230LPR/manuals/HKIP230LPR-Manual.pdf
+    software: []
+    description: "Unleash the power of Hikvision's Darkfighter cameras, which feature
+      is Automatic Number Plate Recognition (ANPR) technology allowing the cameras
+      to capture vehicles' registration plates and send the key data to a Smart NVR.
+      These cameras are designed for the outdoors and are IP67 rated meaning that
+      they are fully encased from water and dust. With advanced optics and sensor
+      electronics the Darkfighters are suited bright, sunlit environments where subjects
+      may be lit from behind. Ordinarily for cameras with auto-exposure back-lit subjects
+      are underexposed as the camera compensates with the bright sun leading to silhouetted
+      subjects. The Darkfighter cameras overcome this with wide dynamic range (WDR)
+      and smart imaging technology to ensure that the subject is always properly exposed
+      and focussed. \r\n\r\nBased on IP technology the cameras send Full 1080p HD
+      images with a frame rate of up to 50 fps over network cable with Power over
+      Ethernet (PoE). The camera also boasts other professional attributes such as
+      a vari-focal lens with motorised zooming and 50m infra-red night vision. Additionally,
+      the camera can record footage using its integrated MicroSD card slot. Cards
+      of up to 128GB in capacity are supported allowing for plenty of storage space.
+      \r\n"
+    specification: "Image sensor: 1/1.8â€\x9D Progressive Scan CMOS\r\nMin. illumination:
+      0.002 Lux @ F1.2, 0 Lux with IR\r\nShutter speed: 1s ~ 1/100,000s\r\nSlow shutter:
+      Yes\r\nLens: 2.8â€“12mm @ F1.4 (92Â°â€“32Â°)\r\nDay & Night: IR Cut filter with
+      auto switch\r\nWDR: 120 dB\r\nVideo compression: H.264+/H.264/MJPEG\r\nVideo
+      bitrate: 32 Kbpsâ€“16Mbps\r\nAudio compression: G.711/G.722.1/G.726/MP2L2\r\nAudio
+      bitrate: 64 Kbps/16 Kbps/16 Kbps/32â€“128 Kbps\r\nAudio sample rate: 16 KHz,
+      32 KHz, 44.1 KHz, 48 KHz\r\nMax. resolution: 1920 x 1080 pixels\r\nFrame rate:
+      50fps\r\nThird stream: Up to 1280 x 720 20fps\r\nImage enhancement: BLC/3D DNR/ROI/Defog/EIS\r\nSmart
+      detection: Line crossing detection, intrusion detection, region entrance, region
+      exiting, unattended baggage, object removal\r\nNetwork storage: NAS (Supports
+      NFS, SMB/CIFS), ANR\r\nAlarm trigger: Motion detection, tampering alarm, network
+      disconnect, IP address conflict, storage exception\r\nProtocols: TCP/IP, ICMP,
+      HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP,
+      SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour\r\nStandards: ONVIF, PSIA, CGI, ISAPI\r\nAudio
+      interface: 1-ch 3.5 mm audio in (Mic in/Line in)/out interface\r\nCommunication
+      interface: 1x RJ45 Ethernet port\r\nAlarm interface: 1 input, 1 output (up to
+      DC 24V 1A or AC 110V 500mA)\r\nVideo output: 1Vp-p composite output (75â„¦/BNC)\r\nOn-board
+      storage: Built-in MicroSD/SDHC/SDXC slot up to 128GB\r\nProtection level: IP67\r\nIR
+      distance: 50m\r\nOperating conditions: -30Â°Câ€“60Â°C, 95% humidity or less\r\nPower
+      supply: 12V DC, PoE\r\nPower consumption: Max. 12W\r\nDimensions: 100 x 103.9
+      x 311.8 mm\r\nWeight: 2 kg"
+    in_the_box: <ul><li>1x Hikvision Darkfighter Bullet Camera</li></ul>

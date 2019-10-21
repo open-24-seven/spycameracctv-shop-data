@@ -1,0 +1,29 @@
+product:
+  path: 12v-car-cigarette-lighter-adapter-for-1chdvrd1
+  sku: 12VCAR13
+  name: 12v DC 1.3mm Car Power Adapter for 1CHDVRD1
+  images:
+  - path: 3002.jpg
+    title: 12v DC Car Power Adapter for 1CHDVRD1
+  - path: 3003.jpg
+    title: 12v DC Car Power Adapter for Mini DVR
+  prices:
+    default:
+    - break: 1
+      unit_price: 39200
+  content:
+    ean: "5060181654985"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/_vRoR9RRZ-c
+    manuals: []
+    software: []
+    description: "This 12V car power adaptor using your cigar lighter socket. It provides
+      enough current to run a 12V wired camera using the power out socket on the DVR,
+      so you'll have a completely mobile recording system in your car.\r\n"
+    specification: "Material: Plastic and Metal\r\nInput Connector: Cigarette Lighter
+      Plug\r\nOutput Connector: 1.3mm DC Jack Plug \r\nInput Voltage: 12V DC\r\nOutput
+      Voltage: 12V DC\r\nCable Length: 350mm-700mm"
+    in_the_box: ""

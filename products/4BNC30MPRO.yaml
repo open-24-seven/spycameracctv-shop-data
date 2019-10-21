@@ -1,0 +1,28 @@
+product:
+  path: 4-30m-bnc-pro-cables
+  sku: 4BNC30MPRO
+  name: 4 x 30m BNC Professional Grade Cables with Power and Video
+  images:
+  - path: 4891.jpg
+    title: 4 x 30m BNC Professional Grade Cables with Power and Video
+  prices:
+    default:
+    - break: 1
+      unit_price: 750000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is a pack of 4 professional grade 30m CCTV cables, compatible
+      with all of our analogue and HD TVI camera models.\r\n\r\nThey are all made
+      from high grade shield RG59 coaxial cable, and set in a 'shotgun' configuration
+      next to a DC power cable. At both ends they use BNC video and 2.1mm power connectors.\r\n\r\nThis
+      all makes them ideal accessories for a 4 channel DVR, and are available in a
+      range of size options."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>4x 30m Professional BNC CCTV cables</li>\r\n<li><strong>2
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,45 @@
+product:
+  path: clearance-12v-lithium-rechargeable-battery-ir-cctv
+  sku: BATT12V18GBR
+  name: B - Grade 25% Off! 12V DC Li-On UK Rechargeable 1800mAh Battery
+  images:
+  - path: 3978.jpg
+    title: Clearance 25% Off! 12V Lithium Rechargeable Battery for IR CCTV
+  - path: 3979.jpg
+    title: Clearance rechargeable battery end view
+  prices:
+    default:
+    - break: 1
+      unit_price: 177200
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 25% off</strong>\r\nThis product has either
+      been opened, returned by customers, are ex display or have been used for technical
+      testing. All products have had some use, some pay have cosmetic damage, such
+      as screw fixings damage.\r\n\r\nThis is a great li-ion (lithium) battery designed
+      for CCTV cameras and 12V equipment. It is perfect for use with any wireless
+      CCTV camera system. The battery will provide up to 10 hours with some of our
+      security cameras and because it is fully re-chargeable, this lithium CCTV battery
+      can be used over and over again.\r\n\r\nThis re-chargeable 12V DC lithium CCTV
+      battery uses a jack type connector with a 5.5mm outer diameter and a 2.1mm inner
+      diameter, making it is compatible our with long range security camera equipment
+      or our short range CCTV camera kits. This means you can place your security
+      cameras where there is no local power supply and have them transmit back to
+      your receiver continuously for up to 10 hours* (depending on camera model and
+      power requirements).\r\n\r\nThis 12V lithium battery will also work well with
+      our wired and pinhole cameras if you require to build a portable hidden spy
+      camera recorder if you are a private investigator or if you are a property surveyor
+      and would like to have a portable camera system for checking piping, lofts,
+      drains etc."
+    specification: "Capacity of Battery: 1800mA\r\nDuration of Power Supply: Up to
+      10 hours\r\nInput Voltage: 12.6V \r\nOutput Voltage: 12.6 - 10.8V\r\nSize: 97
+      x 59 x 23mm\r\nMaximum Charge / Discharge Current: 1.2A"
+    in_the_box: "<ul>\r\n<li>1x 1800mAh Lithium Rechargeable 12V battery</li>\r\n<li>1x
+      Power cable</li>\r\n<li>1x Mains Power Supply</li>\r\n<li>Product Instruction
+      Manual</li>\r\n</ul>"

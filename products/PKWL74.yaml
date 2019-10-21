@@ -1,0 +1,95 @@
+product:
+  path: hikvision-wifi-camera-system-4-4mp-domes-30m-ir
+  sku: PKWL74
+  name: Hikvision WiFi Camera System - 4x 4MP Domes, 30m IR, NVR
+  images:
+  - path: 5494.jpg
+    title: Hikvison Wifi Camera System - 4x 4MP Domes, 30m IR, 2TB NVR
+  - path: 5495.jpg
+    title: Hikvision 4mp wifi camera with 30m night vision
+  - path: 5496.jpg
+    title: Hikvision 4 channel CCTV NVR with 2TB HDD
+  prices:
+    default:
+    - break: 1
+      unit_price: 5389299
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: Our WiFi Professional CCTV System is an Effective Security Solution
+        and Reduces the Need for Cabling. Speak to our sales team to find out more!
+    videos: []
+    manuals: []
+    software: []
+    description: "Wireless CCTV systems are some of our most popular kits, and for
+      good reason: they are perfect for areas where you can't run cables directly
+      to a recorder, or for when you might need to move a camera to a different location.
+      Compared to wired cameras, there are some limitations, as they typically can't
+      transmit images of the same resolution as the wired version, and carry a risk
+      of potential wireless interference. But there's a way around this! This discreet
+      Hikvision WiFi camera system uses IP cameras that connect to a recorder via
+      your building's wireless network. \r\n\r\nConnecting via WiFi allows the cameras
+      to work at significantly higher resolutions than traditional wireless cameras,
+      up to 4 megapixels (2688x1520), or twice that of Full HD. It also means you
+      are using an existing wireless signal, rather than broadcasting a new one that
+      could be prone to interference. All you need to do, is check that there is decent
+      signal at the location you want to install each camera (using a phone is a great
+      way to check this), and that you can reach it with the included 12V power cable.
+      The cameras are first plugged into the recorder for an initial configuration,
+      then after that connect using Wifi.\r\n\r\nThe recorder itself is a professional
+      grade HD model from Hikvision, capable of recording full resolution footage
+      from each camera without any loss in quality. The kit also includes your choice
+      of pre-installed hard drive for storage (you can select this in the handy drop-down
+      menu above). The network video recorder connects to your router, letting you
+      watch your cameras or recordings from anywhere using a PC, phone or tablet.
+      The PC app even lets you configure Hivkision's smart detection features, including
+      line crossing, object removal and instrusion detection."
+    specification: "Camera\r\nImage Sensor: 1/3\" Progressive Scan CMOS\r\nMin. Illumination:
+      0.01Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter Speed: 1/3 s to 10,000s\r\nLens:
+      2.8mm @ f2.0\r\nLens Mount: M12\r\nDay & Night: IR cut filter with auto switch\r\nDNR:
+      3D DNR\r\nWide Dynamic Range: 120dB\r\nP&T rotation: Pan: 0Â° ~ 355Â°, Tilt:
+      0Â° ~ 75Â°, Rotation: 0Â° ~ 355Â°\r\n\r\nCompression Standard\r\n\r\nVideo Compression:
+      H.265/MJPEG/H.265+\r\nH.265+ Type: Main Profile\r\nVideo Bit Rate: 32 Kbps ~
+      16 Mbps\r\nDual streams: Supported\r\n\r\nImage\r\n\r\nMax. Resolution: 2688Ã—1520\r\nFrame
+      Rate: 50Hz: 20fps (2688Ã—1520), 25fps (1920Ã—1080), 25fps (1280Ã—720)\r\nImage
+      Setting: Rotate Mode, Saturation, Brightness, Contrast, Sharpness adjustable
+      by client software or web browser\r\nBLC: Supported, zone configurable\r\nROI
+      Codec: Supported\r\n\r\nNetwork\r\n\r\nNetwork Storage: NAS (Support NFS, SMB/CIFS),
+      ANR\r\nAlarm Trigger: Motion detection, tampering alarm, network disconnect,
+      IP address conflict, storage exception\r\nProtocols: TCP/IP, UDP, ICMP, HTTP,
+      HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X,
+      QoS, IPv6, Bonjour\r\nGeneral: One-key reset, Flash-prevention, dual stream,
+      heartbeat, mirror, password protection, privacy mask, watermark, IP address
+      filtering, anonymous access\r\nStandard: ONVIF (PROFILE S, PROFILE G), PSIA,
+      CGI, ISAPI\r\n\r\nInterface\r\n\r\nCommunication Interface: 1x RJ45 10M/100M
+      Ethernet port\r\nOn-board storage: Built-in Micro SD/SDHC/SDXC slot, up to 128GB\r\nAlarm
+      interface: 1x alarm I/O\r\nAudio interface: 1x audio I/O\r\nReset: Yes\r\n\r\nWi-Fi\r\n\r\nWireless
+      Standards: IEEE802.11b, 802.11g, 802.11n\r\nFrequency Range: 2.4 GHz ~ 2.4835
+      GHz\r\nChannel Bandwidth: 20/40MHz Support\r\nProtocols: 802.11b: CCK, QPSK,
+      BPSK, 802.11g/n: OFDM\r\nSecurity: 64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK,
+      WPS\r\nTransmit Output Power: 11b: 17Â±1.5dBm @ 11Mbps, 11g: 14Â±1.5dBm @ 54Mbps,
+      11n: 12.5Â±1.5dBm\r\nReception Sensitivity: 11b: -90dBm @ 11Mbps (Typical),
+      11g: -75dBm @ 54Mpbs (Typical), 11n: -74dBm (Typical)\r\nTransfer Rates: 11b:
+      11Mbps, 11g: 54Mbps, 11n: up to 150Mbps\r\nWireless Range: up to 50 meters\r\n\r\nGeneral\r\n\r\nOperating
+      Conditions: -30 Â°Câ€“60 Â°C, Humidity 95% or less (non-condensing)\r\nPower
+      Supply: DC12V Â± 10%\r\nPower Consumption: Max. 5W\r\nNight vision range: Approx.
+      30 meters\r\nIngress Protection: IP66\r\nImpact Protection: IK08\r\nDimensions:
+      Î¦111 Ã— 82 cm\r\nWeight: 500g\r\n<br />\r\n<br />\r\nRecorder Spec\r\n\r\nIP
+      Video Input: 4x\r\nIncoming Bandwidth: 40Mbps\r\nOutgoing Bandwidth: 80Mbps\r\nHDMI
+      Output: 3840x2160/30Hz, 1920x1080/60Hz, 1600x1200/60Hz, 1280x1024/60Hz, 1280x720/60Hz,
+      1024x768/60Hz\r\nVGA Output: 1920x1080/60Hz, 1600x1200/60Hz, 1280x720/60Hz,
+      1024x768/60Hz\r\nAudio Output: 1x RCA\r\nDecoding Format: H.265, H.265, H.265+\r\nRecording
+      Resolution: 8MP/6MP, 5MP, 4MP, 1080p, UXGA, 720p, VGA, 4CIF, DCIF, 2CIF, CIF,
+      QCIF\r\nSynchronous Playback: 4 Channels\r\nCapability: 4 channels @ 1080p\r\nStorage:
+      1x SATA HDD Interface, up to 6TB\r\nNetwork Protocols: TCP/IP, DHCP, HIK Cloud
+      P2P, DNS, DDNS, NTP, SADP, SMTP, NFS, iSCI, UPnP, HTTPS\r\nAudio Input: 1x RCA\r\nNetwork
+      Interface: 1x RJ45 100Mbps full-duplex\r\nUSB: 1x USB (front panel), 1x USB
+      (rear panel)\r\nStandard: IEEE 802.3 af/at\r\nPower Supply: 48VDC\r\nPower:
+      <65W\r\nConsumption: <10W (without HDD)\r\nOperational Temperature: -10Â°c to
+      +55Â°c\r\nHumidity: 10-90%\r\nChassis: 1U Chassis\r\nDimensions: 315x240x48mm\r\nWeight:
+      1kg"
+    in_the_box: "<ul>\r\n<li>4x Hikvision WiFi dome cameras</li>\r\n<li>4x Mains power
+      supplies</li>\r\n<li>4x 10m DC power cables</li>\r\n<li>2x 3m Ethernet patch
+      cables</li>\r\n<li>1x 4-Channel CCTV NVR</li>\r\n<li>1x Mains power supply for
+      recorder</li>\r\n<li>1x USB mouse</li>\r\n<li>1x Remote control</li>\r\n</ul>"

@@ -1,0 +1,60 @@
+product:
+  path: hikvision-darkfighter-2mp-low-light-ip-camera-30m-ir-microsd-slot
+  sku: HKIP230B-LS
+  name: Hikvision Darkfighter 2MP Low Light IP Camera - 30m IR, MicroSD Slot
+  images:
+  - path: 5391.jpg
+    title: " \tHikvision 2MP Ultra Low Light IP Camera - 30m IR, MicroSD Slot"
+  prices:
+    default:
+    - break: 1
+      unit_price: 1140000
+  content:
+    ean: "5060423073833"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/0kcEfrI7Pr8
+    - https://www.youtube.com/embed/3vNvoNXwaBo
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/HKIP230B-LS.pdf
+    software: []
+    description: "Don't let this camera's compact size fool you - it packs a serious
+      punch! This IP security camera is part of Hikvision's Darkfighter range, able
+      to record in ultra low light levels without needing infrared. This means it
+      can keep recording in colour even down to 0.005 lux - equivalent to moonlight.
+      All this is done in 1080p Full HD resolution, recording videos packed with usable
+      details, and making it perfect for indoor security in unlit rooms.\r\n\r\nAs
+      part of Hikvision's range of professional IP cameras, it also features their
+      latest behavioural analytics settings. Set using the PC app or via a compatible
+      recorder, they let you automate the camera's recording with extreme precision.
+      Options include triggering recording when a preset line is crossed in the image,
+      when objects are removed, when subjects enter an area, and even when it recognises
+      faces.\r\n\r\nOther advanced security features include an IP67 rated weatherproof
+      housing to protect the camera, and 30m night vision range for situations when
+      it's too dark even for the low light sensor. The camera uses Power-over-Ethernet
+      to draw power down the network cable, so you don't need to set up any separate
+      power supplies. It even features an on-board MicroSD card slot, letting you
+      use the camera as a standalone recording device."
+    specification: "Imaging Sensor: 1/2.8\" CMOS\r\nMinimum Illumination: 0.005 Lux
+      (colour, IR off), 0 Lux (IR on)\r\nShutter Speed: 1/3s to 1/100,000s\r\nSlow
+      Shutter: Support\r\nLens: 2.8mm\r\nField of View: 108Â°\r\nLens Mount: M12\r\nDay
+      & Night: IR Cut\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo Compression:
+      H.265, H.264\r\nVideo Bit Rate: 32kbps to 16Mbps\r\nMax Resolution: 1920x1080\r\nMain
+      Stream: 1920x1080, 1280x960, 1280x720 @25fps\r\nSub Stream: 640x360, 352x288
+      @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage Settings: Rotate, brightness,
+      contrast, saturation, sharpness\r\nDay/Night Switch: Auto/Scheduled\r\nAlarm
+      Trigger: Motion detection, tampering, network disconnected, IP address conflict,
+      illegal login, HDD full, HDD error\r\nProtocols: TVP/IP, UDP, ICMP, HTTP, HTTPS,
+      FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X,
+      QoS, IPv6\r\nStandard: ONVIF (S,G), PSIA, CGI, ISAPI\r\nNetwork Functions: One
+      key reset, dual-VCA, anti-flicker, heartbeat, mirror, password protection, privacy
+      mask, watermark, IP address filter\r\nCommunication Interface: 1x RJ45 10M/100M
+      Self adaptive\r\nOn Board Storage: MicroSD, up to 128GB (not included)\r\nBehaviour
+      Analysis: Line crossing detection, intrusion detection, unattended baggage detection,
+      object removal detection\r\nOperational Temperature: -30Â°c to +60Â°c\r\nOperational
+      Humidity: <95%\r\nPower Supply: 12V DC (6W), PoE (7W)\r\nIR Range: 30m\r\nProtection:
+      IP67\r\nDimensions: 70(d)x155mm\r\nWeight: 410g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision ultra low light IP camera</li>\r\n</ul>"

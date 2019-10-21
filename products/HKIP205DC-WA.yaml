@@ -1,0 +1,53 @@
+product:
+  path: hikvision-hd-doorbell-camera-ir-two-way-audio-wifi
+  sku: HKIP205DC-WA
+  name: Hikvision HD Doorbell Camera - with IR, Two Way Audio, Wifi
+  images:
+  - path: 5879.jpg
+    title: Hikvision HD Doorbell Camera - with IR, Two Way Audio, Wifi
+  - path: 5880.jpg
+    title: Hikvision HD Wifi doorbell with changeable face plates
+  prices:
+    default:
+    - break: 1
+      unit_price: 1360000
+  content:
+    ean: "5060423075172"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "It's an all too familiar problem - you wait days for a delivery,
+      only for it to finally arrive when you're at work, leaving you with the dreaded
+      card on your doormat. Hikvision's wifi doorbell camera provides an easy solution,
+      letting you talk to people at your door remotely, using your mobile phone. It's
+      also an ideal way to help keep your home secure, making sure you always know
+      who's at your door, no matter where you are. \r\n\r\nThe camera is installed
+      in much the same way as a traditional doorbell, using screw terminals for power.
+      The integrated camera uses some of the same technology as Hikvision's professional
+      CCTV cameras, capturing 1080p (2 megapixel) video packed with detail. The device
+      also features an ultra wide angle lens to get everything in the frame, and non-glow
+      infrared LEDs with a 5m range to ensure a great picture at all hours. The kit
+      even includes 4 different faceplates, which can be easily switched to best match
+      your home's colours.\r\n\r\nFollowing a simple configuration process, the camera
+      connects to your home Wifi network. You can then use Hikvision's popular Hik-Connect
+      app to view the camera on your mobile, wherever you are. As well as checking
+      live footage and alerts when the bell is pressed, you can also set motion detection
+      notifications for any subject in front of your door.  The app also features
+      two way audio, letting you talk to callers via the built-in speaker."
+    specification: "Processor: High performance embedded SOC processor\r\nOperation
+      System: Embedded Linux\r\nImaging Sensor: 2Mp colour CMOS\r\nLight Sensitivity:
+      Low illumination\r\nLens: 1.96mm, f/2.2\r\nField of View: 180 degrees\r\nVideo
+      Compression: H.264\r\nVideo Streaming: 1080p (main stream), VGA (sub stream)\r\nWDR:
+      Supported\r\nAudio Streaming: Two way, Duplex\r\nAudio Input: Built-in omnidirectional
+      microphone\r\nAudio Output: Built-in loudspeaker\r\nAudio Compression: G.711U,
+      64kbps\r\nAudio Quality: Noise suppression, Echo cancellation\r\nLight Supplement:
+      940nm IR\r\nNetwork Protocol: TCP/IP, RTSP\r\nNetwork Interface: Wireless (2.4GHz
+      wireless network card)\r\nMotion Detection: Supported\r\nStorage: MicroSD\r\nButton:
+      1x Call, 1x Reset\r\nProtection Level: IP54\r\nPower Supply: 12V DC\r\nPower
+      Consumption: Max 0.6A\r\nWorking Temperature: -30c to +50c\r\nWorking Humidity:
+      10-90%\r\nDimensions: 122x46x28mm\r\n"
+    in_the_box: "<ul>\r\n<li>1x HD Wifi doorbell camera</li>\r\n<li>4x Faceplates</li>\r\n<li>1x
+      Screw terminal power connector</li>\r\n</ul>"

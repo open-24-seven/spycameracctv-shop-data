@@ -1,0 +1,27 @@
+product:
+  path: rg59-co-axial-coax-male-bnc-twist-on-connector-adapter-for-cctv-camera
+  sku: BNCTWIST
+  name: Co-Axial RG59 Coax Male BNC Twist On Connector Adapter for CCTV x 1
+  images:
+  - path: 1668.jpg
+    title: Male BNC Twist On Co-Axial Adapter
+  - path: 4387.jpg
+    title: BNC Twist adapter components
+  prices:
+    default:
+    - break: 1
+      unit_price: 12400
+  content:
+    ean: "5060181652608"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/vBe_C69xKEM
+    manuals: []
+    software: []
+    description: "You can use this BNC Male Twist On Connector Adapter with cut RG59
+      Coax Cable to create your own BNC Cable lengths.\r\n\r\n<a href=\"https://www.spycameracctv.com/spycamera/100-metre-reel-rg59-co-axial-combo-cctv-camera-cable-with-power-line\"
+      target=\"_blank\">Click this link for Reels of <strong>RG59 Co-Axial Cable</strong>.</a>"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1 x BNC Male RG59 Co-Axial Twist On Connector</li>\r\n</ul>"

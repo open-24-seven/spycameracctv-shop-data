@@ -1,0 +1,26 @@
+product:
+  path: 10m-cat5e-outdoor-ethernet-network-cable-ptz-ip-camera-systems
+  sku: 10MCAT5ODW
+  name: 10m Cat 5e Outdoor Ethernet Network Cable
+  images:
+  - path: 4388.jpg
+    title: 10m Cat6 Outdoor Ethernet Network Cable for PTZs and IP Camera Systems
+  prices:
+    default:
+    - break: 1
+      unit_price: 66700
+  content:
+    ean: "5060423076636"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This pre-cut high grade Cat5e cable is ideal for use with IP security
+      systems, or any other network connection that requires lots of bandwidth. The
+      waterproof outer jacket enables them to be installed outdoors. Removing the
+      RJ45 connectors lets you use it as a data cable for PTZ controls.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 10m Cat5e cable</li>\r\n<li><strong>2 Year warranty
+      with SpyCameraCCTV</strong></li>\r\n</ul>"

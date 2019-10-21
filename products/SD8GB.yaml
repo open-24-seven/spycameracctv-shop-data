@@ -1,0 +1,27 @@
+product:
+  path: sd-card-8gb-memory-card
+  sku: SD8GB
+  name: 8GB SDHC Memory Card Class 10
+  images:
+  - path: 2996.jpg
+    title: 8Gb SDHC Memory Card for Full Size SD Card Slots
+  prices:
+    default:
+    - break: 1
+      unit_price: 62500
+  content:
+    ean: "740617186185"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 8GB SD Card is ideal for use in any camera and is capable of
+      recording HD video thanks to the Class 10 high data rate specification. \r\n\r\nThis
+      card works with all of our products that feature an SD card slot.\r\n\r\n<i>To
+      ensure we can offer the best price and availability to our customers, we use
+      a variety of SD card manufacturers. This means the card you receive may not
+      match the model pictured</i>"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 8GB SDHC SD Card</li>\r\n</ul>"

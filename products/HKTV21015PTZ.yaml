@@ -1,0 +1,58 @@
+product:
+  path: hikvision-turbo-hd-tvi-108p-ptz-dome-100m-ir-15x-zoom
+  sku: HKTV21015PTZ
+  name: Hikvision Turbo HD TVI 1080p PTZ Dome - 100m IR, 15x Zoom
+  images:
+  - path: 5685.jpg
+    title: Hikvision Turbo HD TVI 1080p PTZ Dome - 100m IR, 15x Zoom
+  - path: 5686.jpg
+    title: Hikvision Turbo HD TVI PTZ camera front view
+  - path: 5687.jpg
+    title: Hikvision HD TVI PTZ camera with bracket
+  prices:
+    default:
+    - break: 1
+      unit_price: 2540000
+  content:
+    ean: "5060423076308"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Pan-tilt-zoom (or PTZ) cameras are mounted to a motorised base,
+      letting you remotely control their position. This makes them a fantastic option
+      for easily monitoring larger spaces that would otherwise need multiple cameras,
+      or for tracking moving subjects. This Hikvision Turbo HD camera uses the HD-TVI
+      format, letting you send high resolution video and camera movement commands
+      all over one standard BNC cable. \r\n\r\nAs well as the motorised base, the
+      camera is fitted with a 15x optical zoom lens, able to move from a 53 degree
+      field of view, to a tight 4 degree angle. When combined with the 1080p Full
+      HD sensor, this allows you to capture incredibly fine levels of subject detail.
+      This is essential when used in areas with lots of foot traffic, or for capturing
+      number plates in car parks. All of the electronics are protected by an IP66
+      rated weatherproof case, allowing outdoor installation.\r\n\r\nOnce connected
+      to a Hikvision DVR, you can either control the camera using the recorder's built-in
+      interface, or by using the Hikvision PC app. For direct fingertip control, connect
+      the DVR to one of our range of dedicated PTZ joystick controllers. The camera
+      can then be moved manually, or programmed with up to 256 preset positions and
+      10 patrol patterns. You can even set the camera to carry out patrol movements
+      at regular timed intervals."
+    specification: "Imaging Sensor: 1/2.8\" CMOS\r\nMaximum Resolution: 1920x1080\r\nFrame
+      Rate: 25fps\r\nMinimum Illumination: 0.005 Lux (IR Off), 0 Lux (IR On)\r\nWhite
+      Balance: Auto, Manual, HAuto, ATW, Indoor, Outdoor\r\nAGC, Auto, Manual\r\nS/N
+      Ratio: >52dB\r\nDNR: 3D DNR\r\nWDR: DWDR\r\nShutter Speed: 1s to 1/10,000s\r\nDay
+      & Night: IR Cut filter\r\nPrivacy Mask: 8 Programmable\r\nFocus Mode: Auto,
+      Semiauto, Manual\r\nFocal Length: 5 to 75mm\r\nField of View: 53.8 to 4 degrees\r\nMinimum
+      Working Distance: 10 to 1500mm (wide to tele)\r\nZoom speed: Approx 2.4s\r\nPan
+      Range: 360Â°\r\nPan Speed: 0.1 to 80Â° /s\r\nTilt Range: -15 to 90Â° /s\r\nPreset
+      Positions: 256\r\nPatrol: 10 programmable, up to 32 positions each\r\nPattern:
+      5 Programmable\r\nPower off Memory: Supported\r\nPark Action: Preset, Patrol,
+      Pattern, Pan Scan, Tilt Scan, Panorama Scan, Day Mode, Night Mode, Zero Calibration,
+      None\r\nIR Distance: Up to 100m\r\nIR Intensity: Automatically adjusts with
+      zoom ratio\r\nOutput: 1x Composite BNC, 1x RS485\r\nPower: 12V DC\r\nWorking
+      Temperature: -30Â°c tot +65Â°c\r\nWorking Humidity: <90%\r\nProtection Level:
+      IP66, TVS 4000V Lightning protection\r\nDimensions: 164.5mm (diameter) x 295mm\r\nWeight:
+      2000g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision Turbo HD PTZ dome</li>\r\n</ul>"

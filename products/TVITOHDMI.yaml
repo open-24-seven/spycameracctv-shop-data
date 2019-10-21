@@ -1,0 +1,35 @@
+product:
+  path: hikvision-tvi-hdmi-converter-loopthrough-monitor-cameras-tv
+  sku: TVITOHDMI
+  name: TVI to HDMI Converter with Loopthrough - Monitor Cameras on TV
+  images:
+  - path: 5706.jpg
+    title: " \tTVI to HDMI Converter with Loopthrough - Monitor Cameras on TV"
+  prices:
+    default:
+    - break: 1
+      unit_price: 645000
+  content:
+    ean: "5060423076506"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "HD-TVI cameras record exceptional quality video, but their video
+      format it can be frustrating to use them with other HD accessories. This TVI
+      to HDMI converter is a simple solution, letting you watch a 1080p camera directly
+      on almost any HD TV or monitor without any extra compression or loss in quality.
+      \r\n\r\nThe device also features a BNC output, providing a loopthrough for the
+      video. This means you can install the converter in between the camera and a
+      recorder, or before a Balun. "
+    specification: "Input Level: >500 mVp-p\r\nOutput Format: HDMI 1.4b\r\nInput Cable
+      Equalisation: 1080p, 720p, Supporting 100m75-5 Cable input with distance of
+      100m\r\nInput Format: 1080p @25fps, 720p @25/50fps, Compatible with V2.0 HD-TVI\r\nInput
+      Impedance: 75 Ohms\r\nOutput Resolution: 720p @50fps, 1080p @50fps\r\nOutput
+      Format: HDMI 1.4b, D type, 10m Distance\r\nLED: 1x Power, 1x Video Source\r\nPower
+      Supply: 12V DC, 1A\r\nPower Consumption: <8W\r\nWorking Humidity: 10-90%\r\nWorking
+      Temperature: -30Â°c to +75Â°c\r\nDimensions: 50x30x25mm"
+    in_the_box: "<ul>\r\n<li>1x TVI to HDMI converter</li>\r\n<li>1x Mains power supply</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

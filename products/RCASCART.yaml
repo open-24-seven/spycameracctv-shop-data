@@ -1,0 +1,26 @@
+product:
+  path: rca-phono-to-scart-audio-video-adapter
+  sku: RCASCART
+  name: RCA Phono to SCART Audio / Video Adapter
+  images:
+  - path: 3507.jpg
+    title: RCA to Scart Connector
+  - path: 3508.jpg
+    title: RCA to Scart Connector front
+  prices:
+    default:
+    - break: 1
+      unit_price: 49900
+  content:
+    ean: "5060181652486"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This adaptor allows you to convert RCA/phono audio video connection
+      to SCART to directly connect to traditional televisions.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x RCA to SCART adaptor</li>\r\n<li><strong>2 year guarantee
+      from SpyCameraCCTV</strong></li>\r\n</ul>"

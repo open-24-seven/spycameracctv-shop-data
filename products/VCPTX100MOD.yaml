@@ -1,0 +1,40 @@
+product:
+  path: veracity-outreach-max-xt-outdoor-poe-extender
+  sku: VCPTX100MOD
+  name: Veracity Outreach Max XT - Outdoor PoE Extender
+  images:
+  - path: 5876.jpg
+    title: Veracity Outreach Max MT - Outdoor PoE Extender
+  - path: 5877.jpg
+    title: Veracity outreach Max MT wiring diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 2050000
+  content:
+    ean: "5060423078418"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Veracity is one of the most respected names in IP security, creating
+      networking accessories for a wide range of specialist applications. The Outreach
+      Max XT is part of their popular range of PoE extenders, letting you boost the
+      distance over which cameras can draw power from the network by 100m. Multiple
+      units can also be chained together to allow a total transmission distance of
+      up to 400m (for 6W cameras).\r\n\r\nCrucially, the extenders are protected by
+      a heavy duty IP66 housing. This ensures they are completely weatherproof, and
+      suitable for installation in exposed locations. This is essential for setting
+      up IP systems across large properties such as farms or car parks."
+    specification: "Power: 1.3W via PoE\r\nForwarded PoE Power: Up to 70W (depending
+      on standard)\r\nMaximum Current: 0.7A (data pairs), 1.5A (spare pairs)\r\nPoE
+      Standards: IEEE 802.3af PoE, IEEE 802.3at PoE+ (2 event signature), Custom PoE
+      (including always on 48V & 4-pair)\r\nEthernet Interface: 2x Independently auto-configuring
+      10/100Mbps ports\r\nLEDs: Status indicators(Green - PoE power good, Yellow -
+      Ethernet link/activity)\r\nDimensions: 210x50x31mm\r\nMounting: 2/4 bolt 7mm
+      mounting holes, on 50/60mm centres\r\nOperational Temperature: -40&deg;c to
+      +60&deg;c\r\nRelative Humidity: <85%, non condensing\r\nCompliance: CE, FCC,
+      RoHS"
+    in_the_box: "<li>\r\n<li>1x Veracity Outreach Max XT PoE extender</li>\r\n</ul>"

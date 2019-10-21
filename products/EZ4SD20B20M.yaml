@@ -1,0 +1,57 @@
+product:
+  path: garden-wildlife-camera-kit-20m-night-vision-20m-cable-usb
+  sku: EZ4SD20B20M
+  name: Garden Wildlife Camera Kit with 20m Night Vision, 20m Cable and USB
+  images:
+  - path: 5266.jpg
+    title: Garden Wildlife Camera Kit with 20m Night Vision, 20m Cable and USB
+  - path: 5267.jpg
+    title: 20m bullet CCTV camera front view
+  - path: 5268.jpg
+    title: BNC video and DC Power Cable
+  - path: 5269.jpg
+    title: USB video connector
+  prices:
+    default:
+    - break: 1
+      unit_price: 766300
+  content:
+    ean: "5060423073086"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Our bird box cameras are incredibly popular, providing an easy way
+      to watch families of chicks hatch and grow inside of a nesting box. It's no
+      surprise then, that we are often asked for a similar way to view wildlife in
+      more open areas. This garden wildlife camera kit is the answer, featuring a
+      compact but powerful night vision camera, along with all the connectors you
+      need to view and record it on your PC. It's ideal for monitoring everything
+      from badgers, hedgehogs and foxes, letting you get close to all the wildlife
+      right at your back door!\r\n\r\nThe kit includes a compact CCTV camera, easily
+      concealed on the edge of some bushes or amongst vegetation. Despite its size,
+      it features 20 metres of night vision, allowing it to clearly record subjects
+      even in larger unlit gardens. The housing is also rated IP66 waterproof, ensuring
+      it can be installed in the most exposed locations without being damaged by the
+      elements.\r\n\r\nThe kit features everything you need to view and record it
+      on a PC. This includes a 20m AV cable to run back to your house, and a USB video
+      connector to plug directly into your computer. The software lets you either
+      watch live footage or record short clips using motion detection. You can also
+      plug the camera directly into a monitor or CCTV recorder using an RCA connector."
+    specification: "<strong>Camera</strong>\r\nImaging Sensor: CMOS\r\nEffective Pixels:
+      1920x1080\r\nMinimum Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter
+      Speed: 1/25 to 1/50,000s\r\nLens Mount: M12\r\nDay & Night: ICR\r\nSynchronization:
+      Internal\r\nVideo Frame Rate: 1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N
+      Ratio: >62dB\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational Humidity:
+      <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower Consumption: MAx 4W\r\nProtection
+      Level: IP66\r\nIR Range: 20m\r\nDimensions: 70mm (diameter) x 154.5mm\r\nWeight:
+      400g \r\n\r\n<strong>USB Connector</strong>\r\n\r\nVideo Inputs: 1x RCA (PAL
+      or NTSC)\r\nAudio Input: 1x RCA\r\nDisplay Resolution: 640x480\r\nRecording
+      Resolution: 640x480 @ 30fps \r\n\r\n<strong>System Requirements</strong>\r\n\r\nP4
+      1.7GHz CPU or above\r\n256MB RAM\r\nVGA card with 32MB memory\r\nOne available
+      USB 2.0 port\r\n1 GB+ hard drive space for video capture and editing\r\nCompatible
+      Windows-sound card\r\nWindows XP, Vista, 7, 8, 8.1, 10 supported"
+    in_the_box: "<ul>\r\n<li>1x Outdoor CCTV Camera</li>\r\n<li>1x 20m AV Cable</li>\r\n<li>1x
+      Mains Power Supply</li>\r\n<li>1x Phono Adapter</li>\r\n<li>1x USB Video Connector</li>\r\n</ul>"

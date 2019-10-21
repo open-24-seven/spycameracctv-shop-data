@@ -1,0 +1,34 @@
+product:
+  path: 50m-cat5e-outdoor-ethernet-network-cable-ptz-ip-camera-systems
+  sku: 50MCAT5ODW
+  name: 50m Cat 5e Outdoor Ethernet Network Cable
+  images:
+  - path: 4479.jpg
+    title: 50m Cat6 Outdoor Ethernet Network Cable for PTZs and IP Camera Systems
+  prices:
+    default:
+    - break: 1
+      unit_price: 266700
+  content:
+    ean: "5060181659522"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 50m Cat5e ethernet cable is perfect for use in demanding high
+      bandwidth applications such as commerical size IP camera systems with HD recorders.
+      The cable is also waterproof, thanks to its durable outer jacket, allowing it
+      to be run to exposed outdoor locations. You can even clip the RJ45 connectors
+      off and use it as a PTZ data cable.
+    specification: "Wires: 8 circuits (4 twisted pairs)\r\nStandard wire colours:
+      Blue/blue-white, orange/orange-white, green/green-white and brown/brown-white\r\nSolid
+      wire: AWG 23/1\r\nMaterials: HDPE insulator, PE jacket\r\nFrequency: Maximum
+      250MHz\r\nOperating temperature: -20Â° to 75Â°\r\nDC-Loop resistance: â‰¤0.0658
+      â„¦/m\r\nPropagation speed: 0.64\r\nPropagation delay: 4.80â€”5.30 ns/m\r\nDelay
+      skew: Ë‚ 100 MHz Ë‚ 0.20 ns/m\r\nCapacitance: f.f.s\r\nReturn loss (Min. at
+      250MHz): 15.6 dB\r\nAttenuation (Min. at 250MHz): 39.4 dB\r\nStandards: EIA/TIA
+      568 B.2, EN 50173-1, ISO/IEC 11801"
+    in_the_box: "<ul>\r\n<li>1x 50m Cat5e network cable</li>\r\n<li><strong>2 Year
+      warranty with SpyCameraCCTV</strong></li>\r\n</ul>\r\n\r\n"

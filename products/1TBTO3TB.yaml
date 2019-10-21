@@ -1,0 +1,22 @@
+product:
+  path: 1tb-to-3tb-upgrade
+  sku: 1TBTO3TB
+  name: 1TB to 3TB Hard Drive Upgrade
+  images:
+  - path: 3971.jpg
+    title: 1TB to 3TB Hard Drive Upgrade
+  prices:
+    default:
+    - break: 1
+      unit_price: 666700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

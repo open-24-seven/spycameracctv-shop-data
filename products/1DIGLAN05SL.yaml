@@ -1,0 +1,56 @@
+product:
+  path: 1080p-wireless-cctv-spotlight-kit-mobile-access-touch-screen-dvr
+  sku: 1DIGLAN05SL
+  name: 1080p Wireless CCTV Spotlight Kit - Mobile Access, Touch Screen DVR
+  images:
+  - path: 5909.jpg
+    title: 1080p Wireless CCTV Spotlight Kit - Mobile Access, Touch Screen DVR
+  - path: 5910.jpg
+    title: 1080p Wireless CCTV Spotlight Kit - Mobile Access, Touch Screen DVR
+  - path: 5911.jpg
+    title: digital wireless CCTV monitor with touchscreen and MicroSD
+  - path: 5912.jpg
+    title: PIR motion detection
+  prices:
+    default:
+    - break: 1
+      unit_price: 2125000
+  content:
+    ean: "5060611442526"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Adding security lighting to your home is one of the single most
+      effective visual deterrents against intruders or burglars. This simple kit includes
+      a wireless camera with a built in security spotlight, pairing it with a touchscreen
+      monitor & recorder, for an incredibly versatile home security system that can
+      be up and running without a complex installation.\r\n\r\nThe powerful spotlight
+      is triggered whenever the PIR sensor on the front of the camera detects a moving
+      subject, illuminating the area with white light. The feature packed camera also
+      boasts 1080p Full HD images, and infrared LEDs for 10m night vision when the
+      spotlight isn't in use. It even has a built-in speaker, allowing you to talk
+      back to subjects near the camera remotely from the screen or mobile app.\r\n\r\nThe
+      camera's wireless signal is picked up by the included touchscreen monitor, letting
+      you watch live pictures, or files recorded to the MicroSD card slot (card not
+      included). A lithium rechargeable battery lets you easily pick the screen up
+      and move it around your house. You can also connect the device to your router
+      for mobile access, allowing you to watch and control the cameras from anywhere
+      using your mobile or tablet.\r\n\r\n"
+    specification: "<p>Camera</p>\r\nFrequency Range: 2.4-2.483GHz\r\nData rate: 6MBps\r\nTransmitting
+      Power: 16dBm (TYP)\r\nModulation Type: GFSK with FHSS\r\nTransmission Range:
+      100m\r\nImaging Sensor: 1/2.7\" CMOS\r\nResolution: 1920x1080\r\nImage Processing:
+      H.264\r\nLens: 3.6mm\r\nField of View: 92Â°\r\nMinimim Illumination: 5 Lux (IR
+      Off), 0 Lux (IR On)\r\nIR Range: 10m\r\nPower: 9V DC\r\nPower Consumption: 1680mA
+      (max with spotlight on)\r\nOperational Temperature: -10Â°c to +40Â°c\r\nOperational
+      Humidity: 0-85%\r\nHousing Material: ABS\r\n<br>\r\n<p>Recorder</p>\r\nFrequency
+      Range: 2.4-2.483GHz\r\nData Rate: 6Mbps\r\nReceiving Sensitivity: -81dBm\r\nModulation
+      Type: GFSK with FHSS\r\nLCD Panel Size: 9\"\r\nLCD Resolution: 1024x600\r\nViewing
+      Angle: 140Â° (horizontal), 110Â° (vertical)\r\nPower Requirements: 5V DC 2A\r\nPower
+      Consumption: 1050mA (max)\r\nOperational Temperature: -10Â°c to +40Â°c\r\nOperational
+      Humidity: 0-85%"
+    in_the_box: "<ul>\r\n<li>1x Wireless spotlight camera</li>\r\n<li>1x 9\" touch
+      screen monitor</li>\r\n<li>2x Mains power supplies</li>\r\n<li>1x Network cable</li>\r\n<li>Full
+      instructions</li>\r\n</ul>"

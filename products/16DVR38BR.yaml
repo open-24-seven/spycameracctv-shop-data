@@ -1,0 +1,41 @@
+product:
+  path: b-grade-gamut-16-channel-cctv-dvr-d1-h264
+  sku: 16DVR38BR
+  name: B Grade 40% Off - Gamut 16 Channel CCTV DVR, D1, H264
+  images:
+  - path: 5690.jpg
+    title: " \tB Grade 40% Off - Gamut 16 Channel CCTV DVR, D1, H264"
+  prices:
+    default:
+    - break: 1
+      unit_price: 2408300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 20% Off RRP</strong>\r\nThis item is either
+      an ex display model, has been unboxed, or was a customer return. All B grade
+      products are tested by our tech team, and still covered by our product guarantee.
+      \r\n\r\nStock is extremely limited, so don't miss out on this great bargain
+      price!"
+    specification: "Video Input: 16 Composite BNC\r\nVideo Output: 1 Composite BNC,
+      1 VGA Port\r\nAudio Input/Output: 1 RS-232 Serial Port\r\nUSB: 2 USB Ports\r\nNetworking:
+      1 Ethernet RJ45\r\nPAL Record Resolutions:\r\nD1(720x576 / 50FPS), Half D1(720x288
+      / 100FPS), CIF(320x288 / 200FPS)\r\nNTSC Record Resolutions:\r\nD1(720x480 /
+      60FPS), Half D1(720x240 / 120FPS), CIF(320x240 / 240FPS)\r\nModes: Continuous,
+      Motion Detection, Alarm Triggered, Time schedule\r\nCapacity: 1TB (Internal
+      3.5 Inch HDD SATA Interface)\r\nVideo: H.264\r\nAudio: ADPCM\r\nPAL : 704x576
+      (25 FPS per Display Window)\r\nNTSC: 704x480 (30 FPS per Display Window)\r\nVGA
+      Modes (60Hz): 1920x1080, 1680x1050, 1600x1200, 1440x900, 1280x1024, 1024x768,
+      800x600\r\nBackup Options: USB Stick/HDD, USB DVD R/W\r\nControllers: Front
+      Panel, IR Remote Control, USB Mouse\r\nPTZ Protocols: RS-422, RS-485\r\nPower
+      Supply: DC 12v / 5A\r\nOperating Temperature: 10 Degrees C - 55 Degrees C\r\nOperating
+      Humidity: 10% - 95%\r\nUnit Weight: 4Kg\r\nDimensions: 315(W) x 224(D) x 52(H)
+      mm \r\n"
+    in_the_box: "<ul>\r\n<li>1x 16 Channel DVR</li>\r\n<li>1x Mains power supply</li>\r\n<li>1x
+      IR remote</li>\r\n<li>1x USB mouse</li>\r\n<li>1x 1m AV cable</li>\r\n<li>1x
+      Manual and software CD</li>\r\n<li><strong>2 Year guarantee with SpyCameraCCTV</li>"

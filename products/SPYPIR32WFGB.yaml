@@ -1,0 +1,64 @@
+product:
+  path: wifi-wireless-ip-spy-camera-hidden-pir-sensor-ir-motion-detection
+  sku: SPYPIR32WFGB
+  name: WiFi PIR Sensor Hidden Spy Camera with Motion Detection 720p HD
+  images:
+  - path: 3918.jpg
+    title: WiFi Wireless IP Spy Camera Hidden in PIR Sensor w IR, Motion Detect
+  - path: 4369.jpg
+    title: Wifi IP camera hidden in PIR sensor front view
+  - path: 3919.jpg
+    title: PIR Sensor Wireless IP Camera connectors
+  - path: 4355.jpg
+    title: Sample Footage from Wireless IP CCTV Camera
+  - path: 4572.jpg
+    title: Wireless IP Camera 720 HD Hidden in PIR Sensor w/ Motion Detection
+  prices:
+    default:
+    - break: 1
+      unit_price: 1408300
+  content:
+    ean: "5060181653926"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/cj9HlzA-Ctw
+    manuals:
+    - http://downloads.spycameracctv.com/SPYPIR32WF/manuals/SPYPIR32WF-IPC-MANUAL.pdf
+    software: []
+    description: "Looking completely inconspicuous in any office or shop, this discreet
+      PIR sensor actually conceals an advanced 720 HD Wireless IP Camera, complete
+      with Motion Detection. This is actually the latest in our popular range of <a
+      href=\"https://www.spycameracctv.com/spy/spy-cameras/home-office-spy-cameras/wireless-camera/\"
+      title=\"WiFi Spy Cams\">WiFi Spy cams</a>. These ingenious devices allow you,
+      after a one time set up, to log in and watch & record footage in real time over
+      the internet. As the camera uses a WiFi connection, there is less risk of a
+      \ suspicious cable giving away it's location!\r\n\r\nThis camera is completely
+      camouflaged inside of a standard sized PIR sensor casing. Whilst the PIR is
+      non-functional, it looks perfectly at home discreetly mounted on a wall in an
+      office or retail space. All the camera needs is a tiny pinhole in the front
+      of the case in order to record through.\r\n\r\nDespite its small size, the camera
+      manages to fit in a professional quality CMOS imaging chip. This unit can record
+      crisp full colour images in 1280x720 HD quality. This easily exceeds the standard
+      recommended by police for effective evidence gathering, and helps ensure any
+      footage has usable detail.\r\n\r\nOnce installed, the camera just has to be
+      connected to your internet router via a cable in order to be initially configured.
+      Once this has been done, the cable can be disconnected and the camera can be
+      used with a wireless connection. The included software allows a host of professional
+      features including adjustable Motion Detection and scheduled recording. Footage
+      can then be recorded directly onto your computer's hard drive, or to the built-in
+      MicroSD card slot (please note cards not included). As well as PCs, this camera
+      can be viewed over mobile devices such as iPhones, iPads and Android handsets,
+      allowing you to keep a close eye on your belongings wherever you are!"
+    specification: "Imaging Sensor: 1/4\" Full Colour CMOS\r\nSensor Horizontal Resolution:
+      1280x720\r\nMain Stream Resolution: 1280x720 @25fps, 4CIF @25fps\r\nSub-Stream
+      Resolution: 4CIF @25fps, CIF @25fps\r\nVideo Compression: H.264\r\nLens: 3.7mm
+      Pinhole\r\nField of View: 57Â°\r\nAlarm Connections: 1 in, 1 out\r\nAlarm triggers:
+      Motion Detection, Video Loss, Network Disconnection, IP Address Conflict, Storage
+      Full, Storage Error\r\nUnit configuration: Web browser or CMS software\r\nProtocol:
+      TCP/IP, HTTP, DHCP, DNS, DDNS, SMTP, ONVIF, NTP\r\nNetwork Communication: RJ45
+      10m/100m Ethernet, 802.11 Wireless\r\nTwo Way Talk: Supported\r\nStorage: Network\r\nOperational
+      Temperature: -20Â°c to +55Â°c\r\n\r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hidden PIR Sensor IP Camera</li>\r\n<li>1x Mains Power
+      Supply</li>\r\n<li>English step by step instructions</li>\r\n</ul>"

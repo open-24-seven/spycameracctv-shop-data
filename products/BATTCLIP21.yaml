@@ -1,0 +1,37 @@
+product:
+  path: 9v-pp3-battery-clip-for-bird-box-wireless-8-12v-camera-2mm-connector
+  sku: BATTCLIP21
+  name: 9V PP3 Battery Clip for Camera with 2.1mm Connector
+  images:
+  - path: 1685.jpg
+    title: 9V PP3 Battery Clip for Bird Box Wireless 8-9V Cameras 2.1mm Connector
+  prices:
+    default:
+    - break: 1
+      unit_price: 16600
+  content:
+    ean: "5060181652035"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This Battery Adapter will let you use your pinhole, bird box or
+      wireless CCTV camera for short periods of time without the need for a local
+      power source. Simply attach a 9V PP3 battery to the clips and plug the DC Jack
+      Connector into your Birdbox Camera, 2.4GHz Wireless Camera or Pinhole Camera.\r\n\r\n<b>Please
+      note</b> your Camera must have a Female Jack-Type Connector with a 2.1mm inner
+      pin diameter and a 5.5mm outer diameter. Please verify that your camera also
+      accepts an 8 to 9 Volt power input.\r\n\r\nThe length of time to be expected
+      from a 9V PP3 Battery is relative to the power consumption of your camera as
+      well as the quality and capacity of your batteries. From our testing we have
+      found the following:\r\n<ul>\r\n<li>Wireless Bird Box Cameras with Infrared
+      are the most power-hungry and will typically consume a 9V PP3 battery in approximately
+      2-3 hours. We recommend the use of Lithium batteries in this scenario.</li>\r\n<li>Wireless
+      Pinhole Cameras with no Infrared are second on the scale of power consumption
+      and will typically consume a 9V PP3 battery in around 4 hours.</li>\r\n<li>With
+      a Wired Pinhole Camera with no Infra-Red you can expect a battery life of up
+      to 8 hours.</li>\r\n</ul>"
+    specification: "Jack Outer Diameter: 5.5mm\r\nJack Inner Diameter: 2.1mm"
+    in_the_box: "<ul>\r\n<li>1 x PP3 9V Battery to 5.5mm / 2.1mm Male DC Plug Adapter</li>\r\n</ul>"

@@ -1,0 +1,35 @@
+product:
+  path: hikvision-cctv-monitor-22-inch-1080p-full-hd-led-hdmi-vga
+  sku: LEDMON22HK
+  name: Hikvision CCTV Monitor -  22 Inch 1080p Full HD LED with HDMI, VGA
+  images:
+  - path: 5431.jpg
+    title: " \tHikvision CCTV Monitor - 22 Inch 1080p Full HD LED with HDMI, VGA"
+  prices:
+    default:
+    - break: 1
+      unit_price: 1500000
+  content:
+    ean: "5060423073628"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - LEDMON22HK.pdf
+    software: []
+    description: "This Hikvision CCTV monitor has a 1920x1080 Full HD screen capable
+      of displaying security footage with pin sharp resolution. It uses a backlit
+      LED panel to ensure a clear image with bright, true-to-life colours, all with
+      a huge 170 degree viewing angle.\r\n\r\nThe screen can take both HDMI and VGA
+      inputs, allowing it to work with any one of our CCTV DVRs or NVRs. It's not
+      only useful for CCTV either, the industry standard connections will work with
+      most computers."
+    specification: "Display: LED Backlit TFT\r\nScreen Size: 22\"\r\nPixel Pitch:
+      0.24825x0.24825mm\r\nMax Resolution: 1920x1080\r\nBrightness: 250cd/m2\r\nContrast:
+      1000:1\r\nResponse Time: 5ms\r\nColour: 16.7M\r\nViewing Angle: 170Â°\r\nInput:
+      1x HDMI, 1x VGA\r\nMount: VESA 100x100\r\nPower Supply: AC 100-240V\r\nConsumption:
+      30W (on), 0.5W (standby)\r\nOperational Temperature: 0Â°c to +40Â°c\r\nOperational
+      Humidity: 10-85%\r\nDimensions: 511.4x313x45.4mm\r\nWeight: 4.5kg"
+    in_the_box: "<ul>\r\n<li>1x 22\" Hikvision CCTV monitor</li>\r\n<li>1x Monitor
+      stand</li>\r\n<li>1x VGA Cable</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

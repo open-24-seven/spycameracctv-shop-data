@@ -1,0 +1,33 @@
+product:
+  path: bnc-video-balun-pair-cctv-over-cat5-cable
+  sku: BAL201
+  name: BNC Video Balun (Pair) Transmit CCTV over Cat 5 Cable
+  images:
+  - path: 3758.jpg
+    title: BNC Video Balun (Pair)- Transmit CCTV over Cat5 Cable
+  prices:
+    default:
+    - break: 1
+      unit_price: 91600
+  content:
+    ean: "5060181654466"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This pair of <strong>CCTV Video Baluns</strong> provide a quick
+      and easy way of transmitting video from your CCTV system over a standard Cat5
+      cable. This type of cable is common in many offices and workplaces, so these
+      adapters potentially provide a way of reducing the amount of cabling you will
+      have to install.\r\n\r\nTo use them, simply strip two lengths of wire from each
+      end of your Cat5 cable- be sure to use the same colour wires at each end- and
+      insert them into the Balun's terminals. You cna now plug the cable straight
+      into your Recorder or camera with the standard BNC connector.\r\n\r\nUsing these
+      Baluns will allow you to potentially send video over much greater distances-
+      up to 300m!"
+    specification: "Number of Video Inputs: 1\r\nVideo Input Connection: BNC\r\nCAT5
+      Output Connection: Terminal Strip\r\nPower: Passive (not required)\r\nDimensions:
+      20x37x35mm"
+    in_the_box: "<ul>\r\n<li>2x BNC Video Baluns</li>\r\n</ul>"

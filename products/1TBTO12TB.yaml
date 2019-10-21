@@ -1,0 +1,22 @@
+product:
+  path: 1tb-to-12tb-upgrade
+  sku: 1TBTO12TB
+  name: 1TB to 12TB Hard Drive Upgrade
+  images:
+  - path: 5422.jpg
+    title: ' 1TB to 12TB Hard Drive Upgrade'
+  prices:
+    default:
+    - break: 1
+      unit_price: 4666700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

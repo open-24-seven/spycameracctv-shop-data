@@ -1,0 +1,32 @@
+product:
+  path: wireless-high-gain-booster-antenna-for-2ghz-av-sender-or-wifi-router
+  sku: 7DB24GHZ
+  name: 'High Gain Omni Directional Wireless Antenna for 2.4GHz AV Senders '
+  images:
+  - path: 1765.jpg
+    title: Omni-Directional 2.4GHz Wireless 7dBi Hi-Gain Booster Antenna
+  prices:
+    default:
+    - break: 1
+      unit_price: 133300
+  content:
+    ean: "5060181653124"
+    meta:
+      title: ""
+      description: Extend your CCTV range with this high gain wireless antenna that's
+        omni directional for simple setup. Boosts wireless range too!
+    videos:
+    - https://www.youtube.com/embed/XMjed3_TiNY
+    manuals: []
+    software: []
+    description: "This 7dBi omni directional high gain wireless antenna is a great
+      way to extend the reach of your transmitter/receiver kits. By installing them
+      on the exterior of a building and then running a cable through the wall, you
+      can easily negate the impact of obstructions on your system's wireless range.
+      \r\n\r\nThis high gain antenna can double wireless range on your CCTV transmitter
+      and receiver. It's omni-directional which means you don't have to precisely
+      aim the antenna towards your transmitter or receiver. "
+    specification: "Frequency range: 2,400 - 2,483.5MHz\r\nBandwidth: 83.5MHz\r\nGain:
+      7dBi\r\nVSWR: <1.5:1\r\nImpedance: 50ohm\r\nPolarization: vertical\r\nMaximum
+      power: 50W\r\nLength: 27.5cm\r\nWeight: 250g"
+    in_the_box: "<ul>\r\n<li>1x High-gain 7dBi Antenna</li>\r\n</ul>"

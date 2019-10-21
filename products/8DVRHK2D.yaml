@@ -1,0 +1,76 @@
+product:
+  path: hikvision-turbohd-tvi-8-channel-1080p-hd-dvr-mobile-access
+  sku: 8DVRHK2D
+  name: Hikvision Hybrid 8 Channel TVI DVR with PoC
+  images:
+  - path: 4797.jpg
+    title: Hikvision TurboHD TVI 8 Channel 2TB 1080p HD DVR with mobile access
+  - path: 4846.jpg
+    title: Hikvision 8 channel Turbo HD TVI recorder
+  - path: 4847.jpg
+    title: Hikvision 8 channel recorder rear view
+  - path: 4848.jpg
+    title: Hikvision Turbo HD TVI 8 channel DVR box
+  - path: 4798.jpg
+    title: Turbo HD TVI Sample Image
+  prices:
+    default:
+    - break: 1
+      unit_price: 2660000
+  content:
+    ean: "5060423076278"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - "https://www.youtube.com/embed/5eJ6m5R94jY\r\n"
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/8DVRHK2C.pdf
+    software: []
+    description: "We often talk to customers who have a large CCTV system, but want
+      to upgrade one or two key cameras. Previously having different types of camera
+      in a system would cause compatibility issues, however this 8 channel Hybrid
+      CCTV recorder from Hikvision is the perfect solution. It can work with everything
+      from traditional analogue cameras to their latest generation of Turbo HD 4.0
+      HD-TVI equipment, recording at up to 5MP resolution. It even has inputs for
+      up to two 6MP IP, letting you easily combine digital and analogue security technologies.\r\n\r\nAs
+      with all of our professional CCTV DVRs, it features a full suite of customisable
+      recording modes, including motion detection, 7 day scheduling and via alarm
+      triggers, all adjustable on a camera-by-camera basis. Other advanced features
+      include audio input for a microphone, RS485 terminals for a PTZ cotroller, and
+      VGA & HDMI outputs to easily connect it to a TV or Monitor. Uniquely, the recorder
+      also supports Hikvision's new Power-over-Coax technology. This lets you power
+      compatible Turbo HD cameras directly from the RG59 cable, removing the need
+      for additional power supplies.\r\n\r\nAs is befitting such a state of the art
+      CCTV recorder, a LAN connection allows you to plug it directly into your internet
+      router. Once this is configured this lets you view live footage, play back recordings
+      and even adjust recording settings via a secure online interface using a PC
+      or Mac. You can even log in and view footage using a smartphone or tablet, with
+      Android, iOS and Windows devices supported. The kit includes all the required
+      instructions to complete this yourself, but if you don't fancy the hassle then
+      you can always let one of of our support agents do it all for you with our remote
+      set up service. This also provides ongoing support in case of software issues-
+      <a href=\"https://www.spycameracctv.com/spycamera/silver-support-remote-setup-online-viewing-mobile-access\"
+      target=\"new\">see here for more details</a>."
+    specification: "Video/Audio Input\r\n\r\nVideo compression: H.265+, H.265, H.264+,
+      H.264\r\nAnalog and HD-TVI video input: 8x BNC(1.0Vp-p, 75Î©)\r\nHD-TVI Input:
+      5MP, 4MP, 3MP, 1080p30, 1080p25, 720p60, 720p50, 720p30,720p25\r\nIP Video Input:
+      2x, Up to 6MP\r\nAudio compression: G.711u\r\nAudio Input: 4x RCA \r\n\r\nVideo/Audio
+      Output\r\n\r\nHDMI: 1-ch, 4K(3840Ã—2160)/30Hz, 2K(2560Ã—1440)/60Hz, 1920Ã—1080/60Hz,
+      1280Ã—1024/60Hz, 1280Ã—720/60Hz, 1024Ã—768/60Hz\r\nVGA: 1-ch, 1920Ã—1080/60Hz,
+      1280Ã—1024/60Hz, 1280Ã—720/60Hz, 1024Ã—768/60Hz\r\nEncoding resolution (Main
+      stream): 5MP@12fps, 4MP@15fps, 3MP@18fps, 1080p/720p/WD1/4CIF/VGA/CIF@25fps\r\nEncoding
+      resolution (Sub-stream): WD1/4CIF, CIF@25fps\r\nAudio output: 1x RCA (Linear,
+      1KÎ©) \r\nAudio bitrate: 64 Kbps \r\nDual-stream: Support \r\nStream type: Video,
+      Video & Audio \r\nSynchronous playback: 8x \r\n\r\nNetwork Management\r\n\r\nRemote
+      connections: 128 \r\nNetwork protocols: TCP/IP, PPPoE, DHCP,H ik Cloud P2P,
+      DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP,â„¢ HTTPS,\r\nONVIF\r\n\r\n<p>Hard disk</p>\r\nSATA:
+      1x \r\nCapacity: Up to 8TB\r\n\r\nExternal Interface\r\n\r\nTwo Way Audio: 1x
+      RCA (uses 1st Audio input)\r\nNetwork interface: 1x 10/100/1000M self-adaptive
+      Ethernet\r\nSerial interface: 1x standard RS-485 serial interface, half-duplex
+      \r\nAlarm in/out: 8/4 \r\n\r\nGeneral\r\n\r\nPower supply: 12V DC \r\nConsumption
+      (without hard disks): â‰¤20W \r\nWorking temperature: -10Â°C - +55Â°C\r\nWorking
+      humidity: 10% - 90% \r\nDimensions: 315mm x 242mm x 45mm\r\nWeight (without
+      hard disks): â‰¤2kg (4.4lb)"
+    in_the_box: "<ul>\r\n<li>1x 8 Channel Hybrid HD TVI DVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x
+      Manual and Software CD</li>\r\n<li>1x Mains Power Supply</li>\r\n</ul>"

@@ -1,0 +1,50 @@
+product:
+  path: hikvision-5mp-turbo-hd-dome-camera-40m-ir-poc-motorised-zoom
+  sku: HKTV540DC-VZ
+  name: Hikvision 5MP Turbo HD Dome Camera with 40m IR, PoC, Motorised Zoom
+  images:
+  - path: 5763.jpg
+    title: Hikvision 5MP Turbo HD Dome Camera with 40m IR, PoC, Motorised Zoom
+  - path: 5764.jpg
+    title: Hikvision 5mp camera resolution chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 975000
+  content:
+    ean: "5060423076230"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Boasting exceptional image quality and remote zoom control, this
+      professional grade dome camera is one of the most versatile in Hikvision's Turbo
+      HD range. It's suitable for a host of demanding applications such as car park
+      or warehouse security. And what's more, all of this is possible for a significantly
+      lower cost than an equivalent IP camera. \r\n\r\nThe camera captures footage
+      in 2560x1944 resolution - or 5 megapixels - providing images with over twice
+      the amount of subject detail as Full HD. Hikvision's advanced EXIR night vision
+      LEDs provide 40m of clear night vision, allowing use in completely unlit areas.
+      The camera is also fitted with a 2.8-12mm motorised zoom, letting you remotely
+      change the field of view from a compatible recorder. All of this is housed inside
+      a weatherproof and vandalproof dome casing.\r\n\r\nAs part of the Turbo-HD range,
+      the camera uses HD-TVI technology to send high resolution video down a standard
+      BNC cable. This means it's plug-and-play, with no complex configuration required
+      to get it running on your recorder. It even uses power-over-coax (POC), letting
+      it draw power from a compatible DVR over the RG59 cable, and removing the need
+      for an additional power supply (requires compatible DVR).\r\n\r\n"
+    specification: "Imaging Sensor: 5MP colour CMOS\r\nResolution: 2560x1944\r\nMinimum
+      Illumination: 0.01 Lux (IR off), 0 Lux (IR on)\r\nShutter Time: 1/25s to 1/50,000s\r\nLens:
+      2.8-12mm Motorised vari-focal\r\nField Of View: 90.5 - 28 degrees\r\nLens Mount:
+      14mm\r\nDay & Night: IR cut filter\r\nSynchronisation: Internal\r\nFrame Rate:
+      2560x1944 @12.5, 20, 25fps, 1920x1080 @25fps\r\nAGC: Supported\r\nD/N: Auto,
+      Colour, B&W\r\nWhite Balance: ATW, MWB\r\nBLC: Supported\r\nDWDR: Supported\r\nLanguage:
+      English, Chinese\r\nFunctions: Brightness, Shaprness, DNR, Mirror, Smart IR\r\nVideo
+      Output: 1x Composite BNC\r\nOperational Temperature: -40 to +60c\r\nOperational
+      Humidity: 90% or less\r\nPower Supply: 12V DC, PoC\r\nPower Consumption: 8W
+      (Max)\r\nProtection Level: IP67, IK10\r\nHousing Material: Metal\r\nIR Range:
+      40m\r\nCommunication: Up the coax (Hikvision-C)\r\nDimensions: 145.2(d)x124.1mm\r\nWeight:
+      1600g (Approx) \r\n\r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 5mp motorised zoom dome</li>\r\n</ul>"

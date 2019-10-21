@@ -1,0 +1,36 @@
+product:
+  path: high-sensitivity-cctv-microphone-pre-amp-in-line-power
+  sku: IDAUDIOPRO
+  name: High sensitivity CCTV Microphone with Pre-Amp and In-Line Power
+  images:
+  - path: 4761.jpg
+    title: High sensitivity CCTV Microphone with Pre-Amp and In-Line Power
+  - path: 5157.jpg
+    title: high sensitivity cctv mic in hand
+  prices:
+    default:
+    - break: 1
+      unit_price: 108300
+  content:
+    ean: "5060423070054"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/4od2x__Re00
+    - https://www.youtube.com/embed/ZAZl2Pe6JNk
+    manuals: []
+    software: []
+    description: "Our standard <a href=\\\"https://www.spycameracctv.com/spycamera/cctv_security_camera_inline_audio_microphone\\\"
+      target=\\\"new\\\">CCTV microphones</a> are a great way to discreetly record
+      audio with your video footage, however they are not designed for sensitive subjects,
+      and have a small effective range. Because of this, we have designed this new
+      model that includes a built-in preamp, greatly boosting the microphone\\'s recording
+      sensitivity. This makes it perfect for monitoring subjects in quiet interior
+      locations.\r\n\r\nThe microphone uses in-line power, allowing you to connect
+      it to the same power supply as a CCTV camera, with both devices running from
+      one plug. This makes it easy to integrate into a security system, and the RCA
+      phono cable can be plugged directly into the back of most DVRs."
+    specification: "Voltage: 12V\r\nDC Power Input: 2.1mm Female (Red)\r\nDC Power
+      Output: 2.1mm Male (Black)\r\nAudio Output: RCA Phono (White)\r\n"
+    in_the_box: "<ul>\r\n<li>1x High sensitivity CCTV microphone</li>\r\n</ul>"

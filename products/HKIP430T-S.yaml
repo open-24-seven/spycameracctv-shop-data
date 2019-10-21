@@ -1,0 +1,62 @@
+product:
+  path: hikvision-4mp-outdoor-turret-ip-camera-30m-ir-microsd-slot
+  sku: HKIP430T-S
+  name: Hikvision 4MP Outdoor Turret IP Camera - 30m IR, MicroSD Slot
+  images:
+  - path: 5393.jpg
+    title: Hikvision 5MP Outdoor Turret IP Camera - 30m IR, MicroSD Slot
+  - path: 5394.jpg
+    title: Hikvision 5mp resolution size chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 1290000
+  content:
+    ean: "5060423077121"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/0kcEfrI7Pr8
+    - https://www.youtube.com/embed/W3KuDc0mifs
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/HKIP530T-S.pdf
+    software: []
+    description: "This professional grade turret IP camera from Hikvision uses the
+      latest technology to record high resolution video at 4 megapixel resolution.
+      The end result is a camera that captures over twice the detail of even 1080p
+      Full HD rivals, and recording evidence packed with usable detail. This makes
+      the camera a fantastic choice for everything from retail or office applications,
+      or venue security in bars & clubs.\r\n\r\nHikvision's advanced IP cameras now
+      feature behavioural analytics as standard, providing a wide range of ways to
+      automate recording and alerts that can all be set using Hikvision's PC app or
+      a recorder. These include triggering alerts when a subject crosses a predetermined
+      line or box onscreen, when objects are removed, and many more. This all provides
+      extra flexibility when setting up your security system, and helps ensure you
+      only have to review the important parts of the video. \r\n\r\nThe camera is
+      housed inside of a compact turret casing, protecting it from the elements and
+      dust, and allowing use in exposed outdoor locations. It's also kitted out with
+      30m of night vision range. This helps keep a crisp and well defined picture
+      even in completely unlit rooms, or a large garden. A built-in MicroSD card slot
+      lets you use it as a standalone device without needing an external recorder."
+    specification: "Imaging Sensor: 1/2.9\" CMOS\r\nMinimum Illumination: 0.01 Lux
+      (colour, IR off), 0 Lux (IR on)\r\nShutter Speed: 1/3s to 1/100,000s\r\nSlow
+      Shutter: Support\r\nLens: 2.8mm\r\nField of View: 81Â°\r\nLens Mount: M12\r\nDay
+      & Night: IR Cut\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo Compression:
+      H.265, H.264\r\nVideo Bit Rate: 32kbps to 16Mbps\r\nMax Resolution: 2688x1520\r\nMain
+      Stream: 2560x1920 @20fps, 2560x1440, 2048x1536, 1920x1080, 1280x960, 1280x720
+      @25fps\r\nSub Stream: 1280x720, 640x360, 352x288 @25fps\r\nImage Enhancement:
+      BLC, 3D DNR\r\nImage Settings: Rotate, brightness, contrast, saturation, sharpness\r\nDay/Night
+      Switch: Auto/Scheduled\r\nAlarm Trigger: Motion detection, tampering, network
+      disconnected, IP address conflict, illegal login, HDD full, HDD error\r\nProtocols:
+      TVP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE,
+      NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandard: ONVIF (S,G), PSIA,
+      CGI, ISAPI\r\nNetwork Functions: One key reset, dual-VCA, anti-flicker, heartbeat,
+      mirror, password protection, privacy mask, watermark, IP address filter\r\nCommunication
+      Interface: 1x RJ45 10M/100M Self adaptive\r\nOn Board Storage: MicroSD, up to
+      128GB (not included)\r\nBehaviour Analysis: Line crossing detection, intrusion
+      detection, unattended baggage detection, object removal detection\r\nOperational
+      Temperature: -30Â°c to +60Â°c\r\nOperational Humidity: <95%\r\nPower Supply:
+      12V DC (6W), PoE (7.5W)\r\nIR Range: 30m\r\nProtection: IP67\r\nDimensions:
+      127.3(d)x95.9mm\r\nWeight: 620g "
+    in_the_box: "<ul>\r\n<li>1x Hikvision 4mp turret camera</li>\r\n</ul>"

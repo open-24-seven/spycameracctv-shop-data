@@ -1,0 +1,52 @@
+product:
+  path: hd-pinhole-spy-camera-1080p-portable-touchscreen-dvr-wifi
+  sku: SPYDPKDVR1
+  name: HD Pinhole Spy Camera with 1080p Portable Touchscreen DVR, Wifi
+  images:
+  - path: 5906.jpg
+    title: HD Pinhole Spy Camera with 1080p Touchscreen MicroSD DVR, Wifi
+  - path: 5907.jpg
+    title: 1080p HD body worn pinhole camera
+  prices:
+    default:
+    - break: 1
+      unit_price: 3916300
+  content:
+    ean: "5060611442403"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This portable covert security kit has been custom designed as a
+      body worn solution for investigators, journalists and mystery shoppers. It features
+      a compact, thin camera that connects to a battery powered MicroSD DVR. The camera
+      records highly detailed video at 1920x1080 resolution, in lighting levels as
+      low as 0.03 lux. The pinhole lens can record through a tiny gap in clothing
+      or fabric, or with one of the 5 supplied camouflage \"button\" lenses. It connects
+      to the recorder using a lockable 8 pin DIN plug, helping prevent it getting
+      tugged out accidentally.\r\n\r\nThe compact recorder is built around a 3\" colour
+      touchscreen, providing a quick and intuitive way of editing settings and reviewing
+      footage on the MicroSD card. The kit includes a 16GB card as standard, however
+      it's compatible with cards up to 32GB. The DVR runs from a 2200maH rechargeable
+      battery, allowing up to 3 hours of continuous recording ona  single charge.
+      As well as using the screen, you can also view footage and control settings
+      using a mobile device, thanks to a built-in Wifi connection."
+    specification: "<p>Camera</p>\r\nImaging Sensor: 1/2.9\" Sony CMOS\r\nVideo Resolution:
+      1920x1080p\r\nSensitivity: 0.03 lux @f/2.0\r\nLens: 4.3mm f/2.0\r\nAngle of
+      View: 78 degrees\r\nElectronic Shutter: 1/8 - 1/30,000s\r\nVideo Output: 12.C
+      Data\r\nPower Supply: DC 3.3V, 220mA\r\nFocussing Distance: 5cm - infinity\r\nDimensions:
+      25x25x17mm\r\nWeight: 18g\r\n<br>\r\n<p>Recorder</p>\r\nVideo Resolution: 1080p,
+      720p, WVGA\r\nLCD: 3\" 960x480 Touchscreen\r\nCompression: H.264, JPEG\r\nFrame
+      Rate: Up to 30fps\r\nRecording Modes: Standard, Motion detection\r\nFile Format:
+      AVI, JPG\r\nStorage: MicroSD (up to 32GB)\r\nData Interface: Mini USB 2.0\r\nSnapshot
+      Mode: Available via app\r\nDate/Time Table: YYYY,MM,DD HH,MM,SS\r\nPower Consumption:
+      380mA-440mA (Wifi off, Wifi on +80mA)\r\nBattery Input: DC 3.7V\r\nCapacity:
+      2200maH\r\nBattery Life: 10 mins/GB at 1080p\r\nDimensions: 5x54x21mm\r\nWeight:
+      104g\r\n"
+    in_the_box: "<ul>\r\n<li>1x 1080p pinhole camera</li>\r\n<li>1x Mini DVR</li>\r\n<li>1x
+      USB cable</li>\r\n<li>1x DC charger</li>\r\n<li>1x Carry pouch</li>\r\n<li>1x
+      Earphones for audio monitoring</li>\r\n<li>1x Lithium ion battery</li>\r\n<li>1x
+      Cable controller</li>\r\n<li>1x MicroSD memory card</li>\r\n<li>5x Button lens
+      options</li>\r\n<li>Quick start guide</li>\r\n</ul>"

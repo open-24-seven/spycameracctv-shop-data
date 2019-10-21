@@ -1,0 +1,30 @@
+product:
+  path: samsung-evo-128gb-uhs-1-grade-1-microsd-card-adapter
+  sku: MSD128GB
+  name: 128GB USH-1 Grade 1 MicroSD Card with Adaptor Class 10
+  images:
+  - path: 5163.jpg
+    title: Samsung EVO 128GB UHS-1 Grade 1 MicroSD Card with Adapter - Class 10
+  prices:
+    default:
+    - break: 1
+      unit_price: 566600
+  content:
+    ean: "4713120510088"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This MicroSD card packs a massive 128GB of storage, making it a
+      great choice if you need extended recording times. The card is rated as Class
+      10, making it suitable for use in HD cameras. Also included is an adapter to
+      allow use of the card in full sized SD devices.\r\n\r\nPlease note, not every
+      MicroSD device is compatible with 128GB cards. Consult your product's specifications
+      for more details\r\n\r\n<i>To ensure we can offer the best price and availability
+      to our customers, we use a variety of MicroSD card manufacturers. This means
+      the card you receive may not match the model pictured</i>"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 128GB MicroSD Card</li>\r\n<li>1x MicroSD to SD Adapter</li>\r\n<li><strong>2
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

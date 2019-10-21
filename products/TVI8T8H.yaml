@@ -1,0 +1,91 @@
+product:
+  path: 8-dome-camera-hikvision-tvi-1080p-hd-cctv-system-50m-ir-2tb-dvr
+  sku: TVI8T8H
+  name: 8 Dome Camera Hikvision TVI 1080p HD CCTV System with 40m IR, HD DVR
+  images:
+  - path: 4879.jpg
+    title: 8 Dome Camera Hikvision TVI 1080p HD CCTV System with 50m IR, 2TB DVR
+  - path: 4880.jpg
+    title: Hikvision turbohd TVI dome camera with varifocal lens
+  - path: 4881.jpg
+    title: Hikvision TVI dome camera front view
+  - path: 4882.jpg
+    title: 8 channel hikvision turboHD DVR
+  - path: 4883.jpg
+    title: hikvision tvi 8 channel recorder rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 7392700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    manuals: []
+    software: []
+    description: "Combining the best of both worlds from IP cameras and traditional
+      CCTV, this TurboHD TVI security system from Hikvision boasts astounding quality
+      1080p HD video along with an intuitive plug-and-play setup. This makes it ideal
+      not only for home users looking for the absolute best quality but also for demanding
+      retail and commercial security applications.\r\n\r\nTVI technology allows the
+      camera to send uncompressed full HD video down a simple RG59 coaxial cable.
+      This provides amazingly clear CCTV images full of usable detail. It also means
+      that, if you have an existing CCTV system with coaxial cables, you can upgrade
+      your cameras and recorder without even having to run new wiring!\r\n\r\n<i>You
+      can select the length of cables you need for your system from the drop-down
+      at the top of the page or leave it blank if you already have cables and just
+      want the cameras and recorder.</i>\r\n\r\nThe cameras themselves are compact
+      and discreet and include powerful infra-red night vision that allows the camera
+      to see subjects up to 50 metres away in complete darkness. The heavy duty plastic
+      casings are also IP66 rated, allowing them to be installed outdoors and exposed
+      to the elements without any issues. The dome design makes them a great choice
+      for applications like office or retail security.\r\n\r\nThe included 8-channel
+      recorder is also made by Hikvision, boasting the standard suite of professional
+      DVR features. These include full 1080p recording on all video channels, an HDMI
+      output for connecting to a TV or monitor, and highly customisable recording
+      options. These allow you to change motion detection or scheduling settings on
+      a camera-by-camera basis. It can also be connected by an ethernet cable to your
+      router and, once configured, allows secure remote access to watch your cameras
+      live over the internet using a PC or smartphone."
+    specification: "<strong>Cameras</strong>\r\n\r\nImage Sensor: 2 MP CMOS image
+      sensor\r\nSignal System: PAL/NTSC\r\nEffective Pixels: 1920 (H) Ã— 1080 (V)\r\nMin.
+      illumination: 0.01 Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter Time: 1/25s
+      to 1/50,000 s\r\nLens: 3.6mm (2.8 mm, 6 mm, 8 mm, 12 mm, 16 mm optional)\r\nField
+      of view: 103Â° (2.8 mm), 82.2Â°(3.6mm), 54Â°(6mm), 37.7Â°(8mm), 24.2Â°(3.6mm),
+      18.8Â°(6mm)\r\nLens Mount: M12\r\nDay & Night: ICR\r\nAngle Adjustment: Pan:
+      0Â° to 360Â°, Tilt: 0Â° to 75Â°, Rotation: 0Â° to 360Â°\r\nSynchronization:
+      Internal\r\nVideo Frame Rate: 1080p @ 25fps\r\nHD Video Output: 1x analogue
+      TVI-HD output\r\nS/N Ratio: >62 dB\r\nOperating Conditions: -40 Â°C to 60 Â°C\r\nOperating
+      Humidity: 90% or less (non-condensation)\r\nPower Supply: 12V DC Â±15%\r\nPower
+      Consumption: Max. 4 W\r\nProtection Level: IP66\r\nIR Range: Up to 40 m\r\nDimensions:
+      Î¦110 mm Ã— 93.2 mm \r\n\r\n<strong>DVR</strong>\r\n\r\nVideo compression: H.264
+      \r\nAnalog and HD-TVI video input: 8-ch \r\nBNC interface: (1.0Vp-p, 75Î©)\r\nSupported
+      camera types: 720p @ 25fps, 720p @ 30fps, 720p @ 50fps, 720p @ 60fps, 1080p@
+      15fps, CVBS \r\nIP video input: 2-ch, up to 1080p resolution \r\nAudio compression:
+      G.711u, G.726, G.711a, G.722 \r\nAudio input: 1-ch, RCA (2.0 Vp-p, 1KÎ©) \r\nTwo-way
+      audio in: 1-ch, RCA (2.0 Vp-p, 1KÎ© using the 1st channel of audio input)\r\nHDMI
+      / VGA output: 1920 Ã— 1080 / 60 Hz,1280 Ã— 1024 / 60 Hz, 1280 Ã— 720 / 60 Hz,
+      1024 Ã— 768 / 60 Hz \r\nEncoding resolution - Main stream: 1080p / 720p / VGA
+      / WD1 / 4CIF / CIF \r\nEncoding resolution - Sub-stream: WD1 (non-real-time)
+      / 4CIF (non-real-time) / CIF / QCIF / QVGA \r\nFrame rate - Main stream: 1/16
+      fps ~ Real time frame rate \r\nFrame rate - Sub-stream: 1/16 fps ~ Real time
+      frame rate \r\nVideo bitrate: 32 Kbps - 10 Mbps \r\nAudio output: 1-ch, RCA
+      (Linear, 1KÎ©) \r\nAudio bitrate: 64 Kbps \r\nDual-stream: Support \r\nStream
+      type: Video, Video & Audio \r\nSynchronous playback: 8-ch \r\nPlayback resolution:
+      1080p / 720p / VGA / WD1 / 4CIF / CIF / QVGA / QCIF\r\nRemote connections: 128
+      \r\nNetwork protocols: TCP/IP, PPPoE, DHCP, EZVIZ Cloud P2P, DNS, DDNS, NTP,
+      SADP, SMTP, SNMP, NFS, iSCSI, UPnPâ„¢, HTTPS\r\nSATA: 2 SATA interface \r\nCapacity:
+      Up to 6TB capacity for each disk\r\nNetwork interface: 1; 10M / 100M / 1000M
+      self-adaptive Ethernet interface \r\nSerial interface: 1; standard RS-485 serial
+      interface, half-duplex \r\nAlarm in/out: 8/4 \r\nUSB port: 2 x USB2.0<\r\nPower
+      supply: 12V DC \r\nConsumption (without hard disks): â‰¤30W \r\nWorking temperature:
+      -10Â°C - 55Â°C (14Â°F - 131Â°F) \r\nWorking humidity: 10% - 90% \r\nChassis:
+      380mm 1U chassis \r\nDimensions: 380mm x 290mm x 48mm (15.0\" x 11.4\" x 1.9\")\r\nWeight
+      (without hard disks): â‰¤2kg (4.4lb)"
+    in_the_box: "<ul>\r\n<li>1x 8 Channel Turbo HD TVI DVR</li>\r\n<li>1x Mains Power
+      Supply for DVR</li>\r\n<li>8x Turbo HD TVI Outdoor Dome Camera</li>\r\n<li>8x
+      Mains Power Supplies for cameras</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x Remote
+      Control</li>\r\n<li>1x Manual and Software CD</li>\r\n</ul>"

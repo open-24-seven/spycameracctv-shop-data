@@ -1,0 +1,50 @@
+product:
+  path: tp-link-1000mbps-powerline-adapter-kit
+  sku: PLINE21000
+  name: TP Link 1000Mbps Powerline Adapter Kit- Run internet via mains
+  images:
+  - path: 4209.jpg
+    title: TP Link 1000Mbps Powerline Adapter Kit- Run internet via mains
+  - path: 4210.jpg
+    title: TP Line Powerline Adapters side view
+  - path: 4211.jpg
+    title: TP Link Powerline adapter kit box
+  - path: 5176.jpg
+    title: Diagram of IP camera setup
+  prices:
+    default:
+    - break: 1
+      unit_price: 658300
+  content:
+    ean: "6935364031763"
+    meta:
+      title: TP Link 1000Mbps Powerline Adapter Kit- Run internet via mains
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This set of two easy to use powerline adapters is one of the easiest
+      ways available to extend a wired internet connection around your home or office.
+      These small devices simply plug into your mains power supplies, and let you
+      run a network around your building's electrical circuit, instead of using a
+      telephone line or ethernet cable. \r\n\r\nBut just what does this mean for CCTV?
+      Simply put, it lets you easily connect your CCTV DVR to a router in another
+      room, without having to run a length of cable between the two. Not only does
+      this provide a much easier installation, but it lets you keep your recorder
+      tucked away in a loft or private room, helping keep your recordings secure.\r\n\r\nThere
+      is no tricky network configuration required. Just plug the device you want to
+      connect in to one of the adapters, and then plug your router into the second
+      one. Then all you need to do is pair them together using the buttons on the
+      devices, and you're ready to go. As the devices need to be paired, the connection
+      remains secure from external devices. The kit is capable of data transfer rates
+      up to 1000Mbps, and working across 300m of circuitry. Please note, adapters
+      must be connected on the same electrical circuit. This kit also features pass-through
+      power, so you still have a spare socket to use even when the device is plugged
+      in."
+    specification: "Interface: 10/100/1000Mbps Ethernet port, Power socket\r\nPlug
+      Type: UK 3 pin\r\nPairing: Button \r\nLED Indicator: PWR, PLC, ETH\r\nPower
+      Consumption: Typical 2.49W, standby 0.5W\r\nRange: 300m\r\nModulation: OFDM\r\nEncryption:
+      128-bit AES\r\nSystem Requirements: Windows 10/8/7/Vista/XP, Mac OS, Linux\r\nOperating
+      Temperature: 0c to +40c\r\nOperating Humidity: 10-90%"
+    in_the_box: "<ul>\r\n<li>2x TP Link Powerline adapters</li>\r\n<li>2x 2m Ethernet
+      cables</li>\r\n<li>Quick Installation Guide</li>\r\n<li>Resource CD</li>\r\n</ul>"

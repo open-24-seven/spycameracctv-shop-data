@@ -1,0 +1,56 @@
+product:
+  path: 720p-hd-wireless-pan-tilt-camera-cctv-kit-screen-mobile-access
+  sku: 1DIGLAN03PT
+  name: 720p HD Wireless Pan Tilt Camera CCTV Kit with Screen & Mobile Access
+  images:
+  - path: 5198.jpg
+    title: " \t720p HD Wireless Pan Tilt Camera CCTV Kit with Screen & Mobile Access"
+  - path: 5199.jpg
+    title: hd wireless pan tilt camera
+  - path: 5200.jpg
+    title: wireless pan tilt camera controls
+  - path: 5201.jpg
+    title: digital wireless screen and microsd recorder
+  prices:
+    default:
+    - break: 1
+      unit_price: 1658300
+  content:
+    ean: "5060423072140"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Zls9f5NxAlg
+    - https://www.youtube.com/embed/MDdsHBW6I7s
+    manuals: []
+    software: []
+    description: "Wireless pan/tilt cameras are an incredibly popular way to keep
+      an eye on your home or office, letting you remotely move the camera on a motorised
+      base. This flexibility makes them ideally suited to everything from home security,
+      to keeping an eye on your pet whilst out and about, or even as a baby monitor.
+      This unique kit pairs the camera with a dedicated 9\" colour screen to watch
+      live and recorded footage. The screen even works with many of our digital wireless
+      security cameras, letting you combine outdoor bullet and indoor pan/tilt cameras
+      all in one simple to use system!\r\n\r\nThe camera itself records in clear and
+      crisp 720p HD. Infa red LEDs provide 8m of night vision, so you can still see
+      everything in the room even in complete darkness. The camera can be simply placed
+      on a table or desk, or you can use the included clip-in bracket to mount it
+      securely on the ceiling or wall. As well as the pan tilt base, it's also kitted
+      out with a speaker, letting you talk back through the camera by speaking into
+      a microphone on the screen.\r\n\r\nThe included 9\" screen also acts as a wireless
+      receiver and MicroSD recorder, so you can have a dedicated device to monitor
+      the camera. Pan & tilt movements can be controlled either by the screen's buttons,
+      or with your phone using the easy-to-connect mobile app. The screen also boasts
+      a built-in rechargeable battery, so you can easily move it around with needing
+      to re-pair the camera. As with all of our CCTV recorders, it comes with a full
+      range of motion detection and scheduling options to record footage to the MicroSD
+      card. <i>Please note, class 10 card required, not included</i>.\r\n"
+    specification: "Imaging Sensor: 1/4\" Colour CMOS\r\nSensor Size: 1280x720p\r\nPower:
+      5V 1A DC\r\nResolution: 720p@ 15fps, VGA@25fps (up to 2 cameras connected),
+      VGA@15fps (up to 4 cameras connected)\r\nLens: 3.9mm f/1.8\r\nViewing Angle:
+      70Â° (diagonal)\r\nNight Vision Range: 8m\r\nPIR Angle: 60Â°\r\nOperational
+      Temperature: -20Â°c to +40Â°c\r\nHousing Material: ABS\r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Wireless Pan Tilt Camera</li>\r\n<li>1x Wall Bracket</li>\r\n<li>1x
+      Combination Receiver, DVR & screen</li>\r\n<li>2x Mains Power Supplies</li>\r\n<li>1x
+      Network Cable</li>\r\n<li>English Instructions</li>\r\n</ul>"

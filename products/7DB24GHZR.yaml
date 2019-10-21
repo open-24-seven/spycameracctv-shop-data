@@ -1,0 +1,31 @@
+product:
+  path: clearance-wireless-high-gain-booster-antenna-for-2ghz-av-sender-or-wifi-router
+  sku: 7DB24GHZR
+  name: B-Grade 25% Off 7dBi High Directional Antenna for 2.4GHz AV Sender
+  images:
+  - path: 3226.jpg
+    title: 7DB24GHZ-main
+  prices:
+    default:
+    - break: 1
+      unit_price: 166700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/XMjed3_TiNY
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 25% off</strong>\r\nThis product has either
+      been opened, returned by customers, are ex display or have been used for technical
+      testing. All products have had some use, some pay have cosmetic damage, such
+      as screw fixings damage.\r\n\r\nAll our B-Grade products are fully tested but
+      please be aware some products may have cosmic wear and tear, and specific screw
+      holes and mounting areas may be used."
+    specification: "Frequency range: 2,400-2,483.5MHz\r\nBandwidth: 83.5MHz\r\nGain:
+      7dBi\r\nVSWR: <1.5:1\r\nImpedance: 50ohm\r\nPolarization: vertical\r\nMaximum
+      power: 50W\r\nLength: 27.5cm\r\nWeight: 250g"
+    in_the_box: "<ul>\r\n<li>Hi-Gain Omni-Directional 7dBi Antenna for 2.4GHz Equipment</li>\r\n<li>2
+      Year Product Warranty for SpyCameraCCTV</li>\r\n</ul>"

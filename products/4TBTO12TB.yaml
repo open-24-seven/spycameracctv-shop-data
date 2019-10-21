@@ -1,0 +1,22 @@
+product:
+  path: 4tb-to-12tb-upgrade
+  sku: 4TBTO12TB
+  name: 4TB to 12TB Hard Drive Upgrade
+  images:
+  - path: 5308.jpg
+    title: 4TB to 12TB Hard Drive Upgrade
+  prices:
+    default:
+    - break: 1
+      unit_price: 3666700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

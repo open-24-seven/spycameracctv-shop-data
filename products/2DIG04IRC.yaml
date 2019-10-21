@@ -1,0 +1,53 @@
+product:
+  path: 2-camera-digital-wireless-cctv-kit-15m-night-vision-receiver
+  sku: 2DIG04IRC
+  name: 2 Camera Digital Wireless CCTV Kit with 15m Night Vision and Receiver
+  images:
+  - path: 5039.jpg
+    title: 2 Camera Digital Wireless CCTV Kit with 15m Night Vision and Receiver
+  - path: 4971.jpg
+    title: 2 Camera Digital Wireless CCTV Kit with 15m Night Vision and Receiver
+  - path: 5040.jpg
+    title: Digital Wireless CCTV camera with night vision
+  - path: 5041.jpg
+    title: 2 Channel digital wireless CCTV receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 1325000
+  content:
+    ean: "5060423071631"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Whether you need a simple camera to watch your front door or need
+      something to add to a larger system, this digital wireless CCTV kit is a fantastic
+      option. Including 2 outdoor cameras and a receiver, this is an easy to use wireless
+      kit perfectly suited to most home applications.\r\n\r\nThe included cameras
+      are made of lightweight yet heavy duty plastic, providing them with IP66 weather
+      sealing whilst keeping their weight much lower than similar cameras. The power
+      cable connects to the camera through the middle of the mounting bracket, keeping
+      the cables hidden away from any potential vandals. They also feature 15m of
+      infra red night vision, making them ideally suited for monitoring an unlit doorway
+      or small garden.\r\n\r\nBoth the cameras transmit video to the receiver using
+      digital wireless technology. This not only allows increased range over standard
+      wireless cameras- up to 100m in direct line of sight- but also helps reduce
+      interference from other wireless devices. The receiver itself can plug straight
+      into CCTV DVR (not included) if you want to record footage. There are even 2
+      outputs, allowing you to view or record each camera separately."
+    specification: "Camera\r\n\r\nImage Sensor: 1/4\" Colour CMOS\r\nPixels: 640x480\r\nImage
+      Compression: MPEG4\r\nImage Resolution: VGA\r\nLens: 3.6mm\r\nDiagonal Field
+      of View: 55Â°\r\nAGC: On\r\nPower: 9V DC\r\nPower Consumption: 430mA IR on,
+      220mA IR off\r\nWeather Resistance: IP66\r\nIR LED: 24x \r\nNight Vision Range:
+      15m\r\nDimensions: 79x203x117mm\r\nWeight: 300g\r\n\r\nReceiver\r\n\r\nSensitivity:
+      -81dbm\r\nSupported Resolution: VGA\r\nTermination: 2x Composite BNC\r\nPower
+      Requirement: 9V DC\r\nPower Consumption: 270mA Max\r\nDimensions: 53x137x86mm\r\nWeight:
+      100g\r\nFrequency Range: 2.4-2.48GHz\r\nPower: 16dBm\r\nRange: 100m (direct
+      line of sight)\r\nData Rate: 4MB/s\r\nModulation: GFSK\r\nSpread Spectrum: FHSS\r\nOperational
+      Temperature Range: -10Â°c to +40Â°c"
+    in_the_box: "<ul>\r\n<li>2x Digital wireless cctv cameras</li>\r\n<li>2x Camera
+      power supplies</li>\r\n<li>1x Wireless Receiver</li>\r\n<li>2x Antennae for
+      receiver</li>\r\n<li>1x Receiver power supply</li>\r\n</ul>"

@@ -1,0 +1,33 @@
+product:
+  path: 40-meter-audio-video-power-cable
+  sku: 40MRCA
+  name: 40 Metre 3 Way Cable for CCTV with Power, Audio, Video RCA Connectors
+  images:
+  - path: 300.jpg
+    title: 40 Meter CCTV Camera Cable
+  prices:
+    default:
+    - break: 1
+      unit_price: 191700
+  content:
+    ean: "5060181650932"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "These pre-made made cable lengths enable you to easily connect your
+      CCTV camera's, recorders, monitors, DVR's etc. together. The Audio and Video
+      plugs are standard RCA connections for an excellent snug connection to your
+      CCTV cameras and/or recorder. If you have BNC connectors on your cameras, you
+      will require a BNC connector also available from SpyCameraCCTV.com\r\n\r\nThe
+      power comes with male to female 2.1mm x 5.5mm DC coaxial connector which will
+      suit 99% of standard CCTV cameras as an industry standard connection. \r\n\r\nWe
+      can supply several lengths of cable from 5m, 10m, 20m, 30m, 40m and 50m lengths.
+      Specialist lengths available on request.\r\n\r\nThese are very flexible cables,
+      exceptional in delivering low loss signals over even the very longest cable
+      runs and because they carry the video, audio and the power, you only need to
+      run 1 cable for your CCTV equipment.\r\n"
+    specification: ""
+    in_the_box: ""

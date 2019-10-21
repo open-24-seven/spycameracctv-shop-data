@@ -1,0 +1,23 @@
+product:
+  path: 3.6mm-lens-standard-screw-lens-cctv-cameras-74-degrees
+  sku: LENS36MM
+  name: 3.6mm Lens for Standard Screw Lens CCTV Cameras - 74 Degrees
+  images:
+  - path: 3220.jpg
+    title: 3.6mm Lens for Standard Screw Lens CCTV Cameras - 74 Degrees
+  prices:
+    default:
+    - break: 1
+      unit_price: 83300
+  content:
+    ean: "5060181655302"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 3.6mm standard screw lens for spy cameras provides a 74 degree
+      field-of-view  without any image distortion.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 3.6mm Spy Camera Lens</li>\r\n</ul>"

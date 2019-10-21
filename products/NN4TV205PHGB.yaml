@@ -1,0 +1,42 @@
+product:
+  path: 1080p-hd-pinhole-spy-camera-tvi-4-in-1-low-light
+  sku: NN4TV205PHGB
+  name: 1080p HD Pinhole Spy Camera - TVI 4-in-1, Low Light
+  images:
+  - path: 5501.jpg
+    title: " \t1080p HD Pinhole Spy Camera - TVI 4-in-1, Low Light"
+  - path: 5502.jpg
+    title: 4-in-1 CCTV cable connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 540000
+  content:
+    ean: "5060423074205"
+    meta:
+      title: ""
+      description: This HD pinhole spy camera is perfect for covert security applications,
+        such as preventing staff theft. The camera records in 1080p HD, and can be
+        easily concealed
+    videos: []
+    manuals: []
+    software: []
+    description: "Whilst it's not often talked about, staff theft is one of the biggest
+      potential problems for retail businesses, accounting for up to a third of stock
+      losses due to theft. As employees will usually know the location of security
+      cameras, it can be quite tricky to catch them out in the act. Because of this,
+      using a covert security device such as this HD spy camera is a great way to
+      catch them red-handed and keep your stock safe. \r\n\r\nDespite it's small size,
+      this camera packs in a 1080p Full HD colour sensor, allowing it to record images
+      loaded with identifiable subject detail. It works using 4-in-1 technology, so
+      it's compatible with CCTV systems that use HD-TVI, AHD, CVI or analogue video
+      formats. This makes it a perfect option if you need to add it to an existing
+      system. \r\n\r\nThe camera itself measures only 37x37x20mm, making it easy to
+      hide behind a shelf or in a drawer. The pinhole lens can then record through
+      a gap as small as 2mm wide, so the camera itself can stay safely out of view.\r\n\r\n"
+    specification: "Imaging Chip: 1/3\" CMOS\r\nResolution: 1920x1080\r\nSensitivity:
+      0.01 Lux\r\nVideo Output: 1x Composite BNC\r\nDay & Night: Auto\r\nShutter:
+      1/50 to 1/10,000s\r\nAGC: Auto\r\nLens Type: 3.7mm\r\nField of View: 67 Degrees\r\nLens
+      Mount: Board Mounted\r\nDimensions: 37x37x20mm\r\nOperational Temperature: -20
+      to +55c\r\nOperational Humidity: 10 to 80% Non condensing"
+    in_the_box: "<ul>\r\n<li>1x HD pinhole spy camera</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

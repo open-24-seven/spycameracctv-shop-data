@@ -1,0 +1,27 @@
+product:
+  path: b-grade-20m-bnc-video-rca-audio-dc-power-cable
+  sku: 20MBNCRCAR
+  name: B Grade 30% Off - 20m BNC Video, RCA Audio and DC Power Cable
+  images:
+  - path: 5599.jpg
+    title: " \tB Grade 30% Off - 20m BNC Video, RCA Audio and DC Power Cable"
+  - path: 5600.jpg
+    title: BNC, RCA and DC power connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 104200
+  content:
+    ean: "2260"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: ""
+    in_the_box: ""

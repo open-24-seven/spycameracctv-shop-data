@@ -1,0 +1,80 @@
+product:
+  path: 4-cam-500m-long-range-wireless-cctv-quad-system-15m-ir-night-vision-farm-security
+  sku: DW34QUALR
+  name: 4 Camera 200m Long Range Wireless CCTV Quad View Kit 20m IR
+  images:
+  - path: 5022.jpg
+    title: "\t4 Cam 300m Long Range Wireless CCTV Quad System 15m IR Farm Security"
+  - path: 3543.jpg
+    title: Outdoor CCTV Security Camera with 15m IR Night Vision
+  - path: 3544.jpg
+    title: Quad CCTV Processor Multiplexer
+  - path: 3545.jpg
+    title: Quad CCTV processor rear connectors
+  - path: 3731.jpg
+    title: Schematic diagram of Long Range Wireless CCTV System
+  - path: 5017.jpg
+    title: 4 Cam 300m Long Range Wireless CCTV Quad System 15m IR Farm Security
+  - path: 3547.jpg
+    title: 2.4GHz 7dB high gain antenna
+  prices:
+    default:
+    - break: 1
+      unit_price: 3491700
+  content:
+    ean: "5060181656682"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/4TAQLGCGqFo
+    manuals: []
+    software: []
+    description: "When setting up a CCTV system over a large property such as a farm
+      or warehouse, the distances involved can be incredibly problematic: completely
+      impractical to run cables, and beyond the range of most wireless systems! Luckily,
+      this fantastic 4-camera quad wireless CCTV system uses the latest generation
+      of digital wireless to achieve massive ranges with a clear, interference-free
+      signal! We have used all of our years of experience helping customers set up
+      bespoke wireless CCTV systems in order to put together this powerful kit.\r\n\r\nTo
+      achieve the optimum image quality and durability, this system uses 4 Hikvision
+      security cameras, which are in turn connected to a quad processor. This displays
+      a live split-screen feed of each camera, which is then transmitted straight
+      to your office or living room with the included digital transmitter/receiver
+      kit. By setting our system up like this, you only need a single receiver rather
+      than one for each camera, and so save on both the hassle of setting them up
+      and <i>quite a bit of money!</i>\r\n\r\nAt the core of this kit is the amazing
+      <strong>digital wireless system</strong>, that not only provides its massive
+      200m transmission range, but ensures the cleanest possible wireless signal.
+      No more squinting at static! This advanced transmission method also means the
+      signal is encrypted, so there's no danger of any nosy neighbours picking up
+      your security video. Please note - solid obstructions such as walls and doors
+      will reduce signal strength by up to half. Because of this we always recommend
+      installing the included high gain antennae on the exterior of buildings, so
+      they have the clearest possible line of sight.\r\n\r\nIncluded in the kit are
+      4 weather-resistant security cameras, each fitted with energy-efficient infrared
+      LEDs. This allows them to clearly see up to 20 metres of night vision. In addition,
+      one of the kit's cameras is fitted with a microphone, allowing it to record
+      audio from inside the building you are monitoring."
+    specification: "<strong>Camera</strong>\r\nImaging Sesnor: 2MP CMOS\r\nEffective
+      Resolution: 1920x1080\r\nMinimum Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter
+      Speed: 1/25 - 1/50,000s\r\nLens: 3.6mm\r\nHorizontal Field of View: 70.9&Deg;\r\nLens
+      Mount: M12\r\nDay & Night: IR Cut Filter\r\nSynchronisation: Internal\r\nVideo
+      Frame Rate: 1080p@25fps\r\nHD Output: 1x BNC\r\nS/N Ratio: >62dB\r\nOperational
+      Temperature: -40Â°c to +60Â°c\r\nOperational Humidity: <90%\r\nPower Supply:
+      12V DC\r\nPower Consumption: 4W (Max)\r\nProtection Level: IP66\r\nMaterial:
+      Metal\r\nIR Range: 20m\r\nDimensions: 75.4x230.8x152.8mm\r\nWeight: 560g\r\n\r\n<strong>Quad
+      Processor</strong>\r\n\r\nVideo Standard: PAL: 50 field/sec \r\nDefinition:
+      PAL: 720x576 \r\nTape input: 1.0Vp-P/75 ohm input\r\nTape out: 1.0Vp-P/75 ohm
+      input\r\nVideo Input Port: 4 cameras\r\nVideo Output Port: 1 switch & 1 quad
+      output\r\nLoad Impedance:\t75 Ohms\r\nAlarm mode: Video lost warning, touch
+      and start mode, moving detection warning\r\nPower Source: DC 12V 1A\r\nPower
+      Consumption: 6W maximum\r\nOperating Environment: 10~80%RH, -30 to +60 degree's
+      C\r\nDimensions: 240(W) x 44.4(H) x 151(D) mm\r\nWeight:\t1,250g"
+    in_the_box: "<ul>\r\n<li>4x Hikvision Bullet Cameras</li>\r\n<li>4x Mains power
+      supplies for cameras</li>\r\n<li>4x 10m BNC video and power cables (inc 1 with
+      audio)</li>\r\n<li>1x Quad CCTV video Processor/ Multiplexer</li>\r\n<li>1x
+      1.2m UK power supply for Quad Processor</li>\r\n<li>2x 1m RCA AV cable with
+      video and audio</li>\r\n<li>1x Digital Wireless 2.4GHz AV transmitter</li>\r\n<li>1x
+      Digital Wireless 2.4GHz AV receiver</li>\r\n<li>2x 2.4GHz 7dB high gain antennae</li>\r\n<li>1x
+      Female to female BNC adapter</li>\r\n<li>English Step by Step instructions</li>\r\n</ul>"

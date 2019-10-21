@@ -1,0 +1,60 @@
+product:
+  path: hikvision-turbohd-tvi-1080p-hd-40m-ir-outdoor-bullet-cctv-camera
+  sku: HKTV240BC-L
+  name: Hikvision Turbo HD TVI 1080p 40m IR Bullet CCTV Camera with PoC
+  images:
+  - path: 4787.jpg
+    title: Hikvision TurboHD TVI 1080p HD 40m IR Outdoor Bullet CCTV Camera
+  - path: 4788.jpg
+    title: Turbo HD TVI Sample Image
+  prices:
+    default:
+    - break: 1
+      unit_price: 540000
+  content:
+    ean: "5060423076162"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    manuals: []
+    software: []
+    description: "Boasting a slew of advanced image features, this Hikvision Turbo
+      HD TVI bullet camera is one of the most dependable and easy to use devices on
+      the market for commercial security. The camera has been designed from the ground
+      up to offer the absolute highest levels of picture detail, without the setup
+      hassle needed with some IP systems.\r\n\r\nTurbo HD uses TVI technology to send
+      and uncompressed 1080p HD video signal down a standard coax cable, providing
+      the plug and play simplicity of a traditional analogue camera. In fact, if you
+      are upgrading from a traditional security system, then you can use your existing
+      cabling, saving the money and time needed to run new wires! It even supports
+      Power-over-Coax (PoC), letting it draw power from a compatible DVR over the
+      RG59 cable, and removing the need for an additional power supply.\r\n\r\nTo
+      ensure the highest standard of picture quality around the clock, the camera
+      is fitted with Hikvision's EXIR night vision illuminator. This helps record
+      subjects up to 40m away with a much more even and uniform lighting than with
+      traditional LEDs. It also boasts wide dynamic range (WDR) recording, helping
+      retain detail in high contrast shadow and highlight areas. The camera's housing
+      is IP66 rated, allowing it to be installed in the most exposed outdoor locations
+      without risk of damage. This all makes it an ideal option for recording in a
+      driveway or garden.\r\n\r\nTo see just how impressive this Turbo HD camera is
+      compared to standard 700TVL CCTV, just check our real world sample footage in
+      the videos section!"
+    specification: "Camera\r\n\r\nImage Sensor: 1/3\" Progressive Scan CMOS\r\nSignal
+      System: PAL / NTSC\r\nEffective Pixels: 1920 x 1080\r\nMin. Illumination: 0.005
+      Lux @ (F1.2, AGC ON), 0 Lux with IR \r\nShutter speed: 1/25(1/30)s to 1/50,000s\r\nLens:
+      3.6mm\r\nAngle of view: 82.6Â°\r\nLens Mount: M12 \r\nDay & Night: IRC \r\nWide
+      dynamic range: 120 dB \r\nSynchronization: Internal synchronization \r\nVideo
+      Frame Rate: 1080p @ 25fps / 1080p @ 30fps \r\nHD Video Output: 1 Analogue HD
+      output\r\n\r\nMenu\r\n\r\n AGC: Support \r\nD/N Mode: Color / BW \r\nWhite Balance:
+      ATW, Manual \r\nPrivacy Mask: On/Off, maximum 4 zones \r\nMotion Detection:
+      On/Off, maximum 4 zones \r\nBLC: WDR, BLC, HLC, Off\r\nAnti-flicker: On/off
+      \ \r\nFunction: Brightness, Sharpness, Mirror, IR\r\n\r\nGeneral\r\n\r\nWorking
+      Temperature: -40Â°C - 60Â°C (-22Â°F - 140Â°F) \r\nHumidity: Humidity 90% or
+      less (non-condensing) \r\nPower Supply: 12 VDC\r\nPower Consumption: Max. 3.6W
+      \r\nWeather Proof Ratings: IP66\r\nIR Range: Up to 40m \r\nCommunication: Up
+      the coax (need UTC controller)\r\nProtocol: Pelco-C (Coaxitron)\r\nDimensions:
+      86.7 x 81.6 x 226mm \r\nWeight: 680g (1.54lbs)"
+    in_the_box: "<ul>\r\n<li>1x Turbo HD TVI Bullet Camera</li>\r\n</ul>"

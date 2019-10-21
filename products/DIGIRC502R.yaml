@@ -1,0 +1,36 @@
+product:
+  path: b-grade-extra-5m-ir-digital-wireless-cctv-camera-pir
+  sku: DIGIRC502R
+  name: B Grade-25% Off! Extra 5m IR Digital Wireless CCTV Camera with PIR
+  images:
+  - path: 4444.jpg
+    title: B Grade-25% Off! Extra 5m IR Digital Wireless CCTV Camera with PIR
+  - path: 4445.jpg
+    title: LCD Receiver camera compatibility
+  prices:
+    default:
+    - break: 1
+      unit_price: 491700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Save 25% with this B Grade offer!\r\n\r\nB Grade stock has either
+      been returned by a customer, used by our tech team for testing, or been removed
+      from it\\'s packaging for demonstration purposes. All items will have been opened,
+      and may exhibit slight signs of use.\r\n\r\nAll of our items however have been
+      individually checked and tested, and are even covered by our full 2 year product
+      warranty!\r\n\r\n<i>Please note- all B grade stock is highly limited, so take
+      advantage of this great offer while you can!</i>"
+    specification: "Imaging Chip: 1/5\\\" Colour CMOS Sensor\r\nVideo Resolution:
+      856x488\r\nField of View: 70 Degrees\r\nPower Supply: 5V\r\nMaximum Current
+      Consumption: 400mA\r\nWeather Proofing: IP54\r\nUnobstructed Transmission Range:
+      150m\r\nNight Vision Range: 5m\r\nDimensions: 131x63x58mm (excluding bracket)\r\nApproximate
+      Weight: 282g\r\n"
+    in_the_box: "<ul>\r\n<li>1x Digital Wireless CCTV camera with PIR</li>\r\n<li>1x
+      1.5m 5V UK Power Supply</li>\r\n<li>English Step by Step instructions</li>\r\n<li><strong>2
+      Year Warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

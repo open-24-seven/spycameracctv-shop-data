@@ -1,0 +1,69 @@
+product:
+  path: 4-camera-1080p-hd-wireless-cctv-kit-mobile-access-touch-screen-dvr
+  sku: 4DIGLAN1005
+  name: 4-Camera HD Wireless CCTV Kit with Mobile Access, Touch Screen DVR
+  images:
+  - path: 5741.jpg
+    title: 4 Camera 1080p HD Wireless CCTV Kit - Mobile Access, Touch Screen DVR
+  - path: 5742.jpg
+    title: 4 Camera HD digital Wireless CCTV Kit - Mobile Access, Touch Screen DVR
+  - path: 5743.jpg
+    title: wireless camera PIR sensor
+  - path: 5744.jpg
+    title: 1080p wireless camera front view
+  - path: 5745.jpg
+    title: 9 inch touch screen cctv monitor
+  - path: 5746.jpg
+    title: watch cctv on your phone
+  prices:
+    default:
+    - break: 1
+      unit_price: 3641600
+  content:
+    ean: "5060611440102"
+    meta:
+      title: ""
+      description: This 4-camera 1080p wireless CCTV kit is a one-box solution to
+        home security. It features our 3-in-1 portable monitor with MicroSD recording
+        and network connectivity. Buy online today for FREE UK delivery!
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/DIGLAN1005/manuals/1005-user-manual.pdf
+    software: []
+    description: "Wireless CCTV is one of the best security options for anyone looking
+      for an easy DIY install that they can get up and running with a minimum of fuss,
+      and is especially useful for people in rental properties. This 4-camera wireless
+      kit is a great example, featuring 1080p HD cameras, and an all-in-one touch
+      screen monitor and recorder, so you don't need any costly or complex additional
+      devices to protect your property.\r\n\r\nThe cameras themselves record in 1920x1080
+      full HD, recording amazing levels of subject detail for a wireless device. They
+      also feature built-in passive infrared (PIR) sensors, that detect a subject's
+      body heat and use it to trigger recording with much more accuracy than traditional
+      motion detection. IR LEDs also provide 10m night vision range, making them suitable
+      for use outdoors in unlit areas such as gardens and driveways. Video and audio
+      are transmitted to the monitor using digital wireless, providing a clean, secure
+      signal with up to 100m range in direct line of sight.\r\n\r\nThe monitor itself
+      is packed with features, including a high resolution 9\" touch screen for watching
+      the cameras in glorious full colour. The built-in MicroSD card slot lets you
+      record footage, with fully adjustable scheduling and motion detection modes.
+      A lithium rechargeable battery also means you can pick up and move the screen
+      around your home without losing coverage. By plugging the monitor into your
+      router, you can also set up mobile access. The free Android and iOS app lets
+      you view the cameras from anywhere on a phone or tablet, and even use two-way
+      audio to talk to subjects from the cameras' integrated speakers. "
+    specification: "Camera Spec\r\n\r\nFrequency Range: 2.4-2.483GHz\r\nData rate:
+      6MBps\r\nTransmitting Power: 16dBm (TYP)\r\nModulation Type: GFSK with FHSS\r\nTransmission
+      Range: 100m\r\nImaging Sensor: 1/2.7\" CMOS\r\nResolution: 1920x1080\r\nImage
+      Processing: H.264\r\nLens: 3.6mm\r\nField of View: 92Â°\r\nMinimum Illumination:
+      5 Lux (IR Off), 0 Lux (IR On)\r\nIR LEDs: 16\r\nIR Range: 10m\r\nPower: 9V DC
+      600mA\r\nPower Consumption: 540mA (max, IR on)\r\nOperational Temperature: -10Â°c
+      to +40Â°c\r\nOperational Humidity: 0-85%\r\nHousing Material: ABS\r\nWeatherproofing:
+      IP65\r\n\r\n\r\n\r\n\r\nMonitor Spec\r\n\r\nFrequency Range: 2.4-2.483GHz\r\nData
+      Rate: 6Mbps\r\nReceiving Sensitivity: -81dBm\r\nModulation Type: GFSK with FHSS\r\nLCD
+      Panel Size: 9\"\r\nLCD Resolution: 1024x600\r\nViewing Angle: 140Â° (horizontal),
+      110Â° (vertical)\r\nPower Requirements: 5V DC 2A, 2.1mm jack\r\nPower Consumption:
+      1050mA (max)\r\nOperational Temperature: -10Â°c to +40Â°c\r\nOperational Humidity:
+      0-85% "
+    in_the_box: "<ul>\r\n<li>4x 1080p Wireless cameras</li>\r\n<li>4x 3m Power supplies
+      for cameras</li>\r\n<li>1x 9\" Touch screen recorder</li>\r\n<li>1x Mains power
+      supplies</li>\r\n<li>1x Network patch cable</li>\r\n<li>Full instructions</li>\r\n</ul>"

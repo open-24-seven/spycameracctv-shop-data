@@ -1,0 +1,47 @@
+product:
+  path: daylight-white-led-light-nest-bird-boxes
+  sku: BBLED3GB
+  name: Daylight White LED Light for Nest and Bird Boxes
+  images:
+  - path: 5660.jpg
+    title: Daylight White LED Light for Nest and Bird Boxes
+  - path: 5658.jpg
+    title: Daylight White LED Light for Nest and Bird Boxes inside bird box
+  - path: 5659.jpg
+    title: Daylight white LED light for bird box turned on
+  - path: 5661.jpg
+    title: Daylight White LED Light cable diagram
+  - path: 5612.jpg
+    title: Bird box LED wiring diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 129100
+  content:
+    ean: "5060423075769"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/BBLED/manuals/BBLED-instructions.pdf
+    software: []
+    description: "Bird box cameras are an incredibly popular way to watch wildlife
+      in your garden, capturing amazing close up views of chicks as they hatch and
+      grow. One common issue, however, is that the inside of the unlit box is too
+      dark. Whilst bird box cameras get past this using night vision, this is always
+      monochrome, so you can't see the full glory of the bird's feathers.\r\n\r\nThis
+      small LED light is a great solution to this issue. You can install it inside
+      of the box, where it provides just enough illumination for the camera to record
+      without having to use night vision. Importantly, it has a built-in photometer,
+      which cuts off the LEDs when the ambient light levels drop. This means the light
+      is off at night time, so it won't disturb the sleep cycles of your feathered
+      friends!"
+    specification: "Day/Night: Automatic Switching (Day on, Night off)\r\nPower Input:
+      12V DC\r\nPower Consumption: 40mA\r\nIllumination: 1300 Lumens\r\nRated Life:
+      50,000 Hours\r\nLight Source: 3x High brightness LEDs\r\nColour Temperature:
+      6000-6500k (Daylight)\r\nBeam Angle: 120 degrees\r\nAttached Cable Length: 50cm\r\nMaterial:
+      PC, Aluminium\r\nOperational Temperature: -20Â°c to +60Â°c\r\nApprox. Dimensions:
+      90mm x 18mm x 10mm (LxHxD)\r\nCable length: 52cm"
+    in_the_box: "<ul>\r\n<li>1x LED light for bird boxes</li>\r\n<li>1x Mains power
+      supply</li>\r\n</ul>"

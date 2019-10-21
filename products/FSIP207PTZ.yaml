@@ -1,0 +1,63 @@
+product:
+  path: foscam-pan-tilt-1080p-hd-wifi-ip-camera-7m-night-vision-microsd
+  sku: FSIP207PTZ
+  name: Foscam Pan Tilt 1080p HD WiFi IP Camera with 7m Night Vision, MicroSD
+  images:
+  - path: 5166.jpg
+    title: " \tFoscam Pan Tilt 1080p HD Wifi IP Camera with 7m Night Vision, MicroSD"
+  - path: 5167.jpg
+    title: Foscam R2 wifi ip camera in box
+  - path: 5168.jpg
+    title: Foscam R2 front view
+  - path: 5169.jpg
+    title: Foscam R2 rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1166600
+  content:
+    ean: "6954836022108"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/mD7dBzq7F3w
+    manuals:
+    - http://downloads.spycameracctv.com/FSIP207PTZ/manuals/FSIP207PTZ.pdf
+    software: []
+    description: "This 1080p Pan Tilt WiFi IP camera is the latest model from Foscam,
+      one of the most trusted names in remote and home surveillance. As with all of
+      Foscam's cameras, it has been designed from the ground up for ease of use and
+      quick installation. All you have to do is install the app, then use your phone
+      to scan the code on the bottom of the camera and follow a few onscreen prompts.
+      After this you will be able to remotely view live footage and recordings using
+      your phone, and even control the camera's movements on its motorised base. This
+      all makes it a fantastic choice for home security, even for those unfamiliar
+      with CCTV or IP cameras. Use it for monitoring pets, checking for intruders
+      while on holiday, or as a nanny camera.\r\n\r\nThe camera itself is fitted with
+      a high-resolution colour sensor, letting it record crisp video in 1920x1080
+      HD. Coupled with the wide angle lens, this provides plenty of detail, letting
+      you get the best view of what is happening in your home. the camera is also
+      fitted with IR LEDs, providing 7m of night vision illumination. This is more
+      than enough for even a large room in a house, and ensures you can see what is
+      going on 24/7.\r\n\r\nIn addition to viewing live footage via the mobile app,
+      you can also log in to securely view using a PC. Footage can be recorded and
+      stored directly to the built-in MicroSD card slot (card not included)."
+    specification: "Resolution: 1080P\r\nImage Sensor: Colour CMOS Sensor\r\nDisplay
+      Resolution: 1920 x 1080 (2 Megapixels)\r\nLens: f/2.8mm\r\nMin Illumination:
+      0 Lux (With IR Illuminator)\r\nLens Type: Glass Lens\r\nViewing Angle: 110Â°
+      Horizontal viewing angle\r\nAudio Input: Supports two-way audio, Built-in Mic
+      & Speaker\r\nAudio Output: 3.5mm audio jack for external Mic & Speaker\r\nImage
+      Compression: H.264\r\nImage Frame Rate: 25fps (VGA), 23fps (720P), downward
+      adjustable\r\nFlip Mirror Images: Supported\r\nLight Frequency: 50Hz, 60Hz\r\nVideo
+      Parameters: Brightness, Contrast\r\nEthernet: One 10/100Mbps RJ45 port\r\nWireless
+      Standards: IEEE802.11b/g/n\r\nData Rate: IEEE802.11b: 11Mbps (Max.); IEEE802.11g:
+      54Mbps (Max.); IEEE802.11n: 150Mbps (Max.).\r\nWireless Security: WEP, WPA,
+      WPA2\r\nPan/Tilt Angle: No\r\nInfrared Light: 5mm 11 IR LEDs, Night visibility
+      up to 24 feet\r\nStorage Temperature: -20Â°C ~ 60Â° (-4Â°F ~ 140Â°F)\r\nStorage
+      Humidity: 0% ~ 90% non-condensing\r\nCPU: 2.0GHz or above (suggested 3.0GHz)\r\nSupported
+      OS: Microsoft Windows XP, Vista, 7, 8; Mac OS iOSã€\x81Android\r\nBrowser\tMicrosoft
+      IE8 and above version or compatible browser; Mozilla Firefox; Google Chrome;
+      Apple Safari\r\nCertification: CE, FCC, RoHS"
+    in_the_box: "<ul>\r\n<li>1x Foscam WiFi IP camera</li>\r\n<li>1x Mains Power Supply</li>\r\n<li>1x
+      USB Cable</li>\r\n<li>1x Antenna</li>\r\n<li>1x Software and manual CD</li>\r\n</ul>"

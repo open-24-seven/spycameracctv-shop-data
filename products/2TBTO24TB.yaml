@@ -1,0 +1,22 @@
+product:
+  path: 2tb-to-24tb-upgrade
+  sku: 2TBTO24TB
+  name: 2TB to 24TB Hard Drive Upgrade
+  images:
+  - path: 5426.jpg
+    title: ' 2TB to 24TB Hard Drive Upgrade'
+  prices:
+    default:
+    - break: 1
+      unit_price: 9666700
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

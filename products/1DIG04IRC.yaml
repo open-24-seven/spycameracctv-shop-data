@@ -1,0 +1,42 @@
+product:
+  path: digital-wireless-cctv-camera-15m-night-vision-receiver
+  sku: 1DIG04IRC
+  name: Digital Wireless CCTV Camera with 15m Night Vision, Receiver
+  images:
+  - path: 5940.jpg
+    title: " \tDigital Wireless CCTV Camera with 15m Night Vision, Receiver"
+  prices:
+    default:
+    - break: 1
+      unit_price: 916600
+  content:
+    ean: "5060611442373"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Whether you're just looking for a single camera to watch over a
+      doorway, or an addition to a larger security system, this digital wireless camera
+      & receiver kit is a great value solution. The included camera is protected by
+      an IP66 rated weatherproof case, allowing installation in exposed outdoor locations.
+      IR LEDs also provide 15m night vision illumination, essential for watching over
+      unlit gardens or driveways.\r\n\r\nThe camera transmits back to the included
+      receiver using digital wireless technology. This helps prevent picture breakdown
+      due to interference, and allows a huge range of up to 100m in direct line of
+      sight. The receiver uses an industry standard BNC connector, so it can plug
+      right into the back of any CCTV recorder, or directly into a BNC monitor."
+    specification: "<p>Camera</p>\r\n\r\nImage Sensor: 1/4\" Colour CMOS\r\nPixels:
+      640x480\r\nImage Compression: MPEG4\r\nImage Resolution: VGA\r\nLens: 3.6mm\r\nDiagonal
+      Field of View: 55Â°\r\nAGC: On\r\nPower: 9V DC\r\nPower Consumption: 430mA IR
+      on, 220mA IR off\r\nWeather Resistance: IP66\r\nIR LED: 24x\r\nNight Vision
+      Range: 15m\r\nDimensions: 79x203x117mm\r\nWeight: 300g\r\n\r\n<p>Receiver</p>\r\n\r\nSensitivity:
+      -81dbm\r\nSupported Resolution: VGA\r\nTermination: 2x Composite BNC\r\nPower
+      Requirement: 9V DC\r\nPower Consumption: 270mA Max\r\nDimensions: 53x137x86mm\r\nWeight:
+      100g\r\nFrequency Range: 2.4-2.48GHz\r\nPower: 16dBm\r\nRange: 100m (direct
+      line of sight)\r\nData Rate: 4MB/s\r\nModulation: GFSK\r\nSpread Spectrum: FHSS\r\nOperational
+      Temperature Range: -10Â°c to +40Â°c "
+    in_the_box: "<ul>\r\n<li>1x Digital Wireless CCTV Camera</li>\r\n<li>1x Camera
+      power supply</li>\r\n<li>1x Wireless receiver</li>\r\n<li>1x Receiver power
+      supply</li>\r\n</ul>"

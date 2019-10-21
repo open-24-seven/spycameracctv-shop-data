@@ -1,0 +1,77 @@
+product:
+  path: hd-ip-bird-box-camera-1080p-mobile-ipad-access
+  sku: NCIP220M
+  name: Green Feathers 1080p HD IP Bird Box Camera Mobile Access
+  images:
+  - path: 5088.jpg
+    title: HD IP Bird Box Camera - 1080p with Mobile & iPad Access
+  - path: 5089.jpg
+    title: HD IP bird box camera
+  - path: 5090.jpg
+    title: HD IP bird box camera with night vision
+  - path: 5092.jpg
+    title: HD IP bird box camera wiring guide
+  - path: 5644.jpg
+    title: PoE injector for green feathers IP bird box camera
+  - path: 5091.jpg
+    title: HD IP bird box camera cable connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 825000
+  content:
+    ean: "5060423072034"
+    meta:
+      title: ""
+      description: The UK's first IP Bird Box Camera with HD Images and Mobile and
+        iPad Access. Watch Your Bird Box Live Over The Internet Wherever You Are.
+        Buy online today for FREE UK delivery!
+    videos:
+    - https://www.youtube.com/embed/tjGd2xSwKnU
+    - https://www.youtube.com/embed/_zHrX1t9suA
+    manuals:
+    - http://downloads.spycameracctv.com/NCIP2/manuals/quick-start.pdf
+    software:
+    - http://downloads.spycameracctv.com/CMS5.zip
+    description: "We are proud to present the UK's first HD IP bird box camera, from
+      our exclusive Green Feathers brand which allows you to watch the inside of your
+      bird box over the internet via smartphone or iPad - all in incredible HD! There's
+      no other bird box camera on the market that is true HD or accessible over the
+      internet.\r\n\r\nOur <a href=\"https://www.spycameracctv.com/spycamera/wireless-birdbox-day-night-hidden-camera-receiver\">wireless
+      bird box camera</a> has been one of our most popular cameras, letting you easily
+      watch your little feathered family from the comfort of your TV. However, we
+      often get asked if you can also view it on a mobile or tablet, and this isn't
+      really possible without using a recorder. But hurray! For we now have some chirpy
+      news: with our new HD IP model, you can plug it straight into your router, and,
+      after an initial simple setup using a PC, log in via a mobile or tablet to have
+      a live view of your hatching chicks in their nest box, wherever you are!\r\n\r\nThe
+      camera itself has also been upgraded, now recording in 1080p HD, providing the
+      clearest possible image of the birds at home in the nest. IR LEDs provide clear
+      night vision for recording after dark, and if there are good lighting conditions,
+      the camera can record in colour. A wide angle lens also helps get everything
+      in the frame, even in the most compact nest boxes. Perfect for whenever Tweety
+      is dozing off in a far corner for a bit. \r\n\r\nThe kit includes a 20m Cat5e
+      ethernet cable with waterproof connector, which runs straight from the camera
+      to your router or network switch. Once configured via an app, you can view the
+      camera live on your mobile device. If you're viewing via a PC, the CMS software
+      lets you record footage, and, if used with a NAS drive, you can even set up
+      motion detection and scheduled recording.\r\n\r\n<i>We also offer a remote setup
+      service to completely configure the camera for you, and provide ongoing support,
+      through our Freshdesk site, and via our support ticket system, email and phone
+      service. <a href=\"https://www.spycameracctv.com/spycamera/bronze-support-remote-setup-online-viewing-mobile-access\">See
+      here</a> for more details about the setup</i>. A little side note: we always
+      welcome happy stories and new videos of your feathered friends, so feel free
+      to share them!    "
+    specification: "Imaging Chip: 1/3\" Low light CMOS\r\nSensor Resolution: 1080p\r\nSensitivity:
+      0.5Lux (IR off), 0Lux (IR On)\r\nMain Stream Resolution: 1280x960 @15fps, 720p
+      @25fps\r\nSub Stream Resolution: 4CIF @15fps, CIF @25fps\r\nVideo Compression:
+      H.264 \r\nDWDR: On/Off\r\n3D DNR: YEs\r\nLens: 2.8mm\r\nField of View: 92Â°\r\nLens
+      Mount: Board\r\nDay & Night: Auto ICR switch\r\nConfiguration: Via web browser
+      or CMS software\r\nRecording: Continuous, Motion, Scheduled (via CMS)\r\nProtocol:
+      HTTP, TCP/IP, ARP, RTSP, RTP, UDP, SMTP, FTP, DHCP, DNS, DDNS, PPPOE, UPNP,
+      NTP, 802.1x\r\nEthernet: 10/100 Base-T, Auto-sensing, Half/full duplex, RJ45\r\nPoE:
+      IEEE 802.3af compliant\r\nPower Input:  12V DC or PoE\r\nPower Consumption:
+      3.5W IR off, 7.5W IR on\r\nDimensions: 43x43x21mm (excluding cables & bracket)\r\nOperational
+      Temperature: -20Â°c to +55Â°c\r\nHumidity: 10-80%\r\n"
+    in_the_box: "<ul>\r\n<li>1x HD IP bird box camera</li>\r\n<li>1x 20m Network cable</li>\r\n<li>1x
+      3m Network cable</li>\r\n<li>1x PoE injector</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

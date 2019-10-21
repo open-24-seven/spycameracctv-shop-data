@@ -1,0 +1,45 @@
+product:
+  path: gmaut-additional-wireless-battery-powered-cctv-camera-1080p-hd
+  sku: RSWLCAM
+  name: Gamut Additional Wireless Battery Powered CCTV Camera - 1080p HD
+  images:
+  - path: 5929.jpg
+    title: Gamut Additional Wireless Battery Powered CCTV Camera - 1080p HD
+  - path: 5930.jpg
+    title: Gamut battery powered wireless camera diagram
+  - path: 5931.jpg
+    title: Gamut battery powered wireless camera front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 768100
+  content:
+    ean: "5060611442212"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Cut the cord to your CCTV! This additional camera for our <a href=\"https://www.spycameracctv.com/spycamera/gamut-wireless-battery-powered-cctv-system-1080p-camera-1tb-nvr\"
+      target=\"_blank\">Gamut battery powered CCTV system</a> is completely wire-free,
+      allowing you to install it outside your home without needing to run a cable
+      through an exterior wall. This makes it perfect for DIY installers, or for use
+      in a rented property.\r\n\r\nThe camera features a built-in PIR sensor, which
+      uses a subject's body heat to trigger motion detection. This also allows the
+      camera to enter a low-power standby mode, monitoring your property for up to
+      6 months on a single charge! Footage is recorded in crisp 1920x1080 Full HD,
+      ensuring plenty of picture detail, with IR LEDs also providing 8m of night vision
+      illumination for use after dark. The camera connects to the recorder using low
+      interference wireless transmission, helping ensure a clean signal."
+    specification: "Imaging Sensor: 1/2.7\" CMOS\r\nEffective Resolution: 1920x1080\r\nSynch:
+      Internal\r\nSensitivity: 0.05 lux @f/1.2 (IR off), 0 lux (IR on)\r\nS/N Ratio:
+      40dB\r\nWhite Balance: Auto\r\nAES Speed: Auto\r\nAGC: Auto\r\nNoise Reduction:
+      3D\r\nAudio: Two way audio\r\nLens: 2.8mm f/1.8\r\nViewing Angle: 120 degrees
+      (horizontal)\r\nProtection Level: IP66\r\nIR Range: 8m\r\nPIR Angle: 115 degrees\r\nPIR
+      Detection Range: 10m\r\nBattery Capacity: 2900mAh\r\nBattery Life Cycle: Up
+      to 350(t)\r\nPower Input: 4.2V\r\nPower Consumption: 1.8W\r\nCurrent Consumption:
+      420mA (active), 400ÂµA\r\nOperational Temperature: -30 to +55c\r\nOperational
+      Humidity: <95%\r\nDimensions: 136x73x89mm"
+    in_the_box: "<ul>\r\n<li>1x Battery powered wireless camera</li>\r\n<li>1x Wall
+      plate</li>\r\n</ul>"

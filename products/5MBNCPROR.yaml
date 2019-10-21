@@ -1,0 +1,30 @@
+product:
+  path: b-grade-5m-professional-rg59-bnc-cctv-cable
+  sku: 5MBNCPROR
+  name: B Grade 30% Off - 5m Professional Grade RG59 BNC CCTV Cable
+  images:
+  - path: 5613.jpg
+    title: " \tB Grade 30% Off - 5m Professional Grade RG59 BNC CCTV Cable"
+  - path: 5614.jpg
+    title: BNC video and DC power connector
+  prices:
+    default:
+    - break: 1
+      unit_price: 58300
+  content:
+    ean: "5060423075011"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-Grade Product: 30% Off RRP</strong>\r\nThis item is either
+      an ex display model, has been unboxed, or was a customer return. All B grade
+      products are tested by our tech team, and still covered by our product guarantee.
+      \r\n\r\nStock is extremely limited, so don't miss out on this great bargain
+      price!"
+    specification: "Length: 5m\r\nInner Conductor: 0.81mm Bare Copper\r\n1st Shielding:
+      Single Aluminium foil\r\nJacket: 6x3.5mm Black PVC\r\nImpedence: 75+/-3 Ohm\r\nCapacitance:
+      53pF/m"
+    in_the_box: ""

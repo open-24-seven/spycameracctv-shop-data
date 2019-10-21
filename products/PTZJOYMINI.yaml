@@ -1,0 +1,41 @@
+product:
+  path: rs485-ptz-controller-mini-joystick-pelco-d
+  sku: PTZJOYMINI
+  name: RS485 PTZ Controller with Mini Joystick, PELCO D
+  images:
+  - path: 5160.jpg
+    title: RS485 PTZ Controller with Mini Joystick, PELCO D
+  - path: 5162.jpg
+    title: ptz controller with mini joystick
+  prices:
+    default:
+    - break: 1
+      unit_price: 1033300
+  content:
+    ean: "5060423072263"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/PTZJOYMINI/manuals/PTZJOYMINI-Manual.pdf
+    software: []
+    description: "This mini PTZ controller is a fantastic addition to any analogue
+      pan tilt zoom CCTV system, providing intuitive camera control. The compact unit
+      features a 3D joystick that puts the camera's movements right at your fingertips.
+      This provides far more precise control than using a DVR's remote controls, or
+      using an onscreen interface, and makes it simple to actively track subjects
+      as they move past the camera. \r\n\r\nThe controller connects to the camera
+      using RS485 plugs and wire, and is compatible with a range of protocols, including
+      PELCO D and PELCO C, as well as with Dahua cameras. In addition to directly
+      controlling the camera, it also lets you program preset camera positions and
+      routes that can be called up at the touch of a button. This lets you easily
+      automate your system's coverage."
+    specification: "Input Voltage: 12V DC\r\nCurrent Consumption: 150mA (Max)\r\nPower
+      Connection: 2.1mm DC \r\nProtocol: Pelco D, Pelco C, Dahua\r\nBaud Rate: 2400,
+      4800, 9600, 19200, 38400\r\nFinish: Black\r\nBuild: Plastic\r\nBacklight Compensation:
+      LCD Display and Keys\r\nOperational Temperature: 0Â°c to +50Â°c\r\nPan Speed:
+      Variable\r\nTilt Speed: Variable\r\nMaximum Number of Cameras: 255\r\nJoystick:
+      3D\r\nLCD Screen: Yes\r\nDimensions: 135x129x5mm"
+    in_the_box: "<ul>\r\n<li>1x Mini PTZ Controller with Joystick</li>\r\n<li>1x Mains
+      Power Supply</li>\r\n<li><strong>2 Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,84 @@
+product:
+  path: hikvision-turbo-hd-8mp-cctv-system-2-dome-cameras-dvr
+  sku: TV4K82
+  name: Hikvision Turbo HD 8MP CCTV system with 2 Dome cameras, DVR
+  images:
+  - path: 5866.jpg
+    title: " \tHikvision Turbo HD 8MP CCTV system with 2 Dome cameras, DVR"
+  - path: 5867.jpg
+    title: Hikvision 8mp resolution chart
+  - path: 5868.jpg
+    title: Hikvision turbo hd 8mp dome camera
+  - path: 5869.jpg
+    title: Hikvision 4 channel hybrid DVR
+  - path: 5870.jpg
+    title: Hikvision 4 channel hybrid DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 4575000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "8 megapixel video - or 4k - is the flagship resolution for CCTV,
+      recording images with <i>four times</i> the subject detail of Full HD. This
+      makes it unmatched for picking subjects out of large areas such as crowds or
+      car parks, or for recording fine details like faces & license plates. Up until
+      now this has meant investing in a complex IP camera system that needs an in
+      depth network setup. Hikvision's Turbo HD range, however, can now provide fully
+      fledged 8 megapixel CCTV, using standard plug-and-play BNC cables. \r\n\r\nThis
+      CCTV system includes 2 dome cameras from this range, as well as a professional
+      grade recorder to control and monitor them. Each camera is housed inside of
+      a vandal proof, weather proof dome, allowing it to be installed in exposed locations
+      either indoors or outdoors. Their discreet shape make them especially popular
+      for shops & bars. Powerful IR illuminators provide 40m night vision for use
+      in large unlit areas. \r\n\r\nThe recorder is also part of Hikvisions's Turbo
+      HD range, ensuring it can capture video from the cameras without any loss in
+      resolution. It features 4 video channels, letting you easily expand the system
+      with up to 2 more cameras at a later date. A network connection also lets you
+      plug the DVR into your router in order to configure remote access from PC, mobile
+      or tablet. You can use this to not only view footage from the cameras, but adjust
+      the DVR's in depth recording features such as scheduling and motion detection."
+    specification: "<p>Camera Spec</p>\r\nImaging Sensor: 8.29MP progressive scan
+      CMOS\r\nSignal System: PAL/NTSC\r\nFrame Rate (PAL): 8MP @12.5fps, 5MP @20fps,
+      4MP/1080p @2fps\r\nResolution: 3840x2160\r\nMinimum Illumination: 0.003 Lux
+      (colour, IR off), 0 Lux (IR on)\r\nShutter Time (PAL): 1/12.5-10,000s\r\nLens:
+      2.8mm\r\nHorizontal Field of View: 102.2 Degrees\r\nLens Mount: M12\r\nDay &
+      Night: IR Cut\r\nSynchronization: Internal Synch\r\nWide Dynamic Range: 120dB\r\nAGC:
+      Supported\r\nDay/Night: Auto, colour, B&W\r\nWhite Balance: Auto, manual, natural\r\nPrivacy
+      Mask: Supports 4 programmable masks\r\nBack Light Compensation: Supported\r\n3D
+      DNR: Supported, 10 levels\r\nLanguage: English\r\nImage Functions: Contrast,
+      sharpness, saturation, mirror, defog, HLC\r\nHD Output: 1x BNC\r\nCVBS Output:
+      1x BNC\r\nOperational Temperature: -40 to +60c\r\nOperational Humidity: <90%\r\nPower
+      Supply: 12V DC\r\nPower Consumption: Max 4.8W\r\nProtection Level: IP67\r\nVandal
+      Proofing: IK10\r\nHousing Material: Metal\r\nIR Range: 40m\r\nCommunication:
+      Up the coax (HIKVISION-C)\r\nDimensions: 111(d)x82.4mm\r\nWeight: 450g \r\n\r\n<p>Recorder
+      Spec</p>\r\nCoaxial Inputs: 4x BNC\r\nVideo Compression: H.265+, H.265, H.264+,
+      H.264\r\nHD-TVI Input: 8MP, 5MP, 4MP, 3MP, 1080p30, 1080p25, 720p60, 720p50,
+      720p30, 720p25\r\nAHD Input: 5MP, 4MP, 3MP, 1080p30, 1080p25, 720p30, 720p25\r\nHD-CVI
+      Input: 4MP, 1080p30, 1080p25, 720p30, 720p25\r\nCVBS Input: PAL, NTSC\r\nIP
+      Video Input: 2x (over network)\r\nIP Video Resolution: Up to 8MP\r\nAudio Compression:
+      G.711u\r\nAudio Input: 4x RCA\r\nCVBS Output: 1x BNC (704x576)\r\nHD Output:
+      1x HDMI, 1x VGA\r\nHDMI Output: 3840x2160@30, 2560x1440@60, 1080@60, 1280x1024@60,
+      1024x768@60\r\nVGA Output: 1920x1080@60, 1280x1024@60, 1280x720@60, 1024x768@60\r\nEncoding
+      Resolution: 8MP, 5MP, 4MP, 3MP, 1080p, 720p, WD1, 4CIF, VGA, CIF\r\nMain Stream
+      Frame Rate: 8MP@12fps, 5MP@20fps, 3MP@18fps, 4MP/1080p/720p/WD1/4CIF/VGA/CIF@25fps\r\nSub
+      Stream Frame Rate: WD1/4CIF/CIF@25fps\r\nVideo Bitrate: 32Kbps to 16Mbps\r\nAudio
+      Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual Stream: Supported\r\nStream
+      Type: Video, Video & Audio\r\nSynchronous Playback: 4x\r\nRemote Connections:
+      32\r\nNetwork Protocols: TCP/IP, PPPoE, Hik-Connect, DNS, DDNS, NTP, SADP, NFS,
+      iSCSI, UPnP, HTTPS, ONVIF\r\nStorage: 1x SATA (Up to 8TB)\r\nNetwork Interface:
+      1x 10/100/1000M Self adaptive Ethernet\r\nUSB Interface: 1x USB 2.0 (front),
+      1x USB 3.0 (back)\r\nSerial Interface: RS-485\r\nAlarm In/Out: 4/1\r\nPower
+      Supply: 12V DC\r\nConsumption: <15W (No HDD)\r\nOperational Temperature: -10
+      to +55C\r\nOperational Humidity: 10-90%\r\nDimensions: 315x242x45mm\r\nWeight:
+      <1.5Kg (no HDD)"
+    in_the_box: "<ul>\r\n<li>2x Hikvision turbo HD 8MP dome cameras</li>\r\n<li>2x
+      Mains power supplies for cameras</li>\r\n<li>1x Hikvision turbo HD DVR</li>\r\n<li>1x
+      USB Mouse</li>\r\n<li>1x Mains power supply for DVR</li>\r\n<li>Software and
+      manual CD</li>\r\n</ul>"

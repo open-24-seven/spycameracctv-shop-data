@@ -1,0 +1,28 @@
+product:
+  path: b-grade-hikvision-easy-ip-2mp-bullet-camera
+  sku: EASYIP230BR
+  name: B Grade 20% Off - Hikvision Easy IP 2MP Bullet Camera
+  images:
+  - path: 5625.jpg
+    title: " \tB Grade 20% Off - Hikvision Easy IP 2mp Bullet Camera"
+  - path: 5626.jpg
+    title: Easy IP 1080p bullet camera with box
+  prices:
+    default:
+    - break: 1
+      unit_price: 575000
+  content:
+    ean: "5060423073420"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Easy IP 2MP bullet camera</li>\r\n<li>1x Waterproof
+      cover for ethernet connector</li>\r\n<li><strong>3 Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

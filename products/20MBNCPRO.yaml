@@ -1,0 +1,38 @@
+product:
+  path: 20m-professional-copper-rg59-bnc-video-dc-power-extension-cctv-cable
+  sku: 20MBNCPRO
+  name: 20m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  images:
+  - path: 3645.jpg
+    title: 20m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  - path: 3646.jpg
+    title: Professional 20m RG59 video and power cable BNC connector
+  - path: 3647.jpg
+    title: Professional Copper RG59 Video and DC power cable cutaway
+  prices:
+    default:
+    - break: 1
+      unit_price: 141700
+  content:
+    ean: "5060181650697"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Just invested in a professional TVI Professional HD Cameras? This
+      high grade 20m CCTV cable uses quality Copper RG59 cable to provide a clean
+      signal that won't compromise your cameras' performance! This includes a pre-fitted
+      BNC connector, so there's no need to worry about installing your own twist-fit
+      adapters.\r\n\r\nThis Video cable runs alongside a 12V DC power cable, pre-fitted
+      with a universal 2.1mm jack connector. This means you will only have to run
+      one cable out to your CCTV location, with no need for separate video and power
+      lines!\r\n\r\nIs this not quite the length you need? We stock these cables in
+      10, 20, 30, 40, 50 and 60 metre lengths, and can even supply massive uncut reels!
+      If you need any help with your installation, you can always call our specialist
+      team of advisers. Just see our contact page for the easiest way to get in touch!"
+    specification: "Length: 20m\r\nInner conductor: 0.81mm Bare Copper\r\n1st Shielding:
+      Single Aluminium Foil\r\nJacket: 6x3.5mm Black PVC\r\nImpedance: 75+/-3 Ohm\r\nCapacitance:
+      53pF/m\r\n"
+    in_the_box: ""

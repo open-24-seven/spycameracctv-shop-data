@@ -1,0 +1,35 @@
+product:
+  path: gamut-weatherproof-junction-box-outdoor-bullet-cameras
+  sku: GTB-BRA
+  name: Gamut Weatherproof Junction Box for Outdoor Bullet Cameras
+  images:
+  - path: 5636.jpg
+    title: Gamut Weatherproof Junction Box for Outdoor Bullet Cameras
+  - path: 5714.jpg
+    title: Gamut bullet camera junction box schematic
+  - path: 5637.jpg
+    title: weatherproof junction box kit
+  - path: 5638.jpg
+    title: weatherproof CCTV junction box top view
+  prices:
+    default:
+    - break: 1
+      unit_price: 99900
+  content:
+    ean: "5060423075998"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: Using a junction box is usually the best way to install a CCTV camera
+      on the exterior of a building. All of the cabling running from the camera can
+      be connected inside the IP65 rated metal box, protecting it from weather, and
+      from vandals. It also makes it so much easier to run the cables through an exterior
+      wall, as you don\'t need to drill holes wide enough to fit the bulky pigtail
+      cables on the camera.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Outdoor junction box</li>\r\n<li>2x Cable feeds</li>\r\n<li>1x
+      Drilling template</li>\r\n<li>Complete set of fixings</li>\r\n<li><strong>3
+      Year guarantee with SpyCameraCCTV</strong></li>\r\n</ul>"

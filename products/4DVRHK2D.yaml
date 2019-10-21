@@ -1,0 +1,80 @@
+product:
+  path: hikvision-turbohd-tvi-4-channel-1080p-hd-dvr-mobile-access
+  sku: 4DVRHK2D
+  name: Hikvision TurboHD 4 Channel TVI DVR with PoC
+  images:
+  - path: 4795.jpg
+    title: Hikvision TurboHD TVI 4 Channel 1TB 1080p HD DVR with mobile access
+  - path: 4842.jpg
+    title: ' 4 channel hikvision turbo hd TVI cctv recorder'
+  - path: 4843.jpg
+    title: Hikvision 4 channel turbo hd tvi recorder back view
+  - path: 4845.jpg
+    title: Hikvision 4 channel recorder box
+  - path: 4796.jpg
+    title: Turbo HD TVI Sample Image
+  prices:
+    default:
+    - break: 1
+      unit_price: 1460000
+  content:
+    ean: "5060423076261"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/4DVRHK2C.pdf
+    software: []
+    description: "We often talk to existing CCTV system users who want to take advantage
+      of the huge leap in quality that comes with upgrading to HD cameras, but are
+      concerned about the extra complexity of moving to an IP camera system. This
+      4 channel <strong>Turbo HD TVI</strong> DVR from Hikvision is the perfect answer
+      to those questions, providing highly detailed video recordings whilst still
+      keeping the plug and play simplicity and backwards compatibility of a traditional
+      CCTV DVR.\r\n\r\nTurbo HD TVI is a format from Hikvision that allows the recorder
+      to capture amazing video at above-HD resolutions from cameras using a standard
+      coaxial cable with BNC connectors. When used with Turbo HD TVI cameras this
+      ensures huge amounts of detail are recorded, for footage that meets the most
+      exacting commercial security requirements, with 5MP video recorded independently
+      from each camera. As it's compatible with traditional analogue CCTV and cables,
+      this means you can upgrade your security system bit-by-bit, replacing individual
+      cameras rather than stumping for a complete system in one go. It even supports
+      up to two 6MP IP cameras, letting you easily combine digital and analogue formats
+      with one recorder.\r\n\r\nThe recorder supports a full range of motion detection
+      & scheduling modes, as well as Hikvision's own smart features. These include
+      line crossing and intrusion detection, providing an extra level of automation
+      control for your recording. Audio inputs also allow you to run CCTV microphones
+      next to your cameras, providing sound monitoring as well as video. The recorder
+      also has VGA and HDMI outputs, providing an easy way to connect it to a TV or
+      monitor to view your cameras. Uniquely, the recorder supports Hikvison's Power-over-Coax
+      technology, powering compatible Turbo HD cameras over the RG59 cable, and removing
+      the need for separate power supplies.\r\n\r\nAs with all of our CCTV recorders,
+      it also features an ethernet plug, to easily connect the recorder to your network.
+      Once configured, this allows you to watch live or recorded footage from anywhere
+      in the world via a PC or mobile device. Hikvision's software even provides in
+      depth control of recording settings via a secure PC interface."
+    specification: "<strong>Video/Audio input</strong>\r\n\r\nVideo compression: H.265+,H.265,H.264+,H.264\r\nAnalogue
+      Input: 4x BNC (1.0 Vp-p, 75 Î©)\r\nTurbo HD input: 5MP (20fps), 4MP, 3MP, 1080p,
+      720p\r\nAHD input: 1080p, 720p\r\nHD-CVI input: 1080p, 720p\r\nCVBS input: Supported\r\nIP
+      video input: 2ch, up to 6MP\r\nAudio compression: G.711u\r\nAudio input: 4x
+      RCA (2.0 Vp-p, 1 KÎ©)\r\n\r\n<strong>Video/Audio output</strong>\r\n\r\nCVBS
+      output: 1x BNC (1.0 Vp-p, 75 Î©)\r\nHDMI/VGA output: Up to 1920x1080 @ 60Hz\r\nEncoding
+      resolution: 5MP/4MP/3MP/1080p/720p/WD1/4CIF/VGA/CIF\r\nMain stream Frame Rate:
+      5MP @12fps, 4MP @15fps, 3MP @18fps, 1080p/720p/WD1/4CIF/VGA/CIF @25fps\r\nSub-stream
+      Frame Rate: WD1/4CIF @25fps\r\nVideo bitrate: 32 Kbps to 10 Mbps\r\nAudio output:
+      1x RCA (Linear, 1 KÎ©)\r\nAudio bitrate: 64 Kbps\r\nDual stream: Supported\r\nSynchronous
+      playback: 4x\r\n\r\n<strong>Network management</strong>\r\n\r\nRemote connections:
+      128\r\nNetwork protocols: TCP/IP, PPPoE, DHCP, Hik Cloud P2P, DNS, DDNS, NTP,
+      SADP, NFS, iSCSI, UPnPâ„¢, HTTPS, ONVIF\r\n\r\n<strong>Hard disk</strong>\r\n<nbsp/>\r\nSATA:
+      1x SATA interface\r\nCapacity: Up to 8 TB\r\n\r\n<strong>External interface</strong>\r\n\r\nTwo-way
+      audio input: 1x RCA (2.0 Vp-p, 1 KÎ©) \r\nNetwork interface: 1x RJ45 10M/100M
+      self-adaptive Ethernet interface\r\nUSB interface: 2Ã— USB 2.0 \r\nSerial interface:
+      RS-485 (half-duplex)\r\nAlarm in/out: 4/1\r\n\r\n<strong>General</strong>\r\n\r\nPower
+      supply: 12V DC\r\nConsumption (without HDD): â‰¤10 W\r\nOperating temperature:
+      -10Â° to +55Â° \r\nOperating humidiy: 10% to 90%\r\nDimensions (WÃ—DÃ—H): 315Ã—242Ã—45mm
+      \r\nWeight (without HDD): â‰¤ 1.16 kg"
+    in_the_box: "<ul>\r\n<li>1x 4 Channel Turbo HD TVI DVR</li>\r\n<li>1x USB Mouse</li>\r\n<li>1x
+      Remote Control</li>\r\n<li>1x Manual and Software CD</li>\r\n<li>1x Mains Power
+      Supply</li>\r\n</ul>"

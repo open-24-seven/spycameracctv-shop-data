@@ -1,0 +1,24 @@
+product:
+  path: 10tb-seagate-skyhawk-surveillance-hdd
+  sku: 10TBSSV
+  name: 10TB Seagate SkyHawk Surveillance HDD
+  images:
+  - path: 5784.jpg
+    title: 10TB Seagate SkyHawk Surveillance HDD
+  prices:
+    default:
+    - break: 1
+      unit_price: 4166600
+  content:
+    ean: "5060423076988"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This commercial grade SkyHawk HDD from Seagate is specifically designed
+      for applications with demanding read/write cycles. Because of this, they are
+      ideal for use in Hikvision's DeepinMind AI assisted recorders.
+    specification: ""
+    in_the_box: ""

@@ -1,0 +1,60 @@
+product:
+  path: green-feathers-bird-box-wired-camera-complete-kit
+  sku: CMOSNC720MBB
+  name: Green Feathers Bird Box with Wired Camera Complete Kit
+  images:
+  - path: 5720.jpg
+    title: Green Feathers Bird Box with Wired Camera Complete Kit
+  - path: 5721.jpg
+    title: Green Feathers bird box camera
+  - path: 5722.jpg
+    title: 'Wooden bird box '
+  - path: 5723.jpg
+    title: RCA to HDMI video adapter
+  - path: 5895.jpg
+    title: 700tvl bird box camera sample footage
+  - path: 5917.jpg
+    title: Green Feathers bird box dimensions
+  prices:
+    default:
+    - break: 1
+      unit_price: 604100
+  content:
+    ean: "5060611440041"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/XYIXOfXGwO0
+    manuals: []
+    software: []
+    description: "For almost a decade now, our range of bird box and observation cameras
+      have been helping families and schools get closer to the wildlife all around
+      them. Now, we are proud to have teamed up with the folks at Riverside Woodcraft
+      to create our own range of wooden bird boxes. This means that, for the first
+      time, we can provide a complete kit, including the box and camera, as well as
+      the cables and power supplies needed to get it up and running. It's perfect
+      as a gift for bird lovers, or an educational project for a class.\r\n\r\nThe
+      box is made from sturdy 21mm thick timber, making it much more sturdy than most
+      of the other options on the market, perfect for a long term installation. It's
+      been specially designed for use with our cameras, featuring a central mounting
+      point, and air slots through which you can run the cable. What's more, it's
+      built from FSC Mix timber, ensuring the wood is from sustainable sources.\r\n\r\nThe
+      tiny camera sits right in the top of the box, using invisible infrared to capture
+      700tvl images at all hours without disturbing the birds. We have also fitted
+      the camera with a wide angle lens, so it can see everything that happens inside
+      the box. We have included a 20m to both run power to the box and send video
+      back. The RCA connections on the cable can either connect directly into the
+      back of a television, or be connected to an HDMI cable using the included HDMI
+      video adapter. This lets you easily view the camera on HD TVs and monitors."
+    specification: "Camera\r\n<br />\r\nVideo: PAL/NTSC\r\nResolution: 700 TV Lines\r\nImage
+      form: JPEG\r\nImage pixels: 512 x 582\r\nVideo form: AVI\r\nMinimum illumination:
+      1 Lux\r\nLens: Super Wide 2.8mm\r\nWhite balance: Auto\r\nS/N ratio: >48dB(AGC
+      Off)\r\nBack light compensation: Auto\r\nElectronic shutter: 1/50(1/60)-1/100,000
+      seconds\r\nOperation temperature:-20 to 50 degrees Celsius\r\nPower Supply:
+      DC 8V 500mA \r\n<br />\r\nHDMI Adapter\r\n<br />\r\nVideo Input: 1x Composite
+      RCA\r\nPower Input: USB\r\nOutput: 1x HDMI\r\nVideo Mode: PAL, NTSC\r\nHDMI
+      Output: 1080p/60Hz, 720p/60Hz\r\nDimensions: 66x55x20mm\r\nWeight: 40g "
+    in_the_box: "<ul>\r\n<li>1x Wooden bird box</li>\r\n<li>1x Green Feathers bird
+      box camera</li>\r\n<li>1x 20m video and power cable</li>\r\n<li>1x Mains power
+      supply</li>\r\n<li>1x RCA to HDMI adapter</li>\r\n</ul>"

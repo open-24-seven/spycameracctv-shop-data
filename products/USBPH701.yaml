@@ -1,0 +1,62 @@
+product:
+  path: usb-receiver-cctv-wireless-pinhole-covert-hidden-spy-camera-systems
+  sku: USBPH701
+  name: Mini Covert Wireless Pinhole Spy Camera USB Recorder Kit
+  images:
+  - path: 3880.jpg
+    title: Wireless Pinhole Spy Camera with Receiver
+  - path: 3605.jpg
+    title: Wireless 2.4 GHz Receiver with USB Connectivity
+  - path: 1012.jpg
+    title: Wireless Pinhole Camera
+  - path: 1787.jpg
+    title: USB Audio Video Capture Adapter
+  - path: 2034.jpg
+    title: "\t8V, 12V power adapters, phono AV cable and 9V battery clips included"
+  - path: 4583.jpg
+    title: Mini Covert Wireless Pinhole Camera with Audio, connects to PC by USB
+  prices:
+    default:
+    - break: 1
+      unit_price: 608100
+  content:
+    ean: "5060181650673"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Lz_rnvUDTlw
+    manuals: []
+    software: []
+    description: "This mini pinhole spy camera is ideal for covert security applications.
+      Due to its tiny size this camera can be hidden out-of-view of suspecting eyes
+      to discreetly capture what is happening in the room. Measuring just 3mm across
+      and being able to see through gaps as small as this the camera can be hidden
+      on a bookshelf or behind objects in the room without being noticed. To minimise
+      the amount of wiring the camera features wireless transmission with a range
+      of up to 50 metres in clear line-of-sight back to its receiver, which can be
+      connected to a TV via RCA/SCART.\r\n\r\nIn this kit we have included our USB
+      Video Capture Device, which allows you to record to your Windows PC without
+      the need for a costly DVR. Supplied is free software from iSpy that features
+      advanced recording options such as motion detection and scheduled recording
+      so that you can configure recording to your specification. Footage is recorded
+      to the PC's hard drive so that you can return to view it at anytime. Furthermore
+      you can export footage to upload to YouTube and back up to the cloud. Please
+      note that this is third party software and we do not support all features.\r\n\r\nTo
+      download the software follow <a href=\"http://www.ispyconnect.com/download.aspx\"
+      target=\"_blank\">this link</a>."
+    specification: "<strong>Camera</strong>\r\n\r\nEffective picture element: PAL:
+      628x582 NTSC:510x492\r\nPicture Area: PAL: 5.78x4.19mm\r\nHorizontal Definition:
+      700 TV Lines\r\nScan Frequency: PAL/CCIR: 50HZ\r\nMinimum Illumination: 3 LUX\r\nSensitivity:
+      +18DB-AGC ON-OFF\t\r\n0utput Power: Great than 10dBm (10mW )/100dBm(100mW)\r\nOutput
+      Frequency: 2.4GHz\r\nWireless Distance: 10-20m/50m\r\nVoltage: 8V DC\r\nCurrent:
+      200mA\r\nPower Consumption: 150mA\r\n\r\n<strong>Receiver</strong>\r\n\r\nFrequency:
+      ISM ISM 2414 - 2468MHz\r\nAntenna: Omni-directional antenna\r\nChannel: 1-4
+      (Flip-type switch)\r\nIntermediate Frequency: 480MHz\r\nFrequency Stabilization:
+      +/- 100KHz\r\nDemodulation Mode: FM\r\nReceiving Sensitivity: -85dBm\r\nVideo
+      Output: 1Vp-p@75 ohm, S/N>38dB\r\nAudio Output: 1Vp-p@600 ohm\r\nPower: 9V DC\r\nOperating
+      Temperature: -10oC ~ +40oC\r\nOperating Humidity: 85%RH\r\nDimension(WxLxH):
+      80x68x16mm\r\nWeight: 115g"
+    in_the_box: "<ul>\r\n<li>1x Wireless Pinhole Spy Camera</li>\r\n<li>2x UK mains
+      power supplies</li>\r\n<li>1x Receiver</li>\r\n<li>1x USB Video Capture Device</li>\r\n<li>Set
+      up instructions</li>\r\n</ul>"

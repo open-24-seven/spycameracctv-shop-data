@@ -1,0 +1,46 @@
+product:
+  path: 4k-cctv-monitor-28-inch-uhd-led-hdmi-vesa-mount
+  sku: LEDMON28VV
+  name: 4K CCTV Monitor - 28 Inch UHD LED with HDMI, VESA Mount
+  images:
+  - path: 5748.jpg
+    title: 4K CCTV Monitor - 28 Inch UHD LED with HDMI, VESA Mount
+  - path: 5749.jpg
+    title: '28 inch 4K CCTV monitor '
+  prices:
+    default:
+    - break: 1
+      unit_price: 4500000
+  content:
+    ean: "5060423078173"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 28\" 4K CCTV monitor boasts a huge 3840x2160 display resolution,
+      providing a way of watching live or recorded footage from 8 megapixel IP cameras
+      without losing any detail. The backlit LED provides both bright highlights and
+      inky blacks, along with true-to-life colours.\r\n\r\nThe large display has dual
+      HDMI inputs, so can work with any of our professional recorders or decoders.
+      It also has dual DisplayPort v1.2 inputs, allowing use with many PCs."
+    specification: "Panel Type: 28\" Backlit LED\r\nCase Type: Plastic\r\nMaximum
+      Resolution: 3840x2160 @60Hz\r\nActive Display Area: 648.9x369.3mm\r\nPixel Pitch:
+      0.16x0.16mm\r\nBezel Thickness: L/R/U 20mm, D 26mm\r\nContrast Ratio: 1000:1\r\nBrightness:
+      300cd/m2\r\nResponse Time: 5m.sec(G to G)\r\nViewing Angle: 170/160Â°\r\nDisplay
+      Colours: 1.073B\r\nDisplay Mode: 16:9, 4:3\r\nVideo Sync: Yes\r\nPC Compatibility:
+      Yes\r\nAspect Ratio: 16:9\r\nVGA Auto Frequency Correction: Yes\r\nSpeakers:
+      3W x 2\r\nSound Demodulation: Stereo\r\nMute: Yes\r\nWorking Humidity: 5-90%\r\nWorking
+      Temperature: -10 to +50c\r\nVideo Interface: 2x HDMI, 2x DP v1.2\r\nAudio: PC
+      Audio Out\r\nPower Interface: DC in\r\nTermination: 75 Ohm\r\nCertification:
+      CE, FCC, RoHS\r\nVESA: 100x100\r\nStand Type: Desk\r\nColour: Black\r\nButton
+      Position: Bottom Right\r\nPacking Dimensions: 600x445x96mm\r\nNet Weight: 6Kg\r\nGross
+      Weight: 6.9Kg\r\nPower Supply: 12V DC 5A\r\nVoltage: 110/230 AC\r\nPower Consumption:
+      45 Watt (Typical)\r\nOSD Controls: Brightness, Contrast, Eco, DCR, H Position,
+      V Position, Clock, Phase, Aspect, Colour Temp, OSD Setting, OSD Language, OSD
+      H Pos, OSD V Pos, OSD Timer, OSD Transparency, Factory, Reset, Single Source,
+      Volume\r\nOSD Language: English, Espanol, Japanese, Francais, Portugues, DEutsch,
+      Turkce, Chinese, Polski, Italiano, Nederlands\r\n"
+    in_the_box: "<ul>\r\n<li>1x 28\" 4K CCTV Monitor</li>\r\n<li>1x Mains power cable
+      and adapter</li>\r\n<li>1x HDMI Cable</li>\r\n</ul>"

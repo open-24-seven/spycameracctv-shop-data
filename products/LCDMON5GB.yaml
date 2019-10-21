@@ -1,0 +1,35 @@
+product:
+  path: 5-inch-mni-lcd-bird-box-camera-monitor-suction-mount
+  sku: LCDMON5GB
+  name: 5 Inch Mini LCD Bird Box Camera Monitor with Suction Mount
+  images:
+  - path: 5754.jpg
+    title: 5 Inch Mini LCD CCTV Monitor with Suction Mount
+  prices:
+    default:
+    - break: 1
+      unit_price: 433300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This compact 5\" mini CCTV monitor is a quick and easy way to view
+      live footage from any of our Green Feathers 700TVL bird box cameras. It's a
+      perfect solution if you are unable to set up a TV near the wireless receiver
+      in your home, or if the cable is too short to run to your TV.\r\n\r\nThe screen
+      uses a TFT LCD to display a bright, full colour picture at 800x480 resolution.
+      It's really simple to set up, using standard plug-and-play RCA connectors. It
+      has 2 inputs, letting you switch between sources, and even includes suction
+      and adhesive mounts, so you can quickly install it on anything from a window
+      to a desk."
+    specification: "Type: Digital TFT LCD\r\nDisplay Size: 5â€™â€™\r\nDisplay Scale:
+      4:3 / 16:9\r\nPower: No more than 3W\r\nVideo: AV1 / AV2\r\nVideo Format: PAL
+      / NTSC\r\nContrast: 400:1\r\nPixel: 480*272 (800*480)\r\nOperating Voltage:
+      DC12V / DC24V\r\nOperating Temperature: -20 to +65c\r\nStorage Temperature:
+      -30 to +80c"
+    in_the_box: "<ul>\r\n<li>1x 5\" CCTV monitor</li>\r\n<li>1x Suction mount</li>\r\n<li>1x
+      Adhesive mount</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

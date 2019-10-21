@@ -1,0 +1,45 @@
+product:
+  path: hikvision-5mp-turbo-hd-dome-camera-20m-ir-poc
+  sku: HKTV520DC-V
+  name: Hikvision 5MP Turbo HD Dome Camera with 20m IR, PoC
+  images:
+  - path: 5752.jpg
+    title: Hikvision 5MP Turbo HD Dome Camera with 20m IR, PoC
+  - path: 5753.jpg
+    title: Hikvision 5MP resolution chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 540000
+  content:
+    ean: "5060423076216"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision's Turbo HD-TVI range allows a simple plug-and-play installation,
+      whilst still providing amazing resolution and subject detail. This compact dome
+      camera is no exception, capturing 5 megapixel (2560x1944) images with over twice
+      the detail of Full HD. Unlike IP camera systems, there's no configuration required,
+      just plug them in using standard RG59 cable and they're ready to use. \r\n\r\nThe
+      camera itself is housed inside an IK10 rated vandalproof dome, making it a great
+      option to install in high risk, prominent locations. Infra red LEDs provide
+      20m of night vision range,and the housing is also IP67 rated weather proof.
+      This all means the camera is versatile enough to be used anywhere from the inside
+      of a bar to the exterior of a warehouse. \r\n\r\nThe camera also supports Power-over-Coax
+      (PoC), letting it draw power from a compatible DVR over the RG59 cable, and
+      removing the need for an additional power supply."
+    specification: "Imaging Sensor: 5MP CMOS\r\nResolution: 2560x1944\r\nMinimum Illumination:
+      0.01Lux (IR Off), 0Lux(IR On)\r\nShutter Speed: 1/25 to 1/50,000s\r\nLens: 2.8mm\r\nHorizontal
+      Field of View: 94 degrees\r\nLens Mount: M12\r\nDay & Night: IR Cut\r\nSynchronisation:
+      Internal Sync\r\nFrame Rate: 2560x1944@20,12.5,25fps, 1920x1080@25fps\r\nAGC:
+      Supported\r\nD/N Mode: Auto/Colour/B&W\r\nWhite Balance: ATW/MWB\r\nBLC: Support\r\nDWDR:
+      Support\r\nLanguage: English, Chinese\r\nFunctions: Brightness, Sharpness, DNR,
+      Mirror, Smart IR\r\nVideo Output: 1x BNC\r\nOperational Termperature: -40 to
+      +60Â°c\r\nOperational Humidity: 90% or less\r\nPower Supply: 12V DC, PoC\r\nPower
+      Consumption: Max 4.5W\r\nProtection Level: IP67, IK10\r\nMaterial: Metal\r\nIR
+      Range: 20m\r\nCommunication: Up the Coax (Hikvision-C)\r\nDimensions: 111x82.4mm\r\nWeight:
+      Approx 350g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 5mp dome camera</li>\r\n</ul>"

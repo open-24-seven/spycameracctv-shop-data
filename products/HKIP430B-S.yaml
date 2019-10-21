@@ -1,0 +1,62 @@
+product:
+  path: hikvision-4mp-ip-security-camera-30m-ir-microsd
+  sku: HKIP430B-S
+  name: Hikvision 4MP IP Security Camera with 30m IR, MicroSD Slot
+  images:
+  - path: 5400.jpg
+    title: Hikvision 4MP IP Security Camera with 30m IR, MicroSD Slot
+  - path: 5401.jpg
+    title: Hikvision 5mp resolution size chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 1180000
+  content:
+    ean: "5060423077169"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/0kcEfrI7Pr8
+    - https://www.youtube.com/embed/W3KuDc0mifs
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/HKIP530B-S.pdf
+    software: []
+    description: "Hikvision's latest range of professional IP security cameras record
+      video at 4 megapixel resolution, capturing over twice the subject detail of
+      even 1080p Full HD. This, along with their robust build quality and advanced
+      automation software, has made Hikvision the go-to workhorse for tradesmen and
+      installers across the CCTV industry.\r\n\r\nIn addition to its huge recording
+      resolution, this compact bullet camera features 30m night vision to allow 24/7
+      monitoring even in unlit large rooms or gardens. The camera is built into an
+      IP67 rated weatherproof housing, meaning you can install it indoors or outdoors.
+      A Power-over-Ethernet connection lets the camera draw power directly from the
+      network cable, helping keep installation and wiring simple. It even features
+      a built-in MicroSD card slot, allowing you to record footage without an external
+      device.\r\n\r\nThe camera connects to your network via a router or switch. Using
+      Hikvision's simple remote access software, you can then view live or recorded
+      footage remotely via a PC or mobile device. The camera boasts Hikvision's advanced
+      video analytics features, with settings including line crossing and intrusion
+      detection. These can be configured with the PC app, letting you automate your
+      security system with incredible flexibility.\r\n\r\n"
+    specification: "Imaging Sensor: 1/3\" CMOS\r\nMinimum Illumination: 0.01 Lux (colour,
+      IR off), 0 Lux (IR on)\r\nShutter Speed: 1/3s to 1/100,000s\r\nSlow Shutter:
+      Support\r\nLens: 2.8mm\r\nField of View: 103Â°\r\nLens Mount: M12\r\nDay & Night:
+      IR Cut\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo Compression: H.265+,
+      H.265, H.264\r\nVideo Bit Rate: 256kbps to 16Mbps\r\nMax Resolution: 2688x1520\r\nMain
+      Stream: 2688x1520, 2560x1440, 2048x1536, 1920x1080, 1280x960, 1280x720 @25fps\r\nSub
+      Stream: 640x480, 640x360, 320x240 @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage
+      Settings: Rotate, brightness, contrast, saturation, sharpness\r\nDay/Night Switch:
+      Auto/Scheduled\r\nAlarm Trigger: Motion detection, tampering, network disconnected,
+      IP address conflict, illegal login, HDD full, HDD error\r\nProtocols: TVP/IP,
+      UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP,
+      SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandard: ONVIF (S,G), PSIA, CGI, ISAPI\r\nNetwork
+      Functions: One key reset, dual-VCA, anti-flicker, heartbeat, mirror, password
+      protection, privacy mask, watermark, IP address filter\r\nCommunication Interface:
+      1x RJ45 10M/100M Self adaptive\r\nOn Board Storage: MicroSD, up to 128GB (not
+      included)\r\nBehaviour Analysis: Line crossing detection, intrusion detection\r\nOperational
+      Temperature: -30Â°c to +60Â°c\r\nOperational Humidity: <95%\r\nPower Supply:
+      12V DC (6W), PoE (7.5W)\r\nIR Range: 30m\r\nProtection: IP67\r\nDimensions:
+      70(d)x155mm\r\nWeight: 420g "
+    in_the_box: "<ul>\r\n<li>1x Hikvision 4MP IP security camera</li>\r\n</ul>"

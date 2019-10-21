@@ -1,0 +1,60 @@
+product:
+  path: hikvision-4k-8mp-ip-camera-30m-ir-microsd-slot
+  sku: HKIP830B-S
+  name: Hikvision 4K 8MP IP Camera with 30m IR, MicroSD Slot
+  images:
+  - path: 5731.jpg
+    title: " \tHikvision 4K 8MP IP Camera with 30m IR, MicroSD Slot"
+  - path: 5733.jpg
+    title: Hikvision 4K 8MP IP Camera with 30m IR, MicroSD Slot
+  - path: 5732.jpg
+    title: Hikvision 4k 8mp sensor size chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 1815000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Perhaps the ultimate proof that big things can come in small packages,
+      this compact bullet camera from Hikvision packs 8 megapixel recording resolution.
+      It's a perfect IP camera for any application that calls for a small & unobtrusive
+      camera that doesn't compromise on image quality.\r\n\r\nA high grade CMOS imaging
+      chip allows the camera to capture footage at resolutions up to 3840x2160, recording
+      4 times the subject detail of even Full HD. This is perfect for monitoring people
+      in high traffic areas such as bars or retail spaces, and makes it easier than
+      ever to archive vital details such as faces and licence plates. It also boasts
+      powerful IR LEDs that provide 30m night vision illumination, as well as a durable
+      IP67 rated housing, essential for outdoor installation.\r\n\r\nThe PoE camera
+      can connect to your network via a router or switch, letting you watch live or
+      recorded footage from anywhere using a PC, or Hikvision's mobile app. As part
+      of Hikvision's professional IP range, it also has a huge range of smart features,
+      including line crossing, intrusion, object removal and face detection. These
+      are all fully customisable using Hikvision's software, giving you another level
+      of control over your security system's automation.\r\n"
+    specification: "Imaging Sensor: 1/2.5\" CMOS\r\nMinimum Illumination: 0.01 Lux
+      (colour, IR off), 0 Lux (IR on)\r\nShutter Speed: 1/3s to 1/100,000s\r\nSlow
+      Shutter: Support\r\nLens: 2.8mm\r\nField of View: 102Â°\r\nLens Mount: M12\r\nDay
+      & Night: IR Cut\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nVideo Compression:
+      H.265+, H.265, H.264\r\nVideo Bit Rate: 32kbps to 16Mbps\r\nMax Resolution:
+      3840x2160\r\nMain Stream: 3840x2160 @20fps, 2560x1920, 2560x1440, 2048x1536,
+      1920x1080, 1280x960, 1280x720 @25fps\r\nSub Stream: 640x360, 352x288 @25fps\r\nThird
+      Stream: 1280x720, 640x360, 352x288 @25fps\r\nImage Enhancement: BLC, 3D DNR\r\nImage
+      Settings: Rotate, brightness, contrast, saturation, sharpness\r\nDay/Night Switch:
+      Auto/Scheduled\r\nAlarm Trigger: Motion detection, tampering, network disconnected,
+      IP address conflict, illegal login, HDD full, HDD error\r\nProtocols: TCP/IP,
+      UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, PPPoE, NTP, UPnP, SMTP,
+      SNMP, IGMP, 802.1X, QoS, IPv6\r\nStandard: ONVIF (S,G), PSIA, CGI, ISAPI\r\nNetwork
+      Functions: One key reset, anti-flicker, heartbeat, mirror, password protection,
+      privacy mask, watermark, IP address filter\r\nCommunication Interface: 1x RJ45
+      10M/100M Self adaptive\r\nOn Board Storage: MicroSD, up to 128GB (not included)\r\nBehaviour
+      Analysis: Line crossing detection, intrusion detection, unattended baggage detection,
+      object removal detection, face detection\r\nOperational Temperature: -30Â°c
+      to +60Â°c\r\nOperational Humidity: <95%\r\nPower Supply: 12V DC (6W), PoE (7.5W)\r\nIR
+      Range: 30m\r\nProtection: IP67\r\nDimensions: 70(d)x155mm\r\nWeight: 410g "
+    in_the_box: "<ul>\r\n<li>1x Hikvision 8MP IP camera</li>\r\n</ul>"

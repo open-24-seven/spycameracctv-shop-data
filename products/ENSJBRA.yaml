@@ -1,0 +1,28 @@
+product:
+  path: j-shape-pole-bracket-ens500-wifi-bridges
+  sku: ENSJBRA
+  name: J Shape Pole Bracket for Engenius ENS500 Wifi Bridges
+  images:
+  - path: 5730.jpg
+    title: J Shape Pole Bracket for ENS500 Wifi Bridges
+  prices:
+    default:
+    - break: 1
+      unit_price: 66500
+  content:
+    ean: "5060423075301"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Wifi bridges are an effective way to send IP camera signals over
+      huge distances, but they do have one slight drawback - they need a direct, unobstructed
+      line of sight in order to work. This J bracket is an easy solution, providing
+      a simple way of raising the wifi bridge above and away from buildings. \r\n\r\nThe
+      bracket is the right size to fit the mountings included with our <a href=\"https://www.spycameracctv.com/spycamera/engenius-els500-5ghz-long-range-wifi-bridge-pair-ip-cameras\"
+      target=\"_blank\">wifi bridge pair</a>. It also includes the wall mounting kit,
+      so you can easily attach it to any exterior wall."
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x J-Bracket for WiFi bridges</li>\r\n</ul>"

@@ -1,0 +1,39 @@
+product:
+  path: 4-20m-bnc-cable-package-cctv-cameras
+  sku: 4BNC20M
+  name: 4 x 20m CCTV Cables with BNC Connection and DC Power for CCTV Cameras
+  images:
+  - path: 1193.jpg
+    title: 4x 20 Meter CCTV Camera Video Power Cable with BNC Connector
+  - path: 1194.jpg
+    title: 20 Meter CCTV Camera Cable with BNC Connector and DC Power Jack
+  prices:
+    default:
+    - break: 1
+      unit_price: 383200
+  content:
+    ean: "5060181652196"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This is a package of 4 x 20M cables to go with any CCTV security
+      package. Simple plug and play cables.\r\n\r\nSimply choose from our wired camera
+      section and Digital video recorders to complete your security package. These
+      can be found in the menu on the left or the associated products on the right.\r\n\r\nThese
+      cables are perfect when coupled with our 4 camera packs and the Digital Video
+      Recorder of your choice. \r\n\r\nThese pre-made made cable lengths enable you
+      to easily connect your CCTV camera's, recorders, monitors, DVR's etc. together.
+      The video plugs are standard BNC connections for an excellent snug connection
+      to your CCTV cameras and/or recorder. \r\n\r\nThe power comes with male to female
+      2.1mm x 5.5mm DC coaxial connector which will suit 99% of standard CCTV cameras
+      as an industry standard connection. \r\n\r\nWe do several lengths of cable from
+      5m, 20m, 30m, 40m and 50m. Specialist lengths available on request.\r\n\r\nThese
+      are very flexible cables, exceptional in delivering low loss signals over even
+      the very longest cable runs and because they carry the video and the power,
+      you only need to run 1 cable for your CCTV equipment.\r\n"
+    specification: ""
+    in_the_box: "<ul>\r\n<li> 4 x 20M BNC Cables with DC power and BNC Connection.
+      </li>\r\n</ul>"

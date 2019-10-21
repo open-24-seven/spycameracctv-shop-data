@@ -1,0 +1,74 @@
+product:
+  path: hikvision-fisheye-ip-camera-12mp-15m-night-vision-audio
+  sku: HKIP1215F-AS
+  name: Hikvision Fisheye IP Camera - 12MP with 15m Night Vision, Audio
+  images:
+  - path: 5434.jpg
+    title: " \tHikvision Fisheye IP Camera - 12MP with 15m Night Vision, Audio"
+  - path: 5435.jpg
+    title: Hikvision fisheye camera view
+  - path: 5436.jpg
+    title: Hikvision fisheye camera view with ROI
+  - path: 5437.jpg
+    title: Hikvision fisheye panoramic view
+  - path: 5438.jpg
+    title: Hikvision 12mp fisheye camera side view
+  - path: 5439.jpg
+    title: Hikvision 12mp fisheye ip camera flat side view
+  prices:
+    default:
+    - break: 1
+      unit_price: 8000000
+  content:
+    ean: "5060423073659"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/gd1g04EeTxQ
+    manuals:
+    - http://downloads.spycameracctv.com/Hikvision/HKIP1215F-AS.pdf
+    software: []
+    description: "Planning the location of cameras is one of the most tricky parts
+      of purchasing a security system - do they focus on high traffic areas like doorways,
+      or get it all in a wide field of view? By capturing a complete 360 degree field
+      of view with a huge 12MP resolution, this Hikvision fisheye IP camera makes
+      the entire argument redundant. It's a perfect solution for large spaces with
+      multiple areas of interest, all without the size and complexity of a pan-tilt-zoom
+      camera.\r\n\r\nThe camera is built around a massive 4000x3072 sensor, fitted
+      with a circular fisheye lens. When mounted on the ceiling, this captures everything
+      that is happening below the camera in incredibly high detail. When used with
+      Hikvision's IVMS software, you can choose from a range of viewing modes, including
+      panoramic, and up to 4 simultaneous regions regions of interest. That's like
+      having 4 PTZ cameras in one location! It's a perfect solution for sites such
+      as warehouses or open plan offices. \r\n\r\nIn addition to the advanced imaging
+      functions, the camera also boasts IR LEDs for 15m of night vision range in every
+      direction. A microphone and small speaker also provides 2 way audio, letting
+      you listen to subjects as well as talking back through the camera. The camera
+      housing is also IP66 rated, allowing installation indoors or outdoors."
+    specification: "Imaging Sensor: 1/1.7\" CMOS\r\nMinimum Illumination: 0.01Lux
+      (IR off), 0Lux (IR on)\r\nShutter Speed: 1/25-1/100,000s\r\nLens: 1.98mm F/2.4\r\nAngle
+      of View: 360Â°\r\nLens Mount: M12\r\nDay & Night: ICR\r\nVideo Compression:
+      H.264, MJPEG\r\nH.264 Type: Baseline, Main, High\r\nVideo Bitrate: 32Kbps-16Mbps\r\nAudio
+      Compression: G.711, G.726, MP2L2\r\nAudio Bitrate: 64Kbps, 16Kbps, 64Kbps\r\nMax
+      Resolution: 4000x3072\r\nViewing Modes: 1) 1x Fisheye or 4x PTZ, 2) 1x Fisheye
+      (main) + 1x Fisheye (sub) + 3x PTZ, 3) 1x Panorama (main) + 1x Panorama (sub)\r\nMode
+      1 Frame Rates: 1x Fisheye (4000x3072 @20fps, 3072x3072, 2560x2560 @25fps), or
+      4x PTZ (1600x1200 @12fps)\r\nMode 2 Frame Rates: 1x Fisheye (2048x2048, 1280x1280
+      @12fps) + 1x Fisheye (720x720 @ 12fps) + 3x PTZ (1600x1200 @ 12fps)\r\nMode
+      3 Frame Rates: 1x Panorama (3072x2304, 3072x1152 @ 12fps) + 1x Panorama (704x576
+      @ 12fps) \r\nNoise Reduction: 3D DNR\r\nImage Setting: Saturation, Brightness,
+      Contrast, Hue, Sharpness, AGC, White Balance\r\nWide Dynamic Range: Digital
+      WDR\r\nDay/Night Switch: Auto, Schedule, Trigger\r\nRegion of Interest: Up to
+      4 in each stream\r\nNetwork Storage: NAS Supported\r\nAlarm Trigger: Line crossing,
+      Intrusion detection, Motion detection, Dynamic analysis, Tampering, Network
+      disconnect, IP address conflict, Storage exception\r\nProtocols: TCP/IP, ICMP,
+      HTTP, HTTPS, FTP, DHCP, DMS, DDNS, RTP, RTSP, RTCP, ONVIF (S,G), PSIA, CGI,
+      ISAPI\r\nSecurity: User authentication, Watermark, IP address filter, Anonymous
+      access\r\nCommunication Interface: 1x RJ45 10/100/1000M Ethernet, 1x RS485\r\nAudio
+      Input: 1x 3.5mm plug, Built in Mic\r\nAlarm Input: 1x\r\nAlarm Output: 1x\r\nOn
+      Board Storage: Buitl in MicroSD, up to 128GB\r\nOperational Temperature: -10Â°c
+      to +50Â°c\r\nOperational Humidity: <95% (non condensing)\r\nPower Supply: 12V
+      DC, PoE\r\nPower Consumption: 12W\r\nIR Range: 15m\r\nIngress Protection: IP66\r\nDimensions:
+      164x152.8x43.8mm\r\nWeight: 1400g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 12MP fisheye IP camera</li>\r\n</ul>"

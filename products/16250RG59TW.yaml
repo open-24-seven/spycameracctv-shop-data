@@ -1,0 +1,22 @@
+product:
+  path: 16-camera-250m-reel-pack
+  sku: 16250RG59TW
+  name: 250m RG59 Pro-Grade cable with connector pack for 16 cameras
+  images:
+  - path: 5461.jpg
+    title: 250m RG59 Pro-Grade cable with connector pack for 16 cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 1484300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

@@ -1,0 +1,32 @@
+product:
+  path: 6v-300ma-mains-power-supply-5210-6210-hunting-trail-cameras
+  sku: 6V30GB17
+  name: 6V 3000mA Mains Power Supply for 5210/6210 Hunting & Trail Cameras
+  images:
+  - path: 4195.jpg
+    title: 6V 3000mA Mains Power Supply for 5210/6210 Hunting & Trail Cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 58300
+  content:
+    ean: "5060181658419"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Our <a href=\"https://www.spycameracctv.com/search/?search=hcam\"
+      target=\"new\">standard and HD hunting cameras</a> are one of our most versatile
+      and popular product lines, allowing you to monitor remote areas with ease. This
+      compact mains power supply allows you to use their sensitive PIR triggers in
+      a more permanent installation, by powering the camera directly. This also helps
+      save on battery costs if you know the camera is going to stay in one location
+      and be frequently triggered. \r\n\r\nThe attached cable is approximately 1.5m
+      in length, and is fitted with a standard 1.7mm jack. *Please note, this power
+      supply will not recharge batteries inside of the device.*"
+    specification: "Plug type: UK 3 pin\r\nConstruction: Black plastic\r\nInput voltage:
+      240V\r\nOutput voltage: 6V\r\nOutput Current: 3000mA\r\nCamera Jack: 1.7mm\r\n"
+    in_the_box: "<ul>\r\n<li>1x Mains power supply for hunting cameras</li>\r\n<li><strong>2
+      year warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,44 @@
+product:
+  path: b-grade-digital-wireless-camera-10m-ir-pir
+  sku: DIGIRC1003R
+  name: B-Grade 20% Off Digital Wireless Camera for Portable LCD Kit
+  images:
+  - path: 5273.jpg
+    title: B-Grade 30% Off Digital Wireless Camera for Portable LCD Kit
+  prices:
+    default:
+    - break: 1
+      unit_price: 658300
+  content:
+    ean: "5060423070153"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "<strong>B-grade product: 20% off</strong>\r\nThis item is likely
+      a customer return or an ex-display model that is in a good condition but may
+      have some light cosmetic damage. \r\n\r\nThis digital wireless CCTV camera is
+      an ideal addition for our <a href=\"https://www.spycameracctv.com/spycamera/720p-hd-digital-wireless-cctv-kit-mobile-access-9-portable-lcd\"
+      target=\"new\">portable LCD recorder security systems</a>, allowing you to expand
+      your system up to a maximum of 4 cameras all independently working with the
+      same recorder. The system can support up to 2 cameras recording at 720p HD quality,
+      or 4 cameras recording at VGA quality.\r\n\r\nUniquely for a wireless camera,
+      it is capable of recording footage at 1280x720 HD, a significant improvement
+      over most other models available on the market, and helping record the most
+      detail possible in your security videos. After dark, a ring of IR LEDs help
+      illuminate subjects up to 10m away, even in complete darkness. The camera is
+      even kitted out with a PIR sensor, allowing it to use a subject's body heat
+      to trigger motion detection recording. This is all housed inside a durable weatherproof
+      plastic casing, letting you use it in exposed outdoor locations.\r\n\r\nThe
+      camera's built-in digital wireless transmitter pairs with the receiver for a
+      clean and secure signal, allowing it to work up to 100m away, although solid
+      obstructions will reduce this significantly. As with all wireless cameras, you
+      will still need to connect it to a power supply, however, the built in 3m power
+      cable gives you freedom to move it around, and we also have extension cables
+      up to 20m in length if required (see drop down menu at top of page)."
+    specification: "Camera Power Supply: 9V 1000mA\r\n"
+    in_the_box: "<ul>\r\n<li>1x B-grade HD Digital Wireless Security Camera with 1.5m
+      cable</li>\r\n<li>1x Mains Power Supply with 1.5m cable</li>\r\n<li>Set of Mounting
+      Screws</li>\r\n</ul>"

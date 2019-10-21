@@ -1,0 +1,67 @@
+product:
+  path: hikvision-2mp-outdoor-bullet-ip-camera-120m-ir-motorised-zoom
+  sku: HKIP2120B-ZA
+  name: Hikvision 2MP Outdoor Bullet IP Camera - 120m IR, Motorised Zoom
+  images:
+  - path: 5684.jpg
+    title: " \tHikvision 2MP Outdoor Bullet IP Camera - 120m IR, Motorised Zoom"
+  prices:
+    default:
+    - break: 1
+      unit_price: 5445000
+  content:
+    ean: "5060423074045"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    manuals: []
+    software: []
+    description: "Hikvision has rightfully earned its place as the industry leader
+      for CCTV surveillance, thanks to their rock solid build and cutting edge imaging
+      technology. This outdoor security camera is no exception, packing a huge range
+      of smart analytics features into a heavy duty body. It's perfect for use in
+      demanding high traffic, large open spaces such as industrial estates, car parks
+      and retail areas.\r\n\r\nThe camera is fitted with powerful infrared illuminators,
+      allowing it to clearly record subjects over a huge 120m range. This is normally
+      only possible with bulky PTZ cameras, and lets you cover a massive distance
+      with a single camera. The motorised zoom lens also lets you easily shift between
+      a 53 degree field of view to an absolutely tiny 3 degrees, perfect if you need
+      to monitor one specific location from far away in 1080p detail. \r\n\r\nHikvision's
+      range of Smart detection features lets you automate the camera with a host of
+      settings including intrusion detection, line crossing, region entrance & exit
+      and object removal, all completely adjustable to custom areas in the image.
+      It even has an object counting function, perfect for monitoring traffic flow.
+      With the camera connected to your network, these functions can all be adjusted
+      from a Hikvision NVR, or from a PC running Hikvision's app. The camera also
+      features an on-board MicroSD slot, which can be used to either capture short
+      clips without a recorder, or act as an automated backup should you lose network
+      connection."
+    specification: "Imaging Sensor: 1/2.8\" CMOS\r\nMinimum Illumination: 0.007 Lux
+      (IR Off), 0 Lux (IR On)\r\nShutter Speed: 1/3 - 1/100,000s\r\nLens: 4.7-94mm
+      f/1.4\r\nAngle of View: 53.8Â° to 3.1Â°\r\nFocusing: Automatic\r\nDay & Night:
+      IR Cut with auto switch\r\nWDR: 120dB\r\nVideo Compression: H.264, H.264+, MJPEG,
+      MPEG4\r\nH.264 Type: Baseline, Main, High\r\nVideo Bitrate: 32Kbps - 16Mbps\r\nAudio
+      Compression: G.711, G.722.1, G.726, MP2L2\r\nAudio Bitrate: 16-128Kbps\r\nMax
+      Resolution: 1920x1080\r\nFrame Rate: 1920x1080/ 1280x960/ 1280x720 @60fps\r\nThird
+      Stream: up to 1920x1080@1fps\r\nImage Enhancement: EIS, BLC, HLC, 3D DNR, RoI,
+      DEfog\r\nImage Settings: Rotate, Saturation, Brightness, Contrast, Sharpness\r\nDistortion
+      Correction: Supported\r\nRegional Cropping: Supported\r\nDay/Night Switch: Auto,
+      Schedule, Triggered\r\nNetwork Storage: NAS, ANR\r\nAlarm Trigger: Motion detection,
+      Tampering alarm, Network disconnect, IP address conflict, Storage exception\r\nProtocol:
+      TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP,
+      UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour\r\nSecurity: User authentification,
+      Watermark, IP address filtering, Anonymous access\r\nStandard: ONVIF (profile
+      S&G), PSIA, CGI, ISAPI\r\nAudio Input: 1x 3.5mm line in\r\nCommunication Interface:
+      1x RJ45 10/100/1000M Ethernet, 1x RS485\r\nAlarm: 1x Input, 1x Output (up to
+      24V DC 1A or 110VAC 500mA)\r\nVideo Output: 1x BNC\r\nOn Board Storage: MicroSD
+      card slot (up to 128GB, card not included)\r\nSmart Analysis: Line crossing,
+      Intrusion detection, Region entrance, Region exit, Unattended baggage, Object
+      removal\r\nException detections: Scene change, Sudden audio increase/decrease,
+      Audio loss, Defocus detection\r\nFace Recognition: Supported\r\nObject Counting:
+      Supported\r\nProtection Level: IP67\r\nIR Distance: 120m\r\nOperational Temperature:
+      -30Â°c to +60Â°c\r\nOperational Humidity: 95% or less (non condensing)\r\nPower
+      Supply: 12V DC +/- 10%, PoE (802.3at)\r\nPower Consumption: DC 10.8W, PoE 14W\r\nDimensions:
+      100x103.9x311.8mm\r\nWeight: 2000g\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision bullet IP camera</li>\r\n</ul>"

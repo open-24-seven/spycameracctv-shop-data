@@ -1,0 +1,24 @@
+product:
+  path: 8tb-seagate-skyhawk-surveillance-hdd
+  sku: 8TBSSV
+  name: 8TB Seagate SkyHawk Surveillance HDD
+  images:
+  - path: 5783.jpg
+    title: 8TB Seagate SkyHawk Surveillance HDD
+  prices:
+    default:
+    - break: 1
+      unit_price: 3333300
+  content:
+    ean: "5060423075226"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This commercial grade SkyHawk HDD from Seagate is specifically designed
+      for applications with demanding read/write cycles. Because of this, they are
+      ideal for use in Hikvision's DeepinMind AI assisted recorders.
+    specification: ""
+    in_the_box: ""

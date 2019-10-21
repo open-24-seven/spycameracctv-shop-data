@@ -1,0 +1,61 @@
+product:
+  path: green-feathers-hd-poe-bird-box-camera-mobile-access
+  sku: NCIP2
+  name: Green Feathers 1080p HD PoE Bird Box Camera with Mobile Access
+  images:
+  - path: 5528.jpg
+    title: Green Feathers HD PoE Bird Box Camera with Mobile Access
+  - path: 5529.jpg
+    title: 'Green Feathers PoE bird box camera close up '
+  - path: 5530.jpg
+    title: Green feathers poe bird box camera wiring guide
+  - path: 5531.jpg
+    title: IP bird box camera connections
+  prices:
+    default:
+    - break: 1
+      unit_price: 658300
+  content:
+    ean: "5060423076841"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/tjGd2xSwKnU
+    - https://www.youtube.com/embed/_zHrX1t9suA
+    manuals:
+    - http://downloads.spycameracctv.com/NCIP2/manuals/quick-start.pdf
+    software:
+    - http://downloads.spycameracctv.com/CMS5.zip
+    description: "Our exclusive Green Feathersâ„¢ range of dedicated bird box cameras
+      is the culmination of a decade of experience providing specialist equipment
+      for watching wildlife. This IP bird box camera can be installed in any standard
+      sized nest box, letting check in on hatching eggs & feeding chicks in HD quality
+      from anywhere, using a PC, phone or tablet.\r\n\r\nThe camera captures digital
+      footage in 1080p resolution, recording significantly more detail than older
+      analogue models. We've fitted it with a 2.8mm wide angle lens - ensuring it
+      can see all of even the most cramped boxes - and invisible IR LEDs that provide
+      clear night vision without disturbing the birds. The camera also has a tiny
+      microphone to record audio.\r\n\r\nThe camera works using Power-over-Ethernet,
+      drawing power directly from the network cable. This does require a PoE compatible
+      network switch or CCTV recorder, however if you don't have one of these then
+      we also have a <a href=\"https://www.spycameracctv.com/spycamera/hd-ip-bird-box-camera-960p-mobile-ipad-access\">camera
+      kit with a separate power supply</a>. \r\n\r\nOnce configured to your network,
+      you can easily log in and view live footage from the PC or mobile apps. These
+      also let you record video clips and, when combined with a NAS drive, set up
+      motion detection to make sure you don't miss anything happening in the box.
+      Complete instructions for configuring the camera are providing at our <a href=\"https://help.spycameracctv.com/?s=NCIP9\"
+      target=\"_blank\">help page</a>, or we also have a remote setup service if you
+      would prefer us to adjust the network settings."
+    specification: "Imaging Chip: 1/3\" Low light CMOS\r\nSensor Resolution: 1080p\r\nSensitivity:
+      0.5Lux (IR off), 0Lux (IR On)\r\nMain Stream Resolution: 1080p @15fps, 720p
+      @25fps\r\nSub Stream Resolution: 4CIF @15fps, CIF @25fps\r\nVideo Compression:
+      H.264\r\nDWDR: On/Off\r\n3D DNR: YEs\r\nLens: 2.8mm\r\nField of View: 92Â°\r\nLens
+      Mount: Board\r\nDay & Night: Auto ICR switch\r\nConfiguration: Via web browser
+      or CMS software\r\nRecording: Continuous, Motion, Scheduled (via CMS)\r\nProtocol:
+      HTTP, TCP/IP, ARP, RTSP, RTP, UDP, SMTP, FTP, DHCP, DNS, DDNS, PPPOE, UPNP,
+      NTP, 802.1x\r\nEthernet: 10/100 Base-T, Auto-sensing, Half/full duplex, RJ45\r\nPoE:
+      IEEE 802.3af compliant\r\nPower Input: 12V DC or PoE\r\nPower Consumption: 3.5W
+      IR off, 7.5W IR on\r\nDimensions: 43x43x21mm (excluding cables & bracket)\r\nOperational
+      Temperature: -20Â°c to +55Â°c\r\nHumidity: 10-80%"
+    in_the_box: "<ul>\r\n<li>1x Green Feathers bird box camera</li>\r\n</ul>"

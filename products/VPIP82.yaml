@@ -1,0 +1,78 @@
+product:
+  path: in-car-taxi-cctv-system-2-hikvision-dome-cameras-poe-switch
+  sku: VPIP82
+  name: In Car Taxi CCTV System - 2 Hikvision Dome Cameras, PoE Switch
+  images:
+  - path: 5902.jpg
+    title: " \tIn Car Taxi CCTV System - 2 Hikvision Dome Cameras, PoE Switch"
+  - path: 5903.jpg
+    title: Hikvision 2MP mini dome camera with audio
+  - path: 5904.jpg
+    title: Veracity Camswitch Mobile - 5 Port PoE Switch for Vehicles
+  prices:
+    default:
+    - break: 1
+      unit_price: 4575000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "As security technology gets smaller and more powerful, it's becoming
+      expected that taxi and minibus operators will protect their drivers & passengers
+      with CCTV. In fact, it's now a requirement under many local authorities. In
+      car CCTV not only helps deter incidents or abuse, but can also help prevent
+      fraudulent claims by providing an objective record of journeys. Our Taxi CCTV
+      system features two cameras with 1080p Full HD recording, as well as a PoE switch
+      to power them from the battery.\r\n\r\nThe system uses Hikvision mini dome cameras
+      - the workhorse brand of the security industry, renowned for exceptional reliability
+      and picture quality. Each camera boasts night vision LEDs as well as low light
+      sensitivity, ensuring a clear picture even in larger unlit vehicles. The compact
+      domes are also rated IK08 vandal proof, providing protection from damage. Footage
+      is recorded to onboard MicroSD card slots, so you don't need to connect a separate
+      recorder.\r\n\r\nBother cameras are powered by a Veracity CamSwitch - a PoE
+      device that is wired directly to the vehicle's battery, outputting 12V down
+      standard ethernet cables. When the system is first installed it requires an
+      initial configuration with a laptop, but will then remember settings and record
+      on a rolling basis when the engine is running.  "
+    specification: "<p>Camera</p>\r\nImage Sensor: 1/2.8\" Progressive Scan CMOS\r\nMin.
+      Illumination: 0.009Lux @ (F1.6, AGC ON), 0 Lux with IR\r\nShutter Speed: 1/3
+      s to 10,000s\r\nLens: 2.8mm @ f1.6\r\nAngle of view: 108Â°\r\nLens Mount: M12\r\nDay
+      & Night: IR cut filter with auto switch\r\nDNR: 3D DNR\r\nWide Dynamic Range:
+      120dB\r\nAngle of adjustment: Pan: -30Â°â€“30Â°, Tilt: 0Â°â€“75Â°, Rotation:
+      0Â°â€“360Â°\r\nVideo Compression: H.265/H.264(Main), H.265/H.264/MJPEG(Sub),
+      H.265/H.264(Third)\r\nH.264 Type: Main Profile\r\nH.265 Type: Main profile\r\nVideo
+      Bit Rate: 32 Kbps ~ 16 Mbps\r\nDual streams: Supported\r\nMax. Resolution: 1920x1080\r\nFrame
+      Rate: 50Hz: 1920x1080, 1280x720 @25fps(Main), 640x480, 640x360, 320x240 @25fps(sub),
+      1280x720, 640x360, 352x288 @25fps(third)\r\nImage Setting: Rotate Mode, Saturation,
+      Brightness, Contrast, Sharpness adjustable by client software or web browser\r\nBLC:
+      Supported, zone configurable\r\nNetwork Storage: MicroSD (up to 128GB), NAS
+      (Support NFS, SMB/CIFS), ANR\r\nSmart Detection: Intrusion detection, line crossing
+      detection, unattended baggage, object removal, face detection\r\nAlarm Trigger:
+      motion detection, Tampering alarm, network disconnect, IP address conflict,
+      storage exception\r\nProtocols: TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS,
+      DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6\r\nGeneral:
+      One-key reset, anti-flicker, heartbeat, mirror, password protection, privacy
+      mask, watermark, IP address filtering\r\nStandard: ONVIF (PROFILE S, PROFILE
+      G), ISAPI\r\nSimultaneous Live View: Up to 6 Channels\r\nUser/host: Up to 32
+      users, 3 levels (admin, operator, user)\r\nClient: iVMS-4200, Hik Connect, iVMS-5200\r\nCommunication
+      Interface: 1x RJ45 10M/100M Ethernet port\r\nOn-board storage: Built-in MicroSD/SDHC/SDXC
+      slot, up to 128GB\r\nOperating Conditions: -30 Â°C to +60 Â°C, Humidity 95%
+      or less (non-condensing)\r\nPower Supply: DC12V Â± 25%, PoE (802.3af)\r\nPower
+      Consumption: Max. 7.5W\r\nNight vision range: Approx. 10 meters\r\nIngress Protection:
+      IP67\r\nDimensions: 110x56.4 mm\r\nWeight: 400g \r\n\r\n<p>Switch</p>\r\nPower
+      Input Connector: Detachable screw terminal\r\nInput Voltage: 8.5-40V DC (Minimum
+      startup voltage is 10.5V, supports engine cranking and reduce overdischarge)\r\nFusing:
+      External fuse recommended, 5A for 24V, 10A for 12V\r\nPoE Standards: IEEE 8023.af,
+      IEEE 802.3at, not isolated from DV input\r\nPower Budget: 80W (24V), 80W below
+      30c, 65W above 30c (12V), 60W\r\nEthernet Connectors: 5x RJ45 10/100Mbps\r\nRates:
+      10BASE-T or 100BASE-T & duplex\r\nCompatible Cable: Straight through or crossover
+      Cat 5, Cat 5e, Cat 6, VCS-8P2-MOB supports VLAN trunking\r\nDimensions: 110(131
+      with clips)x100x40mm\r\nMounting Brackets: 5mm holes on 122mm centres\r\nWeight:
+      290g\r\nOperational Temperature: -10Â°c to +50Â°c\r\nRelative Humidity: <85%\r\nCompliance:
+      CE, FCC, RoHS "
+    in_the_box: "<ul>\r\n<li>2x Hikvision mini dome IP cameras</li>\r\n<li>2x 10m
+      ethernet cables</li>\r\n<li>1x Veracity CamSwitch Mobile</li>\r\n</ul>"

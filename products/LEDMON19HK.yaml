@@ -1,0 +1,36 @@
+product:
+  path: hikvision-cctv-monitor-19-inch-720p-hd-led-hdmi-vga
+  sku: LEDMON19HK
+  name: Hikvision CCTV Monitor - 19 Inch 720p HD LED with HDMI, VGA
+  images:
+  - path: 5432.jpg
+    title: " \tHikvision CCTV Monitor - 19 Inch 720p HD LED with HDMI, VGA"
+  prices:
+    default:
+    - break: 1
+      unit_price: 1170000
+  content:
+    ean: "5060423073611"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - LEDMON19HK.pdf
+    software: []
+    description: "This compact 19\" CCTV monitor from Hikvision is a fantastic solution
+      for viewing live camera footage in a back office or stock room. The backlit
+      colour LED display ensures a clear & bright image, with enough detail to watch
+      1MP or 720p HD cameras without any loss in quality. \r\n\r\nThe monitor features
+      VGA and HDMI inputs, allowing it to work with any of our CCTV DVRs & NVRs without
+      needing any configuration - just plug it in and ou're good to go! Whilst the
+      screen is designed for use with security systems, the HDMI connection means
+      it can also be used for anything from PCs to video game consoles."
+    specification: "Display Type: Backlit LED\r\nScreen Size: 18.5\"\r\nPixel Pitch:
+      0.3x0.3mm\r\nMax Resolution: 1366x768\r\nBrightness: 200cd/m2\r\nContrast: 600:1\r\nResponse
+      Time: 5ms\r\nColour: 16.7M\r\nViewing Angle: 90Â°\r\nInput: 1x HDMI, 1x VGA\r\nVESA:
+      75x75mm\r\nPower Supply: AC 100-240V\r\nConsumption: 20W(on), 0.5W(standby)\r\nOperational
+      Temperature: 0&Deg;c to +40Â°c\r\nOperational Humidity: 10-85%\r\nDimensions:
+      445.6x274.9x44.6mm\r\nWeight: 3.5Kg"
+    in_the_box: "<ul>\r\n<li>1x 19\" Hikvision CCTV monitor</li>\r\n<li>1x Monitor
+      stand</li>\r\n<li>1x VGA Cable</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

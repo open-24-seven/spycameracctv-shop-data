@@ -1,0 +1,39 @@
+product:
+  path: zone-2-explosion-proof-housing-box-cctv-cameras
+  sku: FIREHOUSE
+  name: Zone 2 Explosion Proof Housing for Box CCTV Cameras
+  images:
+  - path: 5551.jpg
+    title: " \tZone 2 Explosion Proof Housing for Box CCTV Cameras"
+  prices:
+    default:
+    - break: 1
+      unit_price: 15000000
+  content:
+    ean: "5060423074618"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This heavy duty housing is rated to protect box CCTV cameras from
+      damage caused by explosions, fire and the elements. It's made from solid Aluminium
+      alloy, and is completely sealed with 12mm thick flanges. The camera records
+      through a glass window, with a built-in heater preventing fogging that might
+      reduce visibility. This makes it an ideal piece of kit for monitoring high risk
+      areas like oil & gas installations or refineries.\r\n\r\nWe can provide box
+      cameras to fit this housing as a special order on short notice. Just get in
+      touch with us on 0117 325 2470 (then select menu option 4) and we can find the
+      right solution for you!"
+    specification: "Material: Anticorodal Aluminium alloy\r\nCable Holes: 2x, for
+      3/4\" NPT glands\r\nExternal Dimensions: 210x400mm\r\nInternal Dimensions: 180x380mm\r\nUsable
+      Area: 100x100x280mm\r\nGlass Window: 114mm Diameter\r\nWeight: 15kg\r\nHeater
+      Consumption: 60W\r\nCamera Max Power: 20W, w4V\r\nMinimum Distance between walls
+      of housing and camera: 12mm\r\nOperational Temperature without Heating: -40Â°c
+      to +50Â°c\r\nCertifications: ATEXï¾  ï¾ (EN 60079-0:2012 +A11:2013, EN 60079-1:2014,
+      EN 60079-31:2014) Exï¾  ï¾ II 2G Ex d IIC T6 Gb, IECExï¾  ï¾ (IEC 60079-0:2011,
+      IEC 60079-1:2014, IEC 60079-31:2013) Ex d IIC T6 Gb, EAC EX Ex II 2G Ex d IIC
+      T6 Gb,-40Â°C/+50Â°C, KCs 16-KA4BO-0057 -16-KA4BO-0058 Ex d IIC T6"
+    in_the_box: "<ul>\r\n<li>1x Explosion proof camera housing and bracket</li>\r\n<li>1x
+      Sun hood</li>\r\n</ul>"

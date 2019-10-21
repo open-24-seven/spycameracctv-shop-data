@@ -1,0 +1,54 @@
+product:
+  path: mini-bullet-spy-camera-weatherproof-5mp-tvi
+  sku: GTTV505MBGB
+  name: Mini Bullet Spy Camera Weatherproof 5MP HD-TVI
+  images:
+  - path: 5832.jpg
+    title: Mini Bullet Spy Camera 5MP HD-TVI
+  - path: 5848.jpg
+    title: 5MP mini bullet camera in hand
+  - path: 5833.jpg
+    title: "\tMini Bullet Spy Camera 5MP HD-TVI"
+  - path: 5834.jpg
+    title: Mini Bullet Spy Camera 5MP HD-TVI
+  prices:
+    default:
+    - break: 1
+      unit_price: 791600
+  content:
+    ean: "5060611441222"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Our Mini Bullet Spy Camera is your next outdoor covert surveillance
+      solution. It packs the higher resolution of bulkier overt CCTV cameras into
+      a mini bullet camera to ensure it doesn't attract attention to itself. The black
+      casing is IP66 rated meaning it is sealed from outside water ingress, making
+      it suitable for outdoor usage. Due to its shape and the adjustable bracket,
+      you can fit the camera into tight spaces and precisely point where you want
+      the camera to look.\r\n\r\nThere are plenty of pixels to go around in this camera,
+      as it features a 5-megapixel sensor ensuring that this tiny device captures
+      higher levels of detail than any of our previous spy cameras. There is minimal
+      setup as you can simply connect up the camera to any recorder featuring a BNC
+      connection to capture hours of footage. You can use one of our TVI recorders
+      to record in resolutions up to 5MP or set it to CVBS mode to use with analogue
+      recorders.\r\n\r\nWe have included an OSD controller so that you can fully control
+      the camera's settings down-the-wire by using the mini joystick. This is important
+      when it comes to setting it up with your recorder."
+    specification: "Sensor: 1/2.7\" 5MP CMOS\r\nActive pixels: 2688 x 1944\r\nScanning
+      system: TVI 5MP 1920p/4MP 1440P & CVBS 950TVL\r\nS/N: >50dB\r\nVideo output:
+      AHD 5MP (4:3)/TVI 4MP (16:9)/CVBS 1280H\r\nMin. illumination: 0.5 Lux (colour)/0.1
+      Lux (B&W)\r\nLens: 3.6mm fixed\r\nWhite balance: ATW/AWC-Set\r\nExposure: DC/Manual\r\nShutter
+      speed: 1/25 ~ 1/50,000 sec\r\nSENS-UP: Auto (x6)/x2/x4/x6/x8/x10/x16/x20/x25/x30\r\nBacklight
+      compensation: Off/BLC\r\nDay & Night: Auto/Colour/B&W/Ext\r\nMotion detection:
+      On/Off\r\n2D-3DNR: Off/Low/Mid/High\r\nDigital effect: Off/Mirror/V-Flip/Rotate\r\nRT/NRT:
+      On/Off\r\nImage enhancement: D-WDR\r\nIR cut: Yes\r\nCommunication: Co-axial\r\nOSD:
+      OSD controller supplied\r\nLanguage: Eng/Chn/Ger/Fra/Ita/Spa/Pol/Rus/Por/Ned/Tur/Jpn\r\nPower
+      input: DC 12V (100mA)\r\nPower consumption: 1.2W\r\nOperational temperature:
+      -10 to 50 degrees\r\nStorage temperature: -20 to 60 degrees\r\nDimensions: 19âŒ€
+      x 72.5mm"
+    in_the_box: "<ul><li>1x Mini Bullet Spy Camera</li>\r\n<li>1x Adjustable bracket</li>\r\n<li>1x
+      OSD controller</li>\r\n<li>1x UK mains power supply</li>\r\n</ul>"

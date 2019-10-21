@@ -1,0 +1,50 @@
+product:
+  path: 1080p-full-hd-wireless-cctv-camera-touch-screen-lcd-kit
+  sku: DIGIRC1005
+  name: 1080p Full HD Wireless CCTV Camera for Touch Screen LCD Kit
+  images:
+  - path: 5536.jpg
+    title: " \t1080p Full HD Wireless CCTV Camera for Touch Screen LCD Kit"
+  - path: 5537.jpg
+    title: 1080p hd wireless camera close up
+  - path: 5538.jpg
+    title: 1080p digital wireless cctv camera front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 741700
+  content:
+    ean: "5060423074182"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/DIGLAN1005/manuals/DIGIRC1005-manual.pdf
+    software: []
+    description: "This Digital Wireless CCTV camera is a perfect addition to our <a
+      href=\"https://www.spycameracctv.com/spycamera/1080p-digital-wireless-cctv-kit-mobile-access-touch-screen-dvr\"
+      target=\"_blank\">1080p digital wireless kit</a>, letting you easily expand
+      your home security system's coverage. The recorder can work with up to 4 cameras,
+      recording every one of them in 1080p Full HD quality.\r\n\r\nNew compression
+      technology allows the camera to send 1920x1080 (2 megapixel) images over wireless
+      - something previously impossible. The camera is also fitted with a passive
+      infrared (PIR) sensor, able to detect a subject's body heat and use it to trigger
+      recording. This is much more accurate than traditional motion detection, reducing
+      the amount of accidental recordings you have to review. The camera records in
+      full colour during daylight, and after dark switches to night vision with 10m
+      range.\r\n\r\nThe signal is sent to the receiver using advanced digital wireless
+      transmission. This helps greatly reduce interference from other wireless devices,
+      and allows a much greater range than traditional wireless devices - up to 100m
+      in clear line of sight. If you need more range, we also have external antenna
+      available that can be connected to the camera."
+    specification: "Frequency Range: 2.4-2.483GHz\r\nData rate: 6MBps\r\nTransmitting
+      Power: 16dBm (TYP)\r\nModulation Type: GFSK with FHSS\r\nTransmission Range:
+      100m\r\nImaging Sensor: 1/2.7\" CMOS\r\nResolution: 1920x1080\r\nImage Processing:
+      H.264\r\nLens: 3.6mm\r\nField of View: 92Â°\r\nMinimim Illumination: 5 Lux (IR
+      Off), 0 Lux (IR On)\r\nIR LEDs: 16\r\nIR Range: 10m\r\nPower: 9V DC 600mA\r\nPower
+      Consumption: 540mA (max, IR on)\r\nOperational Temperature: -10Â°c to +40Â°c\r\nOperational
+      Humidity: 0-85%\r\nHousing Material: ABS\r\nWeather Proofing: IP65\r\nDC power
+      connecter: 3.5x1.3mm plug"
+    in_the_box: "<ul>\r\n<li>1x Digital wireless CCTV camera</li>\r\n<li>1x Mains
+      power supply</li>\r\n</ul>"

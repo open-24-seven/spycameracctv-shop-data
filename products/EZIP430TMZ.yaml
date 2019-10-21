@@ -1,0 +1,57 @@
+product:
+  path: hikvision-hiwatch-ip-4mp-turret-camera-motorised-zoom-30m-ir
+  sku: EZIP430TMZ
+  name: Hikvision HiWatch IP 4MP Turret Camera with Motorised Zoom, 30m IR
+  images:
+  - path: 5682.jpg
+    title: " \tHikvision Easy IP 4MP Turret Camera with Motorised Zoom, 30m IR"
+  - path: 5683.jpg
+    title: HiWatch turret camera with motorised zoom and 30m night vision
+  prices:
+    default:
+    - break: 1
+      unit_price: 1740000
+  content:
+    ean: "5060423076360"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Hikvision has rightly earned their reputation as the leading manufacturer
+      of CCTV equipment on the market, with their cameras trusted to secure everything
+      from airports to arenas. Their HiWatch IP range of cameras and brings this reliability
+      and image quality to the home user, with great value equipment designed for
+      a simple set up. This turret camera is one of the most advanced in the range,
+      boasting 4 megapixel video and motorised zoom.\r\n\r\nThe camera captures twice
+      the level of detail of full 1080p, with 2688x1520 images. Combine this with
+      a lens that can be remotely zoomed from a 98 degree to 30 degree field of view,
+      and you have a device capable of recording huge amounts of usable subject detail.
+      Other features include a 30m night vision range for use in large unlit areas,
+      and an IP67 weather proof housing that allows use outdoors as well as inside.\r\n\r\nThe
+      IP camera connects to your network router or switch, letting you watch and record
+      remotely via a PC or mobile app. Alternatively, connect to an NVR to allow long
+      term recording with multiple cameras. The camera also uses Power-over-Ethernet,
+      meaning it can draw power from the network cable, and does not need to be set
+      up with a dedicated power supply (requires PoE compatible recorder or switch)."
+    specification: "Imaging Sensor: 1/3\" Progressive scan CMOS\r\nMinimum Illumination:
+      0.01Lux (IR off), 0Lux (IR on)\r\nShutter Speed: 1/3 to 1/100,000s\r\nLens:
+      2.8-12mm Motorised Zoom\r\nField of View: 98Â° to 30Â°\r\nLens Mount: 14mm\r\nDay
+      & Night: IR Cut with auto switch\r\nNoise Reduction: 3D DNR\r\nWDR: 120dB\r\nVideo
+      Compression: H.264+, H.264 (Main stream), H.264, MJPEG (sub stream)\r\nVideo
+      Bitrate: 32kbps to 16Mbps\r\nMax Resolution: 2688x1520\r\nMain Stream: 2688x1520,
+      2304x1296@20fps, 1920x1080, 1280x720@25fps\r\nSub Stream: 640x360, 352x288@25fps\r\nImage
+      Settings: Brightness, Saturation, Contrast, Sharpness (all adjustable via app)\r\nDay/Night:
+      Auto, Scheduled\r\nOther Settings: Mirror, BLC, RoI\r\nNetwork Storage: NAS\r\nDetections:
+      Motion Detection\r\nAlarms: Video tampering, Network disconnected, IP address
+      conflict\r\nProtocols: TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP,
+      RTSP, RTCP, NTP, UPnP, SMTP, SNMP, IGMP, 802.1x, QoS, IPv6, Bonjour\r\nStandard:
+      Onvif (Profiles S & G), PSIA, CGI, ISAPI\r\nGeneral Functions: One key rest,
+      Anti flicker, Heartbeat, Mirror, Password protection, Privacy mask, Watermark,
+      IP address filter\r\nCommunication: 1x RJ45 10/100M self adaptive\r\nOperational
+      Temperature: -30Â°c to +60Â°c\r\nOperational Humidity: 95% or less\r\nPower
+      Supply: 12V DC, PoE (802.3af)\r\nPower Consumption: 8.5W/11W PoE (Max)\r\nIngress
+      Protection: IP67\r\nIR Range: Up to 30m\r\nDimensions: 130.5mm (diameter) x
+      102.4mm\r\nWeight: 485g \r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvision HiWatch IP 4MP turret camera</li>\r\n</ul>"

@@ -1,0 +1,22 @@
+product:
+  path: 1tb-to-2tb-upgrade
+  sku: 1TBTO2TB
+  name: 1TB to 2TB Hard Drive Upgrade
+  images:
+  - path: 3970.jpg
+    title: 1TB to 2TB Hard Drive Upgrade
+  prices:
+    default:
+    - break: 1
+      unit_price: 333400
+  content:
+    ean: ""
+    meta:
+      title: 1TB to 2TB Hard Drive Upgrade
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

@@ -1,0 +1,42 @@
+product:
+  path: 250m-reel-rg59-coaxial-shotgun-cctv-video-cable-dc-power-line
+  sku: 250RG59DC
+  name: 250m Reel RG59 Coaxial Shotgun CCTV Video Cable with DC Power Line
+  images:
+  - path: 4090.jpg
+    title: 250m Reel RG59 Coaxial Shotgun CCTV Video Cable with DC Power Line
+  prices:
+    default:
+    - break: 1
+      unit_price: 1158300
+  content:
+    ean: "5060181657382"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/vBe_C69xKEM
+    manuals: []
+    software: []
+    description: "Need an economical cabling solution for an 8 or 16 camera security
+      system? This huge 250m reel of aluminium shielded Coaxial CCTV cable features
+      both RG59 video and DC power lines, preventing you from having to run 2 cables
+      out to each camera. This means this 2 way cable can help you save both money
+      and time when wiring your CCTV system. As this is an uncut reel, it also provides
+      much more versatility than standard cables, as you can cut them to exactly the
+      size you need for each camera.\r\n\r\nTo prep the cable for installation, all
+      you need to add is a pair of our <a href=\"https://www.spycameracctv.com/spycamera/rg59-co-axial-coax-male-bnc-twist-on-connector-adapter-for-cctv-camera
+      target=\"new\">twist fit BNC connectors</a>, letting you hook it up to the camera's
+      video output. These don't need any special tools to install, just a sharp knife
+      to cut back the outer covering. Then, simply add a pair of our <a href=\"https://www.spycameracctv.com/search/?search=powerjack\"
+      target=\"new\">Powerjack connectors</a> to plug into your 12V mains supply.
+      Again, no special tools are required, and it's no more fiddly than wiring a
+      pair of speakers.\r\n\r\nNaturally, if you have any questions at all about your
+      set up, just give our dedicated tech support team a call. To find the easiest
+      way to get in touch just check our <a href=\"https://www.spycameracctv.com/contact.php\"
+      target=\"new\">contact page</a>.\r\n\r\n\r\n"
+    specification: "Coaxial Cable\r\n\r\nInner Conductor: 0.81mm Bare Copper (BC)\r\nDielectric:
+      3.7mm Foam Polyethylene\r\n1st Shielding: Single Bonded Aluminium foil\r\nJacket:
+      6mm PVC\r\n\r\nDC Power Cable\r\n\r\nInner Conductor: 16 x 0.2mm Bare Copper\r\nInner
+      Jacket: 1.8mm PVC\r\nOuter Jacket: 6mm PVC"
+    in_the_box: ""

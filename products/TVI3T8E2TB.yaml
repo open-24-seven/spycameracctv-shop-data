@@ -1,0 +1,68 @@
+product:
+  path: hikvision-hiwatch-tvi-8-camera-cctv-system-20m-ir-2tb-dvr
+  sku: TVI3T8E2TB
+  name: Hikvision HiWatch TVI HD 8 Camera CCTV system - 40m IR, 2TB DVR
+  images:
+  - path: 5484.jpg
+    title: Hikvision Easy TVI 8 Camera CCTV system - 20m IR, 2TB DVR
+  - path: 5485.jpg
+    title: Hikvision easy TVI hiwatch 2mp 4-in-1 camera
+  - path: 5486.jpg
+    title: hikvision easy tvi 1080p 20m ir camera front view
+  - path: 5487.jpg
+    title: Hikvision Easy TVI 8 channel CCTV DVR
+  - path: 5488.jpg
+    title: Hikvision easy tvi 8 channel dvr rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 5713600
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This <strong>HiWatch TVI</strong> 8 camera CCTV system has been
+      designed by industry heavyweights Hikvision as a great value option for home
+      security, perfect for users with a large property to cover on a tight budget.
+      The all-in-one kit includes every cable and screw needed to get it up and running,
+      so it's a great option if you're planning a DIY installation for your own house.\r\n\r\nThe
+      system includes 8 bullet cameras with IP66 rated weatherproof housings, ideal
+      for both indoor and outdoor use. Each camera has 40m night vision range, enough
+      to monitor unlit spaces such as gardens, garages and porches at all hours of
+      the day. The cameras use HD-TVI technology, so all you have to do is plug them
+      in and connect them to the recorder with the included cables and they're good
+      to go - there's no confusing configuration like with IP cameras.\r\n\r\nThe
+      recorder is also part of the HiWatch TVI range, capturing HD quality footage
+      from all channels in 1080 lite resolution. This provides clear video files with
+      plenty of detail, should they need to be used as evidence. The recorder is pre-fitted
+      with a 2TB hard drive, but this can also be upgraded if you need to store more
+      than 2 weeks of footage. Connecting the DVR to your network lets you enable
+      remote access. Once configured, you can use this to check live or recorded footage
+      from anywhere in the world using a PC, phone or tablet."
+    specification: "<p>Camera Spec</p>\r\nImaging Sensor: CMOS\r\nEffective Pixels:
+      1920x1080\r\nMinimum Illumination: 0.01Lux (IR off), 0Lux (IR on)\r\nShutter
+      Speed: 1/25 to 1/50,000s\r\nLens Mount: M12\r\nDay & Night: ICR\r\nSynchronization:
+      Internal\r\nVideo Frame Rate: 1080p@25fps\r\nHD Video Output: 1x BNC\r\nS/N
+      Ratio: >62dB\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational Humidity:
+      <90%\r\nPower Supply: 12V DC +/- 15%\r\nPower Consumption: MAx 4W\r\nProtection
+      Level: IP66\r\nIR Range: 40m\r\nDimensions: 70mm (diameter) x 154.5mm\r\nWeight:
+      400g \r\n\r\n<p>Recorder Spec</p>\r\nVideo Input: 8x BNC\r\nVideo Compression:
+      H.264+\r\nHD-TVI/AHD/CVI Input: 1080p@25/30fps, 720p@25/30fps\r\nCVBS Input:
+      Supported\r\nAudio Compression: G.711u\r\nAudio Input: 1x RCA\r\nHDMI/VGA Output:
+      1920x1080, 1280x1024, 1280x720, 1024x768\r\nEncoding Resolution: 1080pLite,
+      720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame Rate: 1080pLite, 720p @ 12fps\r\nSub
+      Stream Frame Rate: CIF, QVGA, QCIF @ 25fps\r\nVideo Bitrate: 32kbps to 4Mbps\r\nAudio
+      Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual Stream: Support\r\nSynchronous
+      Playback: 8x Channels\r\nRemote Connections: 128\r\nNetwork Protocols: TCP/IP,
+      PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS,iSCSI, UPnP, HTTPS\r\nSATA:
+      1x Interface\r\nCapacity: Up to 6TB\r\nNetwork Interface: 1x 10/100M RJ45 Ethernet\r\nUSB
+      Interface: 2x USB 2.0 (rear panel)\r\nPower Supply: 12V DC\r\nConsumption (without
+      HDD): <12W\r\nOperational Temperature: -10Â°c to +55Â°c\r\nOperational Humidity:
+      10-90%\r\nDimensions: 285x210x45mm\r\nWeight (without HDD): 1200g "
+    in_the_box: "<ul>\r\n<li>8x HiWatch TVI bullet cameras</li>\r\n<li>8x Mains power
+      supplies</li>\r\n<li>8x 10m BNC Cables</li>\r\n<li>1x 8 Channel CCTV DVR</li>\r\n<li>1x
+      DVR power supply</li>\r\n<li>1x USB mouse</li>\r\n</ul>"

@@ -1,0 +1,76 @@
+product:
+  path: mini-wireless-night-vision-bird-box-camera-for-mac-osx-usb
+  sku: MACNC701
+  name: Green Feathers Bird Box Camera & Mac USB Recording Kit
+  images:
+  - path: 3751.jpg
+    title: Bird Box Camera with Mac USB Recording
+  - path: 3752.jpg
+    title: Wireless bird box camera kit
+  - path: 3754.jpg
+    title: USB Audio Video Capture Device for Mac OSX
+  - path: 3753.jpg
+    title: Wireless bird box camera
+  - path: 5893.jpg
+    title: 700tvl bird box camera sample footage
+  prices:
+    default:
+    - break: 1
+      unit_price: 599900
+  content:
+    ean: "5060181656781"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/1MVdx4BJyQ0
+    manuals:
+    - Birdbox Camera Booklet.pdf
+    software: []
+    description: "This simple to use <strong>bird box camera for Mac</strong> is a
+      great way for the whole family to watch nesting chicks and other wildlife. The
+      kit combines our best selling wireless bird box camera with a Mac compatible
+      Video Capture device. This provides an easy way of recording footage directly
+      onto the hard drive of your Apple computer.\r\n\r\nThe kit's compact Wireless
+      Camera is our most popular item, and can easily fit into most standard Nesting
+      or Bird boxes. It's fitted with 6 Invisible Infra-Red LEDs, providing clear
+      night vision without disturbing any wildlife. In addition, the camera's 2.8mm
+      wide angle lens has been specially chosen to give a wide field of view when
+      used inside a cramped box. It's even fitted with a tiny microphone, allowing
+      you to listen to audio from inside the nest box! In order to help ensure the
+      best possible image, we have also fitted the camera with a high grade sensor,
+      recording at 700TVL.\r\nAs the camera features an integrated wireless transmitter,
+      you can install it in your garden, and pick up the signal with the included
+      receiver in your home. This means you only have to connect the camera to a power
+      source, and prevents you needing to run video cables out to your garden.\r\n\r\nThe
+      camera can transmit up 50m in clear line of sight. Solid obstructions such as
+      walls will reduce this significantly, but it is still perfect for use in most
+      gardens.\r\n\r\nOf course, what's really unique about this kit is the included
+      Mac compatible USB Video Capture Device. This simple device allows you to record
+      live video and audio from the receiver straight onto your Mac OS X computer
+      (10.4.7 or later). This provides a quick and easy way of recording, at a fraction
+      of the price of a dedicated Recorder! Unlike other devices on the market, this
+      has been designed exclusively for Macs. The kit also comes with a suite of video
+      editing software to allow you to quickly put together videos for your clips
+      ready for upload."
+    specification: "Camera\r\n\r\nImaging Sensor: 1/3 inch OMNIVISION colour CMOS\r\nHorizontal
+      Resolution: 700 TV line\r\nCMOS Total Pixels: 628 x 582 (PAL) / 510 x 492 (NTSC)\r\nScanning
+      Frequency(H): 15.625kHz 15.734kHz\r\nScanning Frequency(V): 50Hz 60Hz\r\nAngular
+      Field of View: 110 degree (f=2.8mm)\r\nMinimum Illumination: 3.0Lux (F1.2)/
+      0 Lux (IR LED on)\r\nInfrared LED: 6EA Invisible IR LED 940nm\r\nConsumption
+      Current: 150 mA\r\nWireless Frequency: ISM 2.414 - 2.468GHz\r\nWireless Range:
+      10-20m/50m (obstructed/unobstructed)\r\nTransmission Power: 10mW\r\nGain Control:
+      Automatic\r\nModulation Mode: FM\r\nBandwidth: 18m\r\nPower: DC 8V, 500mA\r\nOperating
+      Temperature: -10Â°C ~ +40Â°C\r\nOperating Humidity: 85%RH\r\nDimension (WxLxH):
+      42x35x35mm\r\nWeight: 65 g\r\n\r\nReceiver\r\n\r\nFrequency: ISM 2414 - 2468MHz
+      4 Channel\r\nAntenna: Omni-directional antenna\r\nChannel: 1-4 (Flip-type switch)\r\nIntermediate
+      Frequency: 480MHz\r\nFrequency Stabilization: +/- 100kHz\r\nDemodulation Mode:
+      FM\r\nReceiving Sensitivity: 85dBm\r\nVideo Output: 1Vp-p@75 ohm, S/N>38dB\r\nAudio
+      Output: 10K ohm/200mVp-p\r\nPower:DC 12V, 500mA\r\nOperating Temperature: -10Â°C
+      to +40 Â°C\r\nOperating Humidity: 85%RH\r\nDimension (WxLxH): 80x68x16mm\r\nWeight:
+      120g\r\n\r\nUSB Capture Device\r\n\r\nVideo System: PAL, NTSC\r\nVideo Input:
+      RCA Composite, S-Video\r\nAudio Input: Stereo RCA\r\nDimensions: 76x28x16mm\r\nPower:
+      USB Bus"
+    in_the_box: "<ul>\r\n<li>1x Wireless Bird Box Camera</li>\r\n<li>1x Wireless Receiver</li>\r\n<li>2x
+      UK Mains Power Supplies</li>\r\n<li>1x USB Video Capture Device</li>\r\n<li>English
+      Step by Step Setup guide</li>\r\n</ul>"

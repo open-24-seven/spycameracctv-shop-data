@@ -1,0 +1,36 @@
+product:
+  path: 100m-reel-rg59-coaxial-shotgun-cctv-video-cable-dc-power-line
+  sku: 100MRG59DC
+  name: 100m Reel RG59 Coaxial Shotgun CCTV Video Cable with DC Power Line
+  images:
+  - path: 4088.jpg
+    title: 100m Reel RG59 Coaxial Shotgun CCTV Video Cable with DC Power Line
+  prices:
+    default:
+    - break: 1
+      unit_price: 491700
+  content:
+    ean: "5060181657375"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/vBe_C69xKEM
+    manuals: []
+    software: []
+    description: "Looking for an economical cabling solution for a large CCTV installation?
+      This <strong>100m reel</strong> of shielded coaxial cable features parallel
+      lines of RG59 and DC power wires, allowing you to use it to carry both video
+      and power from your camera. This 2 way cable helps you save both money and time
+      when wiring up a multi camera system. As this reel is completely uncut, it also
+      provides much more flexibility than standard cables, as you can cut it to exactly
+      the size you need on site!\r\n\r\nTo prepare the cable, all you need is to add
+      a pair of our <a href=\"https://www.spycameracctv.com/spycamera/rg59-co-axial-coax-male-bnc-twist-on-connector-adapter-for-cctv-camera\"
+      target=\"new\">twist fit BNC connectors</a> to the ends. These don't need any
+      special tools to install, just a knife to cut back the flex. Then, just add
+      a pair of our <a href=\"https://www.spycameracctv.com/search/?search=powerjack\"
+      target=\"new\">Power Jack connectors</a> to fit inn your 12V mains supply. Again,
+      no special tools are required, it's no more tricky than wiring a stereo."
+    specification: "Cable Length: 100 Metres\r\nCable Type: 1x Coaxial RG59, 2x Stranded
+      Low Voltage \r\nResistance: 75 Ohm"
+    in_the_box: ""

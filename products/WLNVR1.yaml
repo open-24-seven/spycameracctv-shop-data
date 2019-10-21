@@ -1,0 +1,75 @@
+product:
+  path: gamut-wireless-battery-powered-cctv-system-1080p-camera-1tb-nvr
+  sku: WLNVR1
+  name: Gamut Wireless Battery-Powered CCTV System,  1080p Camera, 1TB NVR
+  images:
+  - path: 5920.jpg
+    title: Gamut Wireless Battery Powered CCTV System - 1080p Camera, 1TB NVR
+  - path: 5921.jpg
+    title: Wireless battery powered CCTV camera
+  - path: 5922.jpg
+    title: Battery powered wireless 1080p camera front view
+  - path: 5923.jpg
+    title: Wireless recorder with 1TB HDD
+  prices:
+    default:
+    - break: 1
+      unit_price: 2070800
+  content:
+    ean: "5060611442199"
+    meta:
+      title: ""
+      description: This completely wire-free battery-powered HD home security system
+        with heat detection monitors up to 6 months on a single charge. Buy online
+        today for FREE UK delivery!
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/WLNVR/manuals/WLNVR-Quick-Guide.pdf
+    software: []
+    description: "Wireless cameras are one of the easiest ways to protect your home,
+      with a much quicker setup than traditional CCTV. One common cause of confusion,
+      however, is that wireless CCTV <em>still needs to be connected to a power supply</em>,
+      so that it can transmit. So what if you're not able to run cables at all around
+      your property? This new Gamut battery-powered CCTV system is the ideal solution,
+      with a camera powered by a Lithium-Ion battery, for a completely wire-free installation.\r\n\r\nThe
+      camera is fitted with a PIR sensor, so it can detect a moving subject's body
+      heat in order to trigger recording. This helps save battery power in between
+      use, allowing up to 6 months' monitoring on a single charge. Footage is recorded
+      in clear 1080p HD, with infrared LEDs providing 8m night vision. The camera
+      even has a built-in speaker, so you can talk back to subjects near the camera
+      from your phone. When the battery needs charging, you can easily undock it from
+      the camera base without taking it down from the wall.\r\n\r\nThe kit also includes
+      a wireless recorder with a preinstalled 1TB hard drive to store footage. The
+      recorder can connect to up to 6 cameras at the same time, providing an easy
+      way to expand your system at a later date. The recorder connects to your internet
+      router, letting you securely watch & control your cameras from anywhere, using
+      a PC or smartphone.\r\n\r\n<strong>Please note:</strong> As with all wireless
+      transmissions, the range of the camera will vary depending on the layout and
+      materials used in the building. Obstructions such as walls and windows between
+      the camera and receiver will affect the wireless signal. </span><a href=\"https://help.spycameracctv.com/getting-the-best-range-from-your-wireless-cameras/\"
+      target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"font-weight: 400;\">Check
+      this handy guide</span></a><span style=\"font-weight: 400;\"> for more details,
+      so you'll know what to expect. "
+    specification: "<p>Camera</p>\r\nImaging Sensor: 1/2.7\" CMOS\r\nEffective Resolution:
+      1920x1080\r\nSynch: Internal\r\nSensitivity: 0.05 lux @f/1.2 (IR off), 0 lux
+      (IR on)\r\nS/N Ratio: 40dB\r\nWhite Balance: Auto\r\nAES Speed: Auto\r\nAGC:
+      Auto\r\nNoise Reduction: 3D\r\nAudio: Two-way audio\r\nLens: 2.8mm f/1.8\r\nViewing
+      Angle: 120 degrees (horizontal)\r\nProtection Level: IP66\r\nIR Range: 8m\r\nPIR
+      Angle: 115 degrees\r\nPIR Detection Range: 10m\r\nBattery Capacity: 2900mAh\r\nBattery
+      Life Cycle: Up to 350(t)\r\nPower Input: 4.2V\r\nPower Consumption: 1.8W\r\nCurrent
+      Consumption: 420mA (active), 400ÂµA\r\nOperational Temperature: -30 to +55c\r\nOperational
+      Humidity: <95%\r\nDimensions: 136x73x89mm\r\n<br>\r\n<p>Recorder</p>\r\nChannels:
+      6\r\nOutput: HDMI\r\nUSB: 3x USB2.0\r\nVideo Output Resolution: 1920x1080, 1440x900,
+      1280x1024, 1280x720, 1024x768\r\nLive View Channels: 1/4/6\r\nLive View Frame
+      Rate: Up to 60fps @1080p\r\nRecording: Trigger, Manual\r\nPlayback Channels:
+      1/4/6\r\nPlayback Speed: Variable, max 2x\r\nSearch: Time/date, MD\r\nStorage:
+      1TB (SATA)\r\nBackup: USB flash, HDD, network\r\nBackup File Format: MP4, AVI,
+      H.264\r\nRemote Access: iOS, Android\r\nProtocol: \tHTTP, IPv4, TCP/IP, UPNP,
+      RTSP, UDP, SMTP, NTP, DHCP, DNS, PPPOE, DDNS, FTP\r\nNetwork Interface: 10/100M,
+      RJ45\r\nNetwork Bitrate: Max 32Mbps\r\nPower Consumption: 3W (No HDD)\r\nPower
+      Input: 12V, 2A\r\nOperational Temperature: -10 to +55c\r\nOperational Humidity:
+      10-90%"
+    in_the_box: "<ul>\r\n<li>1x Battery-powered wireless CCTV camera</li>\r\n<li>1x
+      Wall plate</li>\r\n<li>1x USB charging cable</li>\r\n<li>1x USB plug attachment</li>\r\n<li>1x
+      Wireless recorder</li>\r\n<li>1x Mains power supply for recorder</li>\r\n<li>1x
+      USB mouse</li>\r\n<li>Quick start guide & software CD</li>\r\n</ul>"

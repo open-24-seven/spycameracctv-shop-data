@@ -1,0 +1,78 @@
+product:
+  path: 2-camera-720p-wireless-hd-cctv-system-4-channel-dvr
+  sku: PKDIG2EZ
+  name: '2 Camera 720p Wireless HD CCTV System, 4 Channel Hikvision DVR '
+  images:
+  - path: 5677.jpg
+    title: " \t2 Camera 720p Wireless HD CCTV System with 4 Channel DVR "
+  - path: 5678.jpg
+    title: Digital wireless 720p hd CCTV camera side view
+  - path: 5679.jpg
+    title: Digital wireless CCTV receiver
+  - path: 5680.jpg
+    title: '4 Channel CCTV dvr '
+  - path: 5681.jpg
+    title: 4 Channel CCTV DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 2533300
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Wireless CCTV is great option for simple home security, as the cameras
+      are easy to install. Instead of running cables across your property, all they
+      need is a simple power connection to your mains. This also makes the a great
+      choice for securing rented properties. One downside however, is that many wireless
+      kits only use basic recorders, storing footage on memory cards. This 2 camera
+      wireless CCTV kit includes a fully fledged recorder designed by Hikvision -
+      the largest manufacturer of CCTV in the world. This means it combines a simple
+      set up with in depth recording options.\r\n\r\nThe 2 cameras use the AHD video
+      format to capture sharp pictures in 720p HD. When used after dark, they can
+      clearly record subjects up to 15m away using their built in infrared LEDs. A
+      durable IP66 rated metal housing provides complete protection from the elements,
+      letting the cameras be used outdoors as well as indoors. They transmit video
+      back to the included receivers using secure digital wireless technology, providing
+      a clean signal with greatly reduced interference, and an extended range of up
+      to 100m in direct line of sight.\r\n\r\nThe cameras then send video back to
+      the 2 included wireless receivers, which then plug directly into the back of
+      the digital video recorder (DVR). The DVR is part of the HiWatch range designed
+      by Hikvision, boasting a host of professional quality features at a fraction
+      of the usual price. Recording modes include motion detection and scheduling,
+      and there are 2 additional channels, letting you expand the system at a later
+      date. The HD hybrid DVR can work with AHD, TVI and legacy analogue cameras,
+      so you don't have to worry about compatibility.\r\n\r\nThe DVR can also be connected
+      to your router. Once configured, this lets you remotely watch live or recorded
+      footage on a PC or mobile device, so you can keep an eye on your property wherever
+      you are!"
+    specification: "<p>Camera Specification</p>\r\nImaging Sensor: 1/2.9\" CMOS\r\nEffective
+      Pixels: 1280x720\r\nImage Resolution: 720p@15fps\r\nLens: 3.6mm f/2.0\r\nViewing
+      Angle: 70Â° (diagonal)\r\nIR LEDs: 24x, 850nm\r\nIR Range: 15m\r\nWeather Resistance:
+      IP66\r\nHousing Material: Aluminium\r\nCamera Operational Temperature: -20Â°c
+      to +40Â°c\r\nFrequency Range: 2.4-2.483GHz\r\nTX Power: 16dBm\r\nRX Sensitivity:
+      -81dBm\r\nSpread Spectrum Type: FHSS\r\nModulation: GFSK\r\nData Rate: 4Mbps\r\nCommunication
+      Range: 100m (clear line of sight)\r\nOutput: BNC\r\nReceiver Operational Temperature:
+      -10Â°c to +40Â°c\r\nOperational Humidity: 0-85%\r\nPower Requirement: 9V DC\r\n\r\n<p>Recorder
+      Specification</p>\r\nVideo Input: 4x BNC\r\nVideo Compression: H.264+\r\nHD-TVI/AHD/CVI
+      Input: 1080p@25/30fps, 720p@25/30fps\r\nCVBS Input: Supported\r\nAudio Compression:
+      G.711u\r\nAudio Input: 1x RCA\r\nHDMI/VGA Output: 1920x1080, 1280x1024, 1280x720,
+      1024x768\r\nEncoding Resolution: 1080pLite, 720p, WD1, 4CIF, VGA, CIF\r\nMain
+      Stream Frame Rate: 1080pLite, 720p @ 12fps\r\nSub Stream Frame Rate: CIF, QVGA,
+      QCIF @ 25fps\r\nVideo Bitrate: 32kbps to 4Mbps\r\nAudio Output: 1x RCA\r\nAudio
+      Bitrate: 64Kbps\r\nDual Stream: Support\r\nSynchronous Playback: 4 Channels\r\nRemote
+      Connections: 32\r\nNetwork Protocols: TCP/IP, PPPoE, DHCP, Hik-Connect, DNS,
+      DDNS, NTP, SADP, SMTP, NFS,iSCSI, UPnP, HTTPS\r\nSATA: 1x Interface\r\nCapacity:
+      Up to 6TB\r\nNetwork Interface: 1x 10/100M RJ45 Ethernet\r\nUSB Interface: 2x
+      USB 2.0 (rear panel)\r\nPower Supply: 12V DC\r\nConsumption (without HDD): <8W\r\nOperational
+      Temperature: -10Â°c to +55Â°c\r\nOperational Humidity: 10-90%\r\nDimensions:
+      200x200x45mm\r\nWeight (without HDD): 800g"
+    in_the_box: "<ul>\r\n<li>2x Digital wireless CCTV cameras</li>\r\n<li>2x Mains
+      power supplies for cameras</li>\r\n<li>2x Digital wireless receivers</li>\r\n<li>2x
+      Mains power supplies for receivers</li>\r\n<li>2x 10m BNC CCTV cables</li>\r\n<li>2x
+      10m Power extension cables</li>\r\n<li>1x 4 Channel DVR</li>\r\n<li>1x Mains
+      power supply for recorder</li>\r\n<li>1x USB Mouse</li>\r\n</ul>"

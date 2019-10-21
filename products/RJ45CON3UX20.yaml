@@ -1,0 +1,24 @@
+product:
+  path: rj45-connector-cat5e-cat6-ethernet-network-cables-pack-20
+  sku: RJ45CON3UX20
+  name: RJ45 Connectors for Cat5e Cat6 Ethernet Network Cables- Pack of 20
+  images:
+  - path: 4397.jpg
+    title: RJ45 Connectors for Cat5e Cat6 Ethernet Network Cables- Pack of 20
+  prices:
+    default:
+    - break: 1
+      unit_price: 16600
+  content:
+    ean: "5060181659577"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: Pack of 20 RJ45 jack connectors for crimping onto the ends of cut
+      Cat 5 and Cat 6 ethernet network connectors. Requires a RJ45 crimping tool.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>20x RJ45 connectors</li>\r\n<li><strong>2 Year warranty
+      with SpyCameraCCTV</strong></li>\r\n</ul>"

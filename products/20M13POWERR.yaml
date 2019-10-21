@@ -1,0 +1,28 @@
+product:
+  path: b-grade-20m-power-extension-cable-13mm-35mm-jack
+  sku: 20M13POWERR
+  name: B Grade 20% Off - 20m Power Extension Cable with 1.3/3.5mm Jack
+  images:
+  - path: 5597.jpg
+    title: " \tB Grade 20% Off - 20m Power Extension Cable with 1.3/3.5mm Jack"
+  - path: 5598.jpg
+    title: 1.3mm power connector for 700tvl wireless bird box cameras
+  prices:
+    default:
+    - break: 1
+      unit_price: 101700
+  content:
+    ean: "3384"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "Length: 20 Metres\r\nJack Size (inner): 1.3mm\r\nJack Size (outer):
+      3.5mm\r\nRating: 8V DC"
+    in_the_box: ""

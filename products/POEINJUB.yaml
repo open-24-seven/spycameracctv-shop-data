@@ -1,0 +1,35 @@
+product:
+  path: ubiquiti-gigabit-poe-converter-outdoor-casing
+  sku: POEINJUB
+  name: Ubiquiti Gigabit PoE Converter with Outdoor Casing
+  images:
+  - path: 5656.jpg
+    title: Ubiquiti Gigabit PoE Converter with Outdoor Casing
+  - path: 5657.jpg
+    title: Ubiquiti PoE converter for wifi bridges diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 250000
+  content:
+    ean: "810354024641"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This compact PoE converter is a perfect accessory to an outdoor
+      wifi bridge. It can take 802.3af PoE from a device such as a <a href=\"https://www.spycameracctv.com/spy/accessories/networking/switch/\"
+      target=\"_blank\">network switch</a> and convert it to passive. This lets you
+      power a host of devices that would otherwise need a separate PoE injector plugged
+      into the mains, helping reduce the number of cables that you need to run to
+      the outside of your property.\r\n\r\nCrucially, the converter is housed inside
+      of a totally weatherproof casing, making it perfect for installation in exposed
+      outdoor locations. A rubber gasket prevents water accessing the ethernet port,
+      but this does also mean the device cannot be used with pre-terminated cables."
+    specification: "Dimensions: 30.2 (diameter)x 366.6mm\r\nWeight: 90g\r\nInterface:
+      1x Gigabit RJ45 port, 1x Gigabit RJ45 cable\r\nOperating Temperature: -30Â°c
+      to +70Â°c\r\nPower Input: 48V, 802.3af\r\nMax Power output: 24V, 0.5A\r\nPower
+      Method: 24V Passive PoE (Pairs 4,5+,7,8 Return)\r\nSurge Protection: +/-15kV"
+    in_the_box: "<ul>\r\n<li>1x Outdoor gigabit PoE converter</li>\r\n</ul>"

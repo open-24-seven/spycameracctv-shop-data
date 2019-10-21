@@ -1,0 +1,29 @@
+product:
+  path: female-to-female-phono-adapter-coupler-10
+  sku: F2FPHONOX10
+  name: Female To Female RCA Phono Adapter (Gold Plated) x 10
+  images:
+  - path: 1675.jpg
+    title: Female To Female Phono Adapter (Gold Plated) 10 Pack
+  - path: 1676.jpg
+    title: Female To Female Phono Adapter (Gold Plated) x 10
+  - path: 158.jpg
+    title: Female To Female Phono Adapter (Gold Plated) Pack
+  - path: 157.jpg
+    title: Female To Female Phono Adapter (Gold Plated) x 10
+  prices:
+    default:
+    - break: 1
+      unit_price: 166000
+  content:
+    ean: "5060181650390"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This pack of 10 female to female RCA adaptors allow you to connect
+      two cables with male RCA/phono jacks together to effectively create one cable.
+    specification: ""
+    in_the_box: "<ul>\r\n<li>10x Female to Female RCA/Phono Couplers</li>\r\n</ul> "

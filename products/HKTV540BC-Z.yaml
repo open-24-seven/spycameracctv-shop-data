@@ -1,0 +1,53 @@
+product:
+  path: hikvision-5mp-cctv-camera-motorised-zoom-40m-night-vision
+  sku: HKTV540BC-Z
+  name: Hikvision 5MP CCTV Camera with Motorised Zoom, 40m IR, PoC
+  images:
+  - path: 5366.jpg
+    title: Hikvision 5MP CCTV Camera with Motorised Zoom, 40m Night Vision
+  - path: 5368.jpg
+    title: Hikvision 5mp resolution size chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 900000
+  content:
+    ean: "5060423076254"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    manuals: []
+    software: []
+    description: "Hikvision's Turbo HD-TVI is one of the most popular CCTV camera
+      ranges on the market today, combining detail packed HD recording with a simple
+      plug-and-play installation. This professional grade bullet camera is one of
+      the latest models in this range, packing an immense recording resolution of
+      5 Megapixels (2592x1944), that's over twice the detail of Full HD! The TVI interface
+      makes all of this possible without the complex configuration required for an
+      IP camera. It even supports Power-over-Coax (PoC), letting it draw power from
+      a compatible DVR over the RG59 cable, and removing the need for an additional
+      power supply.\r\n\r\nThe camera also features a motorised lens, letting you
+      remotely zoom the camera from a 87Â° wide angle to a 28Â° close crop. Combined
+      with the massive recording resolution, this makes the camera ideal for monitoring
+      large spaces such as car parks or long driveways, where traditional cameras
+      might not be able to make out subject detail such as faces or licence plates.\r\n\r\nOther
+      features include 40m clear night vision from Hikvision's EXIR LEDs, and a fully
+      weatherproof IP67 rated housing to allow outdoor installation. The camera connects
+      to a compatible recorder using a standard twist-fit BNC connector, just plug
+      it in and you're good to go! Don't forget to make sure your DVR can work at
+      5MP resolution - our range of <a href=\"https://www.spycameracctv.com/spycamera/hikvision-turbohd-tvi-4-channel-1tb-1080p-hd-dvr-mobile-access\"
+      title=\"5mp Hikvision recorders\" target=\"_blank\">5MP Hikvision recorders</a>
+      are an ideal choice. "
+    specification: "Imaging Sensor: 5MP CMOS\r\nEffective Pixels: 2592x1944\r\nMinimum
+      Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter Speed: 1/25 - 1/50,000s\r\nLens:
+      2.8 to 12mm\r\nField of View: 87Â° to 28Â°\r\nDay & Night: ICR\r\nSynchronisation:
+      Internal\r\nVideo Frame Rate: 2592x1944 @ 20fps\r\nOutput: 1x BNC\r\nAGC: Supported\r\nD/N
+      Mode: Auto/Colour/Black & White\r\nWhite Balance: ATW/MWB\r\nBLC: Supported\r\nLanguage:
+      English, Chinese\r\nMenu Functions: Brightness, Sharpness, DNR, Mirror, Bad
+      pixel correction, Smart IR\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational
+      Humidity: <90% (non condensing)\r\nPower Supply: 12V DC\r\nPower Consumption:
+      Max 6W\r\nProtection Level: IP67\r\nIR Range: 40m\r\nCommunication: UTC\r\nDimensions:
+      92x84.8x269.6mm\r\nWeight: 900g "
+    in_the_box: "<ul>\r\n<li>1x Hikvision 5MP bullet camera</li>\r\n</ul>"

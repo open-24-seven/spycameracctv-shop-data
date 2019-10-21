@@ -1,0 +1,33 @@
+product:
+  path: 8v-dc-500ma-uk-power-supply-bird-box-cameras-jack-3m-cable
+  sku: 8V05GB133M
+  name: 8V DC 500mA UK Power Supply for Bird Box Cameras- 1.3mm Jack, 3m Cable
+  images:
+  - path: 5158.jpg
+    title: 8V DC 500mA UK Power Supply for Bird Box Cameras- 1.3mm Jack, 5m Cable
+  - path: 5178.jpg
+    title: Back of 8V DC UK Power Supply
+  - path: 5177.jpg
+    title: Plug of 8V DC UK Power Supply
+  - path: 5180.jpg
+    title: Cable of 8V DC UK Power Supply
+  prices:
+    default:
+    - break: 1
+      unit_price: 83300
+  content:
+    ean: "5060181650369"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This replacement 8V 500mA power supply is designed to work with our
+      wireless bird box cameras and pinhole spy cameras. It features a 3m extension
+      cable to allow you lots of flexibility when choosing a camera location. It features
+      a standard UK 3 pin plug, and sturdy but lightweight build.
+    specification: "Country: UK 3 Pin Plug\r\nCompatibility: CCTV Camera, Security
+      Devices\r\nColor: Black\r\nCable Length: 3m\r\nMaterial: Plastic and Metal\r\nInput
+      Voltage: 100 - 240V AC\r\nOutput Voltage: DC 8V 500mA\r\nFrequency: 50/60Hz\r\n"
+    in_the_box: "<ul>\r\n<li>1x Mains power supply with 3m cable</li>\r\n</ul>"

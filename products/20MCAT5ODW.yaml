@@ -1,0 +1,34 @@
+product:
+  path: 20m-cat5e-outdoor-ethernet-network-cable-ptz-ip-cameras
+  sku: 20MCAT5ODW
+  name: 20m Cat 5e Outdoor Ethernet Network Cable
+  images:
+  - path: 4389.jpg
+    title: 20m Cat6 Outdoor Ethernet Network Cable for PTZs and IP Camera Systems
+  prices:
+    default:
+    - break: 1
+      unit_price: 116700
+  content:
+    ean: "5060181659492"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: This 20m pre-cut Cat5e ethernet cable is ideal for network connections
+      that require lots of bandwidth, such as multi-camera IP security systems. The
+      cabling is encased in a durable waterproof jacket, so you can use it in permanent
+      outdoor installations. Clipping off the RJ45 connectors will also let you use
+      the twisted pairs to connect to a PTZ camera control system.
+    specification: "Wires: 8 circuits (4 twisted pairs)\r\nStandard wire colours:
+      Blue/blue-white, orange/orange-white, green/green-white and brown/brown-white\r\nSolid
+      wire: AWG 23/1\r\nMaterials: HDPE insulator, PE jacket\r\nFrequency: Maximum
+      250MHz\r\nOperating temperature: -20Â° to 75Â°\r\nDC-Loop resistance: â‰¤0.0658
+      â„¦/m\r\nPropagation speed: 0.64\r\nPropagation delay: 4.80â€”5.30 ns/m\r\nDelay
+      skew: Ë‚ 100 MHz Ë‚ 0.20 ns/m\r\nCapacitance: f.f.s\r\nReturn loss (Min. at
+      250MHz): 15.6 dB\r\nAttenuation (Min. at 250MHz): 39.4 dB\r\nStandards: EIA/TIA
+      568 B.2, EN 50173-1, ISO/IEC 11801"
+    in_the_box: "<ul>\r\n<li>1x 20m Cat5e cable</li>\r\n<li><strong>2 Year warranty
+      with SpyCameraCCTV</strong></li>\r\n</ul>"

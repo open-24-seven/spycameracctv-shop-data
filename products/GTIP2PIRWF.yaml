@@ -1,0 +1,61 @@
+product:
+  path: 1080p-hd-wifi-pir-sensor-camera-microsd-recording
+  sku: GTIP2PIRWF
+  name: Business Security PIR Sensor Camera
+  images:
+  - path: 5756.jpg
+    title: " \t1080p HD Wifi PIR Sensor Camera with MicroSD Recording"
+  - path: 5757.jpg
+    title: Wifi PIR sensor camera MicroSD card slot access
+  - path: 5758.jpg
+    title: Wifi HD PIR sensor camera side view
+  prices:
+    default:
+    - break: 1
+      unit_price: 991700
+  content:
+    ean: "5060423077053"
+    meta:
+      title: ""
+      description: 'Secure your business with this covert, HD WiFi PIR sensor camera
+        with MicroSD recording. Buy online today for FREE UK delivery! '
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/GTIP2PIRWF/manuals/GTIP2PIRWF.pdf
+    software: []
+    description: "Sometimes you just need to take extra care when there's reason to
+      be suspicious. Whether it's covertly monitoring a stockroom or catching theft
+      in an office, some security applications simply need cameras that don't attract
+      unwanted attention. This PIR sensor camera is a perfect solution, offering a
+      standalone device that boasts many of the same recording features as a full
+      system. It even features WiFi access, so you can connect remotely to watch footage
+      from your camera without needing any indiscreet network cables trailing from
+      the device.\r\n\r\nThe camera itself records crisp, full-colour footage in 1920x1080
+      Full HD resolution, ensuring that any footage is full of usable subject detail.
+      Everything is captured through a tiny pinhole lens, pointing out of a miniscule
+      hole on the face of the sensor. The imaging chip is sensitive enough to work
+      in conditions as dark as 0.5 lux, or can be paired with an additional <a href=\"https://www.spycameracctv.com/spycamera/50m-ir-illuminator-led-security-floodlight-night-vision-cctv\"
+      target=\"_blank\">infrared illuminator</a> to work in complete darkness. \r\n\r\nThe
+      IP camera is designed to connect to your network router, letting you log in
+      and securely watch live or recorded footage from anywhere, using a PC or mobile
+      device (iOS or Android). The camera needs to be plugged in to your router for
+      an initial configuration, then after that, it can work from WiFi, connected
+      to nothing but power. It even features a MicroSD card slot, letting you record
+      clips of footage without an external CCTV recorder. Recording settings include
+      a full range of motion detection and scheduling options. Please note: card not
+      included."
+    specification: "Sensor Type: 1/2.8\" CMOS\r\nSensor Resolution: 1920x1080\r\nSensitivity:
+      0.5 lux\r\nMain Stream Resolution: 1920x1080@25fps, 1280x720@25fps\r\nSub Stream
+      Resolution: 4CIF@25fps, CIF@25fps\r\nVideo Compression: H.265, H.264\r\nDWDR:
+      Supported\r\n3D DNR: Supported\r\nIR Cut Filter: Yes, Automatic\r\nLens Type:
+      3.7mm Pinhole\r\nField Of View: 76 degrees (horizontal)\r\nLens Mount: Board
+      Mounted\r\nAudio Compression: G.711\r\nMemory Card Slot: Supports up to 128GB,
+      Class 10 required (not included)\r\nRecording: Continuous Recording, Motiond
+      Detection, Scheduled, Alarm Trigger\r\nUnit Configuration: Via web browser or
+      PC software\r\nProtocols: HTTP, TCP/IP, ARP, RTSP, RTP, UDP, SMTP, FTP, DHCP,
+      DDNS, PPPoE, UPNP, NTP, 802.1x\r\nEthernet: 10/100 Base T, Auto-sensing, Half/full,
+      Duplex, RJ45\r\nWireless: IEEE 802.11b/g/n\r\nPoE: Not Supported\r\nDimensions:
+      130x50mm\r\nInput Voltage: 12V DC\r\nPower Consumption: 6W\r\nOperational Temperature:
+      -20 to +55c\r\nHumidity: 10-80% \r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x WiFi PIR sensor camera</li>\r\n<li>1x Mains power
+      supply</li>\r\n</ul>"

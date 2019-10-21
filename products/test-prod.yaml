@@ -1,0 +1,26 @@
+product:
+  path: test-cloak_url_name
+  sku: test-prod
+  name: test-name
+  images:
+  - path: 5959.jpg
+    title: test-image_name
+  prices:
+    default:
+    - break: 1
+      unit_price: 8300
+  content:
+    ean: test-ean
+    meta:
+      title: test-meta_title
+      description: test-meta_description
+    videos:
+    - https://www.youtube.com/embed/test-video1
+    - https://www.youtube.com/embed/test-video2
+    manuals:
+    - test-pdf_manual
+    software:
+    - test-software
+    description: test-description
+    specification: test-technical_specification
+    in_the_box: test-contents_of_package

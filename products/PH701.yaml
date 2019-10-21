@@ -1,5 +1,69 @@
 product:
+  path: pinhole-wireless-nanny-hidden-camera
   sku: PH701
-  ean: PH701-ean
-  url: pinhole-wireless-nanny-hidden-camera
   name: Tiny Covert Wireless Pinhole Spy Camera with Receiver
+  images:
+  - path: 4901.jpg
+    title: 700tvl wireless pinhole spy camera kit
+  - path: 4047.jpg
+    title: tiny wireless pinhole camera in hand
+  - path: 3603.jpg
+    title: Pinhole Camera with 2.4 Ghz Receiver
+  - path: 2293.jpg
+    title: Ph01 size
+  - path: 3482.jpg
+    title: wireless pinhole spy camera size comparison with battery
+  - path: 2033.jpg
+    title: 8V, 12V power adapters, phono AV cable and 9V battery clips included
+  prices:
+    default:
+    - break: 1
+      unit_price: 416599
+  content:
+    ean: "5060181650550"
+    meta:
+      title: ""
+      description: 'The original small pinhole spy camera has been one of our best
+        spy cameras for many years now. Perfect for covert security and for all budgets. '
+    videos:
+    - https://www.youtube.com/embed/Lz_rnvUDTlw
+    manuals:
+    - http://downloads.spycameracctv.com/PH701/manuals/PH701-Manual.pdf
+    software: []
+    description: "This small pinhole spy camera is perfect for covert surveillance
+      â€“ it's tiny, about the same size as a stock cube and the lens measures just
+      3mm across. This means it can be positioned virtually anywhere. To save on the
+      cabling that you would need to run from the camera to the TV the camera features
+      an inbuilt 2.4 GHz wireless transmitter. This provides a wireless range of up
+      to 30 metres in clear line of sight back to the receiver. The receiver can be
+      connected to a TV or recorder using a composite video connection. All the cables
+      you need are supplied.\r\n\r\nYou can manually focus the camera to enable you
+      to get the best pictures. You can either power it from a battery pack or use
+      the supplied mains power supply, although we recommend mains adapters for 24/7
+      viewing. Using one of our battery packs you will get around 36 hours of camera
+      use, but if you need to run from the mains we have extension cables at 5m, 10m
+      or 20m lengths.\r\n\r\nThe small pinhole camera lens only needs a tiny hole
+      of around 3mm to see through and it can be made almost entirely unnoticeable
+      to the naked eye when installed properly. The camera is so light it can be mounted
+      on a wall using a small amount of adhesive. If your DIY skills are not up to
+      much, you can still do an excellent job of installing this discreetly behind
+      objects as it measures only 2 centimetres across.\r\n\r\nFor businesses, this
+      device can serve to monitor operations in offices, shops or warehouses. It can
+      also be installed alongside CCTV video equipment with a DVR. \r\n\r\nThis spy
+      camera works great with our USB Video Capture Devices. This allows you to connect
+      the camera to your PC to view and record footage. The free software supplied
+      also has motion detection triggering so you just record the bits you want from
+      the spy camera video footage."
+    specification: "Camera\r\n\r\nEffective Resolution: 628x582\r\nHorizontal Definition:
+      700 TV Lines\r\nScan Frequency: 50Hz\r\nMinimum Illumination: 3 LUX\r\nSensitivity:
+      +18DB-AGC ON-OFF\t\r\n0utput Power: <10dBm 10mW)/100dBm(100mW)\r\nOutput Frequency:
+      2.4 GHz\r\nWireless Distance: 10-20m/50m\r\nVoltage: 8V DC\r\nCurrent: 200 mA\r\nPower
+      Consumption: 150mA\r\n\r\nRecevier\r\n\r\nFrequency: ISM ISM 2414 - 2468 MHz\r\nAntenna:
+      Omni-directional antenna\r\nChannel: 1-4 (Flip-type switch)\r\nIntermediate
+      Frequency: 480MHz\r\nFrequency Stabilization: +/- 100KHz\r\nDemodulation Mode:
+      FM\r\nReceiving Sensitivity: -85dBm\r\nVideo Output: 1Vp-p@75 ohm, S/N>38dB\r\nAudio
+      Output: 1Vp-p@600 ohm\r\nPower: 9V DC\r\nOperating Temperature: -10oC ~ +40oC\r\nOperating
+      Humidity: 85% RH\r\nDimensions (WxLxH): 80x68x16mm\r\nWeight: 115 g"
+    in_the_box: "<ul>\r\n<li>1x Wireless Pinhole Spy Camera</li>\r\n<li>2x UK mains
+      power supplies</li>\r\n<li>1x Receiver with antenna</li>\r\n<li>1x 1m Audio/Video
+      Cable</li>\r\n</ul>"

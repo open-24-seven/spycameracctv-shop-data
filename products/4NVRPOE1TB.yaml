@@ -1,0 +1,58 @@
+product:
+  path: gamut-4-channel-nvr-4-port-poe-switch
+  sku: 4NVRPOE1TB
+  name: Gamut 1080p HD 4 Channel NVR with 4 Port PoE Switch and 1TB HDD
+  images:
+  - path: 5134.jpg
+    title: Gamut 4 Channel NVR with 4 Port PoE Switch and 1TB HDD
+  - path: 5578.jpg
+    title: Gamut 4 channel HD NVR
+  prices:
+    default:
+    - break: 1
+      unit_price: 1991699
+  content:
+    ean: "5060423072072"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Our <strong>Gamut Network Video Recorder</strong> (NVR) offers top-of-the-line
+      performance and adaptability. It is ideal for small to medium-scale systems
+      where superior image quality is a must. This model can capture up to 4 IP cameras
+      at 1080p Full HD. Installation is very simple as cameras are detected automatically
+      when they are connected to the recorder. A user-friendly interface for configuring
+      network settings and camera control is available so that the recorder can be
+      customized with ease.\r\n\r\nIntegrated into this CCTV NVR is a 4 port Power
+      over Ethernet (PoE) switch so that up to 4 IP cameras can be powered over the
+      same network cable that transfers data to the recorder. This is extremely useful
+      for keeping the cost and amount of cabling down to an absolute minimum.\r\n\r\nWhen
+      you integrate the recorder into your network this allows the benefit of remote
+      access for live viewing, playback and control without having to be physically
+      near the unit. You can access the recorder remotely over a web interface or
+      via a mobile device.\r\n"
+    specification: "<strong>Video</strong>\r\n\r\nVideo standard: PAL/NTSC\r\nCompression:
+      H.264\r\nOutputs: VGA/HDMI\r\n\r\n<strong>Audio</strong>\r\n\r\nInputs: 1 line
+      in, mono RCA, 1 Vp-p, 10 kâ„¦\r\nOutput: 1 line out, mono RCA, 1 Vp-p, 10 kâ„¦\r\nCompression:
+      G.711\r\nSampling rate: 8 kHz per channel\r\n\r\n<strong>Display modes</strong>\r\n\r\nScreen:
+      Full, full sequence, quad, multi-screen (live/playback), event call-up (live)\r\nFrame
+      rate: 25fps/30fps per channel (PAL/NTSC)\r\nDigital Zoom: Yes\r\n\r\n<strong>Alarm
+      Handling</strong>\r\n\r\nInputs: N/A\r\nOutputs: N/A\r\nEvents: Motion detect,
+      video blind, video loss\r\nRemote notification: Via control centre software\r\nMalfunction
+      relay: Disk space low, IP conflict, disk failures\r\n\r\n<strong>Connections</strong>\r\n\r\nEthernet:
+      10/100 Base-T, auto-sensing, half/full duplex, RJ45 \r\nUSB: 2x USB 2.0 Ports\r\n\r\n<strong>Network</strong>\r\n\r\nProtocols:
+      HTTP, TCP/IP, ARP, RTSP, RTP, UDP, SMTP, FTP, DHCP, DNS, DDNS, PPPoE, UPNP,
+      NTP\r\nIP Cameras: 4 @ 1080p\r\nSupported IP H.264 devices: Golbong IP cameras,
+      ONVIF 2.0\r\n\r\n<strong>Exporting</strong>\r\n\r\nUSB: Flash memory\r\nNetwork:
+      Golbong software\r\n\r\n<strong>Recording</strong>\r\n\r\nOverwrite modes: Continuous,
+      overwrite\r\nInternal HDD: 1x Unit (up to 4TB)\r\n\r\n<strong>Playback</strong>\r\n\r\nPlayback
+      function: Fast forward/reverse, frame forward/reverse, freeze\r\nDigital zoom:
+      Yes\r\nSearch mode: Date/time, event\r\n\r\n<strong>Physical</strong>\r\n\r\nRated
+      Voltage and Power: 110â€“240V AC, 50/60Hz, 1.5A\r\nExternal power adaptor: 48V
+      DC\r\nCameras: 802.3af compliant Power over Ethernet (4 port 40W)\r\nDimensions:
+      255mm x 44mm x 236mm (LxHxW)\r\nOperating temperature: 5Â°C to 45Â°C\r\nStorage
+      temperature: -25Â°C to +70Â°C\r\nRelative humidity: <93% non-condensing"
+    in_the_box: "<ul><li>1x 4 Camera PoE NVR with 1TB HDD</li><li>1x Mains power supply</li><li>1x
+      USB Mouse</li></ul>\r\n"

@@ -1,0 +1,59 @@
+product:
+  path: 1080p-hd-wifi-smoke-detector-camera-microsd-recording
+  sku: GTIP2SMKWF
+  name: 1080p HD Wifi Smoke Detector Camera with MicroSD Recording
+  images:
+  - path: 5755.jpg
+    title: " \t1080p HD Wifi Smoke Detector Camera with MicroSD Recording"
+  - path: 5760.jpg
+    title: HD Wifi smoke detector camera with hidden MicroSD slot
+  - path: 5761.jpg
+    title: HD wifi camera cable connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 1241700
+  content:
+    ean: "5060423077046"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/GTIP2SMKWF/manuals/GTIP2SMKWF.pdf
+    software: []
+    description: "Specially designed for those tricky applications where discretion
+      is a priority, this HD smoke detector camera is packed with professional security
+      features. Thanks to Wifi connectivity, you can easily access the camera remotely
+      from a PC or mobile, all without any suspicious network cables leading from
+      the device. This makes it ideally suited to jobs such as monitoring an office,
+      or monitoring for theft in a stock room.\r\n\r\nHidden inside the detector housing,
+      the camera captures clear and sharp footage in 1920x1080 Full HD resolution,
+      ensuring plenty of usable subject detail. Everything is recorded through a tiny
+      pinhole lens behind a grate in the side of the detector, out of view of prying
+      eyes. The imaging chip is sensitive to light levels as low as 0.5 lux, and can
+      even be paired with external infra red illuminators for use in total darkness.\r\n\r\nAs
+      an IP camera, the camera connects to your network router, letting you log in
+      and view live or recorded footage from anywhere using a PC or mobile device.
+      Crucially, the camera works with Wifi, so once it's configured you can unplug
+      it from your router, and leave it running with nothing but the power cable still
+      connected. The built-in MicroSD card slot also lets you record footage directly
+      to the camera, without needing an external recorder. It boasts a full suite
+      of CCTV recording options, including motion detection and scheduling. Please
+      note - card not included."
+    specification: "Sensor Type: 1/2.8\" CMOS\r\nSensor Resolution: 1920x1080\r\nSensitivity:
+      0.5 lux\r\nMain Stream Resolution: 1920x1080@25fps, 1280x720@25fps\r\nSub Stream
+      Resolution: 4CIF@25fps, CIF@25fps\r\nVideo Compression: H.265, H.264\r\nDWDR:
+      Supported\r\n3D DNR: Supported\r\nIR Cut Filter: Yes, Automatic\r\nLens Type:
+      3.7mm Pinhole\r\nField Of View: 76 degrees (horizontal)\r\nLens Mount: Board
+      Mounted\r\nAudio Input: RCA Jack\r\nAudio Output: RCA Jack\r\nAudio Communication:
+      Two way, Full duplex\r\nAudio Compression: G.711\r\nMemory Card Slot: Supports
+      up to 128GB, Class 10 required (not included)\r\nRecording: Continuous Recording,
+      Motiond Detection, Scheduled, Alarm Trigger\r\nUnit Configuration: Via web browser
+      or PC software\r\nProtocols: HTTP, TCP/IP, ARP, RTSP, RTP, UDP, SMTP, FTP, DHCP,
+      DDNS, PPPoE, UPNP, NTP, 802.1x\r\nEthernet: 10/100 Base T, Auto-sensing, Half/full,
+      Duplex, RJ45\r\nWireless: IEEE 802.11b/g/n\r\nPoE: Not Supported\r\nDimensions:
+      130x50mm\r\nInput Voltage: 12V DC\r\nPower Consumption: 6W\r\nOperational Temperature:
+      -20 to +55c\r\nHumidity: 10-80% \r\n\r\n"
+    in_the_box: "<ul>\r\n<li>1x HD Wifi Smoked Detector Camera</li>\r\n<li>1x Mains
+      power supply</li>\r\n</ul>"

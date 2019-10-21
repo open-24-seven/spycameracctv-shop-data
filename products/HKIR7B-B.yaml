@@ -1,0 +1,80 @@
+product:
+  path: hikvision-bi-spectrum-thermal-bullet-camera-2mp-visual-7mm-thermal
+  sku: HKIR7B-B
+  name: Hikvision Bi-Spectrum Thermal Bullet Camera - 2MP Visual, 7mm Thermal
+  images:
+  - path: 5769.jpg
+    title: " \tHikvision Bi-Spectrum Thermal Bullet Camera - 2MP Visual, 7mm Thermal"
+  - path: 5770.jpg
+    title: Hikvision thermal camera image sample
+  - path: 5812.jpg
+    title: Hikvision Bi Spectrum Thermal Camera image fusion
+  - path: 5771.jpg
+    title: Hikvision bi spectrum camera detetion ranges
+  prices:
+    default:
+    - break: 1
+      unit_price: 11115000
+  content:
+    ean: "5060611440294"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/OHJaRpGUJ_Q
+    - https://www.youtube.com/embed/BQHYXtKdXJA
+    manuals: []
+    software: []
+    description: "Hikvision has pioneered the field of thermal imaging, providing
+      groundbreaking security technology at prices that simply wouldn't have been
+      possible 5 years ago. This bi-spectrum bullet camera is a great example, combining
+      a highly sensitive thermal module with a 2MP visual spectrum IP camera. This
+      provides a versatile device that provides clear real-colour footage in good
+      light, and still easily pick out subjects when the view is obscured by vegetation
+      or smog. Because of this, it's one of the best cameras on the market for perimeter
+      security and intrusion detection.\r\n\r\nThe thermal module captures the heat
+      emitted by any subject within a 33 degree field of view, creating a 160x120
+      image. This is useful by itself for monitoring, but when combined with Hikvision's
+      range of analytics features it truly comes into it's own. These include intrusion,
+      line crossing, and region entrance/exit detection, all set to custom zones that
+      can be added to the image using in Hikvision's PC app. Other unique features
+      include fire detection, and a temperature alarm, that can be used to trigger
+      an alert when a region rises above a set level - perfect for industrial QA and
+      safety monitoring.\r\n\r\nThe camera can be manually switched between thermal
+      and HD visual modes, or combine them using an innovative Image Fusion overlay.
+      \ The camera itself supports Power-over-Ethernet, and includes a MicroSD card
+      slot for recording footage without an NVR, or to use as an emergency automated
+      backup. A durable IP67 housing ensures the camera can be installed outdoors
+      exposed to the elements.\r\n\r\n<p><strong><a href=\"https://blog.spycameracctv.com/announcing-our-range-of-hikvision-thermal-cameras\"
+      title=\"Blog\" target=\"_blank\">BLOG: Announcing our range of Hikvision thermal
+      cameras</a></strong></p>"
+    specification: "Thermal Imaging Sensor: Vanadium Oxide uncooled focal plane arrays\r\nThermal
+      Resolution: 160x120\r\nPixel interval: 25Î¼m\r\nResponse Waveband: 8-14Î¼m\r\nNETD:
+      >50mk\r\nLens: 7mm\r\nField of View: 33x25 degrees\r\nMinimum Focusing Distance:
+      0.8m\r\nf Number: 1.0\r\nOptical Imaging Sensor: 1/2.8\" CMOS\r\nOptical Imaging
+      Resolution: 1920x1080\r\nMinimum Illumination: 0.002 lux (colour), 0.0002 lux
+      (B+W)\r\nShutter Speed: 1-1/100,000s\r\nFocal Length: 6mm\r\nField of View:
+      53x30 degrees\r\nWDR: Digital WDR\r\nDay & Night: Auto IR cut\r\nImage Mode:
+      Bi spectrum image fusion, picture-in-picture, manual switching\r\nAnalytics:
+      Intrusion, line crossing, region entrance, region exit\r\nTemperature Range:
+      -20 to +150c\r\nTemperature Accuracy: +/-8c\r\nTemperature Measurement: Supports
+      10 points, 10 regions, 1 line\r\nFire Detection: Supports 10 points\r\nIR Distance:
+      30m\r\nIR Intensity: Automatic\r\nMain Stream Resolution: 1920x1080@25fps, 1280x960@25fps,
+      1280x720@25fps (visible), 320x240@50fps (thermal)\r\nSub Stream Resolution:
+      704x576@25fps, 352x288@25fps, 176x144@25fps (visible), 320x240 (thermal)\r\nVideo
+      Compression: H.264+, H.264, MJPEG\r\nProtocols: IPv4, IPv6, HTTP, HTTPS, 802.1x,
+      Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP, UDP, IGMP,
+      ICMP, DHCP, PPPoE\r\nSimultaneous Live View: Up to 20\r\nUser/Host Level: Up
+      to 32 Users, 3 Levels (admin, operator, user)\r\nSecurity Measures: User ID
+      & PW, MAC address binding, HTTPS encryption, IEEE 802.1x access control, IP
+      address filtering\r\nAlarm Inputs: 2x\r\nAlarm Outputs: 2x relay, configurable
+      responses\r\nAlarm Action: SD recording, relay output, smart capture, FTP upload,
+      Email link\r\nAudio Input: 1x 3.5mm Jack\r\nAudio Output: Linear level, impedance
+      600 ohms\r\nReset: 1x Button\r\nEthernet: 1x RJ45 10/100M Self adaptive\r\nSD
+      Card: Built-in MicroSD slot, supports MicroSD/SDHC/SDXC up to 128Gb (not included)\r\nAnalogue
+      Output: 1x BNC\r\nApplication Programming: API, ONVIF, PSIA, ISAPI, Hikvision
+      SDK\r\nClient: iVMS-4200\r\nBrowser: IE7+, Chrome18+, Firefox5+, Safari5.02+\r\nMenu
+      Language: English\r\nPower: 24V AC, 12V DC, PoE+\r\nOperational Temperature:
+      -40 to +60c\r\nOperational Humidity: <90%\r\nProtection Level: IP67\r\nDimensions:
+      314x104x292mm\r\nWeight: Approx 1.55 Kg"
+    in_the_box: "<ul>\r\n<li>1x Hikvision Bi-Spectrum thermal camera</li>\r\n</ul>"

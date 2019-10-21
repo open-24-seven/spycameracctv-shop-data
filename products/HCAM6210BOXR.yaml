@@ -1,0 +1,28 @@
+product:
+  path: b-grade-metal-security-box-acorn-6210-trail-camera
+  sku: HCAM6210BOXR
+  name: B Grade 30% Off - Metal Security Box for Acorn 6210 Trail Camera
+  images:
+  - path: 5631.jpg
+    title: " \tB Grade 30% Off - Metal Security Box for Acorn 6210 Trail Camera"
+  - path: 5632.jpg
+    title: Metal security box for Acorn 6210 camera
+  prices:
+    default:
+    - break: 1
+      unit_price: 245799
+  content:
+    ean: "2797"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x Metal Security Box</li>\r\n<li>1x Mounting Bracket</li>\r\n<li>Set
+      of mounting screws</li>\r\n</ul>"

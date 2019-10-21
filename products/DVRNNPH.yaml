@@ -1,0 +1,72 @@
+product:
+  path: low-light-hd-pinhole-spy-camera-kit-recorder
+  sku: DVRNNPH
+  name: 'Low Light HD Pinhole Spy Camera Kit with Recorder '
+  images:
+  - path: 5856.jpg
+    title: " \tLow Light HD Pinhole Spy Camera Kit with Recorder "
+  - path: 5857.jpg
+    title: tiny 2mp low light pinhole camera in hand
+  - path: 5858.jpg
+    title: 2mp pinhole camera with osd control
+  - path: 5859.jpg
+    title: HiWatch 4 channel hybrid DVR
+  - path: 5860.jpg
+    title: HiWatch 4 channel DVR rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 1241700
+  content:
+    ean: "5060611442540"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "We were recently contacted by a customer with a big problem - stock
+      was disappearing from their warehouse, and they were convinced that certain
+      staff members were responsible. They needed a completely covert solution to
+      catch them red-handed on camera, despite the warehouse being poorly lit. This
+      kit was our solution, combining our smallest ever pinhole camera with a 4 channel
+      CCTV recorder.\r\n\r\nAs well as being incredibly small, a Sony Exmor R sensor
+      means the camera can keep recording video in light levels as low as 0.0008 lux
+      - essential for badly lit interiors. Video is captured at 1080p Full HD quality,
+      for images filled with usable subject detail. The pinhole lens means it can
+      record through gaps as small as 2mm, helping keep the camera hidden away in
+      a suspended ceiling, or on a shelf.\r\n\r\nAlso included is a 4 channel hybrid
+      DVR from HiWatch, boasting a range of adjustable recording settings. These include
+      motion detection, and a 24/7 recording schedule. The recorder is fitted with
+      your choice of hard drive, whilst the extra channels mean that you can easily
+      expand the system with additional cameras if needs be. Connecting the DVR to
+      a router also allows you to configure remote access, to watch and control cameras
+      from anywhere using a PC or mobile device. "
+    specification: "<p>Camera</p>\r\nImaging Sensor: 1/2.9\" Sony EXMOR CMOS\r\nActive
+      Pixels: 1936x1097\r\nResolution: 1080p (TVI, CVI, AHD), 950TVL(CVBS)\r\nS/N
+      Ratio:>52dB\r\nVideo Output: TVI 2.0, AHD 2.0, CVI 2.0, CVBS\r\nMinimum illumination:
+      0.08lux (colour), 0.008lux (B&W), 0.0008ux (B&W w sens-up)\r\nLens: 3.7mm Pinhole\r\nWhite
+      Balance: ATW, AWC-SET, INDOOR, OUTDOOR, MANUAL, AWB\r\nExposure: DC, MANUAL\r\nBacklight
+      Compensation: OFF, BLC, HSBLC\r\nPrivacy Masking: 4 zones\r\nDay & Night: AUTO,
+      COLOUR, BW, EXT\r\nMotion Detection: On, Off\r\n3DNR: OFF, LOW, MIDDLE, HIGH
+      (exc CVBS)\r\nDigital Effect: OFF, MIRROR, V-FLIP, ROTATE & FREEZE\r\nSharpness:
+      Adjustable\r\nImage Enhancement: D-WDR\r\nDefog: On, Off\r\nCommunication: Coax\r\nOSD:
+      OSD Controller\r\nLanguage: ENG, GER, FRA, ITA, SPA, POL, RUS, POR, NED, TUR,
+      KOR, JPN, HEB, ARB\r\nPower: DC 12V\r\nPower Consumption: 1.2W\r\nOperational
+      Temperature: -10 to +50c\r\nDimensions: 25x25x16mm \r\n\r\n<p>Recorder</p>\r\nVideo
+      Input: 4x BNC\r\nVideo Compression: H.264+\r\nHD-TVI/AHD/CVI Input: 1080p@25/30fps,
+      720p@25/30fps\r\nCVBS Input: Supported\r\nAudio Compression: G.711u\r\nAudio
+      Input: 1x RCA\r\nHDMI/VGA Output: 1920x1080, 1280x1024, 1280x720, 1024x768\r\nEncoding
+      Resolution: 1080pLite, 720p, WD1, 4CIF, VGA, CIF\r\nMain Stream Frame Rate:
+      1080pLite, 720p @ 12fps\r\nSub Stream Frame Rate: CIF, QVGA, QCIF @ 25fps\r\nVideo
+      Bitrate: 32kbps to 4Mbps\r\nAudio Output: 1x RCA\r\nAudio Bitrate: 64Kbps\r\nDual
+      Stream: Support\r\nSynchronous Playback: 4 Channels\r\nRemote Connections: 32\r\nNetwork
+      Protocols: TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS,iSCSI,
+      UPnP, HTTPS\r\nSATA: 1x Interface\r\nCapacity: Up to 6TB\r\nNetwork Interface:
+      1x 10/100M RJ45 Ethernet\r\nUSB Interface: 2x USB 2.0 (rear panel)\r\nPower
+      Supply: 12V DC\r\nConsumption (without HDD): <8W\r\nOperational Temperature:
+      -10Â°c to +55Â°c\r\nOperational Humidity: 10-90%\r\nDimensions: 200x200x45mm\r\nWeight
+      (without HDD): 800g"
+    in_the_box: "<ul>\r\n<li>1x Low light pinhole camera</li>\r\n<li>1x Mains power
+      supply for camera</li>\r\n<li>1x 10m AV and power cable</li>\r\n<li>1x 4 Channel
+      DVR</li>\r\n<li>1x Mains power supply for DVR</li>\r\n<li>1x USB mouse</li>\r\n</ul>"

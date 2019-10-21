@@ -1,0 +1,51 @@
+product:
+  path: hikvision-5mp-cctv-camera-40m-night-vision
+  sku: HKTV540BC
+  name: Hikvision 5MP CCTV Camera with 40m Night Vision, PoC
+  images:
+  - path: 5363.jpg
+    title: Hikvision 5MP CCTV Camera with 40m Night Vision
+  - path: 5365.jpg
+    title: Hikvision 5mp resolution size chart
+  prices:
+    default:
+    - break: 1
+      unit_price: 540000
+  content:
+    ean: "5060423076247"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/Ky9tqtrtDTY
+    manuals: []
+    software: []
+    description: "Hikvision's Turbo HD-TVI range is an incredibly popular combination
+      of high resolution images and a simple plug-and-play setup. This 40m bullet
+      camera is part of the latest generation of TVI gear, capturing huge 5 megapixel
+      (2592x1944) video images, packed with fine detail. The result is a professional
+      grade camera that can compare with all but the most advanced IP cameras, all
+      without the hassle of configuring it to your network.\r\n\r\nIt's not just the
+      resolution that's impressive, either - the camera also features 40m of night
+      vision, making it suitable for monitoring larger unlit areas round the clock.
+      The camera uses Hikvision's advanced EXIR LEDs, helping provide uniform and
+      clear illumination right across the image. The bullet camera is also protected
+      by an IP67 rated housing, providing complete protection from the elements. This
+      makes it a perfect option for security in an outdoor area. Image settings such
+      as contrast and backlight correction can also be adjusted using the built-in
+      menu system, ensuring you have precise control over the image.\r\n\r\nThe camera
+      uses a standard twist-fit BNC output, so can plug straight in to any HD-TVI
+      compatible recorder. It even supports Power-over-Coax (PoC), letting it draw
+      power from a compatible DVR over the RG59 cable, and removing the need for an
+      additional power supply. "
+    specification: "Imaging Sensor: 5MP CMOS\r\nEffective Pixels: 2592x1944\r\nMinimum
+      Illumination: 0.01Lux (IR Off), 0Lux (IR On)\r\nShutter Speed: 1/25 - 1/50,000s\r\nLens:
+      3.6mm\r\nField of View: 70.1Â°\r\nDay & Night: ICR\r\nLens Mount: M12\r\nSynchronisation:
+      Internal\r\nVideo Frame Rate: 2592x1944 @ 20fps\r\nOutput: 1x BNC\r\nAGC: Supported\r\nD/N
+      Mode: Auto/Colour/Black & White\r\nWhite Balance: ATW/MWB\r\nBLC: Supported\r\nLanguage:
+      English, Chinese\r\nMenu Functions: Brightness, Sharpness, DNR, Mirror, Bad
+      pixel correction, Smart IR\r\nOperational Temperature: -40Â°c to +60Â°c\r\nOperational
+      Humidity: <90% (non condensing)\r\nPower Supply: 12V DC\r\nPower Consumption:
+      Max 5W\r\nProtection Level: IP67\r\nIR Range: 40m\r\nCommunication: UTC\r\nDimensions:
+      86.7x81.6x226mm\r\nWeight: 680g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 5MP bullet camera</li>\r\n</ul>"

@@ -1,0 +1,66 @@
+product:
+  path: hikvision-thermal-ip-bullet-camera-10mm-lens
+  sku: HKIR10B
+  name: Hikvision Thermal IP Bullet Camera with 10mm Lens
+  images:
+  - path: 5772.jpg
+    title: " \tHikvision Thermal IP Bullet Camera with 10mm Lens"
+  - path: 5773.jpg
+    title: Hikvision thermal camera sample
+  - path: 5774.jpg
+    title: Hikvision 10mm thermal camera working ranges
+  prices:
+    default:
+    - break: 1
+      unit_price: 23625000
+  content:
+    ean: "5060423075530"
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/OHJaRpGUJ_Q
+    - https://www.youtube.com/embed/BQHYXtKdXJA
+    manuals: []
+    software: []
+    description: "Providing powerful imaging technology with advanced analytics, Hikvision's
+      range of thermal cameras are some of the most powerful security and monitoring
+      devices available today. They're perfectly suited to a wide range of applications,
+      from perimeter security to industrial quality assurance.\r\n\r\nThe thermal
+      imaging module works in the 8-14 micrometre range, capturing the heat emitted
+      by objects ranging from freezing to boiling hot. As well as working the same
+      day or night, this thermal spectrum is not affected by obstructions such as
+      smoke and smog, providing a clear view when standard cameras would be completely
+      obscured. The sensor captures a clear 384x288 resolution image, at 50 fps for
+      smooth motion. A 10mm lens provides a tightly cropped 36 degree field of view.
+      As with all of Hikvisoin's professional cameras, the housing is IP66 weatherproof
+      and suitable for outdoor use. The camera also supports PoE, and can be used
+      with all of Hikvision's range of NVRs.\r\n\r\nHikvision's advanced video analytics
+      provide a wide range of automation options. Options such as line crossing, region
+      enter/exit and intrusion detection are all fully customisable using Hikvision's
+      PC app, letting you manually \"draw\" regions in the frame for the camera to
+      monitor. There are also thermal-specific features, including fire detection,
+      and custom temperature alarms, perfect for watching over industrial machinery.\r\n\r\n<p><strong><a
+      href=\"https://blog.spycameracctv.com/announcing-our-range-of-hikvision-thermal-cameras\"
+      title=\"Blog\" target=\"_blank\">BLOG: Announcing our range of Hikvision thermal
+      cameras</a></strong></p>"
+    specification: "Imaging Sensor: Vanadium Oxide uncooled focal plane arrays\r\nMaximum
+      Resolution: 384x288\r\nResponse Waveband: 8-14Î¼m\r\nNETD: <50mk\r\nLens: 10mm\r\nField
+      of View: 36x27 degrees\r\nMinimum Focusing Distance: 1m\r\nF Number: 1.0\r\nFrame
+      Rate: 384x288@50fps (main, sub, third stream)\r\nVideo Compression: H.264+,
+      H.264, MJPEG\r\nProtocols: IPv4, IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP,
+      UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP, UDP, IGMP, ICMP, DHCP, PPPoE,
+      Bonjour\r\nSimultaneous Live View: Up to 20\r\nUser/Host Level: Up to 32 Users,
+      3 levels (admin, operator, user)\r\nSecurity Measures: User auth ID and PW,
+      MAC address binding, HTTPS encryption, IEEE 802.1x access control, IP address
+      filtering\r\nAlarm Inputs: 2x\r\nAlarm Outputs: 2x\r\nAlarm Action: SD recording,
+      relay output, smart capture, FTP upload, Email link\r\nAudio Input: 1x 3.5mm
+      jack\r\nAudio Output: Line level, impedance 600 ohm\r\nReset: 1x reset button\r\nEthernet:
+      1x RJ45 10/100M self adaptive\r\nSD Memory: Built-in MicroSD slot, Supports
+      MicroSD/SDHC/SDXC (up to 64GB)\r\nAnalogue Output: 1x BNC\r\nApplication Programming:
+      Open ended API, Supports Onvif, PSIA, CGI, Hikvision SDK\r\nClient: iVMS-4200\r\nWeb
+      Browser: IE7+, Chrome18+, Firefox5+, Safari5.02+\r\nMenu Language: English\r\nPower:
+      POE+, 24V AC, 12V DC\r\nOperational Temperature: -40 to +65c\r\nOperational
+      Humidity: <90%\r\nProtection Level: IP66, 6000V lightning protection, surge
+      protection\r\nDimensions: 314x104x292.7mm\r\nWeight: 2Kg \r\n"
+    in_the_box: "<ul>\r\n<li>1x Hikvison thermal bullet camera</li>\r\n</ul>"

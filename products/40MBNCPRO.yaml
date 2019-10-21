@@ -1,0 +1,39 @@
+product:
+  path: 40m-professional-copper-rg59-bnc-video-dc-power-extension-cctv-cable
+  sku: 40MBNCPRO
+  name: 40m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  images:
+  - path: 3654.jpg
+    title: 40m Professional Copper RG59 BNC Video and DC Power CCTV Cable
+  - path: 3655.jpg
+    title: Professional CCTV BNC video cable and 2.1mm DC power jack
+  - path: 3656.jpg
+    title: Professional RG59 video cable cutaway diagram
+  prices:
+    default:
+    - break: 1
+      unit_price: 237500
+  content:
+    ean: "5060181650741"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This professional grade CCTV cable uses Copper RG59 wire to carry
+      a clean video signal with minimal drop-off. When using a professional standard
+      camera such as one from our TVI Professional HD Camera range, using sub-standard
+      cables can dramatically compromise the resulting image quality. This high quality
+      video line ensures your images will remain crisp, sharp and full of detail!\r\n\r\nThis
+      Coaxial cable also features a 12V DC power line, fitted with a standard 2.1mm
+      jack. This means you can use the same cable to run power out to your cameras,
+      and prevents the hassle of having to install two sets of wiring to each camera!\r\n\r\nLooking
+      for a different length of cable? We stock these in 10, 20, 30, 40, 50 and 60
+      metre lengths, and can even supply massive uncut reels! If you need any help
+      with your installation, you can always call our specialist team of advisers.
+      Just see our contact page for the easiest way to get in touch!"
+    specification: "Length: 30m\r\nInner conductor: 0.81mm Bare Copper\r\n1st Shielding:
+      Single Aluminium Foil\r\nJacket: 6x3.5mm Black PVC\r\nImpedance: 75+/-3 Ohm\r\nCapacitance:
+      53pF/m\r\n"
+    in_the_box: ""

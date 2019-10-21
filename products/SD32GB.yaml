@@ -1,0 +1,27 @@
+product:
+  path: sd-card-32gb-memory-card
+  sku: SD32GB
+  name: 32GB SDHC Class 10 Memory Card
+  images:
+  - path: 2558.jpg
+    title: 32Gb SDHC Memory Card for Full Size SD Card Slots
+  prices:
+    default:
+    - break: 1
+      unit_price: 137500
+  content:
+    ean: "740617217469"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This 32GB SD Card is ideal for use in any camera and is capable
+      of recording HD video thanks to the Class 10 high data rate specification. \r\n\r\nThis
+      card works with all of our products that feature an SD card slot.\r\n\r\n<i>To
+      ensure we can offer the best price and availability to our customers, we use
+      a variety of SD card manufacturers. This means the card you receive may not
+      match the model pictured</i>"
+    specification: ""
+    in_the_box: "<ul>\r\n<li>1x 32GB SDHC SD Card</li>\r\n</ul>"

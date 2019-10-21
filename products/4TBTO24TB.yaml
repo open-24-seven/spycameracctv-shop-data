@@ -1,0 +1,22 @@
+product:
+  path: 4tb-to-24tb-upgrade
+  sku: 4TBTO24TB
+  name: 4TB to 24TB Hard Drive Upgrade
+  images:
+  - path: 5429.jpg
+    title: ' 4TB to 24TB Hard Drive Upgrade'
+  prices:
+    default:
+    - break: 1
+      unit_price: 9000000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: ""
+    specification: ""
+    in_the_box: ""

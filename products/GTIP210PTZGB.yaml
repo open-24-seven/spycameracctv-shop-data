@@ -1,0 +1,54 @@
+product:
+  path: 1080p-hd-ptz-bullet-ip-camera-100m-night-vision-10x-zoom
+  sku: GTIP210PTZGB
+  name: 1080p HD PTZ Bullet IP Camera with 100m Night Vision, 10x Zoom
+  images:
+  - path: 5563.jpg
+    title: 1080p HD PTZ Bullet IP Camera with 100m Night Vision, 10x Zoom
+  - path: 5564.jpg
+    title: 10x zoom HD PTZ bullet IP camera side view
+  - path: 5565.jpg
+    title: bullet IP PTZ camera front view
+  - path: 5566.jpg
+    title: bullet PTZ camera connectors
+  prices:
+    default:
+    - break: 1
+      unit_price: 1658300
+  content:
+    ean: "5060423075639"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/GTIP210PTZGB/manuals/User%20Manual%20V-A.01.pdf
+    software: []
+    description: "Pan-tilt-zoom (or \"PTZ\") CCTV cameras are mounted on motorised
+      bases, letting you remotely control where they are looking. They're a fantastic
+      option for monitoring larger outdoor spaces that would otherwise need multiple
+      cameras, or for tracking moving subjects such as cars in car park. This PTZ
+      camera is housed in a bullet style casing, lending it an imposing presence when
+      mounted to the outside of a building, ideal for deterring intruders or vandals
+      - when this thing turns to look at them, you can be sure that they know they're
+      on camera!\r\n\r\nThe camera is built around a professional grade Sony imaging
+      chip, letting it capture footage in 1080p Full HD. When combined with the 10x
+      zoom lens, this allows you to view exceptional detail from even distant subjects.
+      The camera is also fitted with powerful infra red LEDs that focus with the lens,
+      allowing up to a huge 100m range at the top end of the zoom.\r\n\r\nThe IP camera
+      connects to your building's network router using a standard ethernet cable.
+      Once configured, you can view and control the camera remotely using a free PC
+      or mobile app, or by connecting it to a network video recorder. You can even
+      use it with one of our PTZ joysticks, providing fingertip control over the camera's
+      movements. The camera's movements can also be automated, with 220 programmable
+      positions, as well as up to 3 tours."
+    specification: "Imaging Chip: 1/3\" Sony CMOS\r\nImaging Resolution: 1920x1080p\r\nLens:
+      5.1-51mm\r\nOptical Zoom: 10x\r\nDay/Night: IR Cut\r\nBLC: Auto\r\nWhite Balance:
+      Auto\r\nS/N Ratio: >50dB\r\nProtocol: TCP/IP, HTTP, NTP, IGMP, DHCP, UDP, SMTP,
+      RTP, RTSP, ARP, DDNS, DNS, PPPoE, P2P\r\nSoftware Control: IE, CMS, Management
+      Platform\r\nVideo Compression: H.264, M-JPEG\r\nAudio Compression: G711, PCM\r\nMobile
+      View: Android, iOS\r\nPan Range: 0-220Â°\r\nTilt Range: -45-+40Â°\r\nPreset
+      Points: 220\r\nGuard Tours: 3 (each with up to 16 presets)\r\nOperational Temperature:
+      -40Â°c to +60Â°c\r\nAuto Control LED: PWN\r\nIR Distance: Up to 100m\r\nPower
+      Consumption: <15W\r\nLightning Protection: 6000V\r\nWeight: 1.25Kg"
+    in_the_box: "<ul>\r\n<li>1x HD PTZ bullet camera</li>\r\n<li>1x Mains power supply</li>\r\n</ul>"

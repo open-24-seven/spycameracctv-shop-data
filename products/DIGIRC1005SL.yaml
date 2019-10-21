@@ -1,0 +1,39 @@
+product:
+  path: additional-1080p-hd-wireless-security-camera-cctv-spotlight
+  sku: DIGIRC1005SL
+  name: Additional 1080p HD Wireless Security Camera with CCTV Spotlight
+  images:
+  - path: 5908.jpg
+    title: Additional 1080p HD Wireless Security Camera with CCTV Spotlight
+  prices:
+    default:
+    - break: 1
+      unit_price: 908300
+  content:
+    ean: "5060423075776"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "Perfect for home security, this wireless spotlight camera adds a
+      strong visible deterrent to any one of our <a href=\"https://www.spycameracctv.com/spy/wireless-cameras/portable-lcd-screens/\"
+      target=\"_blank\">wireless touchscreen CCTV kits</a>. It features a powerful
+      white light illuminator, linked to the built in PIR detector. It can be set
+      to switch on whenever a subject moves in front of the camera, clearly letting
+      them know that they're being watched. \r\n\r\nAs with the standard cameras available
+      for our touchscreen wireless kits, they boast 10m night vision, and 1080p recording
+      to help captures as much detail as possible. They even feature two way audio,
+      so you can remotely talk to people near the camera using the screen, or the
+      mobile app. Digital wireless transmission allows the camera to connect to the
+      screen from up to 100m away, with reduced risk of wireless interference."
+    specification: "Frequency Range: 2.4-2.483GHz\r\nData rate: 6MBps\r\nTransmitting
+      Power: 16dBm (TYP)\r\nModulation Type: GFSK with FHSS\r\nTransmission Range:
+      100m\r\nImaging Sensor: 1/2.7\" CMOS\r\nResolution: 1920x1080\r\nImage Processing:
+      H.264\r\nLens: 3.6mm\r\nField of View: 92Â°\r\nMinimim Illumination: 5 Lux (IR
+      Off), 0 Lux (IR On)\r\nIR Range: 10m\r\nPower: 9V DC\r\nPower Consumption: 1680mA
+      (max with spotlight on)\r\nOperational Temperature: -10Â°c to +40Â°c\r\nOperational
+      Humidity: 0-85%\r\nHousing Material: ABS\r\n"
+    in_the_box: "<ul>\r\n<li>1x 1080p wireless camera with spotlight</li>\r\n<li>1x
+      Mains power supply</li>\r\n</ul>"

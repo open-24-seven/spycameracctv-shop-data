@@ -1,0 +1,48 @@
+product:
+  path: silver-support-remote-setup-online-viewing-mobile-access
+  sku: SILVERSETUP
+  name: Silver Remote Setup for Online Viewing & Mobile Access
+  images:
+  - path: 4655.jpg
+    title: " \tSilver Support - Remote Setup for Online Viewing & Mobile Access"
+  prices:
+    default:
+    - break: 1
+      unit_price: 500000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: ""
+    videos:
+    - https://www.youtube.com/embed/m2KeSa4dSuU
+    manuals: []
+    software: []
+    description: "<strong>Who is this service right for?</strong>\r\n\r\nâ€¢ Users
+      with a network enabled DVR with up to 4 channels</li>\r\nâ€¢ Users with up to
+      4 IP cameras</li>\r\n\r\n<strong>Who is this service not right for?</strong>\r\n\r\nâ€¢
+      Users with more than 4 cameras and a recorder</li>\r\nâ€¢ Configuring smart
+      features on Hikvision IP cameras</li>\r\nâ€¢ Users with systems that include
+      Wifi bridges or 4G routers</li>\r\n\r\n<i>For these situations we recommend
+      our gold & platinum support packages</i>\r\n\r\nNetwork enabled CCTV systems
+      are an essential way for you to keep an eye on your home or property whilst
+      away, but we'll be the first to admit that they can be confusing to set up for
+      those without experience with networks or routers. That's why we have put together
+      our complete support packages! This no hassle remote setup service takes away
+      the fuss of configuring your 4 camera CCTV system for remote viewing on PC or
+      mobile.\r\n\r\nAfter the initial setup, we can then start a simple Direct Debit
+      subscription for continued remote access via a secure web address. This also
+      provides you with free ongoing support in case the connection has to be reset.\r\n\r\nLogging
+      in remotely to your computer, one of our expert technical team will completely
+      configure your DVR, software and router for online viewing. We will also set
+      up a web address of your choosing (subject to availability) through which you
+      can log in to watch your camera live. The service takes around an hour, during
+      which you can either get our support agent to talk you through it on the phone,
+      or just leave them to it if you'd rather sit back with a brew. We do however,
+      ask that you are available by your computer in case we need to check something.\r\n\r\nThe
+      setup service can also configure your system for mobile access, letting you
+      view your cameras live on iOS, Android or Windows smartphones (subject to compatibility).
+      It also covers 12 months of ongoing remote support for any connection problems
+      that might occur."
+    specification: Â 
+    in_the_box: ""

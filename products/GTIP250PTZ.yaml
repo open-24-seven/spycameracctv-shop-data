@@ -1,0 +1,57 @@
+product:
+  path: outdoor-1080p-hd-pan-tilt-zoom-ptz-ip-dome-camera-50m-ir-10x-zoom
+  sku: GTIP250PTZ
+  name: Outdoor 1080p HD Pan Tilt Zoom PTZ IP Dome Camera w/ 50m IR, 10x Zoom
+  images:
+  - path: 4601.jpg
+    title: Outdoor 1080p HD Pan Tilt Zoom PTZ IP Dome Camera w/ 50m IR, 10x Zoom
+  - path: 4602.jpg
+    title: HD IP PTZ Dome Camera front view
+  prices:
+    default:
+    - break: 1
+      unit_price: 3158300
+  content:
+    ean: "5060181654398"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "PTZ (pan tilt zoom) security cameras are ideal for larger properties,
+      letting you remotely control the camera's movements using a motorised base,
+      and look around your property. This flagship dome security camera takes a PTZ
+      housing, and combines it with a top-of-the-line 1080p HD IP camera, marrying
+      functionality with professional-grade image quality. This combination makes
+      it the perfect choice for a huge range of applications, including warehouse
+      security, car parks or offices.\r\n\r\nWhereas as traditional CCTV cameras record
+      analogue video, IP cameras record it digital, and then send it as data down
+      a network cable. This not only allows it to record a much higher level of detail
+      than previously possible, but also lets you connect it directly to your internet
+      router to view live footage remotely over the internet. This camera uses a professional
+      grade colour CMOS sensor in order to record video at 1920x1080p full HD resolution
+      (approximately 2 megapixels). When combined with the powerful zoom built into
+      the camera, this allows you to record fine details such as detailed faces with
+      more clarity than ever before. This is even paired with powerful night vision
+      LEDs, allowing it to keep recording subjects up to 50m away in the dead of night.\r\n\r\nThe
+      camera's motorised base can easily be controlled using the included PC software.
+      This lets you watch and control the camera remotely at the touch of a button.
+      The base has complete 360 degree movement, with fine adjustments allowing it
+      to rotate and pan with varying degrees of speed. You can even program in up
+      to 220 pre-set points for the camera to move to, or up to 4 programmed \"tour\"
+      movements between them, letting you easily automate the camera's movements.\r\n\r\n"
+    specification: "Imaging Sensor: 1/3\" Colour CMOS\r\nResolution: 1920x1080\r\nTotal
+      Pixels: 2.0 Megapixels\r\nOutput Resolution: 1920x1080@25fps, 1280x720@50fps\r\nIris:
+      f/1.6-2.8\r\nAngle of View: 51.8Â° to 5.86Â° (Horizontal)\r\nMinimum Illumination:
+      0.01 Lux (Colour), 0 Lux (B&W)\r\nD/N: IR-Cut\r\nBack Light Compensation: Auto\r\nWhite
+      Balance: Auto\r\nS/N Ratio: >50dB\r\nCommunication Protocol: TCP/IP, HTTP, FTP,
+      RTSP, UPnP, DNS, NTP, RTP, UDP, IGMP\r\nSoftware Control: Internet Explorer,
+      CMS\r\nRotational Speed: 0.02Â°/s to 200Â°/s\r\nHorizontal Rotation Range: 360Â°\r\nTilt
+      Rotational Speed: 0.02Â°/s to 80Â°/s\r\nPreset Points: 220\r\n'Go To Preset'
+      Speed: 01-64 levels\r\nGuard Tours: 4 Groups\r\nGuard Points: Up to 16\r\nOperational
+      Temperature: 0Â°c to +40Â°c\r\nIR Distance: Up to 50m\r\nPower: 12V DC\r\nPower
+      Consumption: <15W\r\nCommunication: RS485\r\n"
+    in_the_box: "<ul>\r\n<li>1x Dome IP PTZ Camera</li>\r\n<li>1x Mounting Bracket</li>\r\n<li>1x
+      Mains Power Supply</li>\r\n<li>1x Software and manual CD</li>\r\n<li><strong>2
+      Year warranty with SpyCameraCCTV</strong></li>\r\n</ul>"

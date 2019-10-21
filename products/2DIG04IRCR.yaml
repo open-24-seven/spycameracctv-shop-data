@@ -1,0 +1,41 @@
+product:
+  path: b-grade-2-camera-digital-wireless-cctv-kit-receiver
+  sku: 2DIG04IRCR
+  name: B Grade 30% Off - 2 Camera Digital Wireless CCTV Kit with Receiver
+  images:
+  - path: 5604.jpg
+    title: B Grade 30% Off - 2 Camera Digital Wireless CCTV Kit with Receiver
+  - path: 5605.jpg
+    title: Digital Wireless CCTV camera with 15m Night Vision
+  - path: 5606.jpg
+    title: Digital Wireless Receiver
+  prices:
+    default:
+    - break: 1
+      unit_price: 1325000
+  content:
+    ean: "3703"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: "This item is either an ex display model, has been unboxed, or was
+      a customer return. All B grade products are tested by our tech team, and still
+      covered by our product guarantee. \r\n\r\nStock is extremely limited, so don't
+      miss out on this great bargain price!"
+    specification: "Camera\r\n\r\nImage Sensor: 1/4\" Colour CMOS\r\nPixels: 640x480\r\nImage
+      Compression: MPEG4\r\nImage Resolution: VGA\r\nLens: 3.6mm\r\nDiagonal Field
+      of View: 55Â°\r\nAGC: On\r\nPower: 9V DC\r\nPower Consumption: 430mA IR on,
+      220mA IR off\r\nWeather Resistance: IP66\r\nIR LED: 24x \r\nNight Vision Range:
+      15m\r\nDimensions: 79x203x117mm\r\nWeight: 300g\r\n\r\nReceiver\r\n\r\nSensitivity:
+      -81dbm\r\nSupported Resolution: VGA\r\nTermination: 2x Composite BNC\r\nPower
+      Requirement: 9V DC\r\nPower Consumption: 270mA Max\r\nDimensions: 53x137x86mm\r\nWeight:
+      100g\r\nFrequency Range: 2.4-2.48GHz\r\nPower: 16dBm\r\nRange: 100m (direct
+      line of sight)\r\nData Rate: 4MB/s\r\nModulation: GFSK\r\nSpread Spectrum: FHSS\r\nOperational
+      Temperature Range: -10Â°c to +40Â°c"
+    in_the_box: "<ul>\r\n<li>2x Digital wireless cctv cameras</li>\r\n<li>2x Camera
+      power supplies</li>\r\n<li>1x Wireless Receiver</li>\r\n<li>2x Antennae for
+      receiver</li>\r\n<li>1x Receiver power supply</li>\r\n<li><strong>2 year guarantee
+      with SpyCameraCCTV</strong></li>\r\n</ul>"

@@ -1,0 +1,71 @@
+product:
+  path: 2-camera-1080p-hd-wireless-cctv-kit-mobile-access-touch-screen-dvr
+  sku: 2DIGLAN1005
+  name: 2-Camera HD Wireless CCTV Kit with Mobile Access, Touch Screen DVR
+  images:
+  - path: 5736.jpg
+    title: " \t2 Camera 1080p HD Wireless CCTV Kit - Mobile Access, Touch Screen DVR"
+  - path: 5737.jpg
+    title: 1080p HD digital wireless security camera
+  - path: 5738.jpg
+    title: wireless camera with PIR
+  - path: 5739.jpg
+    title: Touch screen monitor and dvr
+  - path: 5740.jpg
+    title: wireless cctv kit remote access
+  - path: 5747.jpg
+    title: SpyCameraCCTV 2 Camera 1080p HD Wireless CCTV Kit - Mobile Access, Touch
+      Screen DVR
+  prices:
+    default:
+    - break: 1
+      unit_price: 2575000
+  content:
+    ean: "5060611440096"
+    meta:
+      title: ""
+      description: This 2-camera Wireless CCTV kit is a one-box solution to home security.
+        It features our 3-in-1 portable monitor with MicroSD recording and network
+        connectivity. Buy online today for FREE UK delivery!
+    videos: []
+    manuals:
+    - http://downloads.spycameracctv.com/DIGLAN1005/manuals/1005-user-manual.pdf
+    software: []
+    description: "Wireless CCTV is one of the best options if you want to secure your
+      property, but need a simple installation or a quick setup. This 2-camera digital
+      wireless CCTV kit is an all-in-one solution for a home or small shop, with 1080p
+      cameras and a combination screen & recorder. Everything you need to get it up
+      and running is included, making it a great option for DIY security.\r\n\r\nThe
+      cameras record in 1920x1080 Full HD, recording amazing levels of detail for
+      a wireless camera. Infrared LEDs provide 10m night vision ensuring you can monitor
+      round the clock, even in unlit areas such as gardens or driveways. Uniquely,
+      the cameras also include a built-in passive infrared (PIR) sensor, designed
+      to pick up movement from a subject's body heat. This allows much more accurate
+      motion detection than traditional CCTV, with less accidental recording. Footage
+      is transmitted to the monitor using digital wireless, providing a clean and
+      secure signal, with much less risk of interference.\r\n\r\nThe monitor itself
+      is packed with features, including a 9\" colour touch screen to watch live footage,
+      or files recorded to the built-in MicroSD card slot. Recording can be customised
+      with a range of scheduling and motion detection modes, helping you automate
+      your system with great ease. The screen even has a built-in Lithium rechargeable
+      battery, letting you easily move it to different locations in your home while
+      in use. Plugging the device into your router will also allow mobile access.
+      The free iOS and Android app lets you view live or recorded footage from wherever
+      you are, using a phone or tablet."
+    specification: "Camera Spec\r\n\r\nFrequency Range: 2.4-2.483GHz\r\nData rate:
+      6MBps\r\nTransmitting Power: 16dBm (TYP)\r\nModulation Type: GFSK with FHSS\r\nTransmission
+      Range: 100m\r\nImaging Sensor: 1/2.7\" CMOS\r\nResolution: 1920x1080\r\nImage
+      Processing: H.264\r\nLens: 3.6mm\r\nField of View: 92Â°\r\nMinimum Illumination:
+      5 Lux (IR Off), 0 Lux (IR On)\r\nIR LEDs: 16\r\nIR Range: 10m\r\nPower: 9V DC
+      600mA\r\nPower Consumption: 540mA (max, IR on)\r\nOperational Temperature: -10Â°c
+      to +40Â°c\r\nOperational Humidity: 0-85%\r\nHousing Material: ABS\r\nWeatherproofing:
+      IP65\r\n\r\n\r\n\r\n\r\nMonitor Spec\r\n\r\nFrequency Range: 2.4-2.483GHz\r\nData
+      Rate: 6Mbps\r\nReceiving Sensitivity: -81dBm\r\nModulation Type: GFSK with FHSS\r\nLCD
+      Panel Size: 9\"\r\nLCD Resolution: 1024x600\r\nViewing Angle: 140Â° (horizontal),
+      110Â° (vertical)\r\nPower Requirements: 5V DC 2A, 2.1mm jack\r\nPower Consumption:
+      1050mA (max)\r\nOperational Temperature: -10Â°c to +40Â°c\r\nOperational Humidity:
+      0-85%"
+    in_the_box: "<ul>\r\n<li>2x 1080p wireless cameras</li>\r\n<li>2x 3m extended
+      mains power supplies</li>\r\n<li>1x 9\" touch screen recorder</li>\r\n<li>1x
+      Mains power supply for recorder</li>\r\n<li>1x Network patch cable</li>\r\n<li>Full
+      instructions</li>\r\n</ul>"

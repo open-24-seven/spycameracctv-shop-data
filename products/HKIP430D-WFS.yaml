@@ -1,0 +1,77 @@
+product:
+  path: hikvision-4mp-ip-dome-camera-wifi-30m-ir
+  sku: HKIP430D-WFS
+  name: Hikvision 4MP IP Dome Camera with WiFi & 30m Night Vision
+  images:
+  - path: 5208.jpg
+    title: Hikvision 4MP IP Dome Camera with Wi-Fi & 30m Night Vision
+  prices:
+    default:
+    - break: 1
+      unit_price: 880000
+  content:
+    ean: "5060423072577"
+    meta:
+      title: ""
+      description: This 4-megapixel IP dome camera with WiFi and on-board recording
+        is a truly versatile security solution for indoor and outdoor use. Speak to
+        our sales team to find out more!
+    videos:
+    - https://www.youtube.com/embed/29uJ6_jF_nk
+    - https://www.youtube.com/embed/x4pCXhsvRXM
+    - https://www.youtube.com/embed/AWlmPpJqmUg
+    manuals:
+    - http://downloads.spycameracctv.com/HKIP430DWF/manuals/HKIP430DWF-Manual.pdf
+    software: []
+    description: "This IP dome camera from Hikvision, the worldâ€™s largest manufacturer
+      of CCTV equipment, is excellent as a standalone camera or as part of a larger
+      system. The headline feature of this camera is that it has built-in WiFi. This
+      means if you are within a range of 50 metres you can connect directly to it
+      or you can configure it to connect to your WiFi network. This allows you to
+      access the camera remotely to change settings at a touch of the button using
+      a PC or smartphone. Footage can be recorded on the camera without the need for
+      a separate recorder thanks to the MicroSD card that supports cards up to 128GB
+      in capacity. This surveillance camera also fully integrates with NVRs as part
+      of a complete CCTV system.\r\n\r\nThe camera captures video at a resolution
+      of 4 megapixels for crisp and detailed video, which is more than enough quality
+      for police use. Infrared night vision LEDs provide a 30-metre range for use
+      in unlit areas and at night. As standard, this camera is fitted with a 2.8mm
+      lens providing a wide-angle field of view. All of this is housed in a secure
+      metallic weatherproof housing rated IP66 and vandal-proof.\r\n\r\nThe camera
+      can be powered over Ethernet, removing the need for a separate power supply,
+      which makes set up simple. When using the Hikvision app on your smartphone,
+      you can view the camera remotely wherever you are in the world and tweak settings
+      to your personal preference.\r\n"
+    specification: "<strong>Camera</strong>\r\nImage Sensor: 1/3\" Progressive Scan
+      CMOS\r\nMin. Illumination: 0.01 Lux @ (F1.2, AGC ON), 0 Lux with IR\r\nShutter
+      Speed: 1/3 s to 10,000s\r\nLens: 2.8mm @ f2.0\r\nLens Mount: M12\r\nDay & Night:
+      IR cut filter with auto switch\r\nDNR: 3D DNR\r\nWide Dynamic Range: 120dB\r\nP&T
+      rotation: Pan: 0Â° ~ 355Â°, Tilt: 0Â° ~ 75Â°, Rotation: 0Â° ~ 355Â°\r\n\r\n<strong>Compression
+      Standard</strong>\r\n\r\nVideo Compression: H.265/MJPEG/H.265+\r\nH.265 Type:
+      Main Profile\r\nVideo Bit Rate: 32 Kbps ~ 16 Mbps\r\nDual streams: Supported\r\n\r\n<strong>Image</strong>\r\n\r\nMax.
+      Resolution: 2688Ã—1520\r\nFrame Rate: 50Hz: 20fps (2688Ã—1520), 25fps (1920Ã—1080),
+      25fps (1280Ã—720)\r\nImage Setting: Rotate Mode, Saturation, Brightness, Contrast,
+      Sharpness adjustable by client software or web browser\r\nBLC: Supported, zone
+      configurable\r\nROI Codec: Supported\r\n\r\n<strong>Network</strong>\r\n\r\nNetwork
+      Storage: NAS (Support NFS, SMB/CIFS), ANR\r\nAlarm Trigger: Motion detection,
+      tampering alarm, network disconnect, IP address conflict, storage exception\r\nProtocols:
+      TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP,
+      UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour\r\nGeneral: One-key reset,
+      Flash-prevention, dual stream, heartbeat, mirror, password protection, privacy
+      mask, watermark, IP address filtering, anonymous access\r\nStandard: ONVIF (PROFILE
+      S, PROFILE G), PSIA, CGI, ISAPI\r\n\r\n<strong>Interface</strong>\r\n\r\nCommunication
+      Interface: 1x RJ45 10M/100M Ethernet port\r\nOn-board storage: Built-in Micro
+      SD/SDHC/SDXC slot, up to 128GB\r\nAlarm interface: 1x alarm I/O \r\nAudio interface:
+      1x audio I/O \r\nReset: Yes\r\n\r\n<strong>WiFi</strong> \r\n\r\nWireless Standards:
+      IEEE802.11b, 802.11g, 802.11n\r\nFrequency Range: 2.4 GHz ~ 2.4835 GHz\r\nChannel
+      Bandwidth: 20/40MHz Support\r\nProtocols: 802.11b: CCK, QPSK, BPSK, 802.11g/n:
+      OFDM\r\nSecurity: 64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK, WPS\r\nTransmit
+      Output Power: 11b: 17Â±1.5dBm @ 11Mbps, 11g: 14Â±1.5dBm @ 54Mbps, 11n: 12.5Â±1.5dBm\r\nReception
+      Sensitivity: 11b: -90dBm @ 11Mbps (Typical), 11g: -75dBm @ 54Mpbs (Typical),
+      11n: -74dBm (Typical)\r\nTransfer Rates: 11b: 11Mbps, 11g: 54Mbps, 11n: up to
+      150Mbps\r\nWireless Range: up to 50 meters \r\n\r\n<strong>General</strong>\r\n\r\nOperating
+      Conditions: -30 Â°Câ€“60 Â°C, Humidity 95% or less (non-condensing)\r\nPower
+      Supply: DC12V Â± 10%\r\nPower Consumption: Max. 5W\r\nNight vision range: Approx.
+      30 meters\r\nIngress Protection: IP66\r\nImpact Protection: IK08\r\nDimensions:
+      Î¦111 Ã— 82 cm\r\nWeight: 500g"
+    in_the_box: "<ul>\r\n<li>1x Hikvision 4MP IP WiFi Dome Camera</li>\r\n</ul>"

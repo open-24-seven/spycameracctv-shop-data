@@ -1,0 +1,96 @@
+product:
+  path: 4-dome-camera-hikvision-tvi-1080p-hd-cctv-system-20m-ir-1tb-dvr
+  sku: TVI7T4H
+  name: 4 Camera Hikvision TVI CCTV System - 1080p HD with PoC DVR
+  images:
+  - path: 4864.jpg
+    title: 4 Dome Camera Hikvision TVI 1080p HD CCTV System with 20m IR, 1TB DVR
+  - path: 4865.jpg
+    title: Hikvision TurboHD TVI dome camera with 20m night vision
+  - path: 4866.jpg
+    title: Hikvision TVI dome camera front view
+  - path: 4867.jpg
+    title: 4 channel Hikvision TurboHD DVR
+  - path: 4868.jpg
+    title: Hikvision 4 channel turboHD TVI recorder rear view
+  prices:
+    default:
+    - break: 1
+      unit_price: 3325000
+  content:
+    ean: ""
+    meta:
+      title: ""
+      description: 'Go TurboHD with this 4 Camera Hikvision CCTV System - a world
+        renowned brand with stunning 1080p HD quality. '
+    videos:
+    - https://www.youtube.com/embed/5eJ6m5R94jY
+    manuals: []
+    software: []
+    description: "Combining the best of both worlds from IP cameras and traditional
+      CCTV, this TurboHD TVI 4 camera CCTV system from Hikvision boasts astounding
+      quality 1080p HD video, along with an intuitive plug-and-play setup. This makes
+      it ideal not only for home users looking for the absolute best quality, but
+      also for demanding retail and commercial security applications.\r\n\r\nTVI technology
+      allows the CCTV cameras to send uncompressed full HD video down a simple RG59
+      coaxial cable. This provides amazingly clear CCTV images full of usable detail.
+      It also means that, if you have an existing CCTV system with coaxial cables,
+      you can upgrade your cameras and recorder without even having to run new wiring!
+      The system uses Power-over-Coax (PoC), letting the cameras draw power from the
+      record over the RG59 cable, and removing the need for additional power supplies.\r\n\r\n<i>You
+      can select the length of cables you need for your 4 camera Hikvision CCTV system
+      from the dropdown at the top of the page, or leave it blank if you already have
+      cables and just want the cameras and recorder.</i>\r\n\r\nThe cameras themselves
+      are compact and discreet, but don't let that fool you- they pack a 20m night
+      vision range for round the clock monitoring. The heavy duty plastic casings
+      are also IP66 rated, allowing them to be installed outdoors and exposed to the
+      elements without any issues. The dome design makes them a great choice for applications
+      like office or retail security.\r\n\r\nThe included recorder is also made by
+      Hikvision, boasting the standard suite of professional DVR features. These include
+      full 1080p recording on all video channels, an HDMI output for connecting to
+      a TV or monitor, and highly customisable recording options. These allow you
+      to change motion detection or scheduling settings on a camera-by-camera basis.
+      It can also be connected by an ethernet cable to your router and, once configured,
+      allows secure remote access to watch your cameras live over the internet using
+      a PC or smartphone."
+    specification: "<strong>Cameras</strong>\r\n\r\nImage Sensor: 2 MP CMOS Image
+      Sensor\r\nSignal System: PAL / NTSC\r\nEffective Pixels: 1920 x 1080\r\nMin.
+      Illumination: 0.005 Lux @(F1.2,AGC ON), 0 Lux with IR\r\nShutter Time: 1/25(1/30)s
+      to 1/50,000s\r\nLens: 2.8mm\r\nAngle of View: 82.6Â°(2.8mm)\r\nLens Mount: M12\r\nAngle
+      Adjustment: Pan: 0-360Â°, Tilt: 0-90Â°, Rotation: 0-360Â°\r\nDay & Night: ICR\r\nSynchronization:
+      Internal synchronization\r\nVideo Frame Rate: 1080p@25fps / 1080p@30fps\r\nHD
+      Video Output: 1 Analog HD output\r\nScene: Indoor, Outdoor, Indoor1, LOW-LIGHT\r\nCamera
+      ID: On/off (15 characters, position programmable)\r\nAGC: Support\r\nD/N Mode:
+      Color / BW / EXT\r\nWhite Balance: ATW, AWC-SET, Indoor, Outdoor, Manual\r\nPrivacy
+      Mask: On/Off, maximum 4 zones\r\nMotion Detection: On/Off, maximum 4 zones\r\nBLC:
+      Support\r\nWorking Temperature: -40Â°C - 60Â°C (-22Â°F - 140Â°F)\r\nHumidity:
+      90% or less (non-condensing)\r\nPower Supply: 12 VDC\r\nPower Consumption: Max.
+      3.6W\r\nWeather Proof Ratings: IP66\r\nIR Range: Up to 20m\r\nCommunication:
+      Up the coax(need UTC controller)\r\nProtocol: Pelco-C (Coaxitron)\r\nDimensions:
+      89.6 x 59.1mm (3.53\" x 2.33\")\r\nWeight: 400g (0.88lb) \r\n\r\n<strong>DVR</strong>\r\n\r\nAnalog
+      and HD-TVI video input: 4-ch \r\nBNC interface: (1.0Vp-p, 75Î©)\r\nSupported
+      camera types: 720p @ 25fps, 720p @ 30fps, 720p @ 50fps, 720p @ 60fps, 1080p@
+      15fps, CVBS \r\nIP video input: 2-ch, up to 1080p resolution \r\nAudio compression:
+      G.711u, G.726, G.711a, G.722 \r\nAudio input: 1-ch, RCA (2.0 Vp-p, 1KÎ©) \r\nTwo-way
+      audio in: 1-ch, RCA (2.0 Vp-p, 1KÎ© using the 1st channel of audio input)\r\nHDMI
+      / VGA output: 1920 Ã— 1080 / 60 Hz,1280 Ã— 1024 / 60 Hz, 1280 Ã— 720 / 60 Hz,
+      1024 Ã— 768 / 60 Hz \r\nEncoding resolution - Main stream: 1080p / 720p / VGA
+      / WD1 / 4CIF / CIF \r\nEncoding resolution - Sub-stream: WD1 (non-real-time)
+      / 4CIF (non-real-time) / CIF / QCIF / QVGA \r\nFrame rate - Main stream: 1/16
+      fps ~ Real time frame rate \r\nFrame rate - Sub-stream: 1/16 fps ~ Real time
+      frame rate \r\nVideo bitrate: 32 Kbps - 10 Mbps \r\nAudio output: 1-ch, RCA
+      (Linear, 1KÎ©) \r\nAudio bitrate: 64 Kbps \r\nDual-stream: Support \r\nStream
+      type: Video, Video & Audio \r\nSynchronous playback: 4-ch \r\nPlayback resolution:
+      1080p / 720p / VGA / WD1 / 4CIF / CIF / QVGA / QCIF\r\nRemote connections: 128
+      \r\nNetwork protocols: TCP/IP, PPPoE, DHCP, EZVIZ Cloud P2P, DNS, DDNS, NTP,
+      SADP, SMTP, SNMP, NFS, iSCSI, UPnPâ„¢, HTTPS\r\nSATA: 1 SATA interface \r\nCapacity:
+      Up to 6TB capacity for each disk\r\nNetwork interface: 1; 10M / 100M / 1000M
+      self-adaptive Ethernet interface \r\nSerial interface: 1; standard RS-485 serial
+      interface, half-duplex \r\nAlarm in/out: 4/1 \r\nUSB port: 2x USB 2.0\r\nPower
+      supply: 12V DC \r\nConsumption (without hard disks): â‰¤15W \r\nWorking temperature:
+      -10Â°C - 55Â°C (14Â°F - 131Â°F) \r\nWorking humidity: 10% - 90% \r\nChassis:
+      1U chassis \r\nDimensions: 315mm x 242mm x 45mm (12.4\" x 9.5\" x 1.8\")\r\nWeight
+      (without hard disks): â‰¤1.5kg (3.3lb)"
+    in_the_box: "<ul>\r\n<li>1x 4 Channel Turbo HD TVI DVR</li>\r\n<li>1x Mains Power
+      Supply for DVR</li> \r\n<li>4x Turbo HD TVI Outdoor Dome Camera</li>\r\n<li>1x
+      USB Mouse</li>\r\n<li>1x Remote Control</li>\r\n<li>1x Manual and Software CD</li>\r\n</ul>"

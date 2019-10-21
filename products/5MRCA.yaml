@@ -1,0 +1,27 @@
+product:
+  path: 5-meter-3-way-audio-video-power-cable-for-cctv-camera
+  sku: 5MRCA
+  name: 5 Metre 3 Way Cable for CCTV with Power, Audio, Video RCA Connectors
+  images:
+  - path: 152.jpg
+    title: 5 Meter Power Cable with Audio and Video
+  prices:
+    default:
+    - break: 1
+      unit_price: 50000
+  content:
+    ean: "5060181650314"
+    meta:
+      title: ""
+      description: ""
+    videos: []
+    manuals: []
+    software: []
+    description: 'This 5 metre 3-way extension cable carries composite video, audio
+      and 12-volt DC power over one cable. Using standard connectors you can easily
+      hook up a recorder with video and audio from analogue sources, whilst being
+      able to power a camera using the DC power connection. '
+    specification: "Length: 5 metres\r\nPower jack: 2.1mm (inner pin) / 5.5mm (outer
+      diameter)\r\nVideo & audio: Standard RCA/phono connector"
+    in_the_box: "<ul>\r\n<li>1x 5m 3-way AV Power Cable</li>\r\n<li><strong>2 year
+      guarantee from SpyCameraCCTV</strong></li>\r\n</ul>"
